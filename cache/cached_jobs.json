@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_run": "2026-09-03T10:26:52Z",
+  "last_run": "2026-09-03T10:58:45Z",
   "location": "Sheffield",
   "country": "UK",
   "hours_old": 72,
@@ -24,9 +24,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Warehouse Worker role at Loxleys Print Limited in Sheffield paying £13.71/hr; main duties include loading/unloading goods, operating forklifts, and using a warehouse management system.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -48,12 +46,12 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Warehouse Supervisor role at Cloud9 Fulfilment in Sheffield, paying £27,795–£29,280 per year, supervising warehouse operatives and overseeing daily fulfilment operations. Key duties include leading a team, allocating tasks, monitoring KPIs, and ensuring health & safety compliance.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Warehouse Supervisor at Cloud9 Fulfilment in Sheffield, paying £27,795–£29,280 per year; key duty is leading and supervising a team of warehouse operatives across picking, packing, despatch, and returns.",
    "fit": "stretch",
-   "fit_reason": "Requires proven warehouse team-supervision experience and a forklift/MHE licence, which Ben does not have.",
-   "fit_source": "llm"
+   "fit_reason": "Requires proven team-supervision experience in a warehouse setting and a forklift/MHE licence, neither of which Ben has.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=d5cdcf6a6e5100e5": {
    "title": "Delivery Driver",
@@ -72,9 +70,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Multi-drop self-employed delivery driver at JM Hall Couriers Ltd in Sheffield, £500–£700/week, full-time Mon–Fri with rotated Saturdays; vans can be hired and no HGV is needed.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -96,9 +92,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Courier Driver (Self-Employed Multi-Drop Delivery) at JM Hall Couriers Ltd in Sheffield, £500–£700/week. Requires full UK driving licence held 12+ months, loading/delivering parcels, customer interaction, and 9-hour shifts Mon–Fri plus rotated Saturday.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -120,7 +114,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
+   "last_seen": "2026-09-03T10:58:45Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -142,7 +136,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
+   "last_seen": "2026-09-03T10:58:45Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -164,9 +158,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Multi Drop Delivery Driver at LIDET SERV LTD in Sheffield, paying £165–£220/day; involves delivering parcels locally with flexible hours and full training provided.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -188,9 +180,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Domino's Delivery Driver in Sheffield using own car, paying £10.85–£12.71/hr plus mileage and tips, evenings and every weekend required. Key point is must have own insured car with MOT and full UK/EU licence (max 6 points, no recent bans).",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -212,7 +202,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
+   "last_seen": "2026-09-03T10:58:45Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -234,12 +224,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Assistant Plant Manager role at Balfour Beatty in Thurnscoe (near Sheffield), overseeing logistics, fleet, and drivers across transport compliance and operations. Requires leadership of delivery drivers, fleet compliance, and KPI management — a supervisory/management-level position.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Assistant Plant Manager role at Balfour Beatty in Thurnscoe managing logistics, fleet and driver resources for plant/survey assets; pay not stated. It is a supervisory role overseeing delivery drivers, HGVs and transport compliance within a specialist business unit.",
    "fit": "stretch",
-   "fit_reason": "Management role overseeing HGV fleet, drivers and transport compliance — requires leadership/transport experience he lacks and is clearly senior.",
-   "fit_source": "llm"
+   "fit_reason": "Senior supervisory/management position requiring transport/logistics leadership experience and fleet compliance knowledge well beyond Ben's background.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=e28a48f011099baf": {
    "title": "Catering Assistant",
@@ -259,12 +249,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Catering Assistant role at Sheffield Children's Hospital (NHS), 21 hrs/week permanent evenings Mon–Fri, no pay stated. Duties include food prep/serving, till operation, food hygiene, and customer service to patients/visitors.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Catering Assistant at NHS Sheffield Children's Hospital, permanent part-time 21 hrs/week evenings (Mon-Thu 4-8pm, Fri 3-8pm). Role includes food service, till operation, cleaning, stock rotation, and food hygiene compliance.",
    "fit": "good",
-   "fit_reason": "Catering assistant role matches Ben's customer service, POS, food safety, and allergen experience; no driving, licence, or specialist qualifications required.",
-   "fit_source": "llm"
+   "fit_reason": "Ben has customer service, POS, cash handling, food safety, and allergen protocol experience directly matching the duties, with no driving or licence required.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=30becbb1c0066263": {
    "title": "Food and Beverage Assistant",
@@ -284,12 +274,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Food and Beverage Assistant role at Crowne Plaza Royal Victoria hotel in Sheffield, part-time at £10.85–£12.71/hr; involves food/beverage service, bar work, function events, and food safety compliance.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Food and Beverage Assistant at Crowne Plaza Royal Victoria, Sheffield, part-time £10.85–£12.71/hr. Requires hospitality experience, food safety knowledge, and flexibility for evenings/weekends/nights.",
    "fit": "good",
-   "fit_reason": "Hospitality F&B role matches his customer service experience with POS, cash handling, and food safety/allergen protocols; no licence or certification needed.",
-   "fit_source": "llm"
+   "fit_reason": "Ben has relevant customer service and food safety experience and meets all stated requirements with no licence needed.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=2682f9dc67538cc6": {
    "title": "Shift Leader - Sheffield - Part Time",
@@ -308,12 +298,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Shift Leader (part-time) at Insomnia Cookies in Sheffield; no pay stated. Key duty is leading the in-store team on shift, ensuring brand standards, customer experience, and operational delivery in a late-night bakery.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Shift Leader (supervisor) role at Insomnia Cookies in Sheffield — a part-time late-night bakery position leading a team on shift. Acts as senior team member on shift, responsible for team leadership, food safety/brand standards, customer experience, and supporting sales targets.",
    "fit": "maybe",
-   "fit_reason": "Customer service and team leadership experience fit, but it's a senior shift-leader role with people-management duties that may exceed his prior responsibility level.",
-   "fit_source": "llm"
+   "fit_reason": "Ben has relevant customer service and food safety experience, but this is a supervisory role expecting leadership and shift management responsibility beyond his current background, and the ad implies ",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=6a712e359c5fbc79": {
    "title": "Accounts Payable Vendor Management Assistant",
@@ -332,12 +322,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Accounts Payable Vendor Management Assistant role at the University of Sheffield, permanent, hybrid, £25,249–£26,707. Key duty involves accurately entering and managing vendor records, handling queries, and supporting the Accounts Payable team with financial regulation compliance.",
-   "summary_source": "llm",
-   "fit": "maybe",
-   "fit_reason": "Office-based admin/finance role with no driving required; transferable customer service and detail skills help, but prior accounts payable experience would be preferred.",
-   "fit_source": "llm"
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Accounts Payable Vendor Management Assistant at the University of Sheffield, £25,249–£26,707, hybrid. Key duty involves accurate data entry of vendor records, handling queries, and providing admin support in a busy Finance team.",
+   "fit": "stretch",
+   "fit_reason": "Requires demonstrated experience in a professional business/finance environment with admin and regulatory adherence skills not evident in Ben's background.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=dd2e2c9ab8048710": {
    "title": "Part-Time Barista & Cafe Assistant (Morning Shifts)",
@@ -357,12 +347,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Part-Time Barista & Cafe Assistant at Cavells Bar, Sheffield city centre, £10.85–£13.00/hr for ~20 hours/week. Key duty: opening the cafe solo as keyholder, making barista coffees, and running bar service.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Part-time Barista & Cafe Assistant at Cavells Bar, Sheffield, ~20hrs/week paying £10.85–£13.00/hr. Involves opening the venue as keyholder, making barista coffees, bar service and customer hospitality.",
    "fit": "maybe",
-   "fit_reason": "Matches his customer service and hospitality skills, but lacks barista and bar experience; no licence needed.",
-   "fit_source": "llm"
+   "fit_reason": "Ben's customer service and food safety experience fit, but barista and bar pouring experience is specifically requested which he doesn't have — though this could be learned on the job.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=61606e4058873051": {
    "title": "Marketing Assistant",
@@ -381,12 +371,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Fusion Associates seeks a full-time, on-site Marketing Assistant in Sheffield (no experience required, from £27,000 plus uncapped bonuses). The role involves face-to-face sales engagement at pop-ups and promotional venues — essentially direct sales/marketing rather than traditional marketing.",
-   "summary_source": "llm",
-   "fit": "maybe",
-   "fit_reason": "Sheffield-based, no licence or cert needed, customer-facing suits his communication skills, but the face-to-face sales/promotion focus may differ from his customer service background.",
-   "fit_source": "llm"
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Marketing Assistant at Fusion Associates in Sheffield, on-site full-time from £27,000 plus bonuses. Entry-level direct sales/marketing role involving face-to-face customer engagement at promotional pop-ups with full training provided.",
+   "fit": "good",
+   "fit_reason": "No licence or specialist qualifications required; his customer service and communication experience fits, and the role offers full training.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=eb3480559403d786": {
    "title": "Office Assistant",
@@ -405,12 +395,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Office Assistant role at Fusion Associates in Sheffield, £14-£16/hour plus bonus; involves sales admin, CRM, and campaign support with a sales/management fast-track focus.",
-   "summary_source": "llm",
-   "fit": "good",
-   "fit_reason": "Office-based admin/sales support role in Sheffield; his customer service, data handling and communication experience fit, no driving or licences required.",
-   "fit_source": "llm"
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Office Assistant role at Fusion Associates in Sheffield, £14-£16/hr with perks like free parking and gym membership. Key duty involves supporting daily sales operations, campaign logistics, CRM tracking, and assisting floor sales teams with administrative tasks.",
+   "fit": "maybe",
+   "fit_reason": "No driving required and admin/customer service experience transfers well, but the target-driven sales culture and path to team lead may not suit Ben's needs.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=43d37fdf977c6212": {
    "title": "Materials Assistant (Bank)",
@@ -429,12 +419,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Materials Assistant (Bank) at Circle Health Group / Thornbury Hospital, Sheffield, £12.71/hr, part-time bank shifts. Key duty: stock ordering, replenishment and materials management for hospital departments.",
-   "summary_source": "llm",
-   "fit": "maybe",
-   "fit_reason": "Warehouse/store role suits availability and skills, but no direct materials management experience.",
-   "fit_source": "llm"
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Materials Assistant (Bank) role at Thornbury Hospital (Circle Health Group), Sheffield, £12.71/hr on bank/as-needed shifts. Key duty involves stock ordering, replenishment, and materials management for hospital departments.",
+   "fit": "good",
+   "fit_reason": "Matches his customer service experience, GCSE Maths, and requires no licence; basic admin/IT skills are trainable on the job.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=c2bb76ee1a30fc7f": {
    "title": "Sterile Services Technician I",
@@ -454,12 +444,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Sterile Services Technician I at STERIS in Sheffield — entry-level role with 12 weeks training on a 0-hour contract decontaminating and packing surgical instruments for the NHS. Full training provided with no prior experience required and a defined career pathway.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Sterile Services Technician (entry-level) at STERIS in Sheffield — 0-hour contract with 12 weeks training, no experience required. Key duty: decontaminating, inspecting, assembling and packing surgical instruments for NHS/private hospitals to strict quality standards.",
    "fit": "maybe",
-   "fit_reason": "Entry-level role with full training; no licence/certification required, but it's a 0-hours contract which may not suit his need for stable income.",
-   "fit_source": "llm"
+   "fit_reason": "Entry-level with full training provided and no licence needed; however, the 0-hours contract offers no guaranteed income for someone who needs immediate stable work.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=49f3cb2df3bdec2b": {
    "title": "Sterile Services Technician I",
@@ -479,12 +469,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Entry-level Sterile Services Technician at STERIS in Sheffield, £25,272 + 5% bonus, full training provided on surgical instrument decontamination. No prior healthcare experience required; 12-week training then Mon–Fri 2pm–10pm shifts, with on-the-job Level 2 Apprenticeship.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Entry-level Sterile Services Technician at STERIS in Sheffield, £25,272 plus 5% bonus, Mon–Fri 2pm–10pm with 12 weeks training. Fully trained role decontaminating, inspecting and packing surgical instruments for NHS/private hospitals — no prior healthcare experience required.",
    "fit": "good",
-   "fit_reason": "Entry-level with full training, no licence required; his engineering background and attention to detail suit operating/monitoring sterilisation equipment.",
-   "fit_source": "llm"
+   "fit_reason": "No licence or certification needed; entry-level with full training provided, and Ben's engineering background, IT comfort, food safety protocols and disciplined work ethic from maritime/maintenance ro",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=d84a745054ef3f74": {
    "title": "Sterile Services Technician I",
@@ -504,12 +494,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Sterile Services Technician I at STERIS in Sheffield — entry-level with 12 weeks training, 0 hours contract; involves decontaminating and packing surgical instruments for the NHS.",
-   "summary_source": "llm",
-   "fit": "good",
-   "fit_reason": "Entry-level training provided, no licence or prior experience needed; his engineering background and attention to detail fit well.",
-   "fit_source": "llm"
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Sterile Services Technician I at STERIS in Sheffield — entry-level role with 12 weeks training on sterilising surgical instruments for NHS/private hospitals; zero-hours contract with full training provided.",
+   "fit": "maybe",
+   "fit_reason": "Entry-level with full training and no licence required, but his background is unrelated (engineering/instruction/customer service) and the zero-hours contract offers little income certainty.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=268cda858b392816": {
    "title": "Contracts and Compliance Assistant",
@@ -528,12 +518,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Contracts and Compliance Assistant role at University of Sheffield (Accommodation & Commercial Services), permanent full-time hybrid at £25,249/yr. Key duties include coordinating inspections, supporting statutory compliance audits, maintaining compliance trackers, and supervising summer inspection staff across a large student accommodation portfolio.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Contracts and Compliance Assistant at University of Sheffield, full-time hybrid, £25,249/year. Key duty involves coordinating inspections, maintaining compliance records, and supporting statutory audits across student accommodation.",
    "fit": "maybe",
-   "fit_reason": "Office-based compliance role suits his organisational skills and engineering background, but likely requires admin/audit experience and may prefer familiarity with compliance legislation he lacks.",
-   "fit_source": "llm"
+   "fit_reason": "No driving required and aligns with Sheffield location; admin/audit coordination is plausible, though specific compliance/legislation experience isn't on Ben's CV.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=eeeb456db033709b": {
    "title": "HR Assistant",
@@ -552,12 +542,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "HR Assistant (part-time, 22.5 hrs, hybrid) at Sheffield Children's Hospital Charity, reporting to HR Business Partner, up to £27,811 pro-rata (actual ~£16,324), 12-month FTC. Role centres on HR administration across the employee lifecycle — recruitment, onboarding, payroll support, records, and policy/system improvements.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "HR Assistant at Sheffield Children's Hospital Charity (hybrid, part-time 22.5 hrs, pro-rata £16,323.85). Key duty: providing administrative support across the full employee lifecycle including recruitment, onboarding, payroll and HR systems.",
    "fit": "stretch",
-   "fit_reason": "HR admin role requiring ideally HR/payroll background and systems experience (e.g. MicroSoft) that Ben lacks from his customer service/delivery/instructor background.",
-   "fit_source": "llm"
+   "fit_reason": "Ideally requires prior HR or payroll administration experience and HR systems knowledge, which Ben does not have, making this a stretch.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=7dccbc7348743cf3": {
    "title": "Assistant Manager",
@@ -576,12 +566,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Assistant Manager role at Wingstop in Sheffield (new store opening), no pay stated; involves leading shifts, training/coaching a new team, and supporting day-to-day restaurant operations. Key duty is ownership of launching a brand-new restaurant alongside the General Manager.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Assistant Manager role at Wingstop for a new store opening in Sheffield; pay not stated but includes quarterly bonus, free food, and 28 days holiday. Key duty involves leading a brand-new team, supporting recruitment/onboarding, and running day-to-day restaurant operations.",
    "fit": "stretch",
-   "fit_reason": "Assistant Manager explicitly requires previous management experience, which Ben lacks.",
-   "fit_source": "llm"
+   "fit_reason": "Explicitly requires previous management experience, which Ben does not have.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=3c894723c0dc37a6": {
    "title": "Retail Assistant",
@@ -600,12 +590,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Retail Assistant at Fusion Associates in Sheffield, £14-£16/hr with bonuses and gym membership; face-to-face sales/customer acquisition at promotional pop-ups with fast-track progression to team leader.",
-   "summary_source": "llm",
-   "fit": "maybe",
-   "fit_reason": "Customer-facing retail/sales role suits his customer service experience, but it is commission-driven direct sales with progression into team leadership — closer to a stretch for someone needing immedi",
-   "fit_source": "llm"
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Retail Assistant at Fusion Associates in Sheffield, £14-£16/hr plus uncapped performance bonuses. Direct face-to-face sales role at promotional pop-ups with fast-track progression into team leader positions.",
+   "fit": "good",
+   "fit_reason": "No driving required; Ben's customer service, sales, and group engagement experience match, and training is provided.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=ce96ed1accd7e137": {
    "title": "Shift Manager",
@@ -864,12 +854,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Kitchen Porter (part-time) at Wagamama in Sheffield; no pay stated, perks include free meals on shift, biweekly pay, and 50% staff discount. Key duty is keeping the kitchen clean, washing equipment, and supporting basic food prep while following health and safety standards.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Part-time kitchen porter at Wagamama in Sheffield; duties include washing pots/equipment, keeping the kitchen clean, restocking supplies, and basic food prep following health and safety standards. No licence required, entry-level with on-the-job training.",
    "fit": "good",
-   "fit_reason": "No licence or specialist tickets required; cleaning/prep role suits his customer service kitchen experience and immediate availability.",
-   "fit_source": "llm"
+   "fit_reason": "No licence or certification needed; Ben's customer service and food safety/allergen experience in a food setting directly transfers to a kitchen environment.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=9acb2f43aceee275": {
    "title": "Kitchen Porter",
@@ -888,12 +878,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Kitchen Porter role at Leonardo Hotels in Sheffield (no pay stated); involves supporting the Head Chef in a busy hotel kitchen environment with attention to detail and adaptability.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Kitchen Porter role at Leonardo Hotels in Sheffield, supporting the Head Chef in a busy hotel kitchen environment with training and progression opportunities.",
    "fit": "good",
-   "fit_reason": "Entry-level kitchen role with on-the-job training; no licence or specialist qualifications needed, and Ben's customer service/food safety experience is a bonus.",
-   "fit_source": "llm"
+   "fit_reason": "No licence or specialist qualification required; hospitality kitchen role suits his customer service/food safety background and immediate availability.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=8adf91d50d2b23bc": {
    "title": "Part-time Kitchen Porter",
@@ -912,12 +902,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Kitchen Porter role at Smoke BBQ in Sheffield, £12.71/hr with tips, staff meals, and discounts. No specific licence or formal qualifications needed — just work ethic and team player attitude.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Part-time Kitchen Porter at Smoke BBQ in Sheffield, £12.71/hr plus tips and staff meals; physically demanding kitchen cleaning role requiring stamina and teamwork.",
    "fit": "good",
-   "fit_reason": "Entry-level kitchen role, no licence or certification needed; his customer service/food safety experience fits well.",
-   "fit_source": "llm"
+   "fit_reason": "No licence or certification needed; Ben's customer service and food safety/allergen experience translate well to a kitchen environment.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=9962d523e269a56e": {
    "title": "Kitchen Porter",
@@ -936,12 +926,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Kitchen Porter role at Tavern Collective in Sheffield, focused on dishwashing and kitchen cleanliness in a fast-paced restaurant environment. No specific pay or prior experience required, just an energetic and dependable attitude.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Kitchen Porter role at Tavern Collective in Sheffield (pay not stated), focusing on fast-paced dishwashing and maintaining kitchen cleanliness. No licence or prior experience required, with on-the-job training and growth opportunities offered.",
    "fit": "good",
-   "fit_reason": "Entry-level kitchen porter role with no licence or specialist qualifications needed; Ben's customer service and food safety experience are directly relevant.",
-   "fit_source": "llm"
+   "fit_reason": "Entry-level kitchen porter role needs no licence or certification, and Ben's customer service/hospitality experience plus immediate availability make him a strong match.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=99726c71372802dd": {
    "title": "Kitchen Team Member",
@@ -960,12 +950,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Kitchen Team Member at Stonegate Group's Bessemer pub in Sheffield, up to £12.81/hr. Role involves food prep, maintaining kitchen hygiene, assisting the Head Chef with orders/stock, and supporting a busy pub kitchen.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Kitchen Team Member role at Stonegate Group's Bessemer pub in Sheffield, up to £12.81/hr, involving food prep, hygiene, stock and assisting the Head Chef.",
    "fit": "good",
-   "fit_reason": "Kitchen team member role in Sheffield matches his customer service/food safety experience; no driving or specialist licences needed.",
-   "fit_source": "llm"
+   "fit_reason": "Ben has customer service assistant experience with POS, food safety and allergen protocols, no licence or specialist tickets required, and Sheffield location is local.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=6cae30caa3e30087": {
    "title": "Waiter/Waitress",
@@ -984,12 +974,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Waiter/Waitress at Carluccio's (Boparan Restaurant Group) in Sheffield Meadowhall; front-of-house role serving Italian food with flexible hours and staff discounts. No pay stated.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Waiter/Waitress role at Carluccio's (Boparan Restaurant Group) at Meadowhall, Sheffield — front-of-house serving in an Italian restaurant. No driving required; duties include taking orders, menu knowledge, guest service, and maintaining the dining area.",
    "fit": "good",
-   "fit_reason": "Customer service and food safety experience fit front-of-house waiter role; no driving or specialist licences needed.",
-   "fit_source": "llm"
+   "fit_reason": "Ben's customer service experience (POS, cash handling, food safety, allergens) fits front-of-house hospitality well, and no licence or certification is required.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=ef827686cf93f2bf": {
    "title": "Part-Time Bartenders – Disco Shifts – The Local (Ecclesall Road)",
@@ -1008,12 +998,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Part-Time Bartender at The Local on Ecclesall Road, £13.50/hr rising to £20/hr during peak season; weekend evening shifts (Fri/Sat) with flexible, casual scheduling. Key requirement is strong cocktail knowledge and prior hospitality experience.",
-   "summary_source": "llm",
-   "fit": "maybe",
-   "fit_reason": "Ben has customer service and some hospitality-adjacent experience (POS, food safety) but lacks specific cocktail knowledge and bar experience that the role prefers.",
-   "fit_source": "llm"
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Part-time bartender for weekend disco shifts at The Local, an independent cocktail bar on Ecclesall Road, Sheffield, paying £13.50–£20/hour. Requires previous hospitality experience and strong classic cocktail knowledge.",
+   "fit": "stretch",
+   "fit_reason": "Role specifically calls for previous bartending experience and strong cocktail knowledge, which Ben does not have — likely need training beyond what's reasonable for an immediate start.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=f76093ea195c8a0e": {
    "title": "HGV Class 2 Driver hiab",
@@ -1322,9 +1312,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Trainee Automotive Service Technician at Tesla in Sheffield (full-time, shift-based including weekends, 13-month traineeship starting March 2027). Hands-on training programme covering inspections, repairs and maintenance of Tesla vehicles with full in-house mentorship — no prior EV or automotive qualification required.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1346,12 +1334,12 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Senior Research Technician at University of Sheffield (Chemical, Materials & Biological Engineering), £32,080–£35,608, on-site fixed-term. Requires specialist knowledge of protein handling, ceramic synthesis, or similar lab instrumentation, plus training and safety oversight duties.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Senior Research Technician at University of Sheffield (Chemical, Materials & Biological Engineering), £32,080–£35,608, full-time on-site fixed-term. Requires specialist knowledge of protein handling, ceramic synthesis, or similar instrumentation and lab training responsibilities.",
    "fit": "stretch",
-   "fit_reason": "Senior research technician role requires specialist lab expertise in protein handling/ceramic synthesis that exceeds Ben's engineering background, and likely expects substantial prior research/lab exp",
-   "fit_source": "llm"
+   "fit_reason": "Senior, specialist lab role requiring applied expertise in protein/ceramic techniques and instrumentation Ben does not have.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=d49a4ba011f87f1b": {
    "title": "Water Technician - Level 1",
@@ -1370,9 +1358,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Water Technician Level 1 role at Mitie (Marlowe) in Sheffield, £28,053–£32,000, involving water system maintenance, sampling and compliance checks. No specific water/HVAC qualifications required but a valid UK driving licence and DBS are needed.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1394,9 +1380,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Water Technician Level 2 role at Mitie in Sheffield, £28k–£32k, 40 hours/week, involving maintenance, sampling, and cleaning of water systems. Requires prior Level 2 water technician experience, TMV valve servicing skills, and a valid UK driving licence.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1418,12 +1402,12 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "IT Engineer Apprentice (Level 3 ICT) at Velociti Solutions / QA in Sheffield — no pay stated. Entry-level role supporting IT systems, Microsoft 365, Intune and helpdesk queries under supervision.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "IT Engineer Apprentice role at QA (host company Velociti Solutions) in Sheffield; involves supporting IT systems, Microsoft 365, networking, and helpdesk support while studying for a Level 3 ICT apprenticeship. No driving required and entry requirements are modest (GCSE Maths/English at 3+).",
    "fit": "maybe",
-   "fit_reason": "IT apprenticeship fits his engineering background and location, but requires commitment to a new IT career path; entry requirements are met but Microsoft/IT experience is limited.",
-   "fit_source": "llm"
+   "fit_reason": "Ben meets the entry requirements with 9 GCSEs including Maths 8 and has engineering/technical aptitude from his Level 3 Engineering Diploma and motorman role, but lacks prior IT-specific experience, w",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=92d9f8033a121980": {
    "title": "Fitter Workshop",
@@ -1442,7 +1426,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
+   "last_seen": "2026-09-03T10:58:45Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -1464,12 +1448,12 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Live-In Maintenance Caretaker at Vinci Facilities UK, a permanent full-time school site role in Sheffield with on-site 3-bed accommodation for £250/month rent. Key duty is planned/reactive building maintenance plus emergency first-response; requires previous caretaking or building maintenance experience.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Live-In Maintenance Caretaker at Vinci Facilities UK, large school in Sheffield, full-time permanent with on-site 3-bed house at £250/month rent. Key duty: open school daily, carry out PPM and reactive maintenance across building fabric, basic plumbing and electrical, and act as first responder for emergencies.",
    "fit": "stretch",
-   "fit_reason": "Requires previous caretaking/facilities maintenance experience and trade skills Ben lacks; his engineering background is transferable but the listed essential experience isn't demonstrated in his prof",
-   "fit_source": "llm"
+   "fit_reason": "Requires previous caretaking/facilities maintenance experience and broad building maintenance skills Ben doesn't have, though DBS and training are provided.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=e2bc199bb98ebd5d": {
    "title": "Part-Time Warehouse Operative (Morning Shift)",
@@ -1488,9 +1472,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Part-Time Warehouse Operative (morning shift, 4am-8am Mon-Fri) at Fresh Island Foods in Tinsley, Sheffield, paying £13.10/hr. Key duty involves picking/preparing chilled and frozen food orders, loading vans, and a full UK driving licence is required to move vans within the yard.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1512,12 +1494,9 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Warehouse Operative (Hardware Staging) at Spencer Technologies UK in Sheffield, full-time permanent Mon–Fri 8am–4pm; key duty is picking, packing, and pre-staging hardware/tech equipment, with full accredited training provided on pallet stacker and order picker.",
-   "summary_source": "llm",
-   "fit": "maybe",
-   "fit_reason": "Warehouse operative with on-the-job training for pallet stacker/order picker; no driving needed, but Ben lacks prior warehouse experience which is listed as required.",
-   "fit_source": "llm"
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Warehouse Operative (Hardware Staging) at Spencer Technologies UK, Sheffield, full-time permanent Mon–Fri 8am–4pm; involves operating electric pallet stacker/order picker but full accredited training provided. FIT: maybe REASON: No driving licence required and training offered on powered equipment, but previous warehouse experience is listed as required which Ben lacks.",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=6db16d9dd56a9d33": {
    "title": "NIGHTS Goods in/out Warehouse Assistant",
@@ -1536,12 +1515,12 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Nights Warehouse Assistant (Goods In/Out) at Cooper and Turner Distribution, Tinsley — 39 hrs Mon–Thu 19:45–06:00, temporary full-time with benefits. Key duty involves packing products to spec, meeting daily targets, and maintaining safety standards in the warehouse.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Nights warehouse assistant at Cooper and Turner Distribution in Tinsley, packing products to spec on a Mon–Thu night shift (39 hrs). No driving required; physical, safety-focused role in a warehouse.",
    "fit": "good",
-   "fit_reason": "Warehouse packing role with no driving or licence requirements; Ben's engineering diploma, physical work tolerance, and attention to quality/safety fit well, though nights may be a consideration.",
-   "fit_source": "llm"
+   "fit_reason": "Warehouse packing/quality role matches his availability and physical work background, with no licence or certification needed.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=22d70a612bcaa903": {
    "title": "Apprentice Trade Counter Sales Advisor",
@@ -1560,12 +1539,12 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Apprentice Trade Counter Sales Advisor at Graham Plumbers Merchant in Sheffield, £8.40/hr rising to £9.20 then Living Wage. Combines customer service, warehouse, and trade counter duties while studying for Level 2 Trade Supplier Apprenticeship.",
-   "summary_source": "llm",
-   "fit": "maybe",
-   "fit_reason": "Trade counter sales role suits his customer service background; no licence or specialist tickets required, but involves product knowledge in plumbing/heating he'd need to learn.",
-   "fit_source": "llm"
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Apprentice Trade Counter Sales Advisor at Graham Plumbers Merchant in Sheffield, £8.40/hr rising to £9.20 after 6 months. Combines customer service, warehouse, and trade counter duties with a Level 2 Trade Supplier Apprenticeship.",
+   "fit": "good",
+   "fit_reason": "Ben's customer service, delivery, and physical/hands-on experience suit the role well; no driving, HGV, SIA, or trade licence required.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=4721ab756745675e": {
    "title": "Delivery Driver",
@@ -1584,7 +1563,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
+   "last_seen": "2026-09-03T10:58:45Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -1606,7 +1585,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
+   "last_seen": "2026-09-03T10:58:45Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -1628,12 +1607,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Retail Sales Assistant at Jollyes Pets in Sheffield, paying £8.43–£12.71/hr; involves customer service, upselling pet products, and general shop-floor duties with no required licences.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Sales Assistant at Jollyes Pets in Sheffield, paying £8.43–£12.71 per hour; retail role focused on customer help, stock, and pet advice with progression opportunities.",
    "fit": "good",
-   "fit_reason": "Retail sales assistant role matches his customer service experience (POS, food safety, allergens) and needs no licence or qualifications he lacks.",
-   "fit_source": "llm"
+   "fit_reason": "Matches Ben's customer service experience (POS, cash handling, food safety) and no licence or specialist qualification needed.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=775f35cde6af401f": {
    "title": "Registered Care Manager",
@@ -1646,15 +1625,13 @@
    "interval": null,
    "currency": "GBP",
    "date_posted": "2026-09-02",
-   "description": "**Registered Care Manager (Domiciliary Care) – Sheffield \\& Surrounding area** **Salary up to £44,000 DOE \\+ Bonus \\+ Company Car** **McCarthy \\& Stone is seeking an experienced Registered Care Manager to set up a new care and lifestyle service and lead a team of field\\-based staff across Sheffield \\& Surrounding Areas.** This is an exciting opportunity for a passionate care leader with strong operational and regulatory experience, delivering high\\-quality, person\\-centred care. You'll play a key role in promoting the service we provide, whilst helping older people maintain their independence. **What's in it for you?** * **Salary up to £44,000 per annum, depending on experience** * **Performance\\-related bonus** * **Company car and mileage allowance or cash allowance** * **Life insurance** * **Company Pension** * **Discounts on apartment purchase for employees and immediate family** * **Opportunities to stay in our guest suites across all our developments UK wide.** * **24/7 access to Employee Assist Programme (including counsellors and legal advisors) and access to inhouse Mental Health First Aiders** * **Ongoing training and professional development** * **Clear career progression opportunities** * **Supportive and collaborative leadership team** **What You'll Need** * Level 5 Diploma in Leadership for Health \\& Social Care (or equivalent) * Previous experience as a Registered Care Manager, Domiciliary Care Manager, or similar leadership role * Strong knowledge of CQC regulations, safeguarding and compliance requirements * Experience managing care teams and driving service performance * Experience of creating and updating care assessments, care planning, risk management * A strong commitment to delivering excellent customer service * Full UK driving licence * Be available to work alternate weekends, early morning and evening shifts as required. * Be able to attend training sessions and staff meetings * Be willing to undertake extra shifts to meet the needs of the service * Strong communication, organizational, and problem\\-solving skills. **The Role** As **Registered Care Manager**, you will oversee the delivery of domiciliary care services across multiple McCarthy \\& Stone developments in Sheffield \\& Surrounding area. Leading a team of Care \\& Lifestyle Assistants and Field Care Supervisors, you'll ensure residents receive safe, compassionate, and personalised support that promotes independence and wellbeing. **Key Responsibilities** * Oversee and support, a mobile care team across multiple developments * Ensure the delivery of high\\-quality, person\\-centred care services * Maintain full compliance with CQC standards and safeguarding requirements * Create and oversee care and risk assessments, care plans, and reviews * Manage recruitment and onboarding, * Supervise training, and staff development * Monitor service quality, performance, and resident outcomes * Support the growth and development of domiciliary care services * Build positive relationships with residents, families, healthcare professionals, and local stakeholders **About You** We're looking for a confident and commercially aware care professional who combines strong leadership skills with a genuine passion for delivering exceptional care. **You'll bring:** * Proven experience managing domiciliary care services * Strong understanding of CQC regulations and best practice * Experience leading remote or geographically dispersed teams * Excellent communication, organisation, and people management skills * A proactive, solutions\\-focused approach * Commercial awareness, including budget management and financial oversight * A commitment to delivering outstanding resident experiences and high\\-quality care **About McCarthy \\& Stone** McCarthy \\& Stone is the UK's leading developer and manager of retirement communities and later\\-life living. Supporting thousands of homeowners nationwide, we provide tailored care and wellbeing services that help people live independently, safely, and confidently in their own homes. If you're an experienced Registered Care Manager looking for your next leadership opportunity, we'd love to hear from you. **Apply Today to join a team that values your contribution and offers a rewarding career path with McCarthy \\&Stone. We review applications as they come in and may close the position early for the right candidate.** As the UK’s leading developer and manager of retirement communities, we provide high quality homes to exacting specifications. As of November 2021, McCarthy Stone operates 475 developments across the UK for more than 20,000 people. We believe in championing the role, wellbeing and happiness of older people in society. We help our customers have a better later life, so they feel more connected, recognised and valued than ever. In late 2020 we launched the McCarthy Stone Charitable Foundation to support local causes that help older people in need across Britain. We are proud to have been certified as a Great Place to Work 2022 as well as making the Great Place to Work Wellbeing list!",
+   "description": "**Registered Care Manager (Domiciliary Care) – Sheffield \\& Surrounding area** **Salary up to £44,000 DOE \\+ Bonus \\+ Company Car** **McCarthy \\& Stone is seeking an experienced Registered Care Manager to set up a new care and lifestyle service and lead a team of field\\-based staff across Sheffield \\& Surrounding Areas.** This is an exciting opportunity for a passionate care leader with strong operational and regulatory experience, delivering high\\-quality, person\\-centred care. You'll play a key role in promoting the service we provide, whilst helping older people maintain their independence. **What's in it for you?** * **Salary up to £44,000 per annum, depending on experience** * **Performance\\-related bonus** * **Company car and mileage allowance or cash allowance** * **Life insurance** * **Company Pension** * **Discounts on apartment purchase for employees and immediate family** * **Opportunities to stay in our guest suites across all our developments UK wide.** * **24/7 access to Employee Assist Programme (including counsellors and legal advisors) and access to inhouse Mental Health First Aiders** * **Ongoing training and professional development** * **Clear career progression opportunities** * **Supportive and collaborative leadership team** **What You'll Need** * Level 5 Diploma in Leadership for Health \\& Social Care (or equivalent) * Previous experience as a Registered Care Manager, Domiciliary Care Manager, or similar leadership role * Strong knowledge of CQC regulations, safeguarding and compliance requirements * Experience managing care teams and driving service performance * Experience of creating and updating care assessments, care planning, risk management * A strong commitment to delivering excellent customer service * Full UK driving licence * Be available to work alternate weekends, early morning and evening shifts as required. * Be able to attend training sessions and staff meetings * Be willing to undertake extra shifts to meet the needs of the service * Strong communication, organizational, and problem\\-solving skills. **The Role** As **Registered Care Manager**, you will oversee the delivery of domiciliary care services across multiple McCarthy \\& Stone developments in Sheffield \\& Surrounding area. Leading a team of Care \\& Lifestyle Assistants and Field Care Supervisors, you'll ensure residents receive safe, compassionate, and personalised support that promotes independence and wellbeing. **Key Responsibilities** * Oversee and support, a mobile care team across multiple developments * Ensure the delivery of high\\-quality, person\\-centred care services * Maintain full compliance with CQC standards and safeguarding requirements * Create and oversee care and risk assessments, care plans, and reviews * Manage recruitment and onboarding, * Supervise training, and staff development * Monitor service quality, performance, and resident outcomes * Support the growth and development of domiciliary care services * Build positive relationships with residents, families, healthcare professionals, and local stakeholders **About You** We're looking for a confident and commercially aware care professional who combines strong leadership skills with a genuine passion for delivering exceptional care. **You'll bring:** * Proven experience managing domiciliary care services * Strong understanding of CQC regulations and best practice * Experience leading remote or geographically dispersed teams * Excellent communication, organisation, and people management skills * A proactive, solutions\\-focused approach * Commercial awareness, including budget management and financial oversight * A commitment to delivering outstanding resident experiences and high\\-quality care **About McCarthy \\& Stone** McCarthy \\& Stone is the UK's leading developer and manager of retirement communities and later\\-life living. Supporting thousands of homeowners nationwide, we provide tailored care and wellbeing services that help people live independently, safely, and confidently in their own homes. If you're an experienced Registered Care Manager looking for your next leadership opportunity, we'd love to hear from you. **Apply Today to join a team that values your contribution and offers a rewarding career path with McCarthy \\&Stone. We review applications as they come in and may close the position early for the right candidate.** As the UK’s leading developer and manager of retirement communities, we provide high quality homes to exacting specifications. As of November 2021, McCarthy Stone operates 475 developments across the UK for more than 20,000 people. We believe in championing the role, wellbeing and happiness of older people in society. We help our customers have a better later life, so they feel more connected, recognised and valued than ever. In late 2020 we launched the McCarthy Stone Charitable Foundation to support local causes that help older people in need across Britain. We are proud to have been certified as a Great Place to Work 2022 as well as making the Great Place to Work Wellbeing list! INDNE Benefits: * Company events * Company pension * Employee discount * Health \\& wellbeing programme * Referral programme * Sick pay Work Location: In person",
    "job_url": "https://uk.indeed.com/viewjob?jk=775f35cde6af401f",
    "categories": [
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Registered Care Manager (Domiciliary Care) at McCarthy & Stone, Sheffield & surrounding area, salary up to £44,000 DOE + bonus + company car. Senior leadership role requiring Level 5 Diploma, CQC/regulatory expertise, and proven domiciliary care management experience.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1676,12 +1653,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Customer Assistant at Lidl in Sheffield, hourly pay with 10% in-store discount and bank holiday enhancements. Fast-paced retail role involving restocking, till work, deliveries handling, and customer service across varied shifts.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Customer Assistant at Lidl in Sheffield; hourly pay/contract details omitted in ad but standard Lidl rates plus benefits. Duties include restocking, working tills, customer service, bakery and non-food merchandising in a fast-paced retail environment.",
    "fit": "good",
-   "fit_reason": "Retail customer service role matches his customer service assistant experience, no licence or specialist qualifications required.",
-   "fit_source": "llm"
+   "fit_reason": "Ben has direct customer service and POS experience from his assistant role, plus fast-paced work history; no licence or certification required.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=1303c5931c0801df": {
    "title": "Retail Assistant - Part Time",
@@ -1700,12 +1677,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Part-time Retail Assistant at Farmfoods in Woodseats, Sheffield (S8 0RW), £10.95–£12.81 per hour for 20 hours across 4 days including weekends. Key duties include customer service on tills, stock handling, and maintaining a clean, tidy shop.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Part-time Retail Assistant at Farmfoods in Woodseats, Sheffield (S8), £10.95–£12.81/hr, 20 hours across 4 days including weekends. Key duty involves customer service, till work, stocking, and keeping the shop tidy in a small team.",
    "fit": "good",
-   "fit_reason": "Retail assistant role matches Ben's customer service experience (POS, food handling, stock rotation) and needs no driving or specialist licences.",
-   "fit_source": "llm"
+   "fit_reason": "No licence or specialist tickets required; Ben's customer service and food handling experience plus friendly approach fit the role well.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=744245eb5cca35d3": {
    "title": "Sales Assistant",
@@ -1724,12 +1701,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Sales Assistant at Mountain Warehouse in Sheffield; no pay stated, focus on customer service, transactions, and team collaboration in a retail setting.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Sales Assistant role at Mountain Warehouse in Sheffield; no pay stated. Key duty is processing transactions, maintaining store presentation, and delivering customer service to meet sales targets.",
    "fit": "good",
-   "fit_reason": "Retail sales assistant role matches his customer service and cash handling experience, no driving or specialist licences needed.",
-   "fit_source": "llm"
+   "fit_reason": "Ben has retail customer service experience with POS and cash handling, and this in-store role requires no driving or specialist licences.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=9287e7bd10fb64f8": {
    "title": "Retail Assistant - Part Time",
@@ -1748,12 +1725,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Part-time Retail Assistant at Farmfoods in Woodseats, Sheffield (S8), 8 hours over 2 days at £10.95–£12.81/hr with 6 weeks holiday and staff discount. Role involves customer service on tills, restocking deliveries, and keeping the shop clean and tidy.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Part-time Retail Assistant at Farmfoods in Woodseats, Sheffield (S8), paying £10.95–£12.81/hr for 8 hours over 2 days including weekends. Duties involve customer service, till work, stocking deliveries, and keeping the shop clean and tidy.",
    "fit": "good",
-   "fit_reason": "Retail assistant role matches Ben's customer service experience (POS, food handling) and needs no licence; part-time hours suit flexibility.",
-   "fit_source": "llm"
+   "fit_reason": "Matches his customer service experience (POS, cash handling, food safety) and is local in Sheffield with no licence or certifications required.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=b9ca019d1cd6682a": {
    "title": "Bar and Kitchen Assistant",
@@ -1773,12 +1750,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Bar and Kitchen Assistant at Moor View Golf Centre in Sheffield, £12.71–£15.00/hr part-time. Varied bar, kitchen and customer service duties with training provided for the right candidate.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Bar and Kitchen Assistant role at Moor View Golf Centre in Sheffield, £12.71–£15.00/hr, part-time/permanent involving bar service, food prep and customer-facing duties.",
    "fit": "good",
-   "fit_reason": "Matches his customer service, POS/cash handling, and food safety experience; no licence or specialist qualifications required.",
-   "fit_source": "llm"
+   "fit_reason": "Ben's customer service experience (POS, cash handling, food safety, allergen protocols) directly matches the hospitality and kitchen duties; no driving or licences required.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=b32f2b3f9d48baa1": {
    "title": "Shift Manager – Full-Time",
@@ -1797,12 +1774,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Shift Manager at Heron Foods, Sheffield S12, 36 hrs/week at £13/hr. Supervisory role leading store team, handling keyholder duties, stock and customer service.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Shift Manager role at Heron Foods in Sheffield (S12 4WF), £13/hour, 36 hours/week, involving keyholder duties and team leadership on the shop floor. Key duty includes leading and motivating the team during shifts, handling customer queries, and managing stock.",
    "fit": "stretch",
-   "fit_reason": "Shift Manager is a supervisory/leadership role requiring prior team-leader experience, which Ben lacks outside his activity-instructor work and is clearly above entry-level retail.",
-   "fit_source": "llm"
+   "fit_reason": "Requires prior supervisory/team leader experience in retail, which Ben lacks — his background is in customer service but not in managing or leading a store team.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=0fcd44793f80559c": {
    "title": "Trainee Administrative Assistant",
@@ -1821,12 +1798,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Trainee Administrative Assistant at Ascension Sales and Hire Ltd in Sheffield, £26,437/year, entry-level office role focused on data entry, customer queries, and clerical tasks.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Trainee Administrative Assistant at Ascension Sales and Hire Ltd in Sheffield, paying £26,437/year, in-person office-based entry-level role focused on data entry, customer queries, and clerical tasks.",
    "fit": "good",
-   "fit_reason": "Entry-level office admin role in Sheffield with no licence or specialist ticket required; Ben's customer service, cash handling, and computer skills are transferable, and the role explicitly welcomes ",
-   "fit_source": "llm"
+   "fit_reason": "Entry-level admin role with no driving required; Ben's customer service and organisational skills plus computer literacy fit the trainee brief, though some office/Sage experience would be a plus.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=3ec8fcdbdc4565bb": {
    "title": "Kitchen Porter - The Wildcard Bar & Grill",
@@ -1845,12 +1822,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Kitchen Porter role at The Wildcard Bar & Grill in Sheffield, paying £10.85–£13.00 per hour, involving dishwashing and kitchen cleaning. No formal qualifications needed; 1 year hospitality experience preferred but entry-level friendly.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Kitchen Porter at The Wildcard Bar & Grill in Sheffield, paying £10.85–£13.00 per hour. Main duties are dishwashing, kitchen cleaning, and supporting the culinary team with sanitation and food safety compliance.",
    "fit": "maybe",
-   "fit_reason": "No driving needed, fits his availability and customer service/hospitality background, but 1 year kitchen experience preferred/required which he lacks.",
-   "fit_source": "llm"
+   "fit_reason": "No driving required and food safety knowledge from his customer service role is relevant, but 1 year hospitality experience is listed as required which he lacks.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=fd5bbe5906d88ebf": {
    "title": "kitchen porter",
@@ -1869,12 +1846,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Kitchen porter (part-time) at wagamama in Sheffield, with biweekly pay, free meals on shift, and 50% staff discount. Back-of-house cleaning and basic prep role keeping the kitchen running smoothly.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Kitchen porter (part-time) at wagamama in Sheffield, with biweekly pay, free meals on shift, and tips share. Entry-level role focused on washing equipment, keeping the kitchen clean, basic prep, and following health & safety standards.",
    "fit": "good",
-   "fit_reason": "Entry-level kitchen role with no licence or certification required; fits his customer service/kitchen experience and immediate availability.",
-   "fit_source": "llm"
+   "fit_reason": "No licence or specialist quals needed; Ben's customer service and food safety experience suit a busy kitchen environment.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=8751ce111f3c439e": {
    "title": "Kitchen Porter",
@@ -1893,12 +1870,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Kitchen Porter role at Legends Global / Utilita Arena Sheffield; flexible event-based shifts with competitive hourly pay and fortnightly pay. Key duty: maintaining kitchen cleanliness, washing equipment, and supporting chefs during concerts and events.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Kitchen Porter role at Legends Global (Utilita Arena Sheffield), flexible casual shifts with competitive hourly rate, fortnightly pay, no licence required. Involves washing dishes, maintaining kitchen cleanliness, and supporting chefs in a fast-paced event catering environment.",
    "fit": "good",
-   "fit_reason": "Entry-level kitchen role, full training provided, no licence or specialist cert needed; matches his customer service/kitchen hygiene experience.",
-   "fit_source": "llm"
+   "fit_reason": "Ben's customer service/food safety background and immediate availability suit this entry-level team role; no driving, licence, or specialist qualifications required.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=adb00162642470aa": {
    "title": "Barista (Part-time)",
@@ -1917,12 +1894,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Part-time Barista at Lovely Pear in Sheffield, £12.71-£13.51/hr with free parking. Key duty involves preparing coffee/beverages, handling cash transactions, and following food safety protocols in a fast-paced café setting.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Part-time Barista role at Lovely Pear in Sheffield, paying £12.71–£13.51 per hour with free parking. Key duty involves preparing coffee/beverages, serving customers, handling cash, and following food safety protocols in a fast-paced cafe environment.",
    "fit": "good",
-   "fit_reason": "Barista role matches his customer service, POS/cash handling, and food safety experience with no qualifications he lacks.",
-   "fit_source": "llm"
+   "fit_reason": "Ben's customer service experience (POS, cash handling, food safety, allergen protocols) directly matches the core duties, and no licence or certification is required.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=f2a5ac4cbc3b6205": {
    "title": "Meadowhall: Front of House - Team Member (Age 18+)",
@@ -1941,12 +1918,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Front of House Team Member at Play Padel Meadowhall, part-time £10.85–£12.71/hr in Sheffield; welcoming customers, handling bookings, serving coffee, and supporting events across flexible shifts including weekends.",
-   "summary_source": "llm",
-   "fit": "maybe",
-   "fit_reason": "Customer service experience matches and barista/retail skills are trainable, but requires 1 year customer service, weekends, and flexible hours including early mornings—possible but no clear indicatio",
-   "fit_source": "llm"
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Front of House Team Member (part-time) at Play Padel Meadowhall, Sheffield, paying £10.85–£12.71/hr with flexible shifts. Key duty: welcoming customers, handling bookings/payments, and serving barista-style coffee.",
+   "fit": "good",
+   "fit_reason": "Ben has customer service and POS/cash handling experience, no licence needed, and the barista/hospitality skills can be trained on the job.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=a58431383ca93624": {
    "title": "Waiting Staff",
@@ -1965,12 +1942,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Waiting Staff at Toby Carvery in Dronfield; no pay stated but offers flexible shifts, 33% dining discount, and 28 days holiday. Front-of-house role focused on greeting guests, serving food/drink, and maintaining cleanliness/safety standards.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Waiting Staff role at Toby Carvery in Dronfield — flexible shifts, no licence or specific experience required. Front-of-house serving, greeting guests, and maintaining cleanliness/safety standards.",
    "fit": "good",
-   "fit_reason": "Waiting staff role matches his customer service experience (POS, cash handling, food/allergen protocols) and requires no licence or qualifications he lacks.",
-   "fit_source": "llm"
+   "fit_reason": "Ben has customer service experience including POS, food safety, and allergen protocols, and Dronfield is reachable from Sheffield S2 by public transport.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=f2a5babc3fecb443": {
    "title": "Food and Beverage Assistant - Bank",
@@ -1989,12 +1966,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Food and Beverage Assistant (Bank) at Avery Healthcare, Loxley Park Care Home, Sheffield — no pay stated. Role focuses on supporting residents with dining service, meal choices, and front-of-house cleanliness.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Food and Beverage Bank role at Avery Healthcare (Loxley Park Care Home, Sheffield) serving residents' meals and maintaining dining areas. Duties include supporting meal choice, dietary awareness, front-of-house cleanliness, and replenishing bistro items — no driving required.",
    "fit": "good",
-   "fit_reason": "Ben has food safety, allergen, and customer service experience matching this care home dining role, with no licence or certification barriers.",
-   "fit_source": "llm"
+   "fit_reason": "Ben's customer service, food safety, and allergen protocol experience plus his caring personality suit a care home dining role; no licence or certifications needed.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=3825582c03f94359": {
    "title": "Food and Beverage Assistant - Bank",
@@ -2013,12 +1990,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Food and Beverage Bank Assistant at Avery Healthcare's Loxley Park Care Home in Sheffield (bank/casual, no pay stated). Role involves supporting residents with dining, table setting, cleanliness, and being aware of dietary requirements.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Food and Beverage Assistant (Bank) role at Avery Healthcare's Loxley Park Care Home in Sheffield, serving residents meals in a dining setting. Key duty involves supporting residents with meal choices, dietary needs, and maintaining a clean front-of-house area.",
    "fit": "good",
-   "fit_reason": "Food service/catering role matches his customer service and food safety experience, no driving or specialist licences needed.",
-   "fit_source": "llm"
+   "fit_reason": "Ben has customer service, food safety, and allergen protocol experience, with no driving or licence requirements.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=dc0957db4c5c6b3a": {
    "title": "Labourer",
@@ -2037,7 +2014,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
+   "last_seen": "2026-09-03T10:58:45Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -2059,9 +2036,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "General Foreman at Kier Group in Sheffield (45 hrs/week, water/wastewater treatment construction); oversees daily site operations, supervises supervisors, subcontractors, and enforces safety protocols. FIT: stretch REASON: Senior site supervisory role requiring proven construction management experience, holding a full driving licence, and trade/operational credentials Ben lacks.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -2083,12 +2058,12 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Part-Time Cleaning Operative at Excellerate Services in Sheffield, £12.71/hr with early morning shifts Mon-Sat and Sun 8am-10am. Duties include cleaning commercial premises, restocking supplies, following safety protocols, and completing checklists independently.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Part-Time Cleaning Operative at Excellerate Services in Sheffield, £12.71/hr, early morning shifts Mon-Sat plus Sundays. Involves cleaning commercial premises, restocking supplies, and following health & safety protocols with training provided.",
    "fit": "good",
-   "fit_reason": "Part-time cleaning operative in Sheffield with no driving or licence requirements; matches his availability and provides on-the-job training.",
-   "fit_source": "llm"
+   "fit_reason": "No licence or certification required; physical, entry-level role suits his immediate availability and customer service experience.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=766a2012c05ae351": {
    "title": "Service Advisor",
@@ -2107,12 +2082,12 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Service Advisor role at JCT600 (Mercedes Benz dealership) in Sheffield; pay not stated. Key duty is scheduling vehicle servicing, advising customers, and coordinating with workshop technicians.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Service Advisor role at JCT600 Mercedes Benz in Sheffield (customer-facing automotive aftersales coordination; pay not stated). Key duty is scheduling vehicle service appointments and liaising between customers and workshop technicians.",
    "fit": "maybe",
-   "fit_reason": "Customer service and organisational skills match, but no prior automotive service advisor experience and driving licence status may matter for test drives.",
-   "fit_source": "llm"
+   "fit_reason": "Ben has customer service and communication experience transferable, but no prior automotive or Service Advisor background is preferred.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=b4ca84e84211d4c2": {
    "title": "Engineering Works Supervisor",
@@ -2131,12 +2106,12 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Engineering Works Supervisor role at NMD Engineering Solutions Ltd in Sheffield, paying £53,000/year, overseeing day-to-day engineering works, coordinating teams and materials across sites. The role focuses on supervising technical delivery and managing site/project priorities.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Engineering Works Supervisor role at NMD Engineering Solutions Ltd in Sheffield, paying £53,000 per year; involves supervising day-to-day engineering works, coordinating teams and resources across sites.",
    "fit": "stretch",
-   "fit_reason": "Supervisor role requires prior supervisory/senior technical experience and team management; Ben's experience is hands-on engineering maintenance, not leadership, making this a clear step up.",
-   "fit_source": "llm"
+   "fit_reason": "Senior supervisory/management position requiring experience in coordinating engineers, contractors and project delivery — well beyond Ben's hands-on engineering background.",
+   "fit_source": "llm",
+   "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=b5caa40feff09850": {
    "title": "Engineering Inspection Supervisor",
@@ -2155,16 +2130,38 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:26:52Z",
-   "summary": "Engineering Inspection Supervisor at Louis Hart Engineering Ltd in Sheffield, paying £52,000/year. The role involves coordinating inspection activities, allocating tasks, reviewing records, and supervising inspection teams across engineering projects.",
-   "summary_source": "llm",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "summary": "Engineering Inspection Supervisor role at Louis Hart Engineering Ltd in Sheffield, £52,000/year, coordinating inspection activities across engineering projects. Key duty involves supervising scheduled inspections, allocating workloads, and documenting findings for engineering teams.",
    "fit": "stretch",
-   "fit_reason": "This is a supervisory/management-level engineering role requiring coordination of inspection teams and significant technical responsibility, which is beyond Ben's experience level despite his engineer",
-   "fit_source": "llm"
+   "fit_reason": "Supervisory/senior technical role requiring coordination experience and inspection background that exceeds Ben's available profile, despite his engineering diploma.",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=48d4091ab5f856bd": {
+   "title": "Warehouse Operative",
+   "company": "Cloud9 Fulfilment",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-03",
+   "description": "Warehouse Operative Cloud9 Fulfilment is a leading fulfilment and parcel delivery company based in Sheffield. We are seeking dedicated Warehouse Operatives to join our team, playing a crucial role in ensuring client orders are handled accurately and dispatched on time, every time. Key Responsibilities \\- * Safely load and offload containers and vehicles, following correct manual handling and equipment procedures. * Receive incoming goods, check them against paperwork, and report any shortages or damage. * Accurately put stock away in designated locations within the warehouse. * Pick customer orders precisely using our warehouse management system. * Securely pack parcels and prepare shipments for dispatch. * Sort parcels and stage them correctly for courier collection. * Process returns efficiently according to client and company procedures. * Conduct stock checks and report any discrepancies promptly. * Operate warehouse equipment such as pallet trucks safely. * Maintain a clean, tidy, and organised working area. * Utilise warehouse systems, scanners, and handheld devices correctly. * Adhere to all health and safety guidelines, including mandatory training and PPE usage. * Essential Requirements Ability to follow instructions and warehouse processes accurately. * Strong attention to detail for picking, packing, and stock control. * Good communication and teamwork skills. * Basic numeracy and computer literacy for using handheld scanning devices. * Reliable, punctual, and a strong sense of responsibility. * A positive attitude and willingness to learn new tasks and systems. * Capable of working at a steady, accurate pace while maintaining safety standards. * Physically able to stand, walk, lift, and perform repetitive tasks in a busy warehouse environment. * Desirable Previous experience in a warehouse, fulfilment, or logistics environment. * Familiarity with warehouse systems, scanners, or handheld devices. * A valid forklift truck (FLT) licence is desirable. What We Offer Competitive Pay: £12\\.75 per hour. Contract Type: Permanent Zero\\-Hour Contract (flexible work pattern with no guaranteed minimum hours, though shifts typically align with full\\-time operational needs). Shift Patterns: Operational shifts are typically scheduled between 08:00 and 18:00 (up to 8 hours per day). Training \\& Development: Comprehensive induction and ongoing training, including health \\& safety, manual handling, and specific warehouse processes. Licensing Support: Opportunity for FLT training if you do not already hold a valid licence. Workplace Culture: A supportive team environment built on values of Professionalism, Collaboration, and Continuous Improvement. Location: The chance to be part of a growing Sheffield\\-based company at the forefront of fulfilment. Benefits Company events Company pension scheme (subject to statutory eligibility) Free on\\-site parking How to Apply If you are a proactive and reliable individual looking to join a dynamic team, please submit your CV and a brief covering letter outlining your suitability for this role. Work Location: In person (Sheffield) Pay: From £12\\.75 per hour Benefits: * Free parking Licence/Certification: * Forklift Licence (preferred) Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=48d4091ab5f856bd",
+   "categories": [
+    "Warehouse"
+   ],
+   "first_seen": "2026-09-03T10:58:45Z",
+   "last_seen": "2026-09-03T10:58:45Z",
+   "fit": "stretch",
+   "fit_reason": "licence/own-vehicle requirement",
+   "fit_source": "rule"
   }
  },
  "last_run_report": {
-  "started": "2026-09-03T10:26:52Z",
+  "started": "2026-09-03T10:58:45Z",
   "searches": [
    {
     "term": "activity instructor",
@@ -2183,18 +2180,18 @@
    },
    {
     "term": "warehouse operative",
-    "found": 4,
-    "new": 3
+    "found": 5,
+    "new": 1
    },
    {
     "term": "picker packer",
-    "found": 6,
-    "new": 1
+    "found": 7,
+    "new": 0
    },
    {
     "term": "delivery driver",
     "found": 8,
-    "new": 1
+    "new": 0
    },
    {
     "term": "courier driver",
@@ -2203,18 +2200,18 @@
    },
    {
     "term": "customer service assistant",
-    "found": 26,
-    "new": 9
+    "found": 25,
+    "new": 0
    },
    {
     "term": "retail assistant",
-    "found": 7,
+    "found": 6,
     "new": 0
    },
    {
     "term": "receptionist",
     "found": 1,
-    "new": 1
+    "new": 0
    },
    {
     "term": "kitchen assistant",
@@ -2224,27 +2221,27 @@
    {
     "term": "kitchen porter",
     "found": 8,
-    "new": 3
+    "new": 0
    },
    {
     "term": "barista",
     "found": 3,
-    "new": 2
+    "new": 0
    },
    {
     "term": "waiting staff",
     "found": 9,
-    "new": 3
+    "new": 0
    },
    {
     "term": "maintenance operative",
     "found": 3,
-    "new": 3
+    "new": 0
    },
    {
     "term": "maintenance technician",
     "found": 12,
-    "new": 3
+    "new": 0
    },
    {
     "term": "fitter",
@@ -2257,7 +2254,7 @@
     "new": 0
    }
   ],
-  "new": 29,
-  "updated": 67
+  "new": 1,
+  "updated": 95
  }
 }
