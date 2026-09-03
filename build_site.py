@@ -223,16 +223,31 @@ async function decrypt(pw){
   const key=await crypto.subtle.deriveKey({name:"PBKDF2",salt,iterations:200000,hash:"SHA-256"},km,{name:"AES-GCM",length:256},false,["decrypt"]);
   return JSON.parse(td.decode(await crypto.subtle.decrypt({name:"AES-GCM",iv},key,ct)));
 }
-async function unlock(){
+const CACHE_KEY="bj_auth_v1",CACHE_HOURS=24;
+function remembered(){
   try{
-    D=await decrypt(document.getElementById("pw").value);
+    const a=JSON.parse(localStorage.getItem(CACHE_KEY)||"null");
+    if(a&&a.pw&&Date.now()-a.ts<CACHE_HOURS*3600e3)return a.pw;
+  }catch(e){}
+  return null;
+}
+function remember(pw){try{localStorage.setItem(CACHE_KEY,JSON.stringify({pw,ts:Date.now()}));}catch(e){}}
+async function unlock(pw,silent){
+  try{
+    D=await decrypt(pw);
+    remember(pw);
     document.getElementById("gate").style.display="none";
     document.getElementById("app").style.display="block";
     startApp();
-  }catch(e){document.getElementById("err").textContent="Wrong password";document.getElementById("pw").value="";}
+  }catch(e){
+    if(!silent){document.getElementById("err").textContent="Wrong password";document.getElementById("pw").value="";}
+    try{localStorage.removeItem(CACHE_KEY);}catch(e2){}
+  }
 }
-document.getElementById("go").addEventListener("click",unlock);
-document.getElementById("pw").addEventListener("keydown",e=>{if(e.key==="Enter")unlock();});
+document.getElementById("go").addEventListener("click",()=>unlock(document.getElementById("pw").value));
+document.getElementById("pw").addEventListener("keydown",e=>{if(e.key==="Enter")unlock(document.getElementById("pw").value);});
+const saved=remembered();
+if(saved){unlock(saved,true);document.getElementById("err").textContent="Loading…";}
 __APP_JS__
 </script></body></html>
 """

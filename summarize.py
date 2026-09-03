@@ -17,11 +17,12 @@ MODEL = "minimax/minimax-m3:free"
 
 BEN_PROFILE = """Ben, based near Norfolk Road, Sheffield S2. Immediately available, needs ANY job.
 Experience: outdoor activity instructor (2 seasons, First Aid + safeguarding, group leadership);
-delivery driver (Uber, newspaper round, self-employed logistics); customer service assistant
+delivery riding work (Uber deliveries on bike, newspaper round); customer service assistant
 (POS, cash handling, food safety, allergen protocols); maritime engineering motorman (RFA, 2 years
 — fault diagnosis and maintenance of mechanical/electrical systems); volunteer construction/farming abroad.
 Qualifications: Level 3 Engineering Diploma (Distinction), 9 GCSEs incl. Maths 8.
-He does NOT hold: HGV/LGV licence, Class 1/2, C+E, SIA badge, forklift licence, driving-test-dependent roles are unknown — assume he can drive small vans (had delivery jobs)."""
+IMPORTANT: he does NOT hold a driving licence, so ANY role that involves driving or requires a
+driving licence is unsuitable. He also lacks HGV/LGV, Class 1/2, C+E, SIA badge and forklift licences."""
 
 COMBINED_PROMPT = f"""You assess UK job ads for Ben (profile below). Return EXACTLY 3 lines in this format, nothing else:
 SUMMARY: <two short sentences: 1) role + employer + pay/location if stated, 2) key duty or notable point>
@@ -95,6 +96,11 @@ def _llm(key, prompt, max_tokens=160):
 def hard_stretch(job):
     from experience_filter import extract_years_experience
     blob = f"{job.get('title') or ''} {job.get('description') or ''}"
+    # Ben has NO driving licence — any non-negated driving-licence requirement is out.
+    for m in re.finditer(r"driving\s+licen[cs]e|full\s+(?:uk\s+)?licen[cs]e|\blicen[cs]e\b[^.]{0,30}\bdriv", blob, re.I):
+        window = blob[max(0, m.start() - 60):m.end() + 80]
+        if not re.search(r"not\s+(?:essential|required|needed)|is\s+(?:a\s+)?(?:bonus|advantageous)|desirable|not\s+a\s+requirement|no\s+licen[cs]e", window, re.I):
+            return "driving licence required"
     if any(re.search(p, blob, re.I) for p in FORCE_STRETCH):
         if not (re.search(r"\bown\s+(?:car|van|vehicle|transport)\b", blob, re.I)
                 and VEHICLE_PROVIDED.search(blob)):
