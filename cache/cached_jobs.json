@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_run": "2026-09-05T10:59:03Z",
+  "last_run": "2026-09-06T11:24:20Z",
   "location": "Sheffield",
   "country": "UK",
   "hours_old": 72,
@@ -70,7 +70,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-05T10:59:03Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -92,7 +92,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-05T10:59:03Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -114,7 +114,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-04T11:50:02Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -136,7 +136,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-04T11:50:02Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -158,7 +158,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-04T11:50:02Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1426,7 +1426,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-05T10:59:03Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -1448,10 +1448,10 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Live-In Maintenance Caretaker at Vinci Facilities UK, a permanent full-time role at a Sheffield school with on-site 3-bed accommodation at £250/month rent. Key duty involves PPM, reactive maintenance, emergency response, and grounds upkeep across the school estate.",
-   "fit": "stretch",
-   "fit_reason": "Essential requirement is previous caretaking/facilities maintenance experience, plus hands-on building/plumbing/electrical skills that Ben's engineering diploma only partially covers, and DBS is suppo",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Live-In Maintenance Caretaker at Vinci Facilities UK, full-time permanent role at a school in Sheffield with on-site 3-bed accommodation at £250/month rent. Key duties include planned/reactive maintenance, emergency first response, and grounds upkeep; previous caretaking or building maintenance experience is listed as essential.",
+   "fit": "maybe",
+   "fit_reason": "Ben has mechanical/electrical maintenance skills from his maritime engineering role and practical volunteer experience, but lacks direct caretaking or building fabric maintenance experience which is l",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2179,10 +2179,10 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Casual Outdoor Education Instructor at Sheffield City Council's Thornbridge Outdoors centre near Bakewell, Peak District; role involves delivering adventurous outdoor sessions like climbing, canoeing, caving and mountain biking. The ad requires specific Mountain Training/British Canoeing/MTB leadership qualifications to lead these activities.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Casual Outdoor Education Instructor at Thornbridge Outdoors (Sheffield City Council) in the Peak District; ad does not state pay. Role involves leading adventurous activities like climbing, canoeing, caving, and mountain biking for young people.",
    "fit": "stretch",
-   "fit_reason": "Ben has outdoor instructor experience but lacks the required Mountain Training, British Caving, British Canoeing and MTB leadership qualifications needed to lead the centre's activities.",
+   "fit_reason": "Requires specific technical qualifications (e.g. Mountain Training Rock Climbing Instructor, Mountain Leader, British Canoeing awards, MTB leadership) that Ben does not hold; his general outdoor instr",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2203,10 +2203,10 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Casual Outdoor Education Instructor/Trainer at Thornbridge Outdoors (Sheffield City Council) in the Peak District, £20.46/hr, 0 hours casual contract. Key duty: directing hillwalking leadership and/or ITC First first aid courses, requiring approval to direct Mountain Training or ITC First qualifications.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Casual Outdoor Education Instructor/Trainer at Sheffield City Council's Thornbridge Outdoors centre near Bakewell, £20.46/hr, delivering hillwalking leadership and/or first aid courses. Requires approval to direct Mountain Training Hill & Moorland Leader, Lowland Leader, and/or ITC First Outdoor First Aid courses — formal qualifications Ben does not hold.",
    "fit": "stretch",
-   "fit_reason": "Requires formal approval/certification to direct Mountain Training (Hill & Moorland or Lowland Leader) and/or ITC First First Aid courses, which are qualifications Ben does not hold.",
+   "fit_reason": "Role requires external instructor approvals/certifications (Mountain Training, ITC First) that Ben lacks, beyond his general outdoor experience.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2227,10 +2227,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Warehouse Order Picker at Crescent Pharma's Sheffield NDC, £14.50/hr (basic ~£30,160) on back shift Mon–Fri. Dedicated order-picking role using handheld scanners, requiring accuracy and consistency in a pharmaceutical warehouse.",
-   "fit": "maybe",
-   "fit_reason": "No driving needed and physical/warehouse work suits Ben's availability, but picking roles typically reach performance standards quickly and pharma distribution often expects prior warehouse experience",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Warehouse Order Picker at Crescent Pharma's Sheffield National Distribution Centre, £14.50/hr (basic ~£30,160) plus performance incentive, back shift Mon-Fri. Picking pharmaceutical orders using scanners, with strong emphasis on accuracy, traceability and productivity standards.",
+   "fit": "good",
+   "fit_reason": "No driving licence required; warehouse picking is an entry-level role suitable for someone immediately available, and Ben's reliability and prior work experience transfer well.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2251,10 +2251,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Warehouse Order Picker at Crescent Pharma's Sheffield NDC, £14.50/hr (£30,160 basic) Mon–Fri 06:00–15:00, picking pharmaceutical orders using scanners. No driving licence or special tickets required; performance-incentivised permanent role.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Warehouse Order Picker at Crescent Pharma's Sheffield National Distribution Centre, £14.50/hr (£30,160 basic + performance incentive), permanent full-time early shift Mon–Fri. Dedicated order-picking for pharmaceutical products using handheld scanners, with accuracy and productivity standards — no driving required.",
    "fit": "good",
-   "fit_reason": "Ben is immediately available, reliable, and physically capable; order picking needs no licences or qualifications he lacks, and his engineering/warehouse-adjacent background suits a productive, accura",
+   "fit_reason": "No licence or specialist tickets needed; physical warehouse picking suits Ben's reliable work ethic and his customer service/operational experience demonstrates attention to accuracy.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2276,7 +2276,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -2298,10 +2298,10 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Multi Drop Van Driver role at MIQ Logistics in Darnall, paying £10–£12 per hour, involving multi-stop deliveries, heavy lifting and customer interaction. Requires a valid van driver's licence and proven commercial driving experience.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Multi Drop Van Driver role at MIQ Logistics in Darnall, paying £10–£12 per hour, involving safe delivery of goods to multiple locations and heavy lifting. Requires a valid van driver's licence and proven commercial driving experience.",
    "fit": "stretch",
-   "fit_reason": "Role explicitly requires a valid van driver's licence and commercial driving experience, which Ben does not have.",
+   "fit_reason": "Role requires a valid van/commercial driving licence, which Ben does not hold.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2322,7 +2322,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -2344,7 +2344,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -2367,10 +2367,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Catering Assistant (Zero Hours) at Chartwells in Sheffield, involving food/drink prep and customer service in an education setting with enhanced DBS required. Key duty includes preparing drinks, serving food, handling payments, and complying with food hygiene standards.",
-   "fit": "maybe",
-   "fit_reason": "Ben has relevant customer service, POS, cash handling and food safety experience, but no prior barista/brewing experience is listed as desirable; DBS check required but no licence needed.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Catering Assistant (Zero Hours) at Chartwells in Sheffield; key duty is preparing drinks and food, handling payments, and maintaining hygiene/bar area in an education catering setting.",
+   "fit": "good",
+   "fit_reason": "Ben's customer service, POS/cash handling, and food safety experience match directly; no driving or licences required, though DBS check applies.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2392,10 +2392,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Catering Assistant (Zero Hours) role at Chartwells in Sheffield, involving food/drink prep, till work and hygiene in an education-sector setting with variable shifts. Requires an enhanced DBS and Children's Barred List check due to working with children.",
-   "fit": "stretch",
-   "fit_reason": "Chartwells requires an enhanced DBS with a Children's Barred List check, which is a vetting/licence-style prerequisite Ben cannot be assumed to hold; his customer service and food safety experience ot",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Catering Assistant (Zero Hours) at Chartwells in Sheffield, no pay stated. Involves preparing drinks, serving food, cash handling, and complying with food hygiene standards in an education sector setting.",
+   "fit": "good",
+   "fit_reason": "Ben has customer service, POS, cash handling, and food safety/allergen experience, and zero-hours catering suits his immediate availability.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2416,10 +2416,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Business Manager role at Sheffield City Council supporting Housing Repairs & Maintenance leadership; senior, transformation-focused position with no pay or driving details stated.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Business Manager role at Sheffield City Council within Housing Repairs & Maintenance transformation programme, based in Sheffield (no salary stated). Key duty involves supporting senior leaders with business planning, performance management, governance, and driving service improvement/transformation across a large frontline service.",
    "fit": "stretch",
-   "fit_reason": "This is a senior management role requiring significant experience supporting senior leaders and managing transformation in a large organisation — well beyond Ben's background.",
+   "fit_reason": "Senior management role requiring significant experience supporting senior leaders and managing complex business activities in large organisations — well beyond Ben's experience level.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2440,10 +2440,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Assistant Security Controller at University of Sheffield (AMRC), Rotherham, £32,080–£36,636, permanent full-time hybrid role. Key duty involves supporting security governance, clearance/vetting coordination, investigations, and compliance documentation for advanced manufacturing projects.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Assistant Security Controller role at University of Sheffield (AMRC, Rotherham), £32,080–£36,636, permanent hybrid. Involves coordinating security clearance/vetting, overseeing compliance documentation, supporting investigations, and acting as a policy advisor.",
    "fit": "stretch",
-   "fit_reason": "Specialist security/vetting/compliance role well beyond Ben's background; no mention of SIA or equivalent security qualifications, and likely expects significant security or investigations experience.",
+   "fit_reason": "Senior-level security/compliance role likely requiring vetting experience or SIA-related background Ben lacks; scope exceeds his customer-service and engineering profile.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2464,10 +2464,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Customer Assistant role at Lidl in Sheffield, £13.45–£14.45 per hour on a 20–25 hour contract; duties include restocking, till work, customer service, deliveries handling, and bakery/merchandising tasks.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Customer Assistant at Lidl in Sheffield, £13.45-£14.45 per hour, 20-25 hour contract, involving restocking, tills, deliveries handling, bakery and merchandising duties.",
    "fit": "good",
-   "fit_reason": "Ben's customer service assistant experience with POS, cash handling, and food safety directly matches the role's requirements, and no licence or certification is needed.",
+   "fit_reason": "Ben has direct customer service experience with POS, food safety and a positive manner, and the role requires no licence or qualifications he lacks.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2488,10 +2488,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Seasonal Sales Assistant at Dunelm in Rotherham, 8hrs/week at £12.71/hr (18+), running self-service tills and supporting customers. Entry-level retail role focused on customer service, till operation, and shop floor support — no licence or specific qualifications needed.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Seasonal Sales Assistant (Self-Service Tills) at Dunelm in Rotherham, 8 hrs/week, £12.71/hr (18+), until 13 Feb 2027. Customer-facing till support, handling purchases/returns, monitoring self-service tills, and general shop floor duties.",
    "fit": "good",
-   "fit_reason": "Matches Ben's customer service experience (POS, cash handling) and is local, part-time, low-barrier retail work with no driving required.",
+   "fit_reason": "Matches Ben's customer service and POS experience, no driving or specialist licences required, and the short seasonal hours suit his immediate availability.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2512,10 +2512,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Seasonal Weekend Sales Assistant at Dunelm in Rotherham, paying £12.71/hr (18+), 8+ hours per week until Feb 2027. Customer-facing retail role involving tills, shop floor assistance, stock replenishment, and some heavy lifting.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Seasonal Weekend Sales Assistant at Dunelm in Rotherham, £12.71/hr (18+), 8+ hrs/week until Feb 2027. Customer-facing retail role covering tills, shop floor, stock replenishment and some heavy lifting.",
    "fit": "good",
-   "fit_reason": "Ben's customer service experience (POS, cash handling) directly matches the till and shop floor duties, and the role requires no licence or qualifications he lacks.",
+   "fit_reason": "Ben's customer service and POS/cash handling experience directly match; no licence or specialist qualification needed, and weekends suit his immediate availability.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2536,10 +2536,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Seasonal Sales Assistant (Self-Service Tills) at Dunelm in Rotherham, £8-£12.71/hr, 16hrs/week until Feb 2027; main duty is overseeing self-service tills and supporting customers at checkout.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Seasonal Sales Assistant (Self-Service Tills) at Dunelm, Rotherham, £8.00-£12.71/hr, 16hrs/week until Feb 2027. Customer-focused till service, stock handling, and shop floor support.",
    "fit": "good",
-   "fit_reason": "Customer service and till/POS experience match, no driving or licences required, and the role suits his immediate availability.",
+   "fit_reason": "Retail/customer service role matches Ben's customer service assistant experience with POS, cash handling, and food safety skills.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2561,10 +2561,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Catering Assistant at Mr. Pretzels kiosk in Meadowhall, Sheffield, paying up to £12.71/hr. Key duty is preparing and serving pretzels, operating the till, and maintaining cleanliness and food hygiene.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Catering Assistant at Mr. Pretzels kiosk in Meadowhall, Sheffield, paying up to £12.71/hr. Key duty involves preparing/serving pretzels, customer service, and till transactions in a fast-paced environment.",
    "fit": "good",
-   "fit_reason": "Ben has directly relevant customer service, till/POS, cash handling, and food safety experience, and no driving or specialist licence is required.",
+   "fit_reason": "Matches his customer service, POS/cash handling, and food safety experience with no licence or certifications required.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2658,10 +2658,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Seasonal Stock and Trade Assistant at Dunelm in Sheffield, paying £8.00–£12.71 per hour for minimum 20hrs/week with 7am starts. Key duty involves stock replenishment, merchandising, deliveries, and customer interaction on the shop floor.",
-   "fit": "maybe",
-   "fit_reason": "No driving licence required and retail/customer skills match, but early 7am starts and full flexibility including weekends may conflict with his availability.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Seasonal Stock and Trade Assistant at Dunelm in Sheffield, paying £8.00–£12.71 per hour with 20+ hrs/week and 7am starts. Involves stock replenishment, deliveries, merchandising, and customer interaction on the shop floor.",
+   "fit": "good",
+   "fit_reason": "Retail customer service and physical stock work match Ben's experience; no licence or specialist qualification required.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2682,10 +2682,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Seasonal Stock and Trade Assistant at Dunelm in Sheffield, £12.71/hr (18+), minimum 16hrs/week with 7am starts including weekends. Involves stockroom work, merchandising, deliveries oversight, and customer interaction on the shop floor.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Seasonal Stock and Trade Assistant at Dunelm in Sheffield, £12.71/hr (18+) / £8.00/hr (16-17), minimum 16hrs/week with 7am starts. Involves stock replenishment, merchandising, deliveries oversight, and customer interaction on the shop floor.",
    "fit": "good",
-   "fit_reason": "Retail stock/customer service role suits his POS and customer service experience; no driving licence or specialist tickets required.",
+   "fit_reason": "Retail role with no driving needed; his customer service experience, physical fitness, and availability suit the flexible shifts and stock/customer duties.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2706,10 +2706,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Full-time TikTok Live Host & Sweet Shop Assistant at Sweet Tradition Ltd, Meadowhall, £12.71/hr, 30–36 hrs/week. Key duty is hosting live selling sessions and serving customers in-store.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Full-time TikTok Live Host & Sweet Shop Assistant at Sweet Tradition Ltd, Meadowhall, from £12.71/hr; role combines on-camera product presenting with in-store retail duties like serving customers and packing orders.",
    "fit": "maybe",
-   "fit_reason": "Customer service and group leadership experience translate well, but confidence on-camera TikTok presenting is the core requirement and is unproven.",
+   "fit_reason": "No licence required and matches his customer service/confidence, but TikTok live hosting experience is preferred and outside his current skill set.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2730,10 +2730,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "GP Receptionist at Archvale (Carrfield Medical Centre, Sheffield), £12.71/hr, full-time permanent. Customer service, appointment booking, and prescription admin in a busy medical practice.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "GP Receptionist at Archvale (Carrfield Medical Centre, Sheffield), £12.71/hr, full-time permanent. Front-line telephone and admin role handling patient queries, appointments, prescriptions and triage documents.",
    "fit": "good",
-   "fit_reason": "Ben has customer service experience with POS and food safety, plus strong communication and organisational skills; no licence or specialist tickets needed.",
+   "fit_reason": "Ben has customer service experience (POS, food safety, allergen protocols) meeting the essential customer-facing criterion, and needs no licence or specific qualifications.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2754,10 +2754,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Receptionist role at mydentist's Albion House practice, Sheffield, paying £12.97/hr, full-time Mon-Fri 8:30am-5:30pm. Involves welcoming patients, managing calls and appointments, and supporting daily practice operations.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Receptionist at mydentist, Albion House practice, Sheffield S4 — £12.97/hr, full-time Mon–Fri 8:30–5:30. Front-desk role greeting patients, managing calls and appointments with computer systems (training provided).",
    "fit": "good",
-   "fit_reason": "Customer service experience with POS, cash handling and phone work plus friendly, organised demeanour match the front-desk duties; no licence or specialist qualification required.",
+   "fit_reason": "Ben's customer service experience (POS, cash handling, food safety) plus friendly manner suit a reception role; no licence or specialist qualification needed.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2778,7 +2778,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -2848,10 +2848,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Catering Assistant role at Mellors Catering Services in Sheffield, 10 hours per week, term-time school hours at £12.71/hr. Involves food prep, serving, event setup, and maintaining food safety/hygiene standards.",
-   "fit": "good",
-   "fit_reason": "Matches Ben's customer service and food safety/allergen experience; no driving licence required (delivery is only \"as required\" and not essential).",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Catering Assistant at Mellors Catering Services, Sheffield, school hours term-time contract, 10 hrs/week at £12.71/hr. Involves food prep, service, event setup, and occasional delivery of catering orders.",
+   "fit": "maybe",
+   "fit_reason": "Matches his customer service and food safety experience, though term-time school hours and the mention of \"delivery\" (he has no driving licence) may pose practical limitations; delivery driving is onl",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2872,10 +2872,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Kitchen Porter/Cleaner role at Greetaly in Sheffield, paying up to £12.71/hour. Entry-level kitchen support role focused on cleaning, basic food prep, and assisting chefs — no experience or driving required.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Kitchen Porter/Cleaner role at Greetaly in Sheffield, paying up to £12.71/hr with discounted food and flexitime. Entry-level kitchen support role focused on cleaning, basic food prep, and assisting chefs in a busy restaurant.",
    "fit": "good",
-   "fit_reason": "Ben has customer service and food safety experience from hospitality work, and this entry-level role needs no licence or qualifications he lacks.",
+   "fit_reason": "No licence or specialist cert required; Ben's customer service and food handling experience align well with kitchen support work.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2896,10 +2896,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Kitchen Assistant role at Olive Mediterranean restaurant on Ecclesall Road, Sheffield (part-time, permanent, in person). Duties include food prep, maintaining cleanliness, health and safety compliance, and supporting the head chef during service.",
-   "fit": "good",
-   "fit_reason": "Ben's customer service and food safety/allergen experience plus positive attitude fit; no licence or certification required, and 1 year experience is preferred not essential.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Kitchen Assistant role at Olive Mediterranean restaurant on Ecclesall Road, Sheffield (part-time, permanent, in-person). Involves food prep, maintaining cleanliness, health & safety compliance, and assisting the head chef during service.",
+   "fit": "maybe",
+   "fit_reason": "No driving required and his customer service/food safety experience is relevant, but 1 year kitchen experience is preferred which he lacks — plausibly filled by his food safety and allergen knowledge.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2920,10 +2920,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Waiting Staff at La Luna restaurant on Ecclesall Road, Sheffield, paying £10.85–£12.71/hr, full-time/part-time with immediate start. Duties include welcoming customers, taking orders, serving food/drinks, taking payments, cleaning, and potentially running front of house in the manager's absence.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Waiting Staff role at La Luna, an independently owned Italian/Mediterranean restaurant on Ecclesall Road, Sheffield (£10.85–£12.71/hr, immediate start). Requires experienced waiter/waitress confident to run front of house in manager's absence, with 2 years front-of-house experience preferred.",
    "fit": "maybe",
-   "fit_reason": "Ben has customer service and food safety experience from his assistant role, but the ad prefers 2 years of specific front-of-house restaurant experience and confidence running shifts solo without the ",
+   "fit_reason": "Ben has customer service and food safety experience but lacks the 2 years of waiting/front-of-house experience they prefer; no driving or licensed role barriers, just experience gap.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2944,10 +2944,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Waitress and Bar Staff role at The Abbey in Woodseats, £12.71/hr, in-person with weekday/weekend shifts. Key duty is taking orders, serving food and drinks, handling cash/POS, and bartending in a busy hospitality setting.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Waitress and Bar Staff at The Abbey in Woodseats, £12.71/hr. Customer-facing hospitality role involving serving food/drinks, POS use, and cash handling in a busy restaurant/bar.",
    "fit": "stretch",
-   "fit_reason": "Requires 2 years hospitality experience and bartending/serving alcohol duties, which exceed Ben's customer service background and are beyond his current skill set.",
+   "fit_reason": "Ad explicitly requires 2 years hospitality experience, which Ben does not have (he has customer service but not restaurant/bar experience), and bartending/drink-mixing duties may need specific trainin",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2968,10 +2968,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Waitress and Bar Staff role at The Abbey in Woodseats, £12.71/hr, 8–25 hours per week. Involves serving food/drinks, taking orders via POS, handling cash, and bartending in a busy hospitality setting.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Waitress and Bar Staff role at The Abbey in Woodseats, paying £12.71/hr, 8–25 hours per week. Involves greeting guests, taking orders, serving food and drinks, handling cash via POS, and bartending in a busy hospitality setting.",
    "fit": "maybe",
-   "fit_reason": "Ben has customer service and POS/cash handling experience, but the ad requires 2 years proven hospitality experience and bartending duties which he doesn't have.",
+   "fit_reason": "Ben has relevant customer service and cash handling experience, and the role doesn't require a driving licence, but 2 years of specific hospitality experience is stated as required which he does not h",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2992,10 +2992,10 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Container Reach Stacker Operative role at Newell & Wright Transport in Sheffield, paying £45,000–£50,000 on a 4 on/4 off shift pattern. The role requires operating heavy-duty container handling equipment and conducting basic maintenance/troubleshooting.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Container Reach Stacker Operative at Newell & Wright Transport in Sheffield, paying £45,000–£50,000 per year on a 4 on/4 off shift pattern. The role involves operating heavy-duty container handling equipment, conducting inspections, and minor mechanical troubleshooting in a freight terminal.",
    "fit": "stretch",
-   "fit_reason": "Requires valid forklift/heavy machinery certification and proven reach stacker experience, which Ben does not have.",
+   "fit_reason": "Requires a valid forklift/heavy machinery operation licence and proven reach stacker experience, both of which Ben lacks.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3040,7 +3040,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3062,10 +3062,10 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Guillotine Operative role at Nationwide Stainless LTD in Sheffield, paying from £27,040/year, cutting stainless steel sheet/plate to size on industrial machinery. The ad asks for prior guillotine/machinery experience, ability to read technical drawings, and prefers forklift and sheet metal experience.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Guillotine Operative role at Nationwide Stainless LTD in Sheffield, paying from £27,040/year, cutting stainless steel sheet/plate using industrial guillotine machinery. Requires previous experience operating a guillotine or similar cutting machinery and knowledge of stainless-steel grades.",
    "fit": "stretch",
-   "fit_reason": "Requires specific sheet-metal/guillotine operating experience and ability to read technical drawings that Ben doesn't have; forklift licence also listed as preferred.",
+   "fit_reason": "Requires prior guillotine/sheet-metal experience and forklift licence that Ben lacks, though his engineering diploma and mechanical maintenance background are relevant.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3086,10 +3086,10 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Medical Service Technician (electronics repair/servicing) at Numed Healthcare, Sheffield — £26,780–£29,355, 37.5 hrs/week, workshop-based. Key point: full manufacturer training provided, experience not essential, but role centres on diagnosing/repairing medical electronics.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Medical Service Technician (electronics repair/servicing) at Numed Healthcare, Sheffield — £26,780–£29,355, 37.5 hrs, no driving required, full training provided. Workshop-based role diagnosing and repairing medical electronic devices with component-level work.",
    "fit": "maybe",
-   "fit_reason": "Ben's Level 3 Engineering Diploma and maritime fault-diagnosis experience give a relevant technical foundation, though he has no specific electronics repair background; training is provided but compon",
+   "fit_reason": "Ben's Level 3 Engineering Diploma and motorman fault-finding experience are relevant, but the role targets electronics/PCB diagnostics which is outside his core background; training is provided though",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3110,7 +3110,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3155,10 +3155,10 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Part-time Caretaker role at Norse Group for Penistone Outdoor Markets in Sheffield, £13.31/hr, 7 hrs/week split shift Thursdays. Duties include assembling/dismantling market stalls, litter picking, emptying bins, and basic repairs/maintenance.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Part-time Caretaker at Norse Group for Penistone Outdoor Markets, Sheffield, £13.31/hr, 7 hrs/week split shift Thursdays. Involves assembling/dismantling market stalls, general maintenance, litter picking, and minor repairs.",
    "fit": "good",
-   "fit_reason": "No driving or licences required; fits his maintenance/mechanical background and willingness for hands-on work, with full training offered.",
+   "fit_reason": "No driving needed; Ben's maintenance/fault-finding background from maritime engineering and his outdoor/instructor experience suit this practical caretaking role.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3179,7 +3179,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -3201,7 +3201,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3223,7 +3223,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3245,7 +3245,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3267,7 +3267,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3289,7 +3289,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3333,10 +3333,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Seasonal Sales & Operations Assistant at Pandora Jewelry in Sheffield, paying £13.25/hour on a fixed-term contract to Jan 2027; retail-focused role split between customer-facing sales and back-of-house operations like stock, click-and-collect, gift wrapping and engraving.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Seasonal Sales & Operations Assistant at Pandora Jewelry in Sheffield, £13.25/hr, fixed-term until late Dec 2026 or early Jan 2027. Customer-facing retail role involving sales targets, gift wrapping/engraving, click-and-collect orders, restocking, and processing deliveries/returns during the busy Christmas period.",
    "fit": "good",
-   "fit_reason": "Ben's customer service assistant experience (POS, cash handling) and flexible availability match this retail role, and no licence or specialist qualification is required.",
+   "fit_reason": "Ben's customer service experience (POS, cash handling, food safety) plus delivery background match the sales and operations duties, and no driving licence or specialist tickets are required.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3357,10 +3357,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Retail Sales Assistant role at American Golf in Sheffield; involves customer service, till operations, merchandising, and meeting sales targets with commission-based earnings.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Retail Sales Assistant at American Golf in Sheffield; pay not stated but commission-based with staff discounts. Key duty is delivering customer service, meeting sales targets, and maintaining product displays/visual standards.",
    "fit": "good",
-   "fit_reason": "Ben has direct customer service and POS/cash handling experience matching the retail duties, and no licence or certifications are required.",
+   "fit_reason": "Ben has direct customer service and POS/cash handling experience, no driving or licences required, and retail/sales skills match.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3375,16 +3375,16 @@
    "interval": null,
    "currency": "GBP",
    "date_posted": "2026-09-04",
-   "description": "**Join Pandora’s team as a Seasonal Sales \\& Operations Assistant!** Rate of pay: ﻿£13\\.25 ﻿ **Please note that this is a fixed\\-term contract ending on either 27th December 2026 or 3rd January 2027, subject to discussion at interview.** Spread joy and make the season sparkle with Pandora as a Seasonal Sales \\& Operations Assistant and enjoy a competitive rate of pay, bonus scheme, generous employee discount, jewellery uniform allowance and other excellent benefits! **The role** From driving sales to ensuring smooth operations, you'll be our brand ambassador who’s going to make the magic happen. You can choose and discuss your preference between two focus areas; just bear in mind that there may be some crossover depending on the day\\-to\\-day needs of the store: **Sales:** As someone who loves to meet new people, you’ll confidently connect with our customers, share their stories, and help them find the perfect gifts for their loved ones. * Front\\-of\\-house excellence: surpass sales targets with effective techniques. * Personalised connections: bond confidently with customers, adapting to their unique preferences and needs. * Product pro: master Pandora knowledge, delivering unforgettable customer experiences. **Operations:** As someone who works well in a busy environment with a focus on working accurately and quickly, you’ll support behind\\-the\\-scenes activities to ensure a strong foundation for excellent customer service. * Get hands\\-on with preparing click\\-and\\-collect orders for our customers. * Keep the flow smooth by managing deliveries, processing returns, and restocking shelves with fresh inventory. * Add a creative touch by wrapping beautiful gifts, engraving jewellery and loading gift cards. Join us if you're an expressive team player who thrives in a busy environment, embodying our core values of dreaming, daring, caring, and delivering! **Important stuff to note** * Contracts will end on either 27th December 2026 or 3rd January 2027, subject to discussion at interview. * You must be available to work on key trading days throughout the duration of your contract, which will include weekends, Christmas Eve, Boxing Day, New Year's Eve, and New Year's Day. We will do our very best to distribute these days fairly, ensuring you won't be required to work all of them during your contract. * You will accrue annual leave in line with your holiday entitlement. As this is our busiest time of year, annual leave will not normally be approved during this period, except in exceptional circumstances. Any accrued but untaken annual leave will either be paid to you in your final pay or, depending on business and trading requirements, you may be required to take some or all of your outstanding annual leave during the final weeks of your employment. **Our generous benefits package includes:** * A generous employee discount * A jewellery uniform allowance to express yourself and your individuality * Eligibility for the store bonus scheme * Access to plentiful retail, hospitality and entertainment discounts * Incentives throughout the season * Retail Trust: get support related to your wellbeing, legal advice, financial guidance, and more **Ready for a challenge? !** Pandora’s recruitment procedures are designed to be transparent and clear for all candidates. This helps us ensure that applicants are provided with a fair and equal opportunity to demonstrate their competencies and skills by removing blocking factors, possible biases, and risks of discrimination. We encourage everyone applying to our vacancies to refrain from adding identity\\-related elements such as a photo, marital status and age. Please understand that due to the large number of applications, we regret that only online applications can be considered. Please click apply to submit your application. **About Pandora** Pandora is the world's largest jewellery brand, specialising in the design, crafting and marketing of accessible luxury jewellery made from high\\-quality materials. Each piece is created to inspire self\\-expression, allowing people to share their stories and passions through meaningful jewellery. Pandora jewellery is sold in more than 100 countries through 7,000 points of sale, including more than 2,800 concept stores. Headquartered in Copenhagen, Denmark, Pandora employs around 39,000 people worldwide and crafts its jewellery with 100% recycled silver and gold. Pandora is committed to leadership in sustainability and has set out to halve greenhouse gas emissions across its value chain by 2030\\. Pandora is listed on the Nasdaq Copenhagen stock exchange and generated revenue of DKK 32\\.5 billion (EUR 4\\.4 billion) in 2025\\. ### **Job Details** Job Title Seasonal Sales \\& Operations Assistant Position Type Date Posted 09/04/2026 Career Area Retail Location(s) Unit 21 The Arcade, Sheffield, England S9 1EN, United Kingdom Job ID Reference Number Facebook X LinkedIn Email",
+   "description": "**Join Pandora’s team as a Seasonal Sales \\& Operations Assistant!** Rate of pay: ﻿£13\\.25 ﻿ **Please note that this is a fixed\\-term contract ending on either 27th December 2026 or 3rd January 2027, subject to discussion at interview.** Spread joy and make the season sparkle with Pandora as a Seasonal Sales \\& Operations Assistant and enjoy a competitive rate of pay, bonus scheme, generous employee discount, jewellery uniform allowance and other excellent benefits! **The role** From driving sales to ensuring smooth operations, you'll be our brand ambassador who’s going to make the magic happen. You can choose and discuss your preference between two focus areas; just bear in mind that there may be some crossover depending on the day\\-to\\-day needs of the store: **Sales:** As someone who loves to meet new people, you’ll confidently connect with our customers, share their stories, and help them find the perfect gifts for their loved ones. * Front\\-of\\-house excellence: surpass sales targets with effective techniques. * Personalised connections: bond confidently with customers, adapting to their unique preferences and needs. * Product pro: master Pandora knowledge, delivering unforgettable customer experiences. **Operations:** As someone who works well in a busy environment with a focus on working accurately and quickly, you’ll support behind\\-the\\-scenes activities to ensure a strong foundation for excellent customer service. * Get hands\\-on with preparing click\\-and\\-collect orders for our customers. * Keep the flow smooth by managing deliveries, processing returns, and restocking shelves with fresh inventory. * Add a creative touch by wrapping beautiful gifts, engraving jewellery and loading gift cards. Join us if you're an expressive team player who thrives in a busy environment, embodying our core values of dreaming, daring, caring, and delivering! **Important stuff to note** * Contracts will end on either 27th December 2026 or 3rd January 2027, subject to discussion at interview. * You must be available to work on key trading days throughout the duration of your contract, which will include weekends, Christmas Eve, Boxing Day, New Year's Eve, and New Year's Day. We will do our very best to distribute these days fairly, ensuring you won't be required to work all of them during your contract. * You will accrue annual leave in line with your holiday entitlement. As this is our busiest time of year, annual leave will not normally be approved during this period, except in exceptional circumstances. Any accrued but untaken annual leave will either be paid to you in your final pay or, depending on business and trading requirements, you may be required to take some or all of your outstanding annual leave during the final weeks of your employment. **Our generous benefits package includes:** * A generous employee discount * A jewellery uniform allowance to express yourself and your individuality * Eligibility for the store bonus scheme * Access to plentiful retail, hospitality and entertainment discounts * Incentives throughout the season * Retail Trust: get support related to your wellbeing, legal advice, financial guidance, and more **Ready for a challenge? !** Pandora’s recruitment procedures are designed to be transparent and clear for all candidates. This helps us ensure that applicants are provided with a fair and equal opportunity to demonstrate their competencies and skills by removing blocking factors, possible biases, and risks of discrimination. We encourage everyone applying to our vacancies to refrain from adding identity\\-related elements such as a photo, marital status and age. Please understand that due to the large number of applications, we regret that only online applications can be considered. Please click apply to submit your application. **About Pandora** Pandora is the world's largest jewellery brand, specialising in the design, crafting and marketing of accessible luxury jewellery made from high\\-quality materials. Each piece is created to inspire self\\-expression, allowing people to share their stories and passions through meaningful jewellery. Pandora jewellery is sold in more than 100 countries through 7,000 points of sale, including more than 2,800 concept stores. Headquartered in Copenhagen, Denmark, Pandora employs around 39,000 people worldwide and crafts its jewellery with 100% recycled silver and gold. Pandora is committed to leadership in sustainability and has set out to halve greenhouse gas emissions across its value chain by 2030\\. Pandora is listed on the Nasdaq Copenhagen stock exchange and generated revenue of DKK 32\\.5 billion (EUR 4\\.4 billion) in 2025\\. ### **Job Details** Job Title Seasonal Sales \\& Operations Assistant Position Type Date Posted 09/05/2026 Career Area Retail Location(s) Unit 21 The Arcade, Sheffield, England S9 1EN, United Kingdom Job ID Reference Number Facebook X LinkedIn Email",
    "job_url": "https://uk.indeed.com/viewjob?jk=3d98a53e28ededc4",
    "categories": [
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Seasonal Sales & Operations Assistant at Pandora Jewelry in Sheffield, £13.25/hr, fixed-term to Dec 2026/Jan 2027. Customer-facing sales, gift wrapping, engraving, click-and-collect prep, restocking in a busy retail environment.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Seasonal Sales & Operations Assistant at Pandora Jewelry in Sheffield, paying £13.25/hr on a fixed-term contract until Dec 2026/Jan 2027. Retail-focused role combining customer sales, click-and-collect order prep, stock replenishment, gift wrapping and engraving in a busy store environment.",
    "fit": "good",
-   "fit_reason": "Ben's customer service experience (POS, cash handling, food safety) and people skills from instructing roles suit retail sales and operations; no licence or specialist tickets required.",
+   "fit_reason": "Matches Ben's customer service experience with POS, cash handling and food safety, and his flexible, immediately available status suits seasonal retail hours.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3405,10 +3405,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Part-time Sales Assistant at Pandora Jewelry in Sheffield, £13.25/hr, 8 hours per week across 7 days, focused on driving sales KPIs and delivering customer service. Key duty is achieving sales targets through personalised jewellery consultations and till transactions.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Part-time Sales Assistant at Pandora Jewelry in Sheffield, 8 hours/week permanent at £13.25/hr with bonus and staff discount. Customer-facing retail role focused on driving sales targets and delivering brand experiences.",
    "fit": "good",
-   "fit_reason": "Customer service and POS experience match the retail sales role; no driving or specialist licences required.",
+   "fit_reason": "Ben has customer service and POS experience and no licence or certification is required.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3429,10 +3429,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Senior CRM Marketing Manager at UniHomes in Sheffield, £55,000–£65,000; leads CRM strategy across the customer lifecycle using Salesforce Marketing Cloud and manages a team of two.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Senior CRM Marketing Manager at UniHomes in Sheffield (office-based/hybrid), salary £55,000–£65,000. Senior management role leading CRM function, requiring Salesforce Marketing Cloud expertise and team leadership.",
    "fit": "stretch",
-   "fit_reason": "Senior management marketing role requiring Salesforce Marketing Cloud expertise and team leadership — well beyond Ben's experience and qualifications.",
+   "fit_reason": "Senior management marketing role requiring specialist CRM/Salesforce experience far beyond Ben's background in delivery, customer service, and engineering.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3453,7 +3453,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -3475,7 +3475,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -3497,10 +3497,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Nightshift General Assistant (Replenishment) at Parfitts in Sheffield, £15.24/hr, full-time permanent (Sun–Thu 20:30–05:00). Warehouse stock replenishment and merchandising; forklift licence preferred but not essential, so no driving licence required.",
-   "fit": "good",
-   "fit_reason": "Warehouse role with no licence needed; Ben's reliability, physical fitness and customer service experience suit a night-shift replenishment role, and forklift is only preferable.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Nightshift Replenishment General Assistant at Parfitts (employee-owned cash & carry) in Sheffield, £15.24/hr, full-time 40hrs Sun–Thu 20:30–05:00. Forklift licence preferred but not essential; warehouse experience of 1 year preferred but role is otherwise open on work ethic, reliability, and attention to detail.",
+   "fit": "maybe",
+   "fit_reason": "No driving licence or forklift needed; warehouse experience preferred but not required, so Ben's reliability and team-oriented background make it plausible with on-the-job training.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3521,10 +3521,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Shift Manager at Domino's in Sheffield, supervising store operations and leading team members during shifts. Requires prior supervisory experience in food/retail and leadership responsibilities.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Shift Manager role at Domino's in Sheffield (hourly pay with progression, 28 days holiday, staff discount). Involves leading shifts, supervising team, opening/closing store, and ensuring food safety standards.",
    "fit": "stretch",
-   "fit_reason": "This is a management/supervisory role; Ben has customer service experience but no demonstrated supervisory experience, making it a stretch rather than a direct match.",
+   "fit_reason": "This is a supervisor/management role requiring prior supervisory experience in food or retail, which Ben does not have, making it beyond his current level.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3545,10 +3545,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Retail Sales Advisor at Nisbets in Sheffield, 20 hrs/week Mon–Sat at £12.85/hr (£13,368 pro rata). Customer-facing sales, stock replenishment, visual merchandising, and payment processing duties.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Retail Sales Advisor at Nisbets in Sheffield, £12.85/hr, 20 hours over 4 days. Standard retail role focused on customer service, sales targets, stock replenishment, and visual merchandising with no driving required.",
    "fit": "good",
-   "fit_reason": "Ben has customer service and cash handling experience and no specialist licences are needed.",
+   "fit_reason": "Matches Ben's customer service and POS/cash handling experience; part-time hours suit availability and no licence or specialist qualifications needed.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3569,10 +3569,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "In Store Team Member at Domino's in Sheffield, no pay stated — preparing pizzas, serving customers, and supporting store operations with full training provided (no experience required). Flexible shifts including evenings/weekends.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "In Store Team Member at Domino's in Sheffield — no experience required, full training provided, flexible shifts with staff discount and 28 days holiday. Key duty is preparing pizzas, serving customers, and maintaining food hygiene standards in a fast-paced team environment.",
    "fit": "good",
-   "fit_reason": "Matches his customer service, food safety and allergen experience, needs no licence, and offers immediate flexible work in Sheffield.",
+   "fit_reason": "No licence or certification required; matches Ben's customer service, food safety, and cash handling experience from prior retail roles.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3593,10 +3593,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "In-store team member at Domino's in Sheffield, no specific pay stated; preparing pizzas, serving customers, and maintaining food hygiene standards. No driving or licences required, full training provided.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "In Store Team Member at Domino's in Sheffield (pay not stated, flexible hours with staff discount and progression). Entry-level role making pizzas, serving customers, and maintaining food hygiene standards—no experience required, full training given.",
    "fit": "good",
-   "fit_reason": "Matches Ben's customer service and food safety experience; no licence or qualifications he lacks are needed.",
+   "fit_reason": "Matches Ben's customer service and food safety experience, requires no licences or certifications, and is a straightforward entry-level fit.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3617,10 +3617,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "In-store team member role at Domino's in Sheffield (no driving required). Involves pizza prep, customer service, food hygiene, and flexible shift work including evenings/weekends.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "In Store Team Member at Domino's in Sheffield — no driving required, flexible hours with no experience needed. Key duty involves preparing pizzas, serving customers, taking orders/payments, and maintaining food hygiene standards.",
    "fit": "good",
-   "fit_reason": "Matches his customer service and food safety experience; no licence or certification required, and full training is provided.",
+   "fit_reason": "Matches Ben's customer service, food safety and allergen experience; no licence or certification needed.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3641,10 +3641,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "In-store team member at Domino's in Sheffield, preparing pizzas, serving customers, and supporting store operations with flexible shifts and full training provided. No previous experience required; pay not specified but includes holiday, pension and staff discount.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "In Store Team Member at Domino's in Sheffield, preparing pizzas, serving customers, and handling payments with flexible shifts. No experience required — full training provided; aligns with Ben's customer service and food safety background.",
    "fit": "good",
-   "fit_reason": "Matches his customer service and food safety experience, no driving or licences needed, and full training is provided.",
+   "fit_reason": "Matches his customer service, POS, cash handling, and food safety/allergen experience; no licence or certification required.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3665,10 +3665,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "In-store team member at Domino's in Sheffield preparing/serving pizzas and handling customer orders with full training provided. No driving required; prior food service or customer-facing experience would be a plus.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "In Store Team Member at Domino's in Sheffield, hourly pay with flexible hours and staff discount. The role involves pizza prep, customer service, food hygiene, and general store duties with full training provided — no experience required.",
    "fit": "good",
-   "fit_reason": "Matches Ben's customer service, food safety and allergen protocol experience, and requires no licence or qualifications he lacks.",
+   "fit_reason": "Matches Ben's customer service, food safety and allergen experience; no driving or licences needed.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3689,10 +3689,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "In-store team member role at Domino's in Sheffield making pizzas, serving customers, and handling store operations; full training provided with no experience required and flexible shifts. Key duty is preparing food to brand standards while delivering face-to-face customer service in a fast-paced environment.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "In Store Team Member at Domino's in Sheffield, preparing pizzas, serving customers, and maintaining food safety standards with full training provided. No driving required, no experience needed, flexible shifts including evenings and weekends.",
    "fit": "good",
-   "fit_reason": "Matches Ben's customer service, food safety, and cash handling experience with no licence or certifications needed, and full training is provided.",
+   "fit_reason": "Matches his customer service and food safety experience, no licence or certification needed.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3713,10 +3713,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "In-store team member role at Domino's in Sheffield, preparing pizzas, serving customers, and handling store operations with full training provided. Key duty involves food prep and customer service in a fast-paced environment.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "In Store Team Member at Domino's in Sheffield — in-store pizza prep, customer service, and food hygiene duties; no pay stated, flexible shifts including evenings/weekends.",
    "fit": "good",
-   "fit_reason": "Matches his customer service and food safety experience; no licence or certification needed, and training is provided.",
+   "fit_reason": "Matches his customer service and food safety experience, no driving or licences required, and full training is provided.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3737,10 +3737,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Barista role at Costa Coffee in Sheffield, paying £13.12–£14.12/hr with flexible shifts and staff perks. Customer-facing coffee service requiring teamwork, communication, and adaptability.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Barista at Costa Coffee in Sheffield, paying £13.12–£14.12 per hour with flexible shifts and benefits; involves serving coffee, delivering customer experience, and maintaining store standards.",
    "fit": "good",
-   "fit_reason": "Ben's customer service and food handling experience match; no driving or specialist licences required.",
+   "fit_reason": "Customer-facing food service role matches his customer service and food safety experience; no licence or certification required.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3761,10 +3761,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Barista role at Costa Coffee in Sheffield, paying £13.12–£14.12 per hour with flexible shifts and staff perks. Key duty is serving coffee, maintaining store standards, and delivering great customer experiences.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Barista role at Costa Coffee in Sheffield, £13.12–£14.12 per hour plus perks. Customer-facing coffee preparation, maintaining store standards, and team collaboration — no licence or barista experience required.",
    "fit": "good",
-   "fit_reason": "Customer service and food safety experience match; no licence or specialist qualifications required.",
+   "fit_reason": "Ben's customer service and food safety experience directly match, no licences needed, flexible shifts suit immediate availability.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3785,10 +3785,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Server/front-of-house multi-tasker at D V Hotel Cafe & Bar in Sheffield; part-time, permanent/temp-to-perm (pay figure appears garbled as £7.55-£12.21 per year, likely hourly). Role involves greeting guests, taking orders, serving food/drink, handling POS payments, and maintaining cleanliness in a fast-paced cafe/bar.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Front of House Server/Cleaner role at DV Hotel Cafe & Bar in Sheffield, part-time permanent. Involves greeting guests, taking orders, POS/cash handling, food safety compliance, and maintaining dining area cleanliness.",
    "fit": "good",
-   "fit_reason": "Ben's customer service experience covers POS, cash handling, food safety and allergen protocols, directly matching the core requirements; no licence needed.",
+   "fit_reason": "Ben has direct customer service and food safety experience, POS and cash handling skills, and is immediately available for part-time hospitality roles in Sheffield.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3809,7 +3809,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
+   "last_seen": "2026-09-06T11:24:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3831,10 +3831,10 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Mobile Mechanical/Electrical Maintenance Technician at Veolia, up to £37,000 plus company vehicle, mobile across Yorkshire. Requires HNC/ONC, time-served apprenticeship, steam boiler experience, and a full UK driving licence.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Mobile Mechanical/Electrical Maintenance Technician at Veolia, up to £37,000 plus company vehicle, mobile across Yorkshire (43 hrs, Mon–Fri, 1 in 8 call-out). Requires HNC/ONC, time-served apprenticeship, boiler experience, and a full clean UK driving licence.",
    "fit": "stretch",
-   "fit_reason": "Requires a full UK driving licence (company vehicle, mobile role), plus HNC/ONC and a recognised apprenticeship which Ben lacks.",
+   "fit_reason": "Requires a full UK driving licence (which Ben does not have) plus HNC/ONC qualification and a time-served apprenticeship, exceeding his Level 3 Engineering Diploma.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3855,16 +3855,565 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Aquarium Technician (part-time, permanent) at University of Sheffield, £23,061 pro rata, on-site in Sheffield. Hands-on role maintaining 3,000+ zebrafish tanks with manual cleaning, feeding, health checks, and precise chemical/log record-keeping under regulated animal welfare standards.",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Aquarium Technician (part-time, permanent) at University of Sheffield, £23,061 pro rata, on-site in Sheffield. Hands-on role maintaining 3,000+ zebrafish tanks: manual cleaning, feeding, health checks, logging and preparing chemical solutions.",
    "fit": "maybe",
-   "fit_reason": "Ben's engineering and maintenance background plus methodical working style suit the technical, detail-focused tank care, though he lacks specific aquarium/animal husbandry experience which would likel",
+   "fit_reason": "Ben's engineering background shows he can handle precise, methodical physical work and detailed logging, but aquarium-specific husbandry or animal-care experience is not in his profile, so some on-the",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=b6b92843bfc43eda": {
+   "title": "Courier/Delivery Driver",
+   "company": null,
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime, fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-25",
+   "description": "Job Description: Self\\-Employed Final Mile Courier Location: Sheffield City Region (covering Sheffield, Rotherham, Carlton , Dinnington , Doncaster) Pay Rate: £19\\.00 – £25\\.00 per hour (Gross Revenue) Status: Self\\-Employed Couriers – URGENT HIRING Job Purpose Deliver parcels and e\\-commerce goods from a local delivery unit directly to customers across South Yorkshire. This is a fast\\-paced, high\\-volume multi\\-drop role requiring speed, efficiency, and excellent local navigation. Key Responsibilities Load \\& Sequence: Sort and load daily parcel volume into your delivery vehicle at the regional hub. Route Delivery: Navigate multi\\-drop routes across Sheffield, Barnsley, Rotherham, and Doncaster using a smartphone delivery app. Customer Service: Safely deliver parcels to homes and businesses, obtaining digital signatures or photo proof of delivery. Requirements Full UK Driving Licence . Must have own car or van with personal insurance on it. Ownership of a smartphone with mobile data. Must pass a basic criminal background check (DBS) and drug/alcohol screening. What We Offer Business Insurance Provided: Covered under our corporate fleet policy while on duty (no expensive personal courier insurance required). Immediate Starts: Accelerated onboarding to get you on the road this week. Flexibility: Flexible hours of your choice Pay: From £150\\.00 per day Benefits: Casual dress Flexible schedule Free parking On\\-site parking Paid training Referral programme Work Location: In person Pay: £12\\.71\\-£21\\.85 per hour Expected hours: 37\\.0 – 45\\.0 per week Benefits: * Casual dress * Flexible schedule * Free parking * Paid training * Referral programme Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=b6b92843bfc43eda",
+   "categories": [
+    "Driving & Logistics"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=850d13f1d6ec1409": {
+   "title": "Owner Driver – Self-Employed Courier Driver",
+   "company": "Safe And Secure Logistics",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-24",
+   "description": "**Contract Type:** Temporary / Self\\-Employed Contract **Location:** Sheffield \\& surrounding areas **Vehicle:** Own van required **Payment:** Per completed job \\| Customer\\-payment terms apply About the Opportunity Are you an **owner\\-driver with your own van** looking for additional work and a reliable source of courier jobs? We are looking for professional, reliable **self\\-employed van drivers** based in **Sheffield and within approximately 30 miles** to join our growing delivery network. We take care of **finding and managing the work**, so you can focus on what you do best — delivering safely, professionally and on time. What We Offer * **Regular courier and delivery opportunities** * Jobs available across Sheffield and surrounding areas * A variety of delivery work depending on your vehicle and availability * **Job management and customer coordination handled by us** * Flexible opportunities suitable for owner\\-drivers looking for additional work * Opportunity to build a longer\\-term working relationship based on performance and availability * **Paid per completed job** according to the agreed job rate How It Works Once you are onboarded, we will source and allocate suitable jobs to you. We will manage the **job booking, customer communication and job administration**, while you will be responsible for completing the assigned delivery professionally and within the required timeframes. **Please note:** Payment is made once we receive payment from the customer. Our normal customer payment cycle is approximately **45 –60 days**, so drivers must be comfortable with these payment terms. Driver Responsibilities You will be responsible for: * Providing and maintaining your own suitable van * Holding appropriate **hire \\& reward / courier insurance** for the work undertaken * Fuel, servicing, maintenance, road tax and other vehicle\\-related expenses * Ensuring your vehicle is clean, safe and roadworthy * Completing deliveries safely and on time * Maintaining professional communication with customers and our operations team * Providing accurate delivery documentation / proof of delivery where required * Complying with all applicable UK driving and courier regulations What We're Looking For We'd love to hear from you if you are: * An experienced **owner\\-driver / self\\-employed courier driver** * Based in **Sheffield or within approximately 30 miles** * In possession of your **own van** * Reliable, punctual and professional * Customer\\-focused with good communication skills * Comfortable using a smartphone for job updates and communication * Able to work independently and manage your time effectively * Fully insured and legally authorised to undertake courier work in the UK **Van size:** Small, SWB, LWB, Luton and XLWB drivers are welcome to enquire, subject to available work. Important Information This is a **temporary self\\-employed contract opportunity**, not a permanent employed position. You will be an independent contractor and will be responsible for your own **insurance, fuel, vehicle costs, taxes and other business expenses**. We do not pay an hourly wage or salary; payment is made for the jobs successfully completed, at the agreed rate. Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=850d13f1d6ec1409",
+   "categories": [
+    "Driving & Logistics"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "fit": "stretch",
+   "fit_reason": "licence/own-vehicle requirement",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=3dc69e8a586790a1": {
+   "title": "Courier Driver",
+   "company": null,
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime, fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-14",
+   "description": "**Job Description: Self\\-Employed Final Mile Courier** **Location:** Sheffield City Region (covering Sheffield, Barnsley, Rotherham, \\& Doncaster) **Pay Rate:** £19\\.00 – £25\\.00 per hour (Gross Revenue) **Status:** Self\\-Employed Couriers – **URGENT HIRING** **Job Purpose** Deliver parcels and e\\-commerce goods from a local delivery unit directly to customers across South Yorkshire. This is a fast\\-paced, high\\-volume multi\\-drop role requiring speed, efficiency, and excellent local navigation. **Key Responsibilities** * **Load \\& Sequence:** Sort and load daily parcel volume into your delivery vehicle at the regional hub. * **Route Delivery:** Navigate multi\\-drop routes across Sheffield, Barnsley, Rotherham, and Doncaster using a smartphone delivery app. * **Customer Service:** Safely deliver parcels to homes and businesses, obtaining digital signatures or photo proof of delivery. **Requirements** * Full UK Driving Licence . * Must have own car or van with personal insurance on it. * Ownership of a smartphone with mobile data. * Must pass a basic criminal background check (DBS) and drug/alcohol screening. **What We Offer** * **Business Insurance Provided:** Covered under our corporate fleet policy while on duty (no expensive personal courier insurance required). * **Immediate Starts:** Accelerated onboarding to get you on the road this week. * **Flexibility:** Flexible hours of your choice Pay: From £150\\.00 per day Benefits: * Casual dress * Flexible schedule * Free parking * On\\-site parking * Paid training * Referral programme Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=3dc69e8a586790a1",
+   "categories": [
+    "Driving & Logistics"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=7c747cf597c3d29c": {
+   "title": "Car or Van Delivery Driver",
+   "company": "Linear Link Ltd",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-13",
+   "description": "**Barnsley Depot \\| Delivering across Sheffield** Linear Link Ltd is looking for reliable self\\-employed drivers to join a growing parcel delivery operation from our Barnsley depot, delivering into allocated Sheffield postcode areas. Whether you’re an experienced multi\\-drop courier with your own van or have a car and are looking to get into delivery work, we’d be interested in hearing from you. What can you earn? Drivers are paid 90p per successful delivery stop, so the more stops you complete, the more you earn. As a guide: Newer drivers / car routes Around 100–140 stops \\= £90–£126 per day Experienced drivers / larger car or small van Around 140–180 stops \\= £126–£162 per day Experienced multi\\-drop drivers / vans Around 180–220 stops \\= £162–£198 per day High\\-volume routes may offer the opportunity to earn £200\\+ per day. These aren’t guaranteed day rates — your earnings depend on the number of stops available and successfully completed. We’ll aim to allocate routes based on your experience and vehicle capacity, so we aren’t expecting someone new to multi\\-drop delivery to walk in and complete 200 stops on their first day. What does the job involve? You’ll collect your allocated parcels from our Barnsley depot, load your vehicle and deliver within an assigned Sheffield postcode area. We’re aiming to keep routes compact and postcode\\-focused, rather than sending drivers all over the region. Work is expected to be available Monday to Saturday, subject to customer volumes. What you’ll need \\* Your own car or van \\* Full UK driving licence \\* Appropriate courier/delivery insurance \\* Smartphone with mobile data \\* A reliable and professional attitude \\* Comfortable working independently Multi\\-drop experience is great, but it isn’t essential. If you’re new to parcel delivery but you’re reliable, organised and willing to learn, we’d still like to hear from you. Why Linear Link? We’re not looking to build a revolving door of drivers. We’re building a new high\\-volume operation and want to develop a reliable core group of regular subcontractors as volumes increase. Drivers who are dependable and perform well will be prioritised for regular routes as more volume and postcode areas become available. Pay 90p per successfully completed delivery stop. If several parcels are delivered to the same address, this counts as one stop. This is a self\\-employed subcontractor position, so you’ll be responsible for your own vehicle, fuel, insurance and tax. Interested? Apply through Indeed and tell us: Where you’re based, what vehicle you drive, whether you have previous delivery experience, and how many days per week you’re looking for. Pay: £110\\.00\\-£180\\.00 per day Application question(s): * The depot is based in Barnsley but the route/deliveries will be based in Sheffield, will you be able to reliably commute? * Do you have any prior delivery experience? * A Car or a Van will be required to complete the role, which one will you be applying with? Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=7c747cf597c3d29c",
+   "categories": [
+    "Driving & Logistics"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=d4b41149aad792a8": {
+   "title": "Apprentice 7.5t Urban Driver",
+   "company": "GTG training",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-05-08",
+   "description": "**An exciting new Urban Driver Apprentice \\- 7\\.5t Driver opportunity at DX** **About DX** DX are a market leading provider of a wide range of delivery services, including parcel freight, secure, courier and logistics services. They provide a wide range of specialist delivery services to both business and residential addresses across the UK and Ireland. We have three divisions, DX Freight, DX Express and DX Logistics. Our approach is straight\\-forward and no\\-nonsense. Their goal is to Deliver Exactly to our customers’ requirements. Key to what they do at DX is its people and they are incredibly proud of the dedicated team they have built. At DX, they are committed to ensuring equality of opportunity for all irrespective of race, gender, disability, belief, sexual orientation, age or socio\\-economic background. **Job Description** The Urban Driver Apprenticeship is a 8\\-month programme where apprentices will learn all aspects of professional driving as well as gaining their Category C1 (7\\.5t) Licence. This is with a view to moving to a full time 7\\.5t Driver position within DX upon completion of the apprenticeship. Responsibilities include non\\-driving duties which are relevant to the job role including office work, drivers’ mate and warehousing during training. Apprentices will also undertake a range of training alongside their daily role which will provide a broad range of knowledge about the job, as well as building their skills and behaviours. Apprentices will obtain CPC licences as part of the Urban Driver Apprentice programme and is a legal requirement to drive LGV vehicles. **Key Tasks/Areas of responsibility** * Represent DX in a professional manner at all times * Carry out all tasks required as part of the apprenticeship training * Drive vehicles in a safe and legal manner ensuring compliance with all legal and company requirements at all times * All daily checks are undertaken ensuring defects are immediately reported and correct paperwork completed * Ensure all products are scanned using DX scanning equipment * Ensure all deliveries are loaded safely prior to leaving the depot * Observe DX procedures and policies at all times * Manage your routing to ensure premium and timed deliveries are achieved * Ensure the correct equipment and PPE, (personal protective equipment) is in good order and used at all times * Ensure all delivery and on road issues are reported to the traffic office immediately * Ensure the customer receives their deliveries in excellent condition every time * Deal with any customer issues in a polite and effective manner * Ensure collections are made in line with given instructions and times **Qualifications/Entry Requirements** Apprentices must be 18 or over and have a minimum of 12 months UK driving experience, and as a minimum have; * Category B licence **Benefits:** At DX, our people are the foundation of our success. We reward our employees by providing different benefits at various stages of your employment with us, the most recent benefit we have added is Company Healthcare, which you become eligible for after 6 months of continuous service. This is a company paid for scheme at Level 1 allowing you to claim back for dental care and optician fees amongst other things. This is just one of the benefits that come with working at DX, the others are listed below: * Competitive Rates of Pay * Life Assurance * Enhanced Maternity \\& Paternity * Holidays: 20 days increasing with length of service \\+ bank holidays * Long Service Recognition scheme * Company Pension Scheme * Employee Assistance programme including 24/7 Virtual GP * DX Discounts Portal * Excellent opportunities for career progression There are a number of steps to go through to be accepted as an apprentice – if your application is being considered, please be aware that you will have to speak to our partner, GTG, who deliver the training. They will ask you to complete some checks, submit some information and complete an English and Numeracy assessment. If you are successful at this stage, you will then be called forward for an interview. We look forward to hearing from you!",
+   "job_url": "https://uk.indeed.com/viewjob?jk=d4b41149aad792a8",
+   "categories": [
+    "Driving & Logistics"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "fit": "stretch",
+   "fit_reason": "licence/own-vehicle requirement",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=4562174542facfa0": {
+   "title": "Team Member",
+   "company": "NEXT",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-05",
+   "description": "**SHIFTS YOU ARE APPLYING FOR:** **9\\.75hrs p/w; Sun 10:30 \\- 15:00; Sat 12:00 \\- 17:30** Working as part of a fast\\-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having a great attitude to work, we will invest in you and your development from day one. Flexible working options are available. **About the Role:** To be a successful Sales Team Member you will: * Offer fast and friendly service at all times, helping our customers to find the perfect products * Share your passion and knowledge about our amazing products * Work in all areas of the store, including sales floors, stockrooms and processing deliveries * Take control of your own development We'll offer amazing benefits (see further list below) **About You:** * A great communicator who’s always looking for ways you can help * Friendly, calm and efficient – even on your busiest days * Excited about the challenge of a varied and fast\\-paced job * Flexible, supportive and always ready to go the extra mile In accordance with Home Office guidance successful candidates will be required to evidence their right to work in the UK before commencement of employment. This role is not one we would typically consider for sponsorship under the Skilled Worker route due to, for example, the relevant Home Office requirements on skills level not being met. Candidates are therefore encouraged to consider their own right to work options without Next sponsorship **What’s Next** As part of your application you will be required to complete an online assessment. This will involve a Working with Numbers Assessment and a Retail Scenarios Assessment. Our in\\-store recruitment team will then review the successfully completed applications and those that match the job criteria closest will be contacted to arrange an initial Interview so we can have a chat to find out more about you. In order to apply for this position you must not have had an unsuccessful online assessment (as detailed above) in the last 6 months. Best of luck! \\#Assistant \\#Customer \\#Shop \\#Associate \\#Consultant \\#Delivery \\#Colleague * Recognition and rewards for doing a great job and achieving great results * 25% off most NEXT, MADE\\*, Lipsy\\*, Gap\\* and Victoria's Secret\\* products (\\*when purchased through NEXT) * 10% off most partner brands \\& up to 15% off Branded Beauty * 60% off a generous (optional) working wardrobe allowance to buy clothes to wear for work (minimum 6 week contract) * Early VIP access to sale stock * Hot deals and exclusive offers from over 3,500 retailers through our online benefits platform * Access to fantastic discounts at our Staff Shops * Sharesave scheme * Access a digital GP and other free health and wellbeing services * Life assurance * You can register for a discounted health plan for you and your family * Financial Wellbeing \\- Save, track and enhance your financial wellbeing * Apprenticeship \\- Earn, learn and gain a qualification (England stores only) * Direct to Work \\- Discount online and instore, collect your items the next day for free from your place of work or local store * Support Networks \\- Access to Network Groups to empower and celebrate each other Wellhub \\- Discounted flexible monthly gym memberships, with apps, PT sessions and more * Conditions apply to all benefits. These benefits are discretionary and subject to change. We aim to support all candidates during the application process and are happy to provide workplace adjustments when necessary. Should you need support with your application due to a disability or long\\-term condition, feel free to get in touch with us by email careers@next.co.uk (please include 'Workplace Adjustments' in the subject line), or call us on 0116 479 2223 / 0044 116 479 2223 (line opening times are Monday to Thursday 9am \\- 5pm; Friday 9am \\- 4\\.45pm; Saturday 9am \\- 5pm \\& Sunday 9am \\- 4pm. Excludes bank holidays). You know Next, but did you know we’re a FTSE\\-100 retail company employing over 44,000 people across the Next group. We’re the UK’s 2nd largest fashion retailer and for Kidswear we’re the market leader. At the last count we have over 450 stores, plus the Next Online and it’s now possible to buy on\\-line from over 80 countries around the world! So we’ve gone global!",
+   "job_url": "https://uk.indeed.com/viewjob?jk=4562174542facfa0",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Team Member at NEXT in Sheffield, 9.75 hrs/week weekend shifts (Sun & Sat), no driving required — customer service and stock operations on the shop floor. Entry-level retail role with no licence or experience prerequisites, just a great attitude and numeracy/retail assessments.",
+   "fit": "good",
+   "fit_reason": "Ben's customer service, cash handling, and availability match this shop-floor role perfectly, and it requires no licence or qualifications he lacks.",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=f0f06a8f86134bad": {
+   "title": "Team Member",
+   "company": "NEXT",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-05",
+   "description": "**SHIFTS YOU ARE APPLYING FOR:** **5\\.50hrs p/w; Sun 11:00 \\- 17:00** Working as part of a fast\\-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having a great attitude to work, we will invest in you and your development from day one. Flexible working options are available. **About the Role:** To be a successful Sales Team Member you will: * Offer fast and friendly service at all times, helping our customers to find the perfect products * Share your passion and knowledge about our amazing products * Work in all areas of the store, including sales floors, stockrooms and processing deliveries * Take control of your own development We'll offer amazing benefits (see further list below) **About You:** * A great communicator who’s always looking for ways you can help * Friendly, calm and efficient – even on your busiest days * Excited about the challenge of a varied and fast\\-paced job * Flexible, supportive and always ready to go the extra mile In accordance with Home Office guidance successful candidates will be required to evidence their right to work in the UK before commencement of employment. This role is not one we would typically consider for sponsorship under the Skilled Worker route due to, for example, the relevant Home Office requirements on skills level not being met. Candidates are therefore encouraged to consider their own right to work options without Next sponsorship **What’s Next** As part of your application you will be required to complete an online assessment. This will involve a Working with Numbers Assessment and a Retail Scenarios Assessment. Our in\\-store recruitment team will then review the successfully completed applications and those that match the job criteria closest will be contacted to arrange an initial Interview so we can have a chat to find out more about you. In order to apply for this position you must not have had an unsuccessful online assessment (as detailed above) in the last 6 months. Best of luck! \\#Assistant \\#Customer \\#Shop \\#Associate \\#Consultant \\#Delivery \\#Colleague * Recognition and rewards for doing a great job and achieving great results * 25% off most NEXT, MADE\\*, Lipsy\\*, Gap\\* and Victoria's Secret\\* products (\\*when purchased through NEXT) * 10% off most partner brands \\& up to 15% off Branded Beauty * 60% off a generous (optional) working wardrobe allowance to buy clothes to wear for work (minimum 6 week contract) * Early VIP access to sale stock * Hot deals and exclusive offers from over 3,500 retailers through our online benefits platform * Access to fantastic discounts at our Staff Shops * Sharesave scheme * Access a digital GP and other free health and wellbeing services * Life assurance * You can register for a discounted health plan for you and your family * Financial Wellbeing \\- Save, track and enhance your financial wellbeing * Apprenticeship \\- Earn, learn and gain a qualification (England stores only) * Direct to Work \\- Discount online and instore, collect your items the next day for free from your place of work or local store * Support Networks \\- Access to Network Groups to empower and celebrate each other Wellhub \\- Discounted flexible monthly gym memberships, with apps, PT sessions and more * Conditions apply to all benefits. These benefits are discretionary and subject to change. We aim to support all candidates during the application process and are happy to provide workplace adjustments when necessary. Should you need support with your application due to a disability or long\\-term condition, feel free to get in touch with us by email careers@next.co.uk (please include 'Workplace Adjustments' in the subject line), or call us on 0116 479 2223 / 0044 116 479 2223 (line opening times are Monday to Thursday 9am \\- 5pm; Friday 9am \\- 4\\.45pm; Saturday 9am \\- 5pm \\& Sunday 9am \\- 4pm. Excludes bank holidays). You know Next, but did you know we’re a FTSE\\-100 retail company employing over 44,000 people across the Next group. We’re the UK’s 2nd largest fashion retailer and for Kidswear we’re the market leader. At the last count we have over 450 stores, plus the Next Online and it’s now possible to buy on\\-line from over 80 countries around the world! So we’ve gone global!",
+   "job_url": "https://uk.indeed.com/viewjob?jk=f0f06a8f86134bad",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Team Member (sales floor/stockroom) at NEXT in Sheffield, 5.5 hrs/week Sunday shift, no driving required. Entry-level retail role focused on customer service, stocking, and product knowledge with on-the-job training.",
+   "fit": "good",
+   "fit_reason": "Ben's customer service experience and availability suit this flexible part-time retail role with no licence or specific qualifications needed.",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=21f1f86b83838194": {
+   "title": "Kitchen Porter UK",
+   "company": "Zizzi Restaurants",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-05",
+   "description": "**Our story:** -------------- Zizzi started in 1999 with a little wine, a big oven, and this huge dream to serve Italian, our way. You'll know us for bubbly pizzas, fresh pasta, and good times. We don't do bland food, people or restaurants. **About the role:** ------------------- As a Zizzi Kitchen Porter, you'll create the organised, clean workspace that lets our chefs and food shine. We're looking for a reliable teammate who loves the fast\\-paced energy of a buzzing kitchen and knows that a spotless station is the secret behind every perfect plate. If you love food, being part of a kitchen team, and taking pride in standards, let's talk. **What you'll do:** ------------------- * Wash plates, cutlery, and kitchen equipment quickly and safely to keep our high\\-volume services running smoothly. * Help keep the kitchen spotless, making sure every station hits our strict hygiene standards. * Assist the kitchen team with basic food prep and ensure all equipment is clean and ready when needed. * Follow our simple safety guidelines to keep the kitchen organised and a great place to work for everyone. * Jump in to help your teammates wherever needed to keep the restaurant energy high. **What's in it for you:** ------------------------- * Flexible hours and the guaranteed stability of a minimum\\-hour contract. * Clear pathways to train up to a Chef or Kitchen Management role. * Access your earned wages whenever you need them with Stream. * Free meals when you're on shift, and 50% off when you aren't. * 24/7 Virtual GP and Employee Assistance Program. * Discounts on travel, cinema, and top brands. **What we're looking for:** --------------------------- * Zero experience needed. Just energy, a strong work ethic, and a willingness to get stuck in. * A genuine interest in how a busy kitchen works and a love for great Italian food. * A hardworking team player who stays reliable and positive when the kitchen gets busy. * Someone who takes genuine pride in maintaining high food safety standards. * Flexible and ready to support the team during our busiest times, including evenings and weekends. **Why you'll fit right in:** ---------------------------- We want you in the kitchen, as you are, from day 1\\. We love individuality \\- bold tattoos, bad singing, big laugh, brave choices. We're a Times Top 500 Employer because we celebrate everyone's differences. While we're on that, we're also the only Italian restaurant in the FT's UK's Best Employers 2026 Special Report (all about working conditions, salary, potential for development and company image).",
+   "job_url": "https://uk.indeed.com/viewjob?jk=21f1f86b83838194",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Kitchen Porter at Zizzi Restaurants in Sheffield (no pay stated); zero experience needed, washing equipment and keeping kitchen clean in a fast-paced restaurant.",
+   "fit": "good",
+   "fit_reason": "No experience or licence required; aligns with Ben's customer service/food safety background and immediate availability.",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=10f623d1d44ddda7": {
+   "title": "Barista",
+   "company": "Costa Coffee",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-05",
+   "description": "At Costa Coffee, we craft great coffee and memorable experiences. As a Barista, you’ll bring energy, warmth and skill to every shift. We also offer flexible shifts to suit both your needs and the store’s. Why Costa * £13\\.12 \\- £14\\.12 per hour (location dependent) * 50% discount on all food and drink in Costa\\-owned stores * Matched pension up to 10% * Coca\\-Cola share scheme * Financial Support Fund * More perks at: https://bit.ly/costaperks We’re committed to diversity, equity and inclusion, and our values, Discipline to Deliver, Passion for Progress, Win with Warmth, Courage to Challenge and Trusted Team Player, shape how we work. Through the Costa Foundation, you’ll also support communities locally and globally. What you’ll do * Serve great coffee and deliver an energising customer experience * Master our menu and maintain high standards * Keep the store clean, welcoming and running smoothly * Work collaboratively as a team player to make the store the best it can be Who you are **We’re looking for someone with:** * Resourcefulness, adaptability, and a positive, can\\-do attitude * Accountability and pride in delivering quality * A calm, composed approach and great communication skills * A genuine people focus and enthusiasm for working with others Apply through a quick Sapia.ai chat. \\- When you apply, you’ll start with a quick, casual chat via Sapia.ai, just a few simple questions you can answer anytime, anywhere. This AI\\-powered tool helps us assess key traits and skills fairly by comparing your responses to the role’s requirements. Don’t worry there will always be human involvement in the review of your responses and in making the final hiring decision. **For adjustments, contact:** costa.recruitment@costacoffee.com",
+   "job_url": "https://uk.indeed.com/viewjob?jk=10f623d1d44ddda7",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Barista role at Costa Coffee in Sheffield, paying £13.12–£14.12 per hour with flexible shifts and staff discounts. Key duties involve serving coffee, maintaining store standards, and delivering great customer experiences as part of a team.",
+   "fit": "good",
+   "fit_reason": "Ben's customer service experience with POS, cash handling, and food safety protocols directly matches, and no driving or specialist licences are required.",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=77310f4faa12490a": {
+   "title": "Barista",
+   "company": "Costa Coffee",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-05",
+   "description": "At Costa Coffee, we craft great coffee and memorable experiences. As a Barista, you’ll bring energy, warmth and skill to every shift. We also offer flexible shifts to suit both your needs and the store’s. Why Costa * £13\\.12 \\- £14\\.12 per hour (location dependent) * 50% discount on all food and drink in Costa\\-owned stores * Matched pension up to 10% * Coca\\-Cola share scheme * Financial Support Fund * More perks at: https://bit.ly/costaperks We’re committed to diversity, equity and inclusion, and our values, Discipline to Deliver, Passion for Progress, Win with Warmth, Courage to Challenge and Trusted Team Player, shape how we work. Through the Costa Foundation, you’ll also support communities locally and globally. What you’ll do * Serve great coffee and deliver an energising customer experience * Master our menu and maintain high standards * Keep the store clean, welcoming and running smoothly * Work collaboratively as a team player to make the store the best it can be Who you are **We’re looking for someone with:** * Resourcefulness, adaptability, and a positive, can\\-do attitude * Accountability and pride in delivering quality * A calm, composed approach and great communication skills * A genuine people focus and enthusiasm for working with others Apply through a quick Sapia.ai chat. \\- When you apply, you’ll start with a quick, casual chat via Sapia.ai, just a few simple questions you can answer anytime, anywhere. This AI\\-powered tool helps us assess key traits and skills fairly by comparing your responses to the role’s requirements. Don’t worry there will always be human involvement in the review of your responses and in making the final hiring decision. **For adjustments, contact:** costa.recruitment@costacoffee.com",
+   "job_url": "https://uk.indeed.com/viewjob?jk=77310f4faa12490a",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Barista role at Costa Coffee in Sheffield paying £13.12–£14.12/hr with flexible shifts and staff discounts. Customer-facing coffee preparation focused on delivering warm service and maintaining store standards.",
+   "fit": "good",
+   "fit_reason": "Ben's customer service and food handling experience match barista duties, and no driving or specialist licences are required.",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=cbb34ace52cf937a": {
+   "title": "Coffee Shop Manager",
+   "company": "SRMG Restaurants Ltd",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-05",
+   "description": "Cornerstone Coffee is an exciting new specialty coffee bar at opening in Sheffield City Centre. We believe in delivering great results and your team and customers will always come first. It’s all about eye for detail and delivering a great experience and work place for everyone. We require a manager with great personality who is passionate about hospitality to run our shop; Someone who is able to take control of the autonomy given to them, and demonstrate a good all\\-round approach in running a dedicated team in a fast\\-paced environment within our beautiful modern Café. We will look to you to maximise the financial performance of your unit as well as individual team members' training and development. You will need to have excellent presentation and front of house skills, be a strong people person, IT literate with great organisational and hospitality business skills. A great opportunity for a career with a new company in which we would love you to progress into more senior management, assisting with new openings along the way and supporting the growth of our business! Key Skills \\& Responsibilities; \\- Energetic and Infectious personality with ability to make someone’s day \\- Have at least 2 year’s proven experience in the coffee shop management \\- Have worked closely with a P\\&L and achieved financial targets. \\- Have a passion to set and maintain standards and always deliver above and beyond expectation. \\- Have abilities to build, motivate and develop teams, leading from the front. · Have a good knowledge of food hygiene, HACCP, managing GP%. \\- Be organised and hard working, flexible and motivated \\- Excellent communication skills \\- Understand stock management, cost management. Requirements: \\- Food safety experience \\- Experience in food preparation \\-Advanced barista skills Job Types: Full\\-time, Permanent Pay: From £32,000\\.00 per year Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=cbb34ace52cf937a",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Coffee Shop Manager at SRMG Restaurants Ltd (Cornerstone Coffee), Sheffield City Centre, £32,000+ per year. Requires at least 2 years' proven coffee shop management experience, advanced barista skills, P&L responsibility, and team leadership.",
+   "fit": "stretch",
+   "fit_reason": "This is a management role requiring 2+ years' coffee shop management, advanced barista skills, and P&L experience — far beyond Ben's customer service background.",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=2aa1404b908509ae": {
+   "title": "Stores Operative",
+   "company": "VOCON ENERGY Ltd -",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-28",
+   "description": "**Company Overview** VOCON Energy Ltd is a newly established engineering business specialising in the installation of smart meters, industrial / commercial meters, electrical fuse upgrades and the provision of gas safe engineers to the utility sector. Our management team has over 40 years’ experience within the industry, having worked their way up from being meter fitters themselves. We have now taken the opportunity to establish our new company with a real focus on our customers and delivering a first\\-class service in the regions we serve. **Job Summary** We are seeking a proactive and reliable Stores Operative to join our dynamic warehouse team. In this vital role, you will be responsible for managing stock levels, handling materials efficiently, and ensuring smooth warehouse operations. Your energetic approach will help maintain a well\\-organized storage environment, support shipping and receiving activities, and contribute to the overall success of our logistics process. This position offers an exciting opportunity for individuals with warehouse experience who are eager to develop their skills in a fast\\-paced, safety\\-conscious setting. **Duties** * Safely load and unload goods using appropriate equipment such as forklifts and manual handling techniques * Delivery driving to various areas in Yorkshire and the North West * Manage stock levels through accurate picking, packing and stock replenishment activities * Operate warehouse management systems and company inventory software to track material movements and update records * Conduct regular stock checks and assist in inventory audits to ensure accuracy * Prepare shipments for dispatch by packing items securely and labelling correctly * Receive incoming deliveries, inspect goods for damage or discrepancies, and store materials appropriately * Maintain a clean, organised warehouse environment by adhering to safety protocols and housekeeping standards * Utilise mechanical knowledge for troubleshooting equipment issues and performing basic maintenance tasks * Support construction\\-related activities by handling specialised materials and understanding project requirements **Skills** * Valid forklift certification with experience operating various types of forklifts safely. Preferred but not essential as training will be provided * Proven experience in materials handling, stocking, picking \\& packing, shipping \\& receiving processes * Ability to perform heavy lifting safely and efficiently during daily operations * Mechanical aptitude with the ability to troubleshoot equipment issues quickly * Previous warehouse or construction experience is highly desirable * Proficient in Microsoft Office (Excel, Outlook, Word) * Excellent organizational skills with attention to detail for inventory accuracy * Good communication skills to collaborate effectively with team members and supervisors **The package** Location: Sheffield \\- S9 5PH – Darnall Hours 8\\.00am – 5\\.00pm Monday to Friday (Includes 30 min unpaid lunch break) Salary: £24,500 to £25,500 – Subject to experience Full PPE provided Company pension If you are a passionate, confident, and hard\\-working individual, VOCON Energy would love to hear from you. Join us as a Stores Operative and become an essential part of our logistics team! Your energy, expertise, and dedication will help us deliver exceptional service while advancing your career in a vibrant warehouse environment. Pay: £24,500\\.00\\-£25,500\\.00 per year Benefits: * Canteen * Company pension * Free parking * On\\-site parking Experience: * Warehouse: 2 years (preferred) Licence/Certification: * Forklift Licence (preferred) * Driving Licence (required) Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=2aa1404b908509ae",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=5c164fd5197e1aa7": {
+   "title": "Tyre Fitter",
+   "company": "Ossett tyres and autos",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-27",
+   "description": "**Job Overview** We are seeking a skilled and reliable Tyre Fitter to join our team. The successful candidate will be responsible for fitting, repairing, and maintaining tyres on a variety of vehicles, ensuring safety and quality standards are met. This role offers an excellent opportunity for individuals with a keen interest in automotive maintenance and a strong work ethic. The position involves working in a fast\\-paced environment where attention to detail and mechanical aptitude are essential. **Duties** * Remove and replace tyres on passenger vehicles, commercial vehicles, and specialised equipment * Inspect tyres for damage, wear, and tear, recommending repairs or replacements as necessary * Use hand tools and power tools to dismount and mount tyres efficiently and safely * Balance tyres to ensure smooth vehicle operation * Assist with tyre repairs, including patching punctures and replacing valves * Maintain a clean and organised work area, adhering to health and safety regulations * Operate heavy lifting equipment to handle tyres safely during installation or removal * Keep accurate records of tyre services performed for each vehicle **Requirements** * Proven mechanical knowledge with experience in tyre fitting or automotive maintenance preferred * Proficiency in using hand tools such as tyre levers, wrenches, and screwdrivers * Experience with power tools used in tyre fitting processes is advantageous * Ability to perform heavy lifting safely, often handling tyres weighing up to 20kg or more * Strong attention to detail with a focus on safety standards * Good organisational skills and the ability to work independently or as part of a team * A valid driving licence is desirable but not essential for all roles within the team This position offers an engaging work environment where technical skills are valued, and professional development is encouraged. We welcome applications from motivated individuals eager to contribute to our reputation for quality service. Job Types: Part\\-time, Permanent Pay: £10\\.00\\-£11\\.00 per hour Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=5c164fd5197e1aa7",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Tyre Fitter at Ossett Tyres and Autos in Sheffield, part-time permanent at £10–£11/hour. The role involves fitting, repairing, and balancing tyres on various vehicles using hand and power tools, with heavy lifting up to 20kg.",
+   "fit": "stretch",
+   "fit_reason": "Tyre fitting typically requires specific trade experience or qualification Ben lacks; while a driving licence is noted as desirable but not essential, the role expects proven mechanical/tyre fitting e",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=4c304a126ed47b47": {
+   "title": "Tyre Fitter",
+   "company": "R&R Cars",
+   "location": "Rotherham, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-26",
+   "description": "**Tyre Fitter – Full Time** **R\\&R Motor Group – Rotherham** We are looking for a **Tyre Fitter** to join our team at R\\&R Motor Group in Rotherham. The main part of the role will be fitting, changing and repairing tyres. We are expanding this side of the business and will shortly be running a **winter tyre promotion**, so we are looking for someone who is confident working with tyres and happy to get stuck in. Although this is **not a mechanic position**, we would favour someone who has some basic mechanical knowledge and is comfortable carrying out straightforward servicing and maintenance work when required. Duties may include: * Fitting and changing tyres * Tyre repairs * Wheel changes and general tyre work * Oil and filter changes * Air and fuel filter replacement * Brake discs and pads * Basic servicing and vehicle maintenance * Assisting our mechanic with straightforward workshop jobs * Keeping the workshop and tyre area tidy and organised You **do not need to be a fully qualified mechanic**. We are more interested in finding somebody practical, reliable and willing to work as part of a small team. Previous tyre\\-fitting experience would be preferred, and any additional experience with basic vehicle servicing would be a big advantage. **Full\\-time position.** **Based in Rotherham.** **Pay negotiable depending on experience.** Pay: From £12\\.71 per hour Expected hours: 40\\.0 per week Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=4c304a126ed47b47",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Tyre Fitter at R&R Motor Group in Rotherham, full-time, from £12.71/hr. Hands-on workshop role fitting/repairing tyres with some basic servicing duties; no mechanic qualification needed but practical experience preferred.",
+   "fit": "maybe",
+   "fit_reason": "Ben has mechanical/engineering background and is practical; tyre-fitting experience is only preferred and training is likely, but the role may suit him well with on-the-job learning.",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=0ceda8443d5d3da4": {
+   "title": "HGV Technician",
+   "company": "Veolia",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-25",
+   "description": "Ready to find the right role for you? **Job Title \\- HGV Technician** **Salary \\-** £44,400 plus Veolia benefits **Overtime available as and when required which may include weekends and Bank Holidays** **\\+** **x1\\.5hr overtime rate** **\\+ x2 Bank Holiday working bonus** **Location** \\- Sheffield Workshop, S4 7ZJ **Hours** \\- Two shift patterns \\- 06:00 \\- 14:30 and 13:30 \\- 22:00 When you see the world as we do, you see the chance to help the world take better care of its resources and help it become a better place for everyone. As a HGV Technician at Veolia no two days are the same, with over 100 types of vehicles within our fleet. Your role is pivotal, ensuring that we can continue to deliver our service across the UK. Whether you’re looking to overhaul the industry, or just do a good day’s work, we know that everyone here at Veolia can help us work alongside our communities, look after the environment, and contribute to our inclusive culture. **What we can offer you;** * 25 days of annual leave plus statutory bank holidays * Access to our people’s pension scheme * Free physiotherapy service * Discounts on everything from groceries to well known retailers * Access to a range of resources to support your physical, mental and financial health; so you can lean on us whenever you need to * Ongoing training and development opportunities, allowing you to reach your full potential * Support in attaining a HGV Licence **What will you be doing?** * Repair and maintain the Veolia Fleet, 3rd party vehicles and plant in accordance with manufacturer and industry standards. * Run diagnostics on vehicles using a range of equipment. * Hydraulic, electrics, pneumatics diagnostics and repairs. * Other general work as required by the Workshop Management Team. * Work within Health \\& Safety regulations and be responsible for your safety and those around you. * Ensure that all necessary paperwork, and time sheets are completed accurately. * Carry out HGV MOT inspections and preparations. * Complete roadside repairs when necessary. **What we're looking for;** * Previous experience as a Mechanical Fitter/Technician with an NVQ Level 3 in Heavy Vehicle Maintenance. * Hold a HGV driving licence (Desireable). * Experience in Electrics, Hydraulics and Welding (Desirable) If you are a skilled Technician we’d still love to hear from you. We can provide upskilling and develop you further once you’ve started with us. **What’s next?** Apply today, so we can make a difference for generations to come. We're proud to have been named as one of The Sunday Times Best Places to Work for three consecutive years in 2023, 2024 and 2025\\. This consistent recognition reflects our commitment to our people, demonstrating that Veolia is not just transforming the environment, we're also transforming what it means to have a rewarding, purposeful career. We're dedicated to supporting you throughout your application journey, offering adjustments where reasonable and appropriate. As a proud Disability Confident Employer, we will offer an interview to applicants with a disability or long\\-term condition who opt\\-in to the Disability Confident scheme, and meet the minimum criteria for our roles. We're also committed to ensuring that all applicants and colleagues receive fair treatment without discrimination on any grounds, aiming to create a diverse and inclusive workplace where everyone can thrive.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=0ceda8443d5d3da4",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "fit": "stretch",
+   "fit_reason": "licence/own-vehicle requirement",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=4cdc4f67f0939cfd": {
+   "title": "Plumber/Bathroom Fitter",
+   "company": null,
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-18",
+   "description": "**Job Summary** we are seeking a reliable plumber/bathroom fitters to join our small business as we continue to grow. must have own van and own tools. **Experience** * Familiarity with welding techniques used in plumbing applications is preferred * Hands\\-on experience with hand tools, power tools, carpentry, and assembly work is essential * Mechanical knowledge of plumbing systems, fixtures, and related equipment is highly desirable * Ability to perform heavy lifting safely as part of daily tasks * Basic math skills for measurements, calculations, and material estimations are required Join us if you’re passionate about creating functional spaces through expert plumbing work! We value safety\\-minded professionals who thrive in hands\\-on environments where every detail counts. This paid position offers the chance to develop your skills further while contributing to high\\-quality project outcomes. Pay: £180\\.00\\-£240\\.00 per day Work Location: On the road",
+   "job_url": "https://uk.indeed.com/viewjob?jk=4cdc4f67f0939cfd",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "fit": "stretch",
+   "fit_reason": "licence/own-vehicle requirement",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=444de7be2ccf00cb": {
+   "title": "Mechanic",
+   "company": "Protyre Autocare",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-13",
+   "description": "Protyre Autocare is looking for an enthusiastic Mechanic/Service Technician to join our growing team. We are a fast\\-growing national automotive company offering superb training and development opportunities. As a Mechanic/Vehicle Technician you are responsible for providing exceptional vehicle servicing and repairs by using latest diagnostic technology and techniques to identify vehicle issues. * **Location:** Protyre Sharrow, new home for Hawleys Tyres * **Salary:** 31\\-33K, 3\\.6K\\+ bonus to be earned * **Must have:** Full Clean UK Driving Licence, held for at least 6 months (age restrictions may apply – points or offences may affect your application) and NVQ Level 3 or equivalent qualification related to the Automotive industry * **Benefits:** A chance to earn a regular bonus. Career development: we offer a variety of fully funded IMI courses. Staff discounts on servicing, tyres, and MOTs. Retail vouchers, Finder’s fee, Life Insurance, Pension, Eye Care Vouchers, Buy/Sell Holiday, Flu Jab, Employee Assistant Program. Long Service Recognition, Enhance Maternity and Paternity, Cycle to Work, Charity Match. Employee of the month; a chance to win a £50 voucher. Centre of the month; a chance to win a race at your local go\\-karting track. About the role: * Ensure the work completed on each vehicle is carried out safely and to a high standard * Completing fast fit tyre fitting whilst being able to use an alignment machine and understand the reading and relevant adjustments * Fitting brakes, exhausts, batteries, suspension and other mechanical products * Carrying out MOT repairs * Adherence to company procedures of the vehicle inspection process * Use relevant diagnostic equipment to ensure diagnostics, testing, and repairs are thorough and to highest quality * Advise on other issues vehicles display, including common issues vehicles of certain makes and ages develop, and offers timelines for future vehicle repair needs * Working in a safe manner and always comply with health \\& safety regulations About you: * NVQ Level 3 or equivalent qualification related to the Automotive industry * Experienced with mechanical and fast fit repairs which may include tyre fitting, exhausts, brakes, suspension and general servicing repairs to a wide range of vehicles * The ability to work as part of a busy team in a fast\\-paced dynamic environment * Experience with diagnostic equipment * Great customer service skills * Full UK Driving Licence **Why join Protyre?** Protyre is the UK’s fastest growing supplier and fitter of tyres and automotive services, fitting over 1 million tyres every year through our fast\\-fit centres. We offer a wide variety of careers from Administrative to Mechanical, Digital to Financial and many other exciting roles within the motor industry. Protyre is the retail branch of The Micheldever Group. Micheldever Tyre Services (MTS) \\#IND\\-HP Job Types: Full\\-time, Permanent Pay: £31,000\\.00\\-£33,000\\.00 per year Benefits: * Cycle to work scheme * Employee discount * Life insurance * On\\-site parking * Referral programme * Store discount Application question(s): * Have you worked for Protyre or MTS before? * Do you have an Level 3 qualification in mechanics or equivalent? Licence/Certification: * Driving Licence (required) Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=444de7be2ccf00cb",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=37d77aa5ce2727dd": {
+   "title": "Mechanic - Hourly",
+   "company": "Stagecoach",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-11",
+   "description": "**Salary** £19\\.70\\-£22\\.70 **Shift PCV/HGV Mechanic/Fitter** * Based at our Ecclesfield Depot * Guaranteed 39 hours per week, with potential for overtime Pay rate: £19\\.70\\-£22\\.70 per hour depending on experience \\| Shift pattern: 5 Over 7 * **Looking for a hands\\-on engineering role where your skills keep your community moving?** We’re on the lookout for a skilled and proactive Shift Fitter/Mechanic to join our team at Stagecoach Yorkshire. Whether you’re an experienced PCV Engineer or come from an HGV, LGV, automotive, or plant maintenance background, you could be just who we’re looking for. As part of a dedicated team, you’ll help maintain a modern and varied fleet to the highest safety and performance standards, supported with training and development as vehicle technology continues to evolve. **What you’ll be doing:** * Carrying out maintenance, diagnostics, and repairs on our fleet in line with Stagecoach and DVSA safety standards * Diagnosing mechanical, electrical and hydraulic faults using modern diagnostic tools * Responding to vehicle issues both in the depot and out on the road * Supporting a safe, efficient, and inclusive working environment Helping to train and support apprentices and junior team members * **What we’re looking for:** * A strong engineering background with a focus on vehicles, PSV, HGV, truck, haulage, plant, rail, automotive, or agricultural * An NVQ Level 3 (or equivalent) in a relevant field is desirable, but we’ll also consider strong practical experience * A proactive approach to safety, teamwork, and delivering high standards Flexibility to work shifts and, occasionally, attend breakdowns away from the depot * **Why choose Stagecoach?** * Full training provided, including health \\& safety, equipment use and cleaning standards * Competitive hourly rates and opportunities for overtime * Benefits including generous pension scheme, 25 days holiday, free travel for you and a companion, and a wide range of discounts including retail \\& leisure * Career progression, many of our colleagues have grown into engineering, driving, and management roles A supportive, inclusive working environment where your wellbeing matters * **Our working environment** Stagecoach is proud to be an inclusive employer. Across our depots, we foster a welcoming environment where everyone is treated with respect and supported to thrive. You’ll have access to employee networks, wellbeing resources, and a 24/7 Employee Assistance Programme to support you and your family. **Join the team that keeps Ecclesfield moving** Click Apply today to start your journey as a Shift Fitter/Mechanic with Stagecoach. We can’t wait to welcome you on board. Stagecoach is proudly an inclusive employer, striving for a culture where everyone can be themselves and where all the differences people bring are truly appreciated. We welcome applications from all, irrespective of gender, ethnicity, race, religion, beliefs, disability, neurodiversity, sexual orientation, or age. **Location:** Stagecoach Ecclesfield Depot Green Lane, Ecclesfield Sheffied S35 9WY",
+   "job_url": "https://uk.indeed.com/viewjob?jk=37d77aa5ce2727dd",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "fit": "stretch",
+   "fit_reason": "licence/own-vehicle requirement",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=cdd82bd73b1b1e31": {
+   "title": "Mechanic",
+   "company": "Protyre Autocare",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-10",
+   "description": "Protyre Autocare is looking for an enthusiastic Mechanic/Service Technician to join our growing team. We are a fast\\-growing national automotive company offering superb training and development opportunities. As a Mechanic/Vehicle Technician you are responsible for providing exceptional vehicle servicing and repairs by using latest diagnostic technology and techniques to identify vehicle issues. * **Location:** Protyre Hillsborough Sheffield, new home for Hawley's Tyres * **Salary:** 30\\-34K, 3\\.6K\\+ bonus to be earned * **Must have:** Full Clean UK Driving Licence, held for at least 6 months (age restrictions may apply – points or offences may affect your application) and NVQ Level 3 or equivalent qualification related to the Automotive industry * **Benefits:** A chance to earn a regular bonus. Career development: we offer a variety of fully funded IMI courses. Staff discounts on servicing, tyres, and MOTs. Retail vouchers, Finder’s fee, Life Insurance, Pension, Eye Care Vouchers, Buy/Sell Holiday, Flu Jab, Employee Assistant Program. Long Service Recognition, Enhance Maternity and Paternity, Cycle to Work, Charity Match. Employee of the month; a chance to win a £50 voucher. Centre of the month; a chance to win a race at your local go\\-karting track. About the role: * Ensure the work completed on each vehicle is carried out safely and to a high standard * Completing fast fit tyre fitting whilst being able to use an alignment machine and understand the reading and relevant adjustments * Fitting brakes, exhausts, batteries, suspension and other mechanical products * Carrying out MOT repairs * Adherence to company procedures of the vehicle inspection process * Use relevant diagnostic equipment to ensure diagnostics, testing, and repairs are thorough and to highest quality * Advise on other issues vehicles display, including common issues vehicles of certain makes and ages develop, and offers timelines for future vehicle repair needs * Working in a safe manner and always comply with health \\& safety regulations About you: * NVQ Level 3 or equivalent qualification related to the Automotive industry * Experienced with mechanical and fast fit repairs which may include tyre fitting, exhausts, brakes, suspension and general servicing repairs to a wide range of vehicles * The ability to work as part of a busy team in a fast\\-paced dynamic environment * Experience with diagnostic equipment * Great customer service skills * Full UK Driving Licence **Why join Protyre?** Protyre is the UK’s fastest growing supplier and fitter of tyres and automotive services, fitting over 1 million tyres every year through our fast\\-fit centres. We offer a wide variety of careers from Administrative to Mechanical, Digital to Financial and many other exciting roles within the motor industry. Protyre is the retail branch of The Micheldever Group. Micheldever Tyre Services (MTS). Job Types: Full\\-time, Permanent Pay: £30,000\\.00\\-£34,000\\.00 per year Benefits: * Cycle to work scheme * Employee discount * Life insurance * On\\-site parking * Referral programme * Store discount Application question(s): * Do you have an Level 3 qualification in mechanics or equivalent? Licence/Certification: * Driving Licence (required) Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=cdd82bd73b1b1e31",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=1398824098a779a1": {
+   "title": "Joiner/Kitchen Fitter",
+   "company": "YGI Ltd",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-08",
+   "description": "**Joiner** required for property refurbishments in Sheffield, South Yorkshire Duties involve Kitchen Installations, Bathroom Joinery, (*Pipe Boxings, Ply Floor,* ) Internal Door Replacements, Wall Boards, Skirting \\& Architrave. Applicants must have CSCS Card, trade experience, own vehicle \\& tools YGI can offer competitive rates of pay and work continuity. For further information or to apply please contact Gary Dakin directly on **07738 545142** Job Type: Full\\-time Experience: * Joinery: 1 year (preferred) * Carpentry: 1 year (preferred) Licence/Certification: * CSCS (preferred) * Driving Licence (preferred) Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=1398824098a779a1",
+   "categories": [
+    "Engineering & Maintenance",
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=aef91fc70a08c8a8": {
+   "title": "Apprentice Fitter",
+   "company": "GAP Group",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-07-30",
+   "description": "**Vacancy details** ------------------- ### **Division** Plant \\& Tools \\- Apprentice ### **Title** Apprentice Fitter ### **Contract type** Permanent Full Time **Vacancy location** -------------------- ### **Location** Stevenson Road, Sheffield, S93XG ### **Location** United Kingdom, North East, Sheffield Plant \\& Tools **Requester** ------------- ### **Number of positions to be provided** 1 **Employment Details** ---------------------- ### **Contract hours** 42\\.50 **About the role** ------------------ ### **The Role** Kick start your career as a Plant Mechanic with GAP Group's award winning Apprenticeship Programme. Earn while you learn, gaining hands on experience alongside our expert fitters while working towards a nationally recognised qualification. With industry leading equipment, structured training, and career progression, this is more than just an apprenticeship, it's the start of a long term career with GAP Group. This is a 3\\-year long course, Monday to Friday 8\\-5pm with no required weekend working. Our Apprenticeship Programme Allows You to Earn as you Learn: Apprentices under 18 joining our programme you will be required to work a maximum of 39 hours per week with a starting salary of £16,224 per annum. Apprentices over 18 joining our programme you will be required to work a maximum of 42\\.5 hours per week with a starting salary of £17,860 per annum. After completion of Year 1, you will automatically move onto the National Minimum Wage for your age group. What You'll be Doing You'll develop the skills and knowledge needed to become a qualified Plant Mechanic, including: * Learning how to service, maintain and repair a wide range of plant machinery and equipment * Replacing components, checking systems, and calibrating instruments * Developing core engineering skills alongside exposure to modern technology, including electro hydraulics and computerised control systems * Working alongside experienced fitters to gain hands on, real world experience in a busy workshop. ### **About You** What do I need to Apply? * Applicants should hold three National 4 qualifications, which must include Maths, English, and either Science or a recognised craft subject. * A genuine interest in plant machinery and engineering * A high level of attention to detail and accuracy * Good communication skills and a willingness to learn On successful completion of the apprenticeship, you can progress into a Workshop Fitter role. From there, GAP offers a variety of career pathways, including a Mobile Fitter, Workshop Foreman and Depot Manager. At GAP, we believe in developing our people and promoting from within. ### **About Us** At GAP, we're proud to be the UK's leading equipment hire provider \\- supporting projects big and small across construction, infrastructure, events, and more. With nearly 200 locations nationwide and a wide range of specialist divisions, we offer exciting opportunities in everything from Plant \\& Tools to Lifting, Survey, Environmental, and Event Services. As a family\\-run business with over 50 years of experience, we believe in doing things the right way. That means: * More investment in our equipment than anyone else in the industry, so you work with the best tools in the game * Remaining fully independent, which lets us make agile, long\\-term decisions that support your success * Offering real career growth, training, and development from day one * Support that values you – from generous holidays to Life Assurance and Health \\& Wellness Support If you're up for the challenge and want to feel valued at work, then we'd love to hear from you! Ready to get started? Upload your CV and complete our short application \\- we'll take it from there. We're proud to be an Equal Opportunities employer and embrace the unique contributions each individual brings. **General information** ----------------------- ### **Reference** 011631 ### **Publication start date** 30/07/2026 ### **Job description** Apprentices ### **Post description** Apprentice Fitter",
+   "job_url": "https://uk.indeed.com/viewjob?jk=aef91fc70a08c8a8",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "fit": "stretch",
+   "fit_reason": "3+ years experience required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=c65ab151f942a4cd": {
+   "title": "Steel Erector / Fitter",
+   "company": "Galliford Try",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-06-22",
+   "description": "*Note for Recruitment Agencies:* *We prefer to hire directly, and we will be in touch with our PSL Agencies if this role is eligible for release.* *We do not accept speculative CVs from agencies. If speculative CVs are sent, no fee will be applicable – please direct all queries to the relevant Resourcing Partner.* **Steel Erector / Steel Fitter** Based in or around the Sheffield / Chesterfield area, working within the Yorkshire Water and Severn Trent region with national coverage support. In this role, you will work as part of a small team installing access metalwork solutions, primarily (but not exclusively) within the water treatment industry. **What you'll be doing:** * Installing access metalwork across a range of contracts, mainly within the water treatment sector (though not limited to this industry) * Working from detailed drawings, including marking out and setting out * Installing and assembling steel sections, open flooring systems, and handrails * Measuring, cutting, and forming handrail tubing * Aligning and levelling steelwork prior to fixing Drilling and securing steelwork, including fixing handrail systems to concrete * **About you:** * Hold a valid CSCS card (including Slinger/Signaller where applicable) * Confined Space trained * IPAF certified operator * Trained in working at height * City \\& Guilds Parts 1, 2 \\& 3 (or equivalent) preferred * Abrasive Wheels certification * Forklift truck and/or telehandler licence * SSSTS (Site Supervisor Safety Training Scheme) * Able to work independently as well as collaboratively within a team * Confident in reading and interpreting engineering drawings * Hold a valid UK driving licence * Experience in a similar role or environment Strong commitment to health and safety, with knowledge of SSOW and RAMS * **What We Can Offer in Return:** With an impressive order book of over £4\\.3 billion we are one of the industry’s leading principal contractors, affording you the opportunity to work on some of the UK’s most exciting projects offering you stability as well as the chance to stretch your capabilities and realise long held career goals. You will be joining diverse teams working at a high professional level with exceptional levels of commitment. With an ambitious strategy, we’re poised for further growth and success, so if you’re committed, talented and enthusiastic, Galliford Try is the right place for you. We are committed to maintaining the physical and mental wellbeing of all our people, through our ‘Be Well’ programme which offers discounts on certain products, advice and support for a range of issues. We invest in high\\-quality training for employees of all levels, from our leadership development framework to our apprenticeship programmes. Through our Career Paths initiative, individuals receive tailored training and support to fulfil their potential. Our industry is all about creating talented teams that excel in their areas of expertise. As an employer, we know you are most motivated to give your best when you feel valued and engaged. Our Agile Working programme empowers you with flexibility in when, where and how you work. Where appropriate, site and office\\-based employees can take advantage of a wide variety of working practices, offering different amounts of structure, regularity and flexibility to suit your needs as well as those of your wider team. **Our Benefits:** We put our people first and our benefits package reflects that by offering a comprehensive range of attractive options to help support your career on top of a competitive salary. * Generous holiday entitlement, increasing with years of service, plus the opportunity to purchase further holidays * A wide range of corporate discounts * Cycle to Work schemes * Comprehensive pension plan * Regular Save as You Earn share purchase scheme * Private medical scheme options are available for all salaried employees and our employee assistance programme also provides free 24/7 support to those who need it Paid for yearly membership to one recognised professional association relevant to your role * **About us:** Our purpose is to improve people’s lives through building the facilities and infrastructure that communities need, providing opportunities for our people to learn, grow and progress, working with our supply chain to promote the very best working practice and caring for the environment in which we work. We do this by holding true to our values, delivering excellence for our clients and the community, being passionate about our role in providing vital services, putting integrity at the heart of our business by doing the right thing, and collaborating with our clients, supply chain and stakeholders to deliver lasting change and long\\-term value. For more information on this role or to enquire about other positions available within our business please contact **charlotte.gornall@gallifordtry.co.uk** **Additional Information:** Galliford Try welcomes applications from candidates who would like to work full\\-time, reduced hours or flexibly and this will be discussed in more detail as part of the recruitment process. We encourage, and would be grateful if, you could confirm any requirements we can reasonably fulfil to make this application a positive experience for you. Don’t meet every requirement of the role? Studies have shown that some people are less likely to apply for jobs unless they meet every single qualification. At Galliford Try, we are committed to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every requirement of the role, we encourage you to apply anyway. You may be just the right candidate for this or other roles. As a Disability Confident employer, we have committed to offer an interview to any candidate with a long\\-term health condition or disability that meet the essential criteria for the advertised position. Please contact the Resourcing Partner listed…",
+   "job_url": "https://uk.indeed.com/viewjob?jk=c65ab151f942a4cd",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=43d3c098ec479c67": {
+   "title": "Assembly Fitter",
+   "company": "ITM Power",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-04-17",
+   "description": "**Assembly Fitter** **ITM Power** Location: Sheffield Direct Applicants Only \\- No Agency Applications at this stage **About ITM Power** ITM is at the forefront of the green hydrogen industry, designing and manufacturing cutting\\-edge PEM electrolysers that are instrumental in global decarbonisation efforts. With over two decades of scientific expertise, we’ve established ourselves as industry leaders in clean energy technology. **Our Journey and Growth** As pioneers in green hydrogen technology, ITM is offering the most advanced PEM electrolyser technology in the world. Founded in 2000, ITM Power PLC was one of the first companies of its kind to be listed on the AIM market of the London Stock Exchange. Headquartered in the UK, our state\\-of\\-the\\-art manufacturing facility is the world’s first largest PEM Gigafactory in commercial operation, and home to our R\\&D and manufacturing. ITM Power Germany is our hub in the heart of the EU. This facility not only houses regional functions including business development and engineering, but also our Aftersales services with the ability to quickly deploy stacks. **Innovation and Impact** Our PEM electrolysers are deployed in some of the world's largest green hydrogen projects. We continue to push the boundaries of technology, enhancing cost\\-effectiveness and sustainability. **Join Our Mission** ITM is in the midst of a transformative phase, focusing on streamlined delivery and operational excellence. We're seeking talented individuals who share our passion for clean energy and our drive to make a tangible impact on the world's transition to net\\-zero. You will be working with an inspiring bunch of people, encouraging each other to be the best we can. We’ve come a long way, join us in the next step of our incredible journey! **What are we looking for** We have an opportunity for an Assembly Fitter where you will assemble, test, and verify components within a production environment, ensuring high standards of quality, accuracy, and efficiency. The role requires strong technical skills, the ability to interpret engineering information and a commitment to continuous improvement and safe working practices. **Responsibilities** * Ability to read and interpret technical/engineering drawings. * Performs bending and forming of pipe to required specifications. * Accurately measures using both imperial and metric systems. * Carries out pre‑use machinery checks and identifies/report faults. * Performs quality assurance checks and functional testing of components. * Works effectively with production tools, jigs, fixtures, and measuring equipment. * Follows standard procedures to maintain high‑quality throughput. * Completes documentation accurately and maintains traceability. * Identifies, reports, and records defects in line with quality standards. * Assesses data against predefined parameters to ensure build compliance. * Signs off build stages confidently and accurately. * Adheres to all workplace Health \\& Safety procedures. * Achieves daily/weekly targets. * Ensures work areas are stocked with required materials/equipment. * Investigates faults or variances within the build process. * Uses data, technical information, and practical knowledge to make sound decisions. * Supports team members and contributes to a positive working environment. * Shares knowledge and promotes best practices. * Communicates clearly with production, quality, and managers. **About You** **Knowledge and Experience** * NVQ level 3 in mechanical fitting or any other associated engineering discipline * Good English and Mathematic skills * Manual handling * 5S in the workplace * Production based qualifications an advantage * Experience working in a production, assembly, or manufacturing environment * Experience following standard operating procedures and quality processes * Understanding of basic Health \\& Safety requirements in a workshop or factory setting * Experience using hand tools, machinery, and measuring equipment * Experience reading and interpreting engineering/technical drawings * Experience performing pipe bending or forming work * Experience completing build documentation and maintaining traceability **Skills and Abilities** * Reliable, punctual, and committed to achieving high standards * Safety‑conscious with a responsible approach to risk and compliance * Flexible and adaptable to changing priorities and business needs * Positive team player with good communication skills * Takes ownership of tasks and completes work to agreed timescales * Willingness to learn new skills and undertake required training **What We Offer** The opportunity to work with cutting\\-edge technology in a rapidly growing industry, within a dynamic environment where you can shape the future of energy and work with a team that’s actively addressing global climate challenges. Our corporate culture values safety, integrity and continuous improvement. A competitive salary and an excellent contributory pension, 25 days holiday and a wider range of benefits including: * Buy as you earn (BAYE) share scheme * Birthday holiday * Holiday Purchase * Lifestyle Discounts * Employee Assistance Programme * Health Cash Plan * Eye Care * Gym Scheme * Life assurance * EV Car Leasing * Enhanced Parental Leave * Our onsite parking includes free electric car charging points We know your career is important to you, it’s important to us too, which is why we also offer opportunities for you to grow and develop your career. If you are looking to join a growing, dynamic business and want to be part of our amazing team we would love to hear from you. Our success is driven by the exceptional diversity of our people. We are proud to be an equal opportunity employer, committed to promoting and creating a diverse and inclusive environment where we encourage our employees to learn and grow, fuelled by mutual respect in a place where ideas flow and thrive.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=43d3c098ec479c67",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Assembly Fitter at ITM Power in Sheffield (green hydrogen manufacturer); assembling, testing, and verifying PEM electrolyser components. Requires reading engineering drawings, pipe bending/forming, precision measuring, and QA checks in a production environment.",
+   "fit": "stretch",
+   "fit_reason": "Role typically expects an NVQ Level 3 in a mechanical/engineering discipline plus hands-on fitting/assembly experience Ben's Level 3 Engineering Diploma partially covers, but pipe bending and producti",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=457f323a8ac13b94": {
+   "title": "Tool fitter & Fettler",
+   "company": "Forged Solutions Group Ltd",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-01-28",
+   "description": "**Job Function:** Operations**Job Location:** River Don \\- Sheffield**Hours of Work:** 3 days per week \\- rotating days \\+ nights**Closing Date:** Open until filled**Main Purpose of Job:** Fettling parts to achieve the required quality standard. Assemble / disassemble tools. **Key Tasks and Accountabilities:** * Fettle parts to the agreed standard. * Fixing tools into press * Taking tools out of press * Fill in tool log data * Putting dies on warming pan adhering to forge plan * Daily Adherence to work to list and dock plan. * Adherence to EHS policies. * Complete daily equipment pre use checks in line with EHS policy. * Any other duties as required. **Knowledge and Aptitude required** * Able to work under pressure and achieve targets. * Flexibility * Can\\-do attitude, self\\-motivated * Attention to detail. **Experience and Qualifications** * Previous fettling experience / tool fitting would be beneficial * Forklift truck license. * Overhead crane license.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=457f323a8ac13b94",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-06T11:24:20Z",
+   "last_seen": "2026-09-06T11:24:20Z",
+   "summary": "Tool Fitter & Fettler role at Forged Solutions Group Ltd in Sheffield, 3 days per week on rotating days + nights, fettling parts and assembling/disassembling press tools. Requires forklift and overhead crane licences as listed qualifications.",
+   "fit": "stretch",
+   "fit_reason": "Requires forklift and overhead crane licences which Ben does not hold; hands-on forging/fettling experience also preferred.",
    "fit_source": "llm",
    "summary_source": "llm"
   }
  },
  "last_run_report": {
-  "started": "2026-09-05T10:59:03Z",
+  "started": "2026-09-06T11:24:20Z",
   "searches": [
    {
     "term": "activity instructor",
@@ -3883,73 +4432,73 @@
    },
    {
     "term": "warehouse operative",
-    "found": 5,
+    "found": 3,
     "new": 0
    },
    {
     "term": "picker packer",
-    "found": 6,
+    "found": 3,
     "new": 0
    },
    {
     "term": "delivery driver",
-    "found": 12,
-    "new": 6
-   },
-   {
-    "term": "courier driver",
-    "found": 2,
+    "found": 10,
     "new": 0
    },
    {
+    "term": "courier driver",
+    "found": 10,
+    "new": 5
+   },
+   {
     "term": "customer service assistant",
-    "found": 30,
-    "new": 10
+    "found": 20,
+    "new": 2
    },
    {
     "term": "retail assistant",
     "found": 19,
-    "new": 8
+    "new": 0
    },
    {
     "term": "receptionist",
-    "found": 5,
+    "found": 3,
     "new": 0
    },
    {
     "term": "kitchen assistant",
     "found": 7,
-    "new": 0
+    "new": 1
    },
    {
     "term": "kitchen porter",
-    "found": 1,
+    "found": 2,
     "new": 0
    },
    {
     "term": "barista",
-    "found": 3,
-    "new": 2
+    "found": 5,
+    "new": 3
    },
    {
     "term": "waiting staff",
-    "found": 10,
-    "new": 1
+    "found": 8,
+    "new": 0
    },
    {
     "term": "maintenance operative",
-    "found": 4,
+    "found": 3,
     "new": 0
    },
    {
     "term": "maintenance technician",
-    "found": 9,
-    "new": 3
+    "found": 5,
+    "new": 0
    },
    {
     "term": "fitter",
-    "found": 1,
-    "new": 0
+    "found": 14,
+    "new": 13
    },
    {
     "term": "caretaker",
@@ -3957,7 +4506,7 @@
     "new": 0
    }
   ],
-  "new": 30,
-  "updated": 90
+  "new": 24,
+  "updated": 94
  }
 }
