@@ -14,7 +14,8 @@ import json
 import os
 import re
 import secrets
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 CACHE = os.path.join(HERE, "cache", "cached_jobs.json")
@@ -133,6 +134,45 @@ def _fmt_dt(s):
         except ValueError: pass
     return s
 
+# ---------- Schedule ----------
+# GitHub cron is UTC. We fire 5x daily at 07/10/13/16/19 UTC, which is
+# 07/10/13/16/19 UK local in winter (GMT) and 08/11/14/17/20 in summer (BST).
+# The site displays the next run in Europe/London so users see real local time.
+SCRAPE_HOURS_UTC = [7, 10, 13, 16, 19]
+UK = ZoneInfo("Europe/London")
+
+def _schedule_info():
+    """Return dict with next-scrape ISO (UK) + list of daily UK times for display."""
+    now_utc = datetime.now(timezone.utc)
+    # find next 00-minute mark in UTC at one of the scrape hours
+    for h in SCRAPE_HOURS_UTC:
+        candidate = now_utc.replace(hour=h, minute=0, second=0, microsecond=0)
+        if candidate > now_utc:
+            return _schedule_from(candidate)
+    tomorrow = (now_utc + timedelta(days=1)).replace(hour=SCRAPE_HOURS_UTC[0],
+                                                    minute=0, second=0, microsecond=0)
+    return _schedule_from(tomorrow)
+
+def _schedule_from(utc_dt):
+    uk_dt = utc_dt.astimezone(UK)
+    # Render daily schedule in UK local for display (same in summer/winter
+    # because UTC 7/10/13/16/19 = UK 7/10/13/16/19 GMT, and 7/10/13/16/19 UTC
+    # shifted to BST hour mapping). We compute by converting each UTC hour
+    # for "today" in UK and formatting.
+    sample_utc_day = utc_dt.astimezone(UK).date()
+    sample = datetime(sample_utc_day.year, sample_utc_day.month, sample_utc_day.day,
+                      tzinfo=UK)
+    daily_uk = []
+    for h in SCRAPE_HOURS_UTC:
+        utc_at_h = datetime(sample_utc_day.year, sample_utc_day.month, sample_utc_day.day,
+                             h, tzinfo=timezone.utc)
+        daily_uk.append(utc_at_h.astimezone(UK).strftime("%H:%M"))
+    return {
+        "next_uk": uk_dt.isoformat(timespec="minutes"),
+        "daily_uk": daily_uk,
+        "tz": "Europe/London",
+    }
+
 def main():
     with open(CACHE) as f: cache = json.load(f)
     all_jobs = cache.get("jobs", {})
@@ -149,7 +189,7 @@ def main():
         j["salary"] = salary_str(j) or salary_from_text(j.get("description"))
         j["snippet"] = _snippet(j["desc_clean"])
     jobs.sort(key=lambda j: ({"good": 0, "maybe": 1}.get(j["fit"], 2), j["age"] if j["age"] is not None else 999))
-    payload = {"updated": cache.get("meta", {}).get("last_run", ""), "jobs": jobs, "hidden": hidden}
+    payload = {"updated": cache.get("meta", {}).get("last_run", ""), "jobs": jobs, "hidden": hidden, "schedule": _schedule_info()}
     cats = {}
     for j in jobs:
         for c in j.get("categories", []): cats[c] = cats.get(c, 0) + 1
@@ -292,7 +332,7 @@ main{max-width:760px;margin:0 auto;padding:10px 12px}
 #status{font-size:12px;color:#666;margin:6px 0 0 12px}
 @media(min-width:600px){.btn{display:inline-block;width:auto}}
 </style></head><body>
-<header><h1>🔨 Jobs for Ben — Sheffield</h1><p id="updated"></p></header>
+<header><h1>🔨 Jobs for Ben — Sheffield</h1><p id="updated"></p><p id="next" style="opacity:.85;font-size:12px;margin-top:2px"></p></header>
 <div class="controls">
   <input id="q" type="search" placeholder="Search title, company, description…">
   <div class="ctrlrow">
@@ -356,7 +396,12 @@ function render(){
 function toggleSort(){sortMode=MODES[(MODES.indexOf(sortMode)+1)%MODES.length];
   document.getElementById('sortBtn').textContent='Sort: '+MODE_NAME[sortMode];render();}
 document.getElementById('q').addEventListener('input',render);
-document.getElementById('updated').textContent='Last updated '+new Date(D.updated).toLocaleString('en-GB')+' • '+D.jobs.length+' jobs'+(D.hidden?` (${D.hidden} hidden as poor matches)`:'');
+const sched=D.schedule;const next=sched?new Date(sched.next_uk):null;const hh=n=>String(n).padStart(2,'0');
+function nextLabel(){if(!next)return'';const ms=next-Date.now();if(ms<=0)return'Next: refreshing…';const m=Math.floor(ms/60000);const h=Math.floor(m/60);const rm=m%60;if(h>0)return`Next: ${hh(next.getHours())}:${hh(next.getMinutes())} (in ${h}h ${rm}m)`;return`Next: ${hh(next.getHours())}:${hh(next.getMinutes())} (in ${rm}m)`;}
+function dailyLabel(){return sched&&sched.daily_uk?` • Schedule: ${sched.daily_uk.join(', ')} UK`:'';}
+document.getElementById('updated').textContent='Last updated '+new Date(D.updated).toLocaleString('en-GB')+' • '+D.jobs.length+' jobs'+(D.hidden?` (${D.hidden} hidden as poor matches)`:'')+dailyLabel();
+document.getElementById('next').textContent=nextLabel();
+setInterval(()=>{document.getElementById('next').textContent=nextLabel();},60000);
 chips();render();
 window.toggleSort=toggleSort;
 }"""
