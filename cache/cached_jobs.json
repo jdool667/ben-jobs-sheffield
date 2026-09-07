@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_run": "2026-09-07T09:22:15Z",
+  "last_run": "2026-09-07T09:26:00Z",
   "location": "Sheffield",
   "country": "UK",
   "hours_old": 72,
@@ -24,7 +24,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -46,10 +46,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Warehouse Supervisor role at Cloud9 Fulfilment in Sheffield, paying £27,795–£29,280 per year, involving leading warehouse operatives and overseeing daily fulfilment operations. The ad lists a forklift/MHE licence as essential, which Ben does not hold.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Warehouse Supervisor at Cloud9 Fulfilment in Sheffield, paying £27,795–£29,280 per year, leading and supervising a team of warehouse operatives across picking, packing, despatch and returns. Key requirement is a forklift/MHE licence plus proven team-supervision experience.",
    "fit": "stretch",
-   "fit_reason": "Essential forklift/MHE licence required and the supervisory role expects proven team-leading experience in a warehouse setting, both beyond Ben's current profile.",
+   "fit_reason": "Requires a forklift licence and prior warehouse team-supervision experience that Ben does not have; this is a supervisory-level role beyond his current experience.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -70,7 +70,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -92,7 +92,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -114,7 +114,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -136,7 +136,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -158,7 +158,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -662,10 +662,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Part-time Showroom Receptionist (6-month maternity cover) at Rainworth SKODA in Sheffield, paying £12.71/hr, ~22 hrs/week on a rota Mon–Sat. Front-of-house customer service role focused on telephone enquiries, greeting visitors, and liaising across departments.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Part-time showroom receptionist (6-month maternity cover) at Rainworth SKODA in Sheffield, ~22 hrs/week rota at £12.71/hr. Key duty is acting as first point of contact for phone, email, and in-person customer enquiries, plus signposting and hospitality.",
    "fit": "maybe",
-   "fit_reason": "Ben has customer service and POS experience, but the ad stresses previous experience operating telephone systems and IT packages, which he may lack; no driving licence required, so not disqualified.",
+   "fit_reason": "Ben has customer service and phone-handling experience relevant to the role, no licence needed, though the ad prefers prior experience operating telephone switchboard systems which he may lack.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -686,10 +686,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Part-time Nursery Receptionist and Bookkeeper at Cornerstone Nurseries in Sheffield, £12.71/hr; front-desk reception, safeguarding, and basic accounts/bookkeeping duties.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Part-time Nursery Receptionist and Book Keeper at Cornerstone Nurseries Ltd in Sheffield, £12.71/hr, involving front-desk reception, safeguarding, and admin tasks.",
    "fit": "maybe",
-   "fit_reason": "Customer service and admin experience fit the receptionist side, but bookkeeping typically requires prior accounts experience Ben doesn't list.",
+   "fit_reason": "Customer service and admin experience are transferable, but bookkeeping and nursery-specific reception experience are not mentioned in his background.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -710,10 +710,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Cash Desk Volunteer at British Heart Foundation charity shop in Sheffield (unpaid voluntary position); involves till work, customer service and Gift Aid promotion with full training provided.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Cash Desk Volunteer role at British Heart Foundation in Sheffield, unpaid voluntary position in a charity shop. Key duty is processing sales through the till, engaging with customers, and handling donations/payments.",
    "fit": "maybe",
-   "fit_reason": "Matches his customer service and POS/cash handling experience well, but it's unpaid and he stated he needs ANY paid job.",
+   "fit_reason": "Ben has relevant customer service and till/POS experience, but this is an unpaid volunteer role rather than paid employment, which may not meet his need for income.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -734,7 +734,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -756,10 +756,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Reception Team Member (part-time, though ad says full time) at Accor hotel in Sheffield; duties include greeting/checking in guests, handling requests, and settling accounts with upselling.",
-   "fit": "maybe",
-   "fit_reason": "Customer service experience fits, but OPERA/hotel system experience is preferred and no driving licence is fine for this in-person role.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Part-time Reception Team Member at Accor hotel in Sheffield; duties include greeting/checking in guests, handling requests and accounts, and promoting hotel facilities.",
+   "fit": "good",
+   "fit_reason": "Ben's customer service experience (POS, food handling, group-facing roles) suits front-desk hospitality; no driving or specialist licences required.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -780,10 +780,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Voluntary cashier role at British Heart Foundation charity shop in Sheffield (unpaid, flexible hours). Customer-focused till work, serving donors, and promoting Gift Aid — no driving or licences required.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Volunteer Cash Desk role at British Heart Foundation charity shop in Sheffield (unpaid voluntary position with travel expenses reimbursed). Key duty is processing sales through the till, serving customers, and supporting donors — full training provided.",
    "fit": "good",
-   "fit_reason": "Ben has direct cashier/POS, cash handling, and customer service experience from his retail job, and this voluntary role needs no licences or qualifications he lacks.",
+   "fit_reason": "Matches Ben's customer service, POS and cash handling experience directly; no licence or certification needed.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -804,10 +804,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Cash Desk Volunteer at British Heart Foundation in Sheffield — unpaid voluntary charity shop role processing till sales and engaging customers.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Cash Desk Volunteer at British Heart Foundation in Sheffield (unpaid, voluntary charity shop role). Key duty: serving customers and processing till sales as a volunteer cashier, with full training provided.",
    "fit": "good",
-   "fit_reason": "Ben's customer service experience (POS, cash handling, food safety) matches the cashier duties, and it needs no driving or licences he lacks.",
+   "fit_reason": "Matches his customer service experience (POS, cash handling) and he needs any role; volunteer nature means no driving/licence barriers.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -828,10 +828,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Volunteer cashier role at British Heart Foundation charity shop in Sheffield; unpaid position processing till sales and engaging customers. Key duty: serving customers and handling payments behind the till, with full training provided.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Cash Desk Volunteer at British Heart Foundation, unpaid voluntary role in Sheffield. Customer service and till work in a charity shop with full training provided.",
    "fit": "good",
-   "fit_reason": "Ben has direct customer service and till/POS experience from his customer service assistant role, no licence needed, and retail cash handling suits his skill set.",
+   "fit_reason": "Matches his customer service experience with POS and cash handling, no licence or certifications required, and flexible hours suit his availability.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -1070,10 +1070,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Production Operative at Sherwin-Williams in Sheffield filling/packing products on a production line; training provided, flexible working patterns. No driving required.",
-   "fit": "maybe",
-   "fit_reason": "No licence or specialist tickets needed and Ben's engineering diploma and maintenance background could help, but he has no prior factory/production-line experience.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Production Operative at Sherwin-Williams in Sheffield, filling/packing products to production schedules with housekeeping and safety standards. No driving involved; training provided on the job.",
+   "fit": "good",
+   "fit_reason": "No licence or specialist tickets required; entry-level production role suits his immediate availability and engineering background is a bonus.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -1425,7 +1425,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -1447,10 +1447,10 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Live-In Maintenance Caretaker at Vinci Facilities UK, a permanent full-time school caretaker role in Sheffield with on-site 3-bed accommodation at £250/month rent. Key duty involves general building maintenance, emergency response, and grounds upkeep on a school estate.",
-   "fit": "maybe",
-   "fit_reason": "No formal caretaking experience, though Ben's maintenance background from RFA motorman work (mechanical/electrical fault diagnosis) and volunteer construction provide transferable hands-on skills, but",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Live-In Maintenance Caretaker at Vinci Facilities UK, full-time permanent role at a Sheffield school with on-site 3-bed accommodation for £250/month rent. Key duties include planned/reactive building maintenance, emergency response, and site safety; enhanced DBS required (support provided), no driving licence needed.",
+   "fit": "stretch",
+   "fit_reason": "Requires previous caretaking or building maintenance experience and skilled trades (plumbing, electrical, building fabric) that Ben does not have, plus it is a live-in school site role which may not s",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -1471,7 +1471,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1493,10 +1493,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Warehouse Operative (Hardware Staging) at Spencer Technologies UK in Sheffield, full-time permanent Mon–Fri 8am–4pm; involves operating electric pallet stacker/order picker (training provided).",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Warehouse Operative (Hardware Staging) at Spencer Technologies UK in Sheffield, full-time permanent Mon–Fri 8am–4pm; involves picking, packing, pre-staging IT hardware and operating electric pallet stacker/order picker with full accredited training provided.",
    "fit": "maybe",
-   "fit_reason": "No licence required and training is offered, but Ben lacks prior warehouse experience and powered truck operation, so would be a stretch without on-the-job ramp-up.",
+   "fit_reason": "No driving licence required and training on powered equipment is provided, but prior warehouse experience and confidence operating pallet stackers/order pickers at height are listed as expected — Ben'",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -1517,10 +1517,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Nights Warehouse Assistant (Goods In/Out) at Cooper and Turner Distribution, Tinsley — full-time temporary, 39 hrs Mon–Thu 19:45–06:00. Key duty is packing products to customer spec while meeting daily targets and safety standards.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Nights Warehouse Assistant at Cooper and Turner Distribution in Tinsley, full-time temporary 39 hrs Mon–Thu nights packing products to spec and meeting targets. Physical warehouse role focused on packing, safety, and hazard identification.",
    "fit": "maybe",
-   "fit_reason": "No licence required and physical shift work suits availability, but warehouse packing experience isn't listed so he'd need on-the-job training.",
+   "fit_reason": "No licence required and entry-level packing duties, but Ben has no warehouse experience and night shifts may not suit him.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -1541,10 +1541,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Apprentice Trade Counter Sales Advisor at Graham Plumbers Merchant, Sheffield, £8.40/hr rising to £9.20 after 6 months, full-time permanent. Key duty involves serving trade/retail customers at the counter, picking/packing orders, and learning product knowledge while completing a Level 2 Trade Supplier Apprenticeship.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Apprentice Trade Counter Sales Advisor at Graham Plumbers Merchant in Sheffield, £8.40/hr rising to £9.20 after 6 months, full-time permanent apprenticeship. Combines customer service at the trade counter with warehouse duties, picking/packing orders, and learning product knowledge toward a Level 2 qualification.",
    "fit": "good",
-   "fit_reason": "Ben's customer service and delivery experience plus his engineering background suit the counter/warehouse role, no driving licence required, and it's an entry-level apprenticeship with on-the-job trai",
+   "fit_reason": "Ben's customer service and POS experience plus his engineering background suit a hands-on counter/warehouse role, and no licence is required.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2156,7 +2156,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T10:58:45Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -2178,10 +2178,10 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Casual Outdoor Education Instructor at Thornbridge Outdoors (Sheffield City Council), Peak District — pay not stated. Role requires delivering outdoor adventure activities (climbing, canoeing, caving, mountain biking, etc.) and demands specific Mountain Training/British Canoeing/mountain bike leadership qualifications.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Casual Outdoor Education Instructor at Sheffield City Council's Thornbridge Outdoors centre in the Peak District; location Sheffield, pay not stated. Requires specific outdoor leadership qualifications (climbing, hillwalking, caving, canoeing, mountain biking) to deliver adventurous activities.",
    "fit": "stretch",
-   "fit_reason": "Ben has outdoor instructor experience but lacks the required Mountain Training, British Caving, and British Canoeing leadership qualifications specified as essential.",
+   "fit_reason": "Ben has outdoor instruction experience and safeguarding/First Aid, but the ad requires specialist Mountain Training/British Canoeing leadership qualifications he is not stated to hold.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2202,10 +2202,10 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Casual Outdoor Education Instructor/Trainer role at Thornbridge Outdoors (Sheffield City Council), £20.46/hr, based in Peak District near Bakewell. Key duty is directing hillwalking leadership and/or ITC First first aid courses for young people and other clients.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Casual Outdoor Education Instructor/Trainer at Thornbridge Outdoors (Sheffield City Council, Peak District), £20.46/hr. Key duty is directing hillwalking leadership and/or ITC First first aid courses requiring specific Mountain Training/ITC qualifications and assessor approvals.",
    "fit": "stretch",
-   "fit_reason": "Requires formal approval to direct Mountain Training Hill & Moorland Leader or Lowland Leader awards, qualifications Ben does not hold.",
+   "fit_reason": "Requires formal approval to direct Mountain Training Hill & Moorland Leader, Lowland Leader, or ITC First courses — qualifications Ben does not hold, despite relevant outdoor experience.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2226,10 +2226,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Warehouse Order Picker at Crescent Pharma's Sheffield National Distribution Centre, £14.50/hr (£30,160 basic) plus performance incentives, Mon–Fri back shift. Dedicated order-picking role requiring accuracy with pharmaceutical products using handheld scanners and warehouse systems.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Warehouse Order Picker (back shift) at Crescent Pharma's Sheffield NDC, £14.50/hr (£30,160 basic) plus performance incentives, Mon-Fri afternoons/evenings. Dedicated order-picking role using scanners to fulfil pharmaceutical orders accurately to set performance standards.",
    "fit": "good",
-   "fit_reason": "No driving or specialist licences required; physical warehouse work suits his availability and his engineering background indicates comfort with systems, accuracy and procedures.",
+   "fit_reason": "No driving, licence or specialist tickets required; Ben's reliability, physical fitness and customer service experience suit a picking role, and pharma training will be provided on the job.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2250,10 +2250,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Warehouse Order Picker at Crescent Pharma's Sheffield National Distribution Centre, £14.50/hr (£30,160 basic) plus performance incentives, Monday–Friday 06:00–15:00. Role is dedicated pharmaceutical order picking using handheld scanners, requiring accuracy, traceability and adherence to performance standards.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Warehouse Order Picker at Crescent Pharma in Sheffield, £14.50/hr (£30,160 basic) on a permanent early shift Mon–Fri. Dedicated pharmaceutical order-picking role requiring accuracy, scanner use and adherence to performance standards.",
    "fit": "good",
-   "fit_reason": "No driving licence or specialist tickets required; physical warehouse work suits Ben's immediately available status and his customer service/reliability background fits the emphasis on accuracy and co",
+   "fit_reason": "No driving required, physical role suits Ben's reliability and work ethic, and warehouse training is provided on scanners/procedures.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2275,7 +2275,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -2729,10 +2729,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Receptionist at Archvale (GP practice) in Sheffield, £12.71/hr, full-time permanent; first point of contact handling calls, appointments, prescriptions and admin via Systm1.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "GP Receptionist at Archvale (Carrfield Medical Centre, Sheffield), permanent full-time at £12.71/h. Key duty is being the first telephone point of contact, handling appointments, triage docs, and prescription requests using Systm1.",
    "fit": "good",
-   "fit_reason": "Matches Ben's customer service experience (POS, cash handling, food safety) and no licence or specialist certification needed.",
+   "fit_reason": "Ben's customer service assistant experience covers the essential customer-facing, communication, and organisational criteria, with no driving or specialist licences needed.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2777,7 +2777,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -2799,10 +2799,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Full-time Receptionist at Big Motoring World in Rotherham, £12.71/hr, weekends required; duties include greeting customers, capturing details, directing calls, and keeping reception tidy.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Full-time Receptionist at Big Motoring World in Rotherham, £12.71/hr, weekends required. Front-of-house customer greeting, admin, phone/email handling, and coffee bar upkeep in a busy showroom.",
    "fit": "good",
-   "fit_reason": "Ben's customer service experience (POS, cash handling, food service) and strong communication fit well; no licence or certification needed.",
+   "fit_reason": "Ben has customer service and POS experience with strong communication skills; no driving or licences needed and full training is provided.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2823,10 +2823,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Receptionist at Make A Difference Provision Ltd (MADPro) in Sheffield, term-time only, actual salary ~£18,500–£19,700. Front-of-house admin role focused on welcoming visitors, managing safeguarding sign-in procedures, and supporting attendance/communications.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Receptionist role at Make A Difference Provision Ltd (MADPro), Sheffield, term-time only, ~£18,500–£19,700 actual salary. Front-of-house role welcoming visitors, managing safeguarding procedures, calls, and admin for a student provision.",
    "fit": "maybe",
-   "fit_reason": "Ben's customer service and safeguarding experience suit the front-of-house duties, but school-based admin involves systems (Arbor, CPOMS) and term-time hours he hasn't done before.",
+   "fit_reason": "Matches Ben's customer service and safeguarding experience, but no prior receptionist/admin background and term-time hours/lower pay may not suit immediate needs.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2847,10 +2847,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Catering Assistant at Mellors Catering Services, Sheffield — term-time, 10 hrs/week during school hours, £12.71/hr. Involves food prep, serving, event setup, and occasional delivery of catering orders to clients.",
-   "fit": "maybe",
-   "fit_reason": "Ben has customer service and food safety/allergen experience from his shop assistant role, but the ad notes delivery driving experience as \"advantageous,\" suggesting driving may be expected for delive",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Catering Assistant role at Mellors Catering Services, Sheffield — term-time, 10 hours/week during school hours at £12.71/hr; duties include food prep, serving, event setup, and maintaining hygiene standards.",
+   "fit": "good",
+   "fit_reason": "Ben has customer service, food safety/allergen, and POS experience from his catering assistant background, no licence required, and term-time school hours suit his availability.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2991,11 +2991,8 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Container Reach Stacker Operative at Newell & Wright Transport, Sheffield, £45,000–£50,000 per year on a 4 on/4 off shift pattern. Key duty is safely operating heavy-duty reach stackers to load, unload and move shipping containers, requiring valid forklift/heavy machinery certification.",
-   "fit": "stretch",
-   "fit_reason": "Requires a valid forklift or heavy machinery licence, which Ben does not hold.",
-   "fit_source": "llm",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Container Reach Stacker Operative at Newell & Wright Transport, Sheffield, £45,000–£50,000/year on a 4 on/4 off shift pattern; involves operating heavy container-handling machinery and basic maintenance. FIT: stretch REASON: Role requires a valid reach stacker/forklift certification and proven heavy machinery experience, neither of which Ben holds.",
    "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=3913a70e9e304f87": {
@@ -3154,10 +3151,10 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Part-time Caretaker role at Norse Group maintaining Penistone Outdoor Markets, £13.31/hr, 7 hours per week on split Thursday shifts. Duties include assembling/dismantling stalls, litter picking, minor repairs, and following health and safety protocols.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Caretaker role at Penistone Outdoor Markets (Norse Group), 7 hours/week split shift Thursdays at £13.31/hr in Sheffield. Duties include assembling/dismantling market stalls, litter picking, bin emptying, and basic repairs with full training provided.",
    "fit": "maybe",
-   "fit_reason": "No licence or specialist tickets required; physical, hands-on maintenance suits Ben's practical background, though he lacks direct caretaking/cleaning experience but could pick it up with the training",
+   "fit_reason": "No licence needed and physical/practical tasks suit his maintenance experience from maritime engineering role, though no direct caretaking background listed.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3178,7 +3175,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -3200,7 +3197,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3222,7 +3219,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3244,7 +3241,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3266,7 +3263,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3288,7 +3285,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3332,10 +3329,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Seasonal Sales & Operations Assistant at Pandora Jewelry in Sheffield, £13.25/hr fixed-term until late Dec 2026/Jan 2027; involves customer sales, click-and-collect, restocking, gift wrapping and engraving.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Seasonal Sales & Operations Assistant at Pandora Jewelry in Sheffield, £13.25/hr, fixed-term contract over Christmas period with focus on sales floor and back-of-house operations like click-and-collect, restocking, gift wrapping.",
    "fit": "good",
-   "fit_reason": "Ben's customer service experience (POS, cash handling, food/allergen protocols) and people-facing skills from instructing fit the sales side, and no licence or specialist cert required.",
+   "fit_reason": "Ben's customer service experience with POS, cash handling and food safety translates well to retail sales and operations, no driving or special licences required.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3356,10 +3353,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Retail Sales Assistant at American Golf in Sheffield, commission-based earnings with staff discounts. Core duties are customer service, till operations, visual merchandising, and meeting sales targets.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Retail Sales Assistant at American Golf in Sheffield; role involves customer service, till operations, merchandising and meeting sales targets with commission-based earnings and staff discounts. No licence required; uses Ben's existing customer service and POS/cash handling experience directly.",
    "fit": "good",
-   "fit_reason": "Ben's customer service assistant experience (POS, cash handling) directly matches; no driving or specialist licences required.",
+   "fit_reason": "Ben's customer service assistant background with POS, food handling and allergen protocols matches the retail/till/customer-facing duties, and no driving licence is needed.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3380,10 +3377,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Seasonal Sales & Operations Assistant at Pandora Jewelry in Sheffield, £13.25/hr, fixed-term contract until late Dec 2026/early Jan 2027. Front-of-house retail role combining sales and back-of-house operations like click-and-collect, deliveries, restocking, and gift wrapping during the busy Christmas period.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Seasonal Sales & Operations Assistant at Pandora Jewelry in Sheffield, paying £13.25/hr (fixed-term to late Dec 2026/early Jan 2027). Retail-focused role covering customer sales, gift wrapping, click-and-collect, restocking, and deliveries in a busy store environment.",
    "fit": "maybe",
-   "fit_reason": "Ben has customer service and food safety experience transferable to retail sales, but no specific retail/jewellery background; the role involves handling deliveries which may require driving duties — ",
+   "fit_reason": "Matches Ben's customer service and cash handling experience, but the role likely involves receiving deliveries which may require a driving licence or manual handling he hasn't specifically listed.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3404,10 +3401,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Part-time Sales Assistant at Pandora Jewelry in Sheffield, 8 hours/week at £13.25/hr across 7 days. Customer-facing retail role focused on sales targets, till work, and brand ambassadorship.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Part-Time Sales Assistant at Pandora Jewelry in Sheffield, £13.25/hr, 8 hours per week across 7 days. Customer-facing retail role focused on sales targets, product knowledge, and till/stock duties.",
    "fit": "good",
-   "fit_reason": "Ben's customer service and POS/cash handling experience directly match; no licence or specialist qualification needed.",
+   "fit_reason": "Ben has customer service and POS/cash handling experience and the part-time hours suit his immediate availability; no licence or specialist qualifications required.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3428,10 +3425,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Senior CRM Marketing Manager at UniHomes, Sheffield city centre (hybrid), £55,000–£65,000; leads multichannel CRM strategy across Salesforce Marketing Cloud, demand generation, and lifecycle campaigns.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Senior CRM Marketing Manager at UniHomes in Sheffield, paying £55,000–£65,000. Key duty is leading Salesforce Marketing Cloud CRM strategy and managing a team of two across multichannel customer journeys.",
    "fit": "stretch",
-   "fit_reason": "Senior management marketing role requiring Salesforce Marketing Cloud expertise, team leadership, and strategic B2C experience — well beyond Ben's customer service and engineering background.",
+   "fit_reason": "Senior management marketing role requiring Salesforce Marketing Cloud expertise and team leadership, far beyond Ben's experience.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3452,7 +3449,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -3474,7 +3471,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -3496,10 +3493,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Nightshift Replenishment General Assistant at Parfetts, Sheffield depot, £15.24/hr, Sun–Thu 20:30–05:00, full-time permanent. Warehouse merchandising and stock replenishment, no forklift licence required (preferable only).",
-   "fit": "maybe",
-   "fit_reason": "No driving licence needed and forklift is optional, but Ben lacks the preferred 1 year warehouse experience and the role calls for confidence with handheld scanners/tills.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Nightshift Replenishment General Assistant at Parfetts, Sheffield depot, Sunday–Thursday 20:30–05:00, £15.24/hr full-time permanent. Forklift licence preferable not essential; warehouse experience preferred but not required.",
+   "fit": "good",
+   "fit_reason": "No driving licence or forklift needed, physical warehouse work suits his availability, and his reliability plus willingness to work nights fits the role.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3520,10 +3517,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Shift Manager at Domino's in Sheffield; key duty is leading shifts, supervising team, and managing store operations in absence of management.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Shift Manager role at Domino's in Sheffield (pay not stated, flexible hours with progression); involves leading shifts, supervising team, food safety compliance, and opening/closing the store.",
    "fit": "stretch",
-   "fit_reason": "Supervisory/management responsibility and preferred prior food or retail supervisory experience exceed Ben's customer service assistant background.",
+   "fit_reason": "Supervisory experience in food/retail is \"preferred\" and described as a key requirement, which is clearly management-level beyond Ben's customer service assistant background.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3544,10 +3541,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Retail Sales Advisor at Nisbets in Sheffield, £12.85/hr, 20 hours over 4 days. Customer-facing sales role with stock, visual merchandising, and payment processing duties.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Retail Sales Advisor at Nisbets in Sheffield, 20 hours/week at £12.85/hr (pro-rata ~£13,368). Standard retail role focused on customer service, sales KPIs, stock replenishment, visual merchandising, and payment processing.",
    "fit": "good",
-   "fit_reason": "Matches Ben's customer service assistant experience (POS, cash handling) and requires no licence or qualifications he lacks.",
+   "fit_reason": "Ben has direct customer service and cash handling experience; no licence or specialist qualification required.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3568,10 +3565,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "In-store team member role at Domino's in Sheffield, involving pizza preparation, customer service, and store duties with full training provided. Key point: no previous experience required and flexible shifts, though occasional outdoor/delivery duties are mentioned.",
-   "fit": "maybe",
-   "fit_reason": "No licence or certification required and matches Ben's customer service and food safety experience, though some delivery-related duties may occasionally be expected which could be an issue without a d",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "In Store Team Member at Domino's in Sheffield (hourly pay not specified); preparing pizzas, serving customers, taking orders/payments, and maintaining food hygiene standards with no experience required. No driving licence needed.",
+   "fit": "good",
+   "fit_reason": "Matches his customer service and food safety experience; no licence or certification required, and training is provided.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3592,10 +3589,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "In-store team member role at Domino's in Sheffield preparing pizzas, serving customers, and supporting store operations with full training provided and no driving required. Pay not specified but includes benefits like staff food discount, holiday, and progression.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "In Store Team Member at Domino's in Sheffield — no pay stated, no driving required, full training provided. Duties include pizza prep, customer service, food hygiene, cleaning, and supporting store operations across flexible shifts.",
    "fit": "good",
-   "fit_reason": "Ben has relevant customer service and food safety experience; no licence or specialist qualification needed.",
+   "fit_reason": "Matches his customer service, POS/cash handling, and food safety experience; no licence or certification needed and immediately available.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3616,10 +3613,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "In Store Team Member at Domino's in Sheffield — no specific pay mentioned; involves flexible shifts including evenings/weekends. Key duties include pizza prep, taking orders and payments, maintaining food hygiene, and supporting general store operations.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "In Store Team Member at Domino's in Sheffield, no pay stated; involves preparing pizzas, serving customers, and maintaining food hygiene in a fast-paced team environment. No experience required, full training provided.",
    "fit": "good",
-   "fit_reason": "No licence or specialist qualifications needed; matches Ben's customer service, food safety, allergen and cash handling experience, and full training is provided.",
+   "fit_reason": "Customer service and food safety experience match, no licence or certification needed, and the flexible shifts suit his immediate availability.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3640,10 +3637,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "In-store team member at Domino's in Sheffield preparing pizzas, serving customers, and supporting store operations on flexible shifts including evenings; no experience required with full training provided. Duties include food prep, taking orders/payments, food hygiene, cleaning, and leaflet drops.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "In-store team member role at Domino's in Sheffield making pizzas, serving customers, and handling payments with full training provided and flexible shifts. No pay rate stated, but offers staff discount, holiday, and progression opportunities.",
    "fit": "good",
-   "fit_reason": "Matches his customer service experience (POS, cash handling, food safety, allergen protocols) and no driving or specialist qualifications needed.",
+   "fit_reason": "Customer service, POS, food safety and allergen experience match directly; no licence or certification required.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3664,10 +3661,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "In Store Team Member at Domino's in Sheffield — no pay stated, entry-level role with full training provided. Key duty is preparing pizzas, serving customers, and maintaining food hygiene standards.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "In-store team member at Domino's in Sheffield, preparing pizzas, serving customers, and handling store operations with full training provided. Key point: no previous experience needed, flexible shifts including evenings/weekends, and tasks include occasional outdoor duties like leaflet drops and refuse disposal.",
    "fit": "good",
-   "fit_reason": "Matches his customer service and food safety experience, no licence required, and Domino's provides full training.",
+   "fit_reason": "Ben has customer service, food safety/allergen, and cash handling experience, plus flexibility for shifts; no driving required and training is provided.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3688,10 +3685,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "In Store Team Member at Domino's in Sheffield — no pay stated, entry-level role with full training. Key duties include pizza prep, customer service, taking payments, and maintaining food hygiene/safety standards.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "In Store Team Member at Domino's in Sheffield (hourly pay with progression, 28 days holiday, flexible shifts). Key duty: preparing pizzas, serving customers, and supporting store operations — no experience required, full training provided.",
    "fit": "good",
-   "fit_reason": "No licence or prior experience needed; Ben's customer service, food safety, allergen and POS experience directly match, and the role is a fit for his immediate availability.",
+   "fit_reason": "Customer service and food safety experience match directly; no driving or specialist licences needed.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3712,10 +3709,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "In-store team member at Domino's in Sheffield making pizzas, serving customers and handling store operations, with flexible shifts and no experience required. Key duties include food prep, taking orders/payments, and maintaining food hygiene standards.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "In Store Team Member at Domino's in Sheffield (pay not stated, hourly with progression), involving pizza prep, customer service, and store operations including occasional leaflet drops. Key point: no experience required, full training provided, flexible shifts.",
    "fit": "good",
-   "fit_reason": "Matches Ben's customer service and food safety experience; no licence or specialist qualifications needed.",
+   "fit_reason": "Matches Ben's customer service, food safety, and allergen experience; no licence or certification needed, and he is immediately available for flexible shifts.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3736,10 +3733,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Barista role at Costa Coffee in Sheffield, £13.12–£14.12/hr with flexible shifts and perks. Customer-facing coffee service, teamwork and maintaining store standards.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Barista role at Costa Coffee in Sheffield, paying £13.12–£14.12 per hour plus benefits. Key duty is serving coffee and delivering an energising customer experience on flexible shifts.",
    "fit": "good",
-   "fit_reason": "No licence/certification required; his customer service and food safety experience match well.",
+   "fit_reason": "Ben's customer service and food safety experience directly match, no licence or special qualifications needed.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3760,10 +3757,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Barista role at Costa Coffee in Sheffield, £13.12–£14.12 per hour plus benefits; involves serving coffee, maintaining store standards, and delivering great customer experiences.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Barista role at Costa Coffee in Sheffield paying £13.12–£14.12 per hour, involving serving coffee, customer service, and keeping the store running smoothly. No driving or specialist licences required, just a positive attitude and people focus.",
    "fit": "good",
-   "fit_reason": "Customer service experience with POS and food safety aligns well, no licence required.",
+   "fit_reason": "Ben's customer service assistant experience (POS, cash handling, food safety, allergen protocols) directly matches barista duties, and he is locally based in Sheffield.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3784,10 +3781,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Front of House Staff/Server/Cleaner at D V Hotel Cafe & Bar in Sheffield, pay listed as £7.55-£12.21 (likely hourly despite \"per year\" typo), part-time permanent. Duties include greeting guests, taking orders, serving food/drinks, handling POS payments, and maintaining cleanliness — matching Ben's customer service and food safety experience.",
-   "fit": "good",
-   "fit_reason": "Ben's customer service assistant experience (POS, cash handling, food safety, allergen protocols) directly matches the role's core requirements, no licence needed.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Front of House Staff/Server/Cleaner role at D V Hotel Cafe & Bar in Sheffield, part-time permanent with pay listed as £7.55–£12.21 per year. Duties include greeting guests, taking orders, serving food/drinks, handling POS payments, and maintaining cleanliness — no driving required.",
+   "fit": "maybe",
+   "fit_reason": "Ben has customer service and food safety/allergen experience from his shop assistant role, plus POS and cash handling, so core duties suit him; restaurant experience is only preferred, not essential.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3808,7 +3805,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3830,10 +3827,10 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Mechanical/Electrical Maintenance Technician at Veolia, up to £37,000 plus company vehicle, mobile across Yorkshire. Requires HNC/ONC, time-served apprenticeship, and full UK driving licence for travelling between industrial sites.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Mobile Mechanical/Electrical Maintenance Technician at Veolia, up to £37,000 plus company vehicle, mobile across Yorkshire (requires full clean UK driving licence). Role involves planned preventative maintenance and reactive works on industrial utilities equipment like steam boilers, air compressors, and cooling towers across multiple sites.",
    "fit": "stretch",
-   "fit_reason": "Requires a full clean UK driving licence (Ben does not have one), plus HNC/ONC qualification and a recognised time-served apprenticeship which exceed his Level 3 Diploma.",
+   "fit_reason": "Requires a full clean UK driving licence (which Ben does not hold), an HNC/ONC qualification and a time-served apprenticeship, both beyond Ben's Level 3 Engineering Diploma and experience.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3854,10 +3851,10 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Aquarium Technician (part-time, permanent) at University of Sheffield maintaining a zebrafish research facility — cleaning tanks, preparing chemical solutions, health checks, and logging; salary £23,061 pro rata, on-site in Sheffield.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Aquarium Technician (part-time, permanent) at University of Sheffield, £23,061 pro-rata, on-site in Sheffield — hands-on husbandry/cleaning role maintaining 3,000 zebrafish tanks in a regulated research facility.",
    "fit": "stretch",
-   "fit_reason": "Requires specialised aquarium/animal husbandry experience and likely Home Office licence compliance (ASPA) that Ben lacks, despite his engineering and detail-oriented background.",
+   "fit_reason": "Specialist animal-care/animal-technology experience not in Ben's background; involves regulated scientific-procedures environment and precise chemical/biological work well beyond his skills.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3878,7 +3875,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3900,7 +3897,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -3922,7 +3919,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3944,7 +3941,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3966,7 +3963,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -3988,10 +3985,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Retail Team Member at Next in Sheffield, part-time weekend hours (9.75 hrs/p/w). Customer service, stock handling and sales floor duties in a fast-paced store.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Retail Team Member at NEXT in Sheffield, 9.75 hours per week across Sundays and Saturdays; involves customer service, stockroom work, and processing deliveries. No driving, licences, or specific qualifications required, and full training is provided.",
    "fit": "good",
-   "fit_reason": "Matches his customer service and POS experience; part-time, no driving or special licences required.",
+   "fit_reason": "Ben's customer service and cash handling experience match the role, and it requires no licences or driving.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4012,10 +4009,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Team Member (Sales Floor) at NEXT in Sheffield, 5.5 hours per week on Sundays 11:00–17:00; the role focuses on customer service, stockroom work, and processing deliveries in a fast-paced retail environment.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Sales Team Member at NEXT in Sheffield, 5.5 hours per week (Sun 11:00-17:00). Retail floor, stockroom, and delivery processing duties with no driving licence required.",
    "fit": "good",
-   "fit_reason": "Matches his customer service experience (POS, cash handling) and availability; no driving licence, certification, or senior experience required.",
+   "fit_reason": "Matches his customer service experience (POS, food/cash handling) and availability; entry-level retail with no licences or qualifications needed.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4036,10 +4033,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Kitchen Porter at Zizzi Restaurants in Sheffield — no experience needed, flexible hours with a minimum-hour contract and progression pathways. Involves washing equipment, maintaining hygiene standards, and basic food prep in a fast-paced kitchen team.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Kitchen Porter role at Zizzi Restaurants in Sheffield (flexible hours, minimum-hour contract, progression pathways to Chef/Kitchen Management). Zero experience needed; duties involve washing equipment, basic food prep, maintaining hygiene standards in a fast-paced kitchen.",
    "fit": "good",
-   "fit_reason": "No licence, qualifications, or prior experience required; fits Ben's availability and customer service/food safety background.",
+   "fit_reason": "No licence or qualifications required, aligns with Ben's customer service/food safety experience, and his immediate availability suits this entry-level kitchen role.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4060,10 +4057,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Barista role at Costa Coffee in Sheffield, £13.12–£14.12 per hour plus perks like pension and discount. Key duty is serving coffee, maintaining store standards, and delivering great customer experiences as part of a team.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Barista role at Costa Coffee in Sheffield, paying £13.12–£14.12 per hour plus perks, focused on serving coffee and delivering customer experience.",
    "fit": "good",
-   "fit_reason": "Customer service and food safety experience match, no licence or certifications required, and flexible shifts suit immediate availability.",
+   "fit_reason": "Customer service experience with POS and food safety aligns well; no licence or specialist qualifications required.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4084,10 +4081,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Barista at Costa Coffee in Sheffield, £13.12–£14.12 per hour with flexible shifts and staff discounts. Customer-facing role serving coffee, maintaining standards, and working as part of a team.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Barista role at Costa Coffee in Sheffield, paying £13.12–£14.12 per hour plus benefits. Customer-facing coffee preparation and team-based store duties.",
    "fit": "good",
-   "fit_reason": "Ben has customer service experience with POS and food safety skills; no licence or certification required, and Costa provides on-the-job training.",
+   "fit_reason": "Ben has customer service experience with POS, cash handling, and food safety skills that directly match barista requirements, and no licence is needed.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4108,10 +4105,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Coffee Shop Manager at Cornerstone Coffee (SRMG Restaurants Ltd), Sheffield City Centre, £32,000+; requires 2+ years coffee shop management, P&L experience, advanced barista skills, and team leadership.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Coffee Shop Manager role at Cornerstone Coffee (SRMG Restaurants Ltd) in Sheffield City Centre, paying from £32,000 per year. Key duty involves running the unit, managing a team, hitting financial targets, and delivering specialty coffee/front-of-house experience.",
    "fit": "stretch",
-   "fit_reason": "Manager role requiring 2+ years coffee shop management, P&L and advanced barista experience, and people leadership well beyond Ben's customer service background.",
+   "fit_reason": "Requires 2+ years' coffee shop management experience, P&L responsibility, and advanced barista skills — clearly a management role beyond Ben's customer service experience.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4132,7 +4129,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -4154,10 +4151,10 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Tyre Fitter at Ossett Tyres and Autos in Sheffield, paying £10-£11/hr part-time permanent. The role involves removing/replacing tyres on various vehicles, inspections, repairs, and heavy lifting, with a driving licence noted as desirable but not essential.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Tyre Fitter at Ossett Tyres and Autos, Sheffield, part-time permanent at £10–£11/hr. Hands-on role fitting, repairing, and balancing tyres on various vehicles using hand/power tools with heavy lifting involved.",
    "fit": "maybe",
-   "fit_reason": "Driving licence not required, but Ben lacks any specific tyre fitting or automotive maintenance experience; his mechanical aptitude from maritime engineering could transfer with on-the-job training.",
+   "fit_reason": "Driving licence not required, and his mechanical fault-diagnosis background is transferable, but tyre fitting experience is preferred and he'd need on-the-job training.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4178,10 +4175,10 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Tyre Fitter at R&R Cars in Rotherham, full-time, £12.71/hr, no driving licence required. Hands-on workshop role involving tyre fitting, basic servicing, and assisting the mechanic.",
-   "fit": "maybe",
-   "fit_reason": "Practical hands-on work suits Ben's mechanical background from his RFA motorman role, but tyre-fitting experience is preferred and he has none.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Tyre Fitter at R&R Motor Group in Rotherham, full-time at £12.71/hr, involving tyre fitting, repairs and basic vehicle servicing.",
+   "fit": "stretch",
+   "fit_reason": "Tyre-fitting experience is preferred but not required; however, reaching Rotherham from S2 likely needs a driving licence, and hands-on garage experience exceeds Ben's customer-service/engineering bac",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4202,7 +4199,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -4224,7 +4221,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -4246,7 +4243,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -4268,7 +4265,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -4290,7 +4287,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -4313,7 +4310,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -4335,7 +4332,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -4357,7 +4354,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -4379,10 +4376,10 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Assembly Fitter at ITM Power in Sheffield, assembling/testing PEM electrolyser components in a production environment. Requires reading engineering drawings, pipe bending/forming, and quality assurance; no driving needed.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Assembly Fitter at ITM Power in Sheffield assembling/testing PEM electrolyser components in a production environment; no pay stated but local to Ben. Role requires reading technical drawings, pipe bending/forming, and fault investigation — well-suited to Ben's engineering background.",
    "fit": "maybe",
-   "fit_reason": "Ben's engineering diploma, fault diagnosis, and mechanical maintenance experience are relevant, but the role likely prefers NVQ Level 3 in a fitting/engineering discipline and hands-on assembly/pipefi",
+   "fit_reason": "Ben's Level 3 Engineering Diploma and motorman fault-finding experience are relevant, but pipe fitting/drawing interpretation may need on-the-job training and ITM typically seeks NVQ-qualified fitters",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4403,10 +4400,10 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Tool Fitter & Fettler at Forged Solutions Group Ltd in Sheffield, 3 days/week on rotating days + nights, involving fettling forged parts and assembling/disassembling press tools. Previous fettling experience preferred but forklift and overhead crane licences are listed as requirements.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Tool fitter & Fettler at Forged Solutions Group Ltd in Sheffield on a rotating 3-day week. Hands-on role fettling forged parts, assembling tools and operating press/dies, with forklift and overhead crane licences listed as requirements.",
    "fit": "stretch",
-   "fit_reason": "Ben's engineering diploma suits the technical nature, but the role lists forklift and overhead crane licences as requirements, both of which he does not hold.",
+   "fit_reason": "Requires forklift and overhead crane licences which Ben does not hold; engineering background is relevant but the licence requirements make it a stretch.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4428,7 +4425,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -4451,7 +4448,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -4473,10 +4470,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Warehouse Operative at Volcfit Clothing in Sheffield, part-time from £12.71/hr involving testing and refurbishing electrical appliances. Key duties include electrical testing, refurbishment to factory condition, record keeping, and heavy lifting — no driving or licences mentioned.",
-   "fit": "good",
-   "fit_reason": "Matches Ben's engineering diploma, mechanical/electrical fault diagnosis experience, and need for immediate work; no licences or driving required.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Warehouse Operative role at Volcfit Clothing in Sheffield, part-time from £12.71/hr, involving testing and refurbishing electrical appliances with heavy lifting and record keeping. No driving is required — duties are hands-on appliance testing, refurbishment, and stock organisation.",
+   "fit": "maybe",
+   "fit_reason": "No licence needed and physically practical, but specific electrical appliance testing experience is preferred; Ben's engineering background helps, though it's not a direct match.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4497,7 +4494,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -4519,7 +4516,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -4541,10 +4538,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "E-commerce & Production Assistant at DIY Cosmetics Ltd in Sheffield, £12.71/hr, part-time (min 18 hrs/week, Mon mandatory). Hands-on role packing orders, assisting with manufacturing of fragrance/cosmetic products, social media content, and customer enquiries — training provided, no driving required.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "E-commerce & Production Assistant at DIY Cosmetics Ltd in Sheffield, £12.71/hr, part-time (min 18 hrs/week, Mon mandatory). Varied hands-on role covering order packing, product manufacturing, customer enquiries, and social media content creation, with full training provided.",
    "fit": "good",
-   "fit_reason": "Matches Ben's customer service, attention to detail, and willingness to learn; no licence or specialist qualification needed and Sheffield location is convenient.",
+   "fit_reason": "No licence or specialist qualifications needed; Ben's customer service, team, communication and hands-on experience fit well, and Sheffield location is local.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4565,10 +4562,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Packaging Production Operative role in Sheffield assembling eco-friendly bags; £26,000–£28,000, weekday hours, full training provided. Key duty is hands-on assembly, quality checks, and dispatch prep — no driving required.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Packaging Production Operative at Ecobags Brasil UK in Sheffield, £26,000–£28,000, weekday hours with on-the-job training and no driving required. Key duties include folding/assembling eco-bags, visual quality checks, and dispatch prep with full equipment training provided.",
    "fit": "good",
-   "fit_reason": "Ben's engineering diploma, prior manual work, and reliability suit this; no licence or specialist tickets needed and training is offered.",
+   "fit_reason": "Entry-level production role with full training, no licence needed, and Ben's engineering background plus customer service/physical work experience suit a hands-on assembly and quality-focused position",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4589,10 +4586,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Warehouse Specialist at Ecobags Brasil UK, £26,000–£28,000, based in Sheffield S11 (hybrid). Involves inventory control, order picking/packing, dispatch coordination, and routine equipment checks in an eco-friendly packaging warehouse.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Warehouse Specialist role at Ecobags Brasil UK in Sheffield, £26,000–£28,000 per year, involving inventory control, order fulfilment, dispatch coordination, and stock management. Forklift licence listed as a \"major advantage\" and 2+ years warehouse experience specifically required.",
    "fit": "stretch",
-   "fit_reason": "Requires 2+ years warehouse/logistics experience Ben lacks, and an FLT licence is listed as a major advantage.",
+   "fit_reason": "Requires 2+ years dedicated warehouse/logistics experience Ben doesn't have, and the forklift licence (though advantageous rather than essential) plus unspecified transport coordination raise practica",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4613,10 +4610,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Part-time Picker/Packer role at HungryPanda in Sheffield S1, £12.71/hr. Requires Mandarin language and physical warehouse work with order picking, packing, and stock monitoring.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Part-time Picker & Packer / Warehouse Operative at HungryPanda (Panda Fresh) in Sheffield S1, from £12.71/hr. Requires Mandarin language skills, physical labour, and warehouse picking/packing duties.",
    "fit": "stretch",
-   "fit_reason": "Mandarin language requirement is a specific qualification Ben is not indicated to have, making this a stretch despite otherwise suiting his needs.",
+   "fit_reason": "Requires fluent Mandarin which Ben is not indicated to speak; warehouse physical role itself suits him, but the language requirement makes it a stretch.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4637,10 +4634,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Warehouse Volunteer role at British Heart Foundation in Sheffield (unpaid voluntary position involving furniture handling, warehouse organisation, and flat-pack assembly). Key point is that it's unpaid volunteering with flexible hours and no driving required, though it is physical work.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Warehouse Volunteer (unpaid) at British Heart Foundation Homestore in Sheffield, involving lifting furniture, warehouse logistics, and building flat-pack items. No driving needed but it's voluntary rather than paid work.",
    "fit": "maybe",
-   "fit_reason": "No licence or qualifications required and Ben can handle physical/manual work and customer-facing tasks, but it is unpaid so doesn't actually meet his need for paid employment.",
+   "fit_reason": "Physical warehouse role suits Ben's practical, hands-on background and he has no licence issue, though it's unpaid and his experience is more in maintenance/customer-facing work than furniture handlin",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4661,10 +4658,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Warehouse Volunteer (unpaid) at British Heart Foundation Homestore in Sheffield; involves lifting/carrying furniture, handling van deliveries, building flat-pack, and general warehouse upkeep. No driving required, physical but flexible role in a charity shop setting.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Warehouse Volunteer (unpaid) at British Heart Foundation Homestore in Sheffield involving lifting/moving furniture, warehouse logistics, and building flat-pack items.",
    "fit": "good",
-   "fit_reason": "No licence or specialist tickets required; matches Ben's physical, hands-on capability and his need for immediate availability, though it's unpaid.",
+   "fit_reason": "No licence, qualifications, or driving needed; physical role suits Ben's outdoor/instructor background and immediate availability, though unpaid.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4685,7 +4682,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -4707,7 +4704,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -4729,10 +4726,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Receptionist & Administrator role at Sheffield Park Academy (United Learning), £24,978 full-time, Monday–Friday 07:30–16:30, involving reception duties, safeguarding compliance, calls, and general admin. Key duty is warmly welcoming visitors while ensuring safeguarding compliance at all times.",
-   "fit": "maybe",
-   "fit_reason": "Ben has customer service and admin-adjacent experience (POS, cash handling, safeguarding) but lacks specific reception experience in a comparable environment, which the ad notes is preferable.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Receptionist & Administrator at Sheffield Park Academy (United Learning), £24,978 pro rata, full-time 37.5 hrs Mon–Fri 07:30–16:30, S2 1SN. Key duty is front-of-house reception plus general admin support, welcoming visitors with safeguarding compliance.",
+   "fit": "good",
+   "fit_reason": "Ben's customer service experience (POS, cash handling, food safety, allergen protocols) and safeguarding training from his instructor role match reception and admin duties; no driving or specialist li",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4753,10 +4750,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Cash Desk Volunteer at British Heart Foundation (Sheffield charity shop, unpaid voluntary role). Involves processing sales, engaging customers, and supporting till/reception duties with full training provided.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Cash Desk Volunteer at British Heart Foundation in Sheffield — unpaid voluntary charity shop role handling till transactions, customer service, and Gift Aid promotion.",
    "fit": "maybe",
-   "fit_reason": "Matches his customer service and till experience, but it's unpaid which doesn't meet his need for paid work.",
+   "fit_reason": "Matches his customer service and cash handling experience, but it is unpaid volunteering rather than paid employment he urgently requires.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4777,7 +4774,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -4799,10 +4796,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Part Time Waiting Staff at Miller & Carter (Sheffield City Centre); flexible shifts, 33% staff discount, no licence or experience required.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Part Time Waiting Staff at Miller & Carter, Sheffield City Centre (steakhouse). Key duty: greeting/serving guests food and drink in a team-focused hospitality setting.",
    "fit": "good",
-   "fit_reason": "Ben has customer service and food safety experience from his assistant role, and waiting staff is entry-level with full training provided.",
+   "fit_reason": "Ben has customer service and food safety experience; no licence required and shifts fit around availability.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4823,7 +4820,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:22:15Z",
+   "last_seen": "2026-09-07T09:26:00Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -4845,16 +4842,16 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:22:15Z",
-   "summary": "Front of House Staff at Whitbys Fish & Chip Restaurant in Rotherham, £10.85–£13.10/hr plus tips, 27–33 hours including weekends. No experience required—full training provided, serving food/drinks and table clearing in a 150-cover restaurant.",
+   "last_seen": "2026-09-07T09:26:00Z",
+   "summary": "Front of House Staff at Whitbys Fish & Chip Restaurant in Rotherham, £10.85–£13.10/hr plus tips, 27–33 hours over 3–4 days including weekends. Full training provided; involves serving food/drinks, clearing tables, and customer service in a 150-cover restaurant (must be 18+).",
    "fit": "good",
-   "fit_reason": "Customer service and food safety experience match; no licence or certification needed, and role is reachable from Sheffield via short commute.",
+   "fit_reason": "Matches his customer service and food handling experience; no licence or specialist qualifications required, and training is offered.",
    "fit_source": "llm",
    "summary_source": "llm"
   }
  },
  "last_run_report": {
-  "started": "2026-09-07T09:22:15Z",
+  "started": "2026-09-07T09:26:00Z",
   "searches": [
    {
     "term": "activity instructor",
@@ -4874,17 +4871,17 @@
    {
     "term": "warehouse operative",
     "found": 13,
-    "new": 5
+    "new": 0
    },
    {
     "term": "picker packer",
     "found": 18,
-    "new": 6
+    "new": 0
    },
    {
     "term": "delivery driver",
     "found": 7,
-    "new": 1
+    "new": 0
    },
    {
     "term": "courier driver",
@@ -4904,7 +4901,7 @@
    {
     "term": "receptionist",
     "found": 15,
-    "new": 3
+    "new": 0
    },
    {
     "term": "kitchen assistant",
@@ -4924,7 +4921,7 @@
    {
     "term": "waiting staff",
     "found": 9,
-    "new": 4
+    "new": 0
    },
    {
     "term": "maintenance operative",
@@ -4947,7 +4944,7 @@
     "new": 0
    }
   ],
-  "new": 19,
-  "updated": 108
+  "new": 0,
+  "updated": 127
  }
 }
