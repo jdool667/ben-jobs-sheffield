@@ -1,7 +1,10 @@
 name: scrape-and-deploy
 on:
   schedule:
-    - cron: '0 7 * * *'   # daily 07:00 UTC
+    # 5x daily. GitHub cron is UTC, so UK local fires at 07/10/13/16/19 in
+    # winter (GMT) and 08/11/14/17/20 in summer (BST). The site displays
+    # the next run in Europe/London so the user always sees real local time.
+    - cron: '0 7,10,13,16,19 * * *'
   workflow_dispatch:
 permissions:
   contents: write
