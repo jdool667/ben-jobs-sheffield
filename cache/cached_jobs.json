@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_run": "2026-09-07T15:37:12Z",
+  "last_run": "2026-09-07T19:42:06Z",
   "location": "Sheffield",
   "country": "UK",
   "hours_old": 72,
@@ -70,7 +70,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T19:42:06Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -92,7 +92,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T19:42:06Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -114,7 +114,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T19:42:06Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -136,7 +136,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T19:42:06Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -158,7 +158,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T19:42:06Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1447,12 +1447,12 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Live-In Maintenance Caretaker at Vinci Facilities UK, a permanent full-time role at a Sheffield school (£250/month on-site accommodation, 26 days holiday + benefits). Key duty involves planned/reactive maintenance, emergency first response, opening the school, and basic building/plumbing/electrical repairs.",
-   "fit": "stretch",
-   "fit_reason": "Requires previous caretaking/facilities maintenance experience and \"good all-round maintenance skills\" across plumbing, electrical and building fabric — areas outside Ben's engineering and customer-se",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Caretaker Sub Division: Facilities Management Location: Sheffield Contract Type: Permanent Hours: Full Time - 37.5 hours - Monday to Friday Creating and maintaining great places to live and work delivered by excellent people who care… Purpose of Role We're looking for a reliable and proactive…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=e2bc199bb98ebd5d": {
    "title": "Part-Time Warehouse Operative (Morning Shift)",
@@ -2178,12 +2178,12 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Casual Outdoor Education Instructor at Sheffield City Council's Thornbridge Outdoors centre near Bakewell in the Peak District; pay not stated. Role involves delivering outdoor education sessions including climbing, canoeing, caving, mountain biking and hillwalking to groups.",
-   "fit": "stretch",
-   "fit_reason": "Requires specific nationally-recognised outdoor leadership qualifications (climbing instructor, hill/mountain leader, caving or canoeing awards) which Ben does not hold.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Job description Thornbridge Outdoors is Sheffield City Council’s outdoor learning centre located near Bakewell in the Peak District. Our mission is ‘to widen the horizons of young people through real outdoor adventures in the Peak District’. This is an exciting opportunity to join the pool of…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=25b16294b86bf025": {
    "title": "Casual Outdoor Education Instructor and Trainer",
@@ -2202,12 +2202,12 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Casual Outdoor Education Instructor and Trainer at Sheffield City Council's Thornbridge Outdoors centre near Bakewell, £20.46/hr, delivering hillwalking leadership and first aid courses in the Peak District. Requires approval to direct Mountain Training Hill & Moorland Leader, Lowland Leader, and/or ITC First First Aid courses.",
-   "fit": "stretch",
-   "fit_reason": "Ben has outdoor instructing and First Aid experience but lacks the specific Mountain Training/ITC First course director approvals required to run these accredited qualifications.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Job description Thornbridge Outdoors is Sheffield City Council’s outdoor learning centre located near Bakewell in the Peak District. Our mission is ‘to widen the horizons of young people through real outdoor adventures in the Peak District’. This is an exciting opportunity to join the pool of…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=947a0452507071a8": {
    "title": "Warehouse Order Picker - Back Shift",
@@ -3154,12 +3154,12 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Part-time Caretaker at Penistone Outdoor Markets (Norse Group), £13.31/hr, 7 hours per week split shifts Thursdays, based in Sheffield. Duties include assembling/dismantling market stalls, general maintenance, litter picking, and following health & safety protocols.",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Caretaker – Penistone Outdoor Markets £13.31 Per Hour Join Our Team as a Part-Time Caretaker at Penistone Outdoor Markets We’re looking for a reliable and detail-oriented Caretaker to join our team on a part-time basis. This is a fantastic opportunity To work as part of a multi-disciplinary…",
+   "summary_source": "fallback",
    "fit": "maybe",
-   "fit_reason": "No driving or specialist licences needed and full training is offered; however, he lacks any prior cleaning/caretaking experience, so it relies on transferable initiative.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=a3d64fa5c8f18500": {
    "title": "Regional ADR Driver Trainer",
@@ -3332,12 +3332,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Seasonal Sales & Operations Assistant at Pandora Jewelry in Sheffield, £13.25/hr fixed-term until late Dec 2026/Jan 2027, combining retail sales with back-of-house operations like click-and-collect and stock management. No driving licence required; customer-facing and stock-handling duties suit someone with retail/customer service background.",
-   "fit": "good",
-   "fit_reason": "Ben's customer service experience with POS, food safety, and allergen protocols plus his immediate availability and Sheffield base align well with this retail/operations seasonal role.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Join Pandora’s team as a Seasonal Sales & Operations Assistant! Rate of pay: £13.25 per hour Please note that this is a fixed-term contract ending on either 27th December 2026 or 3rd January 2027, subject to discussion at interview. Spread joy and make the season sparkle with Pandora as a Seasonal…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=11cfaad62f117156": {
    "title": "Retail Sales Assistant",
@@ -3356,12 +3356,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Retail Sales Assistant at American Golf in Sheffield; no pay stated but offers commission, discounts, and benefits. Key duty is delivering customer service, meeting sales targets, and maintaining product displays/till operations.",
-   "fit": "good",
-   "fit_reason": "Ben's customer service experience with POS, cash handling, and food safety protocols directly matches retail/sales skills required; no driving or specialist licences needed.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Job Advert Ready to turn your love for golf into a career? Join American Golf as a Sales Assistant! At American Golf, we’re not just a store; we’re the largest golf retailer in Europe and our mission to be the go-to destination for everything golf and make a positive impact on golfers of all…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=3d98a53e28ededc4": {
    "title": "Seasonal Sales & Operations Assistant",
@@ -3380,12 +3380,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Seasonal Sales & Operations Assistant at Pandora Jewelry in Sheffield, £13.25/hr fixed-term to Dec 2026/Jan 2027. Customer-facing sales plus back-of-house operations including click-and-collect, restocking, gift wrapping, engraving and loading gift cards.",
-   "fit": "good",
-   "fit_reason": "Matches his customer service experience (POS, food service, allergen protocols) and no driving licence required; seasonal retail role is a clear fit for his immediately available status.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Join Pandora’s team as a Seasonal Sales & Operations Assistant! Rate of pay: ﻿£13.25 ﻿ Please note that this is a fixed-term contract ending on either 27th December 2026 or 3rd January 2027, subject to discussion at interview. Spread joy and make the season sparkle with Pandora as a Seasonal Sales…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=63fe8cc087efdca8": {
    "title": "Sales Assistant (Part-Time)",
@@ -3736,12 +3736,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Costa Coffee Barista role in Sheffield paying £13.12–£14.12 per hour, focusing on serving coffee and delivering great customer experience. No licence needed; suitable for entry-level candidates with a positive attitude.",
-   "fit": "good",
-   "fit_reason": "Ben's customer service experience with POS and food safety skills fits this customer-facing role, and no driving licence or specialist certification is required.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "At Costa Coffee, we craft great coffee and memorable experiences. As a Barista, you’ll bring energy, warmth and skill to every shift. We also offer flexible shifts to suit both your needs and the store’s. Why Costa £13.12 - £14.12 per hour (location dependent) 50% discount on all food and drink in…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=9414fa167b4d69e8": {
    "title": "Barista",
@@ -3878,7 +3878,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T19:42:06Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3900,7 +3900,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T19:42:06Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -3922,7 +3922,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T19:42:06Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3944,7 +3944,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T19:42:06Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3966,7 +3966,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T19:42:06Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -3988,12 +3988,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Retail Sales Team Member at NEXT in Sheffield, 9.75 hours per week across weekend shifts; customer service and stock handling duties. No driving or licences required, and no prior retail experience specified.",
-   "fit": "good",
-   "fit_reason": "Ben's customer service assistant experience (POS, food safety, calm under pressure) directly matches the fast-paced retail role, and no licence is needed.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "SHIFTS YOU ARE APPLYING FOR: 9.75hrs p/w; Sun 10:30 - 15:00; Sat 12:00 - 17:30 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=f0f06a8f86134bad": {
    "title": "Team Member",
@@ -4012,12 +4012,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Sales Team Member at NEXT in Sheffield, part-time 5.5hrs/week Sunday shifts with no driving required, focused on customer service and stock operations.",
-   "fit": "good",
-   "fit_reason": "Ben's customer service and stock handling experience directly match the role, with no licence or specialist qualifications needed.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "SHIFTS YOU ARE APPLYING FOR: 5.50hrs p/w; Sun 11:00 - 17:00 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having a great attitude to…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=21f1f86b83838194": {
    "title": "Kitchen Porter UK",
@@ -4036,12 +4036,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Kitchen Porter at Zizzi Restaurants in Sheffield — no experience needed, flexible hours with a minimum-hour contract. Key duty is washing equipment, maintaining hygiene standards, and assisting with basic food prep in a busy kitchen.",
-   "fit": "good",
-   "fit_reason": "Entry-level, no licence or experience required; Ben's customer service and food safety/allergen experience from his assistant role are directly relevant.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Our story: -------------- Zizzi started in 1999 with a little wine, a big oven, and this huge dream to serve Italian, our way. You'll know us for bubbly pizzas, fresh pasta, and good times. We don't do bland food, people or restaurants. About the role: ------------------- As a Zizzi Kitchen Porter,…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=10f623d1d44ddda7": {
    "title": "Barista",
@@ -4060,12 +4060,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Barista role at Costa Coffee in Sheffield, £13.12–£14.12 per hour with staff discount, pension and flexible shifts; core duties involve serving coffee, maintaining store standards and delivering customer experience.",
-   "fit": "good",
-   "fit_reason": "Customer-facing bar work aligns with Ben's customer service experience (POS, cash handling, food safety/allergens) and needs no licence or qualifications he lacks.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "At Costa Coffee, we craft great coffee and memorable experiences. As a Barista, you’ll bring energy, warmth and skill to every shift. We also offer flexible shifts to suit both your needs and the store’s. Why Costa £13.12 - £14.12 per hour (location dependent) 50% discount on all food and drink in…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=77310f4faa12490a": {
    "title": "Barista",
@@ -4084,12 +4084,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Barista role at Costa Coffee in Sheffield paying £13.12–£14.12/hr with flexible shifts and staff discounts. Customer-facing coffee preparation, teamwork and high service standards in a fast-paced store.",
-   "fit": "good",
-   "fit_reason": "Ben's customer service and food-handling experience plus his immediate availability fit this entry-level barista role with no licence or specialist qualifications required.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "At Costa Coffee, we craft great coffee and memorable experiences. As a Barista, you’ll bring energy, warmth and skill to every shift. We also offer flexible shifts to suit both your needs and the store’s. Why Costa £13.12 - £14.12 per hour (location dependent) 50% discount on all food and drink in…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=cbb34ace52cf937a": {
    "title": "Coffee Shop Manager",
@@ -4108,12 +4108,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Coffee Shop Manager at Cornerstone Coffee (SRMG Restaurants Ltd) in Sheffield City Centre, £32,000+; involves running the unit, managing a team, financial targets, and advanced barista skills.",
-   "fit": "stretch",
-   "fit_reason": "Requires 2+ years coffee shop management experience, P&L responsibility, and advanced barista skills — clearly a management role beyond Ben's customer service experience.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Cornerstone Coffee is an exciting new specialty coffee bar at opening in Sheffield City Centre. We believe in delivering great results and your team and customers will always come first. It’s all about eye for detail and delivering a great experience and work place for everyone. We require a…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=2aa1404b908509ae": {
    "title": "Stores Operative",
@@ -4685,7 +4685,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T19:42:06Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -4777,7 +4777,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T19:42:06Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -4799,12 +4799,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Part Time Waiting Staff at Miller & Carter in Sheffield City Centre; duties involve greeting/serving guests and maintaining cleanliness. No driving required, entry-level hospitality role with flexible shifts and staff discounts.",
-   "fit": "good",
-   "fit_reason": "Ben has customer service and food safety experience, no licence or certifications needed for front-of-house waiting.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "No CV to hand? No problem! We've made our application process mobile friendly and removed the need for a CV. Our form takes 2 minutes to complete and tells us all we need about you! As Part Time Waiting Staff at Miller & Carter - Sheffield City Centre, you will give a warm welcome and excellent…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=79ae5b0757a0d93d": {
    "title": "Bar Staff",
@@ -4823,7 +4823,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T19:42:06Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -4869,7 +4869,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T19:42:06Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -4891,7 +4891,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T19:42:06Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -4913,12 +4913,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Relief Pharmacy Assistant at Well Pharmacy in Sheffield; involves covering absences across multiple community pharmacies supporting dispensing and customer service. Key point: requires an NVQ2 in Pharmacy Services as essential, which Ben does not hold.",
-   "fit": "stretch",
-   "fit_reason": "Role explicitly requires NVQ2 in Pharmacy Services, a qualification Ben lacks.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Package Description Highly competitive salaries Generous holiday allowance including bank holidays Opportunity to gain an NVQ 3 qualification Pension scheme Employee discount scheme Superb development and career opportunities Bonus scheme Overview of the role Are you friendly and organised with a…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=1bffceed38a757d2": {
    "title": "Leisure Operations Assistant",
@@ -4937,12 +4937,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Leisure Operations Assistant at swim! in Sheffield, part-time (11–30 hours), £8–£12.71, weekday afternoons/evenings and weekends. Key duty involves customer care, poolside supervision, first aid response, and maintaining cleanliness/safety standards at the venue.",
-   "fit": "good",
-   "fit_reason": "Ben's customer service, First Aid, and outdoor activity instructor experience with group leadership fit well; no driving or specialist licences required, and training is provided.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Job Ref: SPO2919Branch: swim! - SheffieldLocation: swim! - Sheffield, SheffieldSalary/Benefits: £8 - £12.71Contract type: PermanentHours: Part TimeShift pattern: Weekday afternoons evenings, WeekendsHours per week: 11 - 30 hours per weekPosted date: 07/09/2026Closing date: 19/10/2026About us…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=8089cb5902d85001": {
    "title": "Facilities Assistant",
@@ -4961,12 +4961,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Facilities Assistant role at Irwin Mitchell in Sheffield, supporting office operations with travel, reception, post, reprographics and porterage duties.",
-   "fit": "good",
-   "fit_reason": "Practical varied role suits Ben's customer service and organisational skills; no driving licence or specialist tickets required.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Who We Are As one of the UK’s leading law firms, we’re here for the people and businesses who rely on us at life’s important moments - made possible by our colleagues who bring the expertise, judgement and care that makes the difference. Our colleagues bring Irwin Mitchell to life every day, so it…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=e1e7635f9f9db9ca": {
    "title": "Facilities Assistant",
@@ -4985,12 +4985,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Facilities Assistant at Irwin Mitchell (law firm) in Sheffield; varied office support role covering reception cover, post/deliveries, travel booking, reprographics, stationery and meeting room setup. No driving or licence requirements mentioned; duties align with Ben's customer service and practical experience.",
-   "fit": "good",
-   "fit_reason": "No licence or specialist ticket required; Ben's customer service, organisational and practical skills fit this entry-level facilities support role.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Who We Are As one of the UK’s leading law firms, we’re here for the people and businesses who rely on us at life’s important moments - made possible by our colleagues who bring the expertise, judgement and care that makes the difference. Our colleagues bring Irwin Mitchell to life every day, so it…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=bda3e04ad72c587b": {
    "title": "Supervisor",
@@ -5009,12 +5009,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Supervisor role at W Boyes & Co in Firth Park, Sheffield, 37.5 hours per week fully flexible. Deputises for the Store Manager, overseeing staff, sales/stock, operations, safety and financial tasks like cashing up and invoices.",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "W Boyes & Co Ltd - Firth Park 37. 50 Hours per week fully flexible to include Saturday, Sunday and Twilight working Main Purpose To assist the Store Manager in the efficient day to day running of the store to achieve maximum sales and long term profit within the constraints of the Company’s policy…",
+   "summary_source": "fallback",
    "fit": "maybe",
-   "fit_reason": "Ben has retail customer service and cash handling experience, but this is a supervisory post expecting staff management, training, and stock control responsibility beyond his stated background.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=e3f5612a870dc60c": {
    "title": "Trainee Dental Nurse/Receptionist",
@@ -5033,12 +5033,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Trainee Dental Nurse/Receptionist at Pitsmoor Dental Health Centre, NHS dental practice in Sheffield, £13–£13.50/hr permanent full-time. Role combines chairside dental nursing with reception duties including bookings and CQC compliance.",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Trainee Dental Nurse / Receptionist NHS Dental Practice Sheffield We are currently looking for a trainee Dental Nurse / Receptionist to join our friendly, well-established NHS dental practice on a permanent basis. Our four-surgery practice is based in Pitsmoor, close to the city centre with…",
+   "summary_source": "fallback",
    "fit": "maybe",
-   "fit_reason": "Ben has customer service and food safety experience relevant to reception duties, but dental nursing requires specific clinical training and GDC registration he lacks, though trainee status suggests o",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=d1b9ecca1e4c8bc8": {
    "title": "Medical Receptionist",
@@ -5057,12 +5057,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Part-time Medical Receptionist at Brinsworth and Whiston Medical Centre in Rotherham, £12.21/hr (£12.71/hr listed), 25 hours/week Mon–Fri. Key duty is booking/managing clinical appointments on SystmOne and care navigating patients.",
-   "fit": "good",
-   "fit_reason": "Customer service and cash-handling experience plus strong communication fit reception work; no licence or certifications required, and the role is local and immediately available.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Company description Brinsworth and Whiston Medical Centre is a provider of primary care services to a patient population of 10,500 patients in Rotherham, across 2 sites. We pride ourselves on providing high quality holistic care allowing our patients to thrive with the best health possible. Job…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=ddeeb21375f07f60": {
    "title": "Barista / Cafe staff",
@@ -5081,12 +5081,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Part-time Barista/Cafe staff at Lovely Pear in Sheffield, £12.71-£13.50/hr, 10-20 hours daytime shifts Wed-Sat. Requires 3 years restaurant experience and ability to thrive in a busy independent cafe environment.",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "We’re looking for front of house staff at Lovely Pear. Preferably someone used to working in busy restaurant / cafe environments. 10 - 20 hours per week, daytime shifts (we’re open Wednesday - Saturday) starting wage £12.71 - £13.50 Small independent business, gets busy so you need to able to…",
+   "summary_source": "fallback",
    "fit": "maybe",
-   "fit_reason": "Ben has customer service and food safety experience relevant to cafe work, but the ad specifies 3 years restaurant experience which exceeds his background.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=b31245ae88541e25": {
    "title": "Cleaning Operative",
@@ -5105,12 +5105,12 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Part-time Cleaning Operative role at CGD Group (Green Cleaning Company) at Lightwood House healthcare site in Sheffield, Mon-Fri 3:30pm-6:00pm (12.5 hrs/week) at £12.71/hr. Entry-level cleaning with full training provided; no licences or specific experience required, though DBS check needed.",
-   "fit": "good",
-   "fit_reason": "No driving or specialist licences needed, full training provided, and Ben's reliability/teamwork from prior roles suits this; DBS the only hurdle but not a missing qualification.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Cleaning Operative – Healthcare Site – Monday to Friday Location: Lightwood House Hours: Monday to Friday, 3:30pm–6:00pm Contracted Hours: 12.5 hours per week Pay: £12.71 per hour Job Type: Part-time, Permanent About the Role CGD Group is looking for a reliable and hardworking Cleaning Operative to…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=1902bbd96e2864fb": {
    "title": "VOID Operative",
@@ -5129,7 +5129,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T19:42:06Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -5151,9 +5151,12 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Operator role at Sibelco in Sheffield operating industrial mineral processing installations, monitoring quality and performing light maintenance; no pay or licence mentioned. FIT: stretch REASON: Requires prior experience in a similar industrial/production operator role, which Ben lacks, though his engineering background and mechanical fault-finding skills give him a plausible foundation with on-t",
-   "summary_source": "llm"
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "OperatorLocation: SheffieldAt Sibelco, we advance life through materials. For over 150 years, we’ve been a trusted leader in sourcing, transforming, and distributing specialty industrial minerals. Our work powers progress across industries as diverse as glass, ceramics, construction, coatings,…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=0e1b627966195ef2": {
    "title": "Powered Access and Plant Fitter",
@@ -5172,16 +5175,486 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Powered Access and Plant Fitter at Tedbar Tinker Industrial Supplies in Sheffield — duties include diagnostics, maintenance, and repair of plant machinery like forklifts, compressors, and welders.",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Overview Due to expansion, we are seeking a motivated and skilled Powered Access and Plant Fitter to join our dynamic team. In this vital role, you will be responsible for maintaining and repairing plant machinery. This position offers an exciting opportunity to work with a variety of equipment,…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=e27659a47c35c673": {
+   "title": "Production Operative (Warehouse/Seed & Turf)",
+   "company": "The Green Estate Community Interest Company",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "PLEASE NOTE: This job is based in Sheffield, S2\\. Eligibility to work in the UK and a full UK driving licence and ability and willingness to drive our company vehicles are ESSENTIAL. A full list of essential criteria is listed in our person specification. PLEASE READ THE FULL INFORMATION PACK ON OUR WEBSITE BEFORE APPLYING. Along with your CV please send a SUPPORTING STATEMENT detailing how you meet our person specification. **Post Title: Production Operative (Warehouse/Seed \\& Turf)** **Salary: £20,982 \\- £21,240\\.38 per annum which is pro rata the full time equivalent of £26,227\\.50 \\- £26,550\\.48** **Working hours: 30 hours per week working 8\\.00am to 4\\.00pm on Mondays and Tuesdays, with flexibility around when the remaining 2 days are worked (8\\.00am to 4\\.00pm Wednesday/Thursday/Friday)** **Organisation: The Green Estate Community Interest Company** The Green Estate CIC is an award\\-winning social enterprise which aims to grow green and resilient urban places for people and nature to thrive. We have recently launched an ambitious three year growth plan which includes expanding our commercial nature\\-based solutions products and services across the UK and EU and raising our profile as a national urban resilience demonstrator. Applicants will have experience of warehouse operations and working with inventory software/systems, good IT skills, experience in landscape maintenance and confidence in using and maintaining landscape machinery such as hand mowers, hedge cutters and strimmers. They will have an eye for detail, a track record in adhering to systems and processes and be a team player. A full UK driving license and the ability and willingness to drive company vehicles is also essential. For 3 days per week the postholder will assist with the general running of our Pictorial Meadows seed production warehouse including mixing and dispatch, stock taking and quality control and ensuring that our customers receive their orders in a timely manner, and for 1 day per week they will assist with meadow turf, seed and soil production operations ensuring the highest standards of quality and efficiency. An information pack has been prepared providing further details about our organisation, its vision for the future and the full job description and person specification for the role. This is available on our website https://greenestate.org.uk/people/jobs/ To apply please read the information pack and send a CV and a supporting statement detailing how you meet our person specification to recruitment@greenestate.org. **Closing date: 8\\.00am, Monday 21st September 2026** **Interviews will be held on Wednesday 30th September and Friday 2nd October 2026** We reserve the right to close the advert early based on the number and quality of applicants, please do not delay in applying. Pay: £13\\.45\\-£13\\.61 per hour Expected hours: 30\\.0 per week Benefits: * Company events * Company pension * Free parking * On\\-site parking * Sick pay Ability to commute/relocate: * Sheffield S2 1UL: reliably commute or plan to relocate before starting work (required) Application question(s): * Please read the full information pack on our website before applying. Along with your CV please include a SUPPORTING STATEMENT detailing how you meet our person specification. Licence/Certification: * UK driving licence (you will need to drive company vehicles) (required) Work authorisation: * United Kingdom (required) Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=e27659a47c35c673",
+   "categories": [
+    "Engineering & Maintenance",
+    "Warehouse"
+   ],
+   "first_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-07T19:42:06Z",
    "fit": "stretch",
-   "fit_reason": "Role emphasises plant/forklift machinery repair with welding and fabrication skills, which goes well beyond Ben's maintenance experience and would likely require trade qualifications or licences he la",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=09768e2466a6a113": {
+   "title": "Team Member",
+   "company": "NEXT",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "SHIFTS YOU ARE APPLYING FOR: 12\\.50hrs p/w; Mon 09:00 \\- 12:30; Fri 11:30 \\- 14:30; Sat 09:00 \\- 15:30 Working as part of a fast\\-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having a great attitude to work, we will invest in you and your development from day one. Flexible working options are available. **About the Role:** To be a successful Sales Team Member you will: * Offer fast and friendly service at all times, helping our customers to find the perfect products * Share your passion and knowledge about our amazing products * Work in all areas of the store, including sales floors, stockrooms and processing deliveries * Take control of your own development We'll offer amazing benefits (see further list below) **About You:** * A great communicator who’s always looking for ways you can help * Friendly, calm and efficient – even on your busiest days * Excited about the challenge of a varied and fast\\-paced job * Flexible, supportive and always ready to go the extra mile In accordance with Home Office guidance successful candidates will be required to evidence their right to work in the UK before commencement of employment. This role is not one we would typically consider for sponsorship under the Skilled Worker route due to, for example, the relevant Home Office requirements on skills level not being met. Candidates are therefore encouraged to consider their own right to work options without Next sponsorship **What’s Next** As part of your application you will be required to complete an online assessment. This will involve a Working with Numbers Assessment and a Retail Scenarios Assessment. Our in\\-store recruitment team will then review the successfully completed applications and those that match the job criteria closest will be contacted to arrange an initial Interview so we can have a chat to find out more about you. In order to apply for this position you must not have had an unsuccessful online assessment (as detailed above) in the last 6 months. Best of luck! \\#Assistant \\#Customer \\#Shop \\#Associate \\#Consultant \\#Delivery \\#Colleague * Recognition and rewards for doing a great job and achieving great results * 25% off most NEXT, MADE\\*, Lipsy\\*, Gap\\* and Victoria's Secret\\* products (\\*when purchased through NEXT) * 10% off most partner brands \\& up to 15% off Branded Beauty * Early VIP access to sale stock * Hot deals and exclusive offers from over 3,500 retailers through our online benefits platform * Access to fantastic discounts at our Staff Shops * Sharesave scheme * Access a digital GP and other free health and wellbeing services * Life assurance * You can register for a discounted health plan for you and your family * Financial Wellbeing \\- Save, track and enhance your financial wellbeing * Apprenticeship \\- Earn, learn and gain a qualification (England stores only) * Direct to Work \\- Discount online and instore, collect your items the next day for free from your place of work or local store * Support Networks \\- Access to Network Groups to empower and celebrate each other Wellhub \\- Discounted flexible monthly gym memberships, with apps, PT sessions and more * Conditions apply to all benefits. These benefits are discretionary and subject to change. We aim to support all candidates during the application process and are happy to provide workplace adjustments when necessary. Should you need support with your application due to a disability or long\\-term condition, feel free to get in touch with us by email careers@next.co.uk (please include 'Workplace Adjustments' in the subject line), or call us on 0116 479 2223 / 0044 116 479 2223 (line opening times are Monday to Thursday 9am \\- 5pm; Friday 9am \\- 4\\.45pm; Saturday 9am \\- 5pm \\& Sunday 9am \\- 4pm. Excludes bank holidays). You know Next, but did you know we’re a FTSE\\-100 retail company employing over 44,000 people across the Next group. We’re the UK’s 2nd largest fashion retailer and for Kidswear we’re the market leader. At the last count we have over 450 stores, plus the Next Online and it’s now possible to buy on\\-line from over 80 countries around the world! So we’ve gone global!",
+   "job_url": "https://uk.indeed.com/viewjob?jk=09768e2466a6a113",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "SHIFTS YOU ARE APPLYING FOR: 12.50hrs p/w; Mon 09:00 - 12:30; Fri 11:30 - 14:30; Sat 09:00 - 15:30 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=4f61a3d7e9bb6db7": {
+   "title": "Team Member (Stock)",
+   "company": "NEXT",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**SHIFTS YOU ARE APPLYING FOR:** **7\\.50hrs p/w; Sun 10:30 \\- 14:00; Sat 16:00 \\- 20:00** Working as part of a fast\\-paced store team, your top priority will be to locate, pack and promptly process stock, ensuring it’s beautifully presented to our customers. When you’re needed to work on the salesfloor, your outstanding customer service skills will shine through. In return for supporting all Company policies and procedures and having a great attitude to work, we will invest in you and your development from day one. Flexible working options are available. **About the Role:** To be a successful Stock Team Member you will have perfect products available for our online customers by: * Accurately processing stock quickly and to the highest standard, which includes locating, packing and promptly transferring stock in and out of store * Meeting deadlines to always deliver to our customers at the promised time * Keeping operational areas of the store clean, tidy and organised * Working in all areas of the store as needed, including the sales floors, to offer fast and friendly service * Working as part of the store team, reporting to one of our Coordinators or Managers We'll offer amazing benefits (see further list below) **About You:** * A great communicator who is friendly, calm and efficient – even on your busiest days * Accurate, thorough and well organised, with excellent attention to detail * You take pride in your work and approach all tasks with energy, pace and dedication * Happy to work on your own and keep yourself busy to achieve all performance targets * Flexible, supportive and always ready to go the extra mile for your team and our customers * Enjoy taking control of your own development In accordance with Home Office guidance successful candidates will be required to evidence their right to work in the UK before commencement of employment. This role is not one we would typically consider for sponsorship under the Skilled Worker route due to, for example, the relevant Home Office requirements on skills level, not being met. Candidates are therefore encouraged to consider their own right to work options without Next sponsorship **What’s Next** As part of your application you will be required to complete an online assessment. This will involve a Working with Numbers Assessment and a Retail Scenarios Assessment. Our in\\-store recruitment team will then review the successfully completed applications and those that match the job criteria closest will be contacted to arrange an initial Interview so we can have a chat to find out more about you. In order to apply for this position you must not have had an unsuccessful online assessment (as detailed above) in the last 6 months. Best of luck! \\#Delivery \\#Assistant \\#Shop \\#Packaging \\#Operative \\#Colleague \\#Stockroom * Recognition and rewards for doing a great job and achieving great results * 25% off most NEXT, MADE\\*, Lipsy\\*, Gap\\* and Victoria's Secret\\* products (\\*when purchased through NEXT) * 10% off most partner brands \\& up to 15% off Branded Beauty * 60% off a generous (optional) working wardrobe allowance to buy clothes to wear for work (minimum 6 week contract) * Early VIP access to sale stock * Hot deals and exclusive offers from over 3,500 retailers through our online benefits platform * Access to fantastic discounts at our Staff Shops * Sharesave scheme * Access a digital GP and other free health and wellbeing services * Life assurance * You can register for a discounted health plan for you and your family * Financial Wellbeing \\- Save, track and enhance your financial wellbeing * Apprenticeship \\- Earn, learn and gain a qualification (England stores only) * Direct to Work \\- Discount online and instore, collect your items the next day for free from your place of work or local store * Support Networks \\- Access to Network Groups to empower and celebrate each other Wellhub \\- Discounted flexible monthly gym memberships, with apps, PT sessions and more * Conditions apply to all benefits. These benefits are discretionary and subject to change. We aim to support all candidates during the application process and are happy to provide workplace adjustments when necessary. Should you need support with your application due to a disability or long\\-term condition, feel free to get in touch with us by email careers@next.co.uk (please include 'Workplace Adjustments' in the subject line), or call us on 0116 479 2223 / 0044 116 479 2223 (line opening times are Monday to Thursday 9am \\- 5pm; Friday 9am \\- 4\\.45pm; Saturday 9am \\- 5pm \\& Sunday 9am \\- 4pm. Excludes bank holidays). You know Next, but did you know we’re a FTSE\\-100 retail company employing over 44,000 people across the Next group. We’re the UK’s 2nd largest fashion retailer and for Kidswear we’re the market leader. At the last count we have over 450 stores, plus the Next Online and it’s now possible to buy on\\-line from over 80 countries around the world! So we’ve gone global!",
+   "job_url": "https://uk.indeed.com/viewjob?jk=4f61a3d7e9bb6db7",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "SHIFTS YOU ARE APPLYING FOR: 7.50hrs p/w; Sun 10:30 - 14:00; Sat 16:00 - 20:00 Working as part of a fast-paced store team, your top priority will be to locate, pack and promptly process stock, ensuring it’s beautifully presented to our customers. When you’re needed to work on the salesfloor, your…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=c058484a3b0968db": {
+   "title": "Bath and Body Works Fragrance Associate",
+   "company": "NEXT",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "SHIFTS YOU ARE APPLYING FOR: 12\\.25hrs p/w; Sun 12:30 \\- 17:00; Mon 17:15 \\- 21:00; Thu 17:00 \\- 21:00 Working as part of the Beauty team, your top priority will be to offer outstanding service and beautifully presented stock to our customers. In return for supporting all company policies and procedures and having a great attitude to work, we will invest in you and your development from day one. Flexible working options are available. **About the Role:** To be a successful Beauty Consultant you will: * Work on the Beauty department, which will include supporting the Brand counters and may include the stockrooms and processing deliveries if needed * Love all things Beauty, with a keen interest in keeping up to date with what’s new in the skincare, makeup and fragrance market * Offer warm, friendly and helpful service at all times, helping our customers to find the perfect products, demonstrating your passion and knowledge of Beauty * Take control of your own development We’ll offer amazing benefits (see list further below) **About You:** * Passionate about Beauty and what it has to offer our customers * A great communicator who’s always looking for ways you can help * Friendly, calm and efficient – even on your busiest days * Excited about the challenge of a varied and fast\\-paced job * Flexible, supportive and always ready to go the extra mile In accordance with Home Office guidance successful candidates will be required to evidence their right to work in the UK before commencement of employment. This role is not one we would typically consider for sponsorship under the Skilled Worker route due to, for example, the relevant Home Office requirements on skills level, not being met. Candidates are therefore encouraged to consider their own right to work options without Next sponsorship **What’s Next** As part of your application you will be required to complete an online assessment. This will involve a Working with Numbers Assessment and a Retail Scenarios Assessment. Our in\\-store recruitment team will then review the successfully completed applications and those that match the job criteria closest will be contacted to arrange an initial Interview so we can have a chat to find out more about you. In order to apply for this position you must not have had an unsuccessful online assessment (as detailed above) in the last 6 months. Best of luck! \\#Stockroom \\#Delivery \\#Colleague \\#Assistant \\#Shop \\#Expert \\#Specialist \\#Cosmetic * Recognition and rewards for doing a great job and achieving great results * 25% off most NEXT, MADE\\*, Lipsy\\*, Gap\\* and Victoria's Secret\\* products (\\*when purchased through NEXT) * 10% off most partner brands \\& up to 15% off Branded Beauty * 60% off a generous (optional) working wardrobe allowance to buy clothes to wear for work (minimum 6 week contract) * Early VIP access to sale stock * Hot deals and exclusive offers from over 3,500 retailers through our online benefits platform * Access to fantastic discounts at our Staff Shops * Sharesave scheme * Access a digital GP and other free health and wellbeing services * Life assurance * You can register for a discounted health plan for you and your family * Financial Wellbeing \\- Save, track and enhance your financial wellbeing * Apprenticeship \\- Earn, learn and gain a qualification (England stores only) * Direct to Work \\- Discount online and instore, collect your items the next day for free from your place of work or local store * Support Networks \\- Access to Network Groups to empower and celebrate each other Wellhub \\- Discounted flexible monthly gym memberships, with apps, PT sessions and more * Conditions apply to all benefits. These benefits are discretionary and subject to change. We aim to support all candidates during the application process and are happy to provide workplace adjustments when necessary. Should you need support with your application due to a disability or long\\-term condition, feel free to get in touch with us by email careers@next.co.uk (please include 'Workplace Adjustments' in the subject line), or call us on 0116 479 2223 / 0044 116 479 2223 (line opening times are Monday to Thursday 9am \\- 5pm; Friday 9am \\- 4\\.45pm; Saturday 9am \\- 5pm \\& Sunday 9am \\- 4pm. Excludes bank holidays). You know Next, but did you know we’re a FTSE\\-100 retail company employing over 44,000 people across the Next group. We’re the UK’s 2nd largest fashion retailer and for Kidswear we’re the market leader. At the last count we have over 450 stores, plus the Next Online and it’s now possible to buy on\\-line from over 80 countries around the world! So we’ve gone global!",
+   "job_url": "https://uk.indeed.com/viewjob?jk=c058484a3b0968db",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "SHIFTS YOU ARE APPLYING FOR: 12.25hrs p/w; Sun 12:30 - 17:00; Mon 17:15 - 21:00; Thu 17:00 - 21:00 Working as part of the Beauty team, your top priority will be to offer outstanding service and beautifully presented stock to our customers. In return for supporting all company policies and…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=b9da1aeb3626500e": {
+   "title": "Team Member",
+   "company": "NEXT",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**SHIFTS YOU ARE APPLYING FOR:** **11\\.50hrs p/w; Wed 17:00 \\- 21:00; Fri 16:15 \\- 20:00; Sat 15:15 \\- 19:00** Working as part of a fast\\-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having a great attitude to work, we will invest in you and your development from day one. Flexible working options are available. **About the Role:** To be a successful Sales Team Member you will: * Offer fast and friendly service at all times, helping our customers to find the perfect products * Share your passion and knowledge about our amazing products * Work in all areas of the store, including sales floors, stockrooms and processing deliveries * Take control of your own development We'll offer amazing benefits (see further list below) **About You:** * A great communicator who’s always looking for ways you can help * Friendly, calm and efficient – even on your busiest days * Excited about the challenge of a varied and fast\\-paced job * Flexible, supportive and always ready to go the extra mile In accordance with Home Office guidance successful candidates will be required to evidence their right to work in the UK before commencement of employment. This role is not one we would typically consider for sponsorship under the Skilled Worker route due to, for example, the relevant Home Office requirements on skills level not being met. Candidates are therefore encouraged to consider their own right to work options without Next sponsorship **What’s Next** As part of your application you will be required to complete an online assessment. This will involve a Working with Numbers Assessment and a Retail Scenarios Assessment. Our in\\-store recruitment team will then review the successfully completed applications and those that match the job criteria closest will be contacted to arrange an initial Interview so we can have a chat to find out more about you. In order to apply for this position you must not have had an unsuccessful online assessment (as detailed above) in the last 6 months. Best of luck! \\#Assistant \\#Customer \\#Shop \\#Associate \\#Consultant \\#Delivery \\#Colleague * Recognition and rewards for doing a great job and achieving great results * 25% off most NEXT, MADE\\*, Lipsy\\*, Gap\\* and Victoria's Secret\\* products (\\*when purchased through NEXT) * 10% off most partner brands \\& up to 15% off Branded Beauty * 60% off a generous (optional) working wardrobe allowance to buy clothes to wear for work (minimum 6 week contract) * Early VIP access to sale stock * Hot deals and exclusive offers from over 3,500 retailers through our online benefits platform * Access to fantastic discounts at our Staff Shops * Sharesave scheme * Access a digital GP and other free health and wellbeing services * Life assurance * You can register for a discounted health plan for you and your family * Financial Wellbeing \\- Save, track and enhance your financial wellbeing * Apprenticeship \\- Earn, learn and gain a qualification (England stores only) * Direct to Work \\- Discount online and instore, collect your items the next day for free from your place of work or local store * Support Networks \\- Access to Network Groups to empower and celebrate each other Wellhub \\- Discounted flexible monthly gym memberships, with apps, PT sessions and more * Conditions apply to all benefits. These benefits are discretionary and subject to change. We aim to support all candidates during the application process and are happy to provide workplace adjustments when necessary. Should you need support with your application due to a disability or long\\-term condition, feel free to get in touch with us by email careers@next.co.uk (please include 'Workplace Adjustments' in the subject line), or call us on 0116 479 2223 / 0044 116 479 2223 (line opening times are Monday to Thursday 9am \\- 5pm; Friday 9am \\- 4\\.45pm; Saturday 9am \\- 5pm \\& Sunday 9am \\- 4pm. Excludes bank holidays). You know Next, but did you know we’re a FTSE\\-100 retail company employing over 44,000 people across the Next group. We’re the UK’s 2nd largest fashion retailer and for Kidswear we’re the market leader. At the last count we have over 450 stores, plus the Next Online and it’s now possible to buy on\\-line from over 80 countries around the world! So we’ve gone global!",
+   "job_url": "https://uk.indeed.com/viewjob?jk=b9da1aeb3626500e",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "SHIFTS YOU ARE APPLYING FOR: 11.50hrs p/w; Wed 17:00 - 21:00; Fri 16:15 - 20:00; Sat 15:15 - 19:00 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=020653f18f2d990e": {
+   "title": "Team Member",
+   "company": "NEXT",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**SHIFTS YOU ARE APPLYING FOR:** **9hrs p/w; Fri 09:00 \\- 13:30; Sat 09:30 \\- 14:00** Working as part of a fast\\-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having a great attitude to work, we will invest in you and your development from day one. Flexible working options are available. **About the Role:** To be a successful Sales Team Member you will: * Offer fast and friendly service at all times, helping our customers to find the perfect products * Share your passion and knowledge about our amazing products * Work in all areas of the store, including sales floors, stockrooms and processing deliveries * Take control of your own development We'll offer amazing benefits (see further list below) **About You:** * A great communicator who’s always looking for ways you can help * Friendly, calm and efficient – even on your busiest days * Excited about the challenge of a varied and fast\\-paced job * Flexible, supportive and always ready to go the extra mile In accordance with Home Office guidance successful candidates will be required to evidence their right to work in the UK before commencement of employment. This role is not one we would typically consider for sponsorship under the Skilled Worker route due to, for example, the relevant Home Office requirements on skills level not being met. Candidates are therefore encouraged to consider their own right to work options without Next sponsorship **What’s Next** As part of your application you will be required to complete an online assessment. This will involve a Working with Numbers Assessment and a Retail Scenarios Assessment. Our in\\-store recruitment team will then review the successfully completed applications and those that match the job criteria closest will be contacted to arrange an initial Interview so we can have a chat to find out more about you. In order to apply for this position you must not have had an unsuccessful online assessment (as detailed above) in the last 6 months. Best of luck! \\#Assistant \\#Customer \\#Shop \\#Associate \\#Consultant \\#Delivery \\#Colleague * Recognition and rewards for doing a great job and achieving great results * 25% off most NEXT, MADE\\*, Lipsy\\*, Gap\\* and Victoria's Secret\\* products (\\*when purchased through NEXT) * 10% off most partner brands \\& up to 15% off Branded Beauty * 60% off a generous (optional) working wardrobe allowance to buy clothes to wear for work (minimum 6 week contract) * Early VIP access to sale stock * Hot deals and exclusive offers from over 3,500 retailers through our online benefits platform * Access to fantastic discounts at our Staff Shops * Sharesave scheme * Access a digital GP and other free health and wellbeing services * Life assurance * You can register for a discounted health plan for you and your family * Financial Wellbeing \\- Save, track and enhance your financial wellbeing * Apprenticeship \\- Earn, learn and gain a qualification (England stores only) * Direct to Work \\- Discount online and instore, collect your items the next day for free from your place of work or local store * Support Networks \\- Access to Network Groups to empower and celebrate each other Wellhub \\- Discounted flexible monthly gym memberships, with apps, PT sessions and more * Conditions apply to all benefits. These benefits are discretionary and subject to change. We aim to support all candidates during the application process and are happy to provide workplace adjustments when necessary. Should you need support with your application due to a disability or long\\-term condition, feel free to get in touch with us by email careers@next.co.uk (please include 'Workplace Adjustments' in the subject line), or call us on 0116 479 2223 / 0044 116 479 2223 (line opening times are Monday to Thursday 9am \\- 5pm; Friday 9am \\- 4\\.45pm; Saturday 9am \\- 5pm \\& Sunday 9am \\- 4pm. Excludes bank holidays). You know Next, but did you know we’re a FTSE\\-100 retail company employing over 44,000 people across the Next group. We’re the UK’s 2nd largest fashion retailer and for Kidswear we’re the market leader. At the last count we have over 450 stores, plus the Next Online and it’s now possible to buy on\\-line from over 80 countries around the world! So we’ve gone global!",
+   "job_url": "https://uk.indeed.com/viewjob?jk=020653f18f2d990e",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "SHIFTS YOU ARE APPLYING FOR: 9hrs p/w; Fri 09:00 - 13:30; Sat 09:30 - 14:00 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having a…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=191fd0be462bfd47": {
+   "title": "Team Member",
+   "company": "NEXT",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**SHIFTS YOU ARE APPLYING FOR:** **9hrs p/w; Fri 12:15 \\- 18:00; Sat 10:00 \\- 13:30** Working as part of a fast\\-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having a great attitude to work, we will invest in you and your development from day one. Flexible working options are available. **About the Role:** To be a successful Sales Team Member you will: * Offer fast and friendly service at all times, helping our customers to find the perfect products * Share your passion and knowledge about our amazing products * Work in all areas of the store, including sales floors, stockrooms and processing deliveries * Take control of your own development We'll offer amazing benefits (see further list below) **About You:** * A great communicator who’s always looking for ways you can help * Friendly, calm and efficient – even on your busiest days * Excited about the challenge of a varied and fast\\-paced job * Flexible, supportive and always ready to go the extra mile In accordance with Home Office guidance successful candidates will be required to evidence their right to work in the UK before commencement of employment. This role is not one we would typically consider for sponsorship under the Skilled Worker route due to, for example, the relevant Home Office requirements on skills level not being met. Candidates are therefore encouraged to consider their own right to work options without Next sponsorship **What’s Next** As part of your application you will be required to complete an online assessment. This will involve a Working with Numbers Assessment and a Retail Scenarios Assessment. Our in\\-store recruitment team will then review the successfully completed applications and those that match the job criteria closest will be contacted to arrange an initial Interview so we can have a chat to find out more about you. In order to apply for this position you must not have had an unsuccessful online assessment (as detailed above) in the last 6 months. Best of luck! \\#Assistant \\#Customer \\#Shop \\#Associate \\#Consultant \\#Delivery \\#Colleague * Recognition and rewards for doing a great job and achieving great results * 25% off most NEXT, MADE\\*, Lipsy\\*, Gap\\* and Victoria's Secret\\* products (\\*when purchased through NEXT) * 10% off most partner brands \\& up to 15% off Branded Beauty * 60% off a generous (optional) working wardrobe allowance to buy clothes to wear for work (minimum 6 week contract) * Early VIP access to sale stock * Hot deals and exclusive offers from over 3,500 retailers through our online benefits platform * Access to fantastic discounts at our Staff Shops * Sharesave scheme * Access a digital GP and other free health and wellbeing services * Life assurance * You can register for a discounted health plan for you and your family * Financial Wellbeing \\- Save, track and enhance your financial wellbeing * Apprenticeship \\- Earn, learn and gain a qualification (England stores only) * Direct to Work \\- Discount online and instore, collect your items the next day for free from your place of work or local store * Support Networks \\- Access to Network Groups to empower and celebrate each other Wellhub \\- Discounted flexible monthly gym memberships, with apps, PT sessions and more * Conditions apply to all benefits. These benefits are discretionary and subject to change. We aim to support all candidates during the application process and are happy to provide workplace adjustments when necessary. Should you need support with your application due to a disability or long\\-term condition, feel free to get in touch with us by email careers@next.co.uk (please include 'Workplace Adjustments' in the subject line), or call us on 0116 479 2223 / 0044 116 479 2223 (line opening times are Monday to Thursday 9am \\- 5pm; Friday 9am \\- 4\\.45pm; Saturday 9am \\- 5pm \\& Sunday 9am \\- 4pm. Excludes bank holidays). You know Next, but did you know we’re a FTSE\\-100 retail company employing over 44,000 people across the Next group. We’re the UK’s 2nd largest fashion retailer and for Kidswear we’re the market leader. At the last count we have over 450 stores, plus the Next Online and it’s now possible to buy on\\-line from over 80 countries around the world! So we’ve gone global!",
+   "job_url": "https://uk.indeed.com/viewjob?jk=191fd0be462bfd47",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "SHIFTS YOU ARE APPLYING FOR: 9hrs p/w; Fri 12:15 - 18:00; Sat 10:00 - 13:30 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having a…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=e5a5474e4745dc16": {
+   "title": "Team Member (Beauty)",
+   "company": "NEXT",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**SHIFTS YOU ARE APPLYING FOR:** **11\\.50hrs p/w; Tue 16:30 \\- 21:00; Fri 13:00 \\- 16:30; Sat 13:00 \\- 16:30** Working as part of the Beauty team, your top priority will be to offer outstanding service and beautifully presented stock to our customers. In return for supporting all company policies and procedures and having a great attitude to work, we will invest in you and your development from day one. Flexible working options are available. **About the Role:** To be a successful Beauty Consultant you will: * Work on the Beauty department, which will include supporting the Brand counters and may include the stockrooms and processing deliveries if needed * Love all things Beauty, with a keen interest in keeping up to date with what’s new in the skincare, makeup and fragrance market * Offer warm, friendly and helpful service at all times, helping our customers to find the perfect products, demonstrating your passion and knowledge of Beauty * Take control of your own development We’ll offer amazing benefits (see list further below) **About You:** * Passionate about Beauty and what it has to offer our customers * A great communicator who’s always looking for ways you can help * Friendly, calm and efficient – even on your busiest days * Excited about the challenge of a varied and fast\\-paced job * Flexible, supportive and always ready to go the extra mile In accordance with Home Office guidance successful candidates will be required to evidence their right to work in the UK before commencement of employment. This role is not one we would typically consider for sponsorship under the Skilled Worker route due to, for example, the relevant Home Office requirements on skills level, not being met. Candidates are therefore encouraged to consider their own right to work options without Next sponsorship **What’s Next** As part of your application you will be required to complete an online assessment. This will involve a Working with Numbers Assessment and a Retail Scenarios Assessment. Our in\\-store recruitment team will then review the successfully completed applications and those that match the job criteria closest will be contacted to arrange an initial Interview so we can have a chat to find out more about you. In order to apply for this position you must not have had an unsuccessful online assessment (as detailed above) in the last 6 months. Best of luck! \\#Stockroom \\#Delivery \\#Colleague \\#Assistant \\#Shop \\#Expert \\#Specialist \\#Cosmetic * Recognition and rewards for doing a great job and achieving great results * 25% off most NEXT, MADE\\*, Lipsy\\*, Gap\\* and Victoria's Secret\\* products (\\*when purchased through NEXT) * 10% off most partner brands \\& up to 15% off Branded Beauty * 60% off a generous (optional) working wardrobe allowance to buy clothes to wear for work (minimum 6 week contract) * Early VIP access to sale stock * Hot deals and exclusive offers from over 3,500 retailers through our online benefits platform * Access to fantastic discounts at our Staff Shops * Sharesave scheme * Access a digital GP and other free health and wellbeing services * Life assurance * You can register for a discounted health plan for you and your family * Financial Wellbeing \\- Save, track and enhance your financial wellbeing * Apprenticeship \\- Earn, learn and gain a qualification (England stores only) * Direct to Work \\- Discount online and instore, collect your items the next day for free from your place of work or local store * Support Networks \\- Access to Network Groups to empower and celebrate each other Wellhub \\- Discounted flexible monthly gym memberships, with apps, PT sessions and more * Conditions apply to all benefits. These benefits are discretionary and subject to change. We aim to support all candidates during the application process and are happy to provide workplace adjustments when necessary. Should you need support with your application due to a disability or long\\-term condition, feel free to get in touch with us by email careers@next.co.uk (please include 'Workplace Adjustments' in the subject line), or call us on 0116 479 2223 / 0044 116 479 2223 (line opening times are Monday to Thursday 9am \\- 5pm; Friday 9am \\- 4\\.45pm; Saturday 9am \\- 5pm \\& Sunday 9am \\- 4pm. Excludes bank holidays). You know Next, but did you know we’re a FTSE\\-100 retail company employing over 44,000 people across the Next group. We’re the UK’s 2nd largest fashion retailer and for Kidswear we’re the market leader. At the last count we have over 450 stores, plus the Next Online and it’s now possible to buy on\\-line from over 80 countries around the world! So we’ve gone global!",
+   "job_url": "https://uk.indeed.com/viewjob?jk=e5a5474e4745dc16",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "SHIFTS YOU ARE APPLYING FOR: 11.50hrs p/w; Tue 16:30 - 21:00; Fri 13:00 - 16:30; Sat 13:00 - 16:30 Working as part of the Beauty team, your top priority will be to offer outstanding service and beautifully presented stock to our customers. In return for supporting all company policies and…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=88a943e91a37af94": {
+   "title": "Team Member",
+   "company": "NEXT",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**SHIFTS YOU ARE APPLYING FOR:** **17hrs p/w; Mon 10:00 \\- 16:30; Wed 10:00 \\- 17:00; Thu 09:30 \\- 14:00** Working as part of a fast\\-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having a great attitude to work, we will invest in you and your development from day one. Flexible working options are available. **About the Role:** To be a successful Sales Team Member you will: * Offer fast and friendly service at all times, helping our customers to find the perfect products * Share your passion and knowledge about our amazing products * Work in all areas of the store, including sales floors, stockrooms and processing deliveries * Take control of your own development We'll offer amazing benefits (see further list below) **About You:** * A great communicator who’s always looking for ways you can help * Friendly, calm and efficient – even on your busiest days * Excited about the challenge of a varied and fast\\-paced job * Flexible, supportive and always ready to go the extra mile In accordance with Home Office guidance successful candidates will be required to evidence their right to work in the UK before commencement of employment. This role is not one we would typically consider for sponsorship under the Skilled Worker route due to, for example, the relevant Home Office requirements on skills level not being met. Candidates are therefore encouraged to consider their own right to work options without Next sponsorship **What’s Next** As part of your application you will be required to complete an online assessment. This will involve a Working with Numbers Assessment and a Retail Scenarios Assessment. Our in\\-store recruitment team will then review the successfully completed applications and those that match the job criteria closest will be contacted to arrange an initial Interview so we can have a chat to find out more about you. In order to apply for this position you must not have had an unsuccessful online assessment (as detailed above) in the last 6 months. Best of luck! \\#Assistant \\#Customer \\#Shop \\#Associate \\#Consultant \\#Delivery \\#Colleague * Recognition and rewards for doing a great job and achieving great results * 25% off most NEXT, MADE\\*, Lipsy\\*, Gap\\* and Victoria's Secret\\* products (\\*when purchased through NEXT) * 10% off most partner brands \\& up to 15% off Branded Beauty * 60% off a generous (optional) working wardrobe allowance to buy clothes to wear for work (minimum 6 week contract) * Early VIP access to sale stock * Hot deals and exclusive offers from over 3,500 retailers through our online benefits platform * Access to fantastic discounts at our Staff Shops * Sharesave scheme * Access a digital GP and other free health and wellbeing services * Life assurance * You can register for a discounted health plan for you and your family * Financial Wellbeing \\- Save, track and enhance your financial wellbeing * Apprenticeship \\- Earn, learn and gain a qualification (England stores only) * Direct to Work \\- Discount online and instore, collect your items the next day for free from your place of work or local store * Support Networks \\- Access to Network Groups to empower and celebrate each other Wellhub \\- Discounted flexible monthly gym memberships, with apps, PT sessions and more * Conditions apply to all benefits. These benefits are discretionary and subject to change. We aim to support all candidates during the application process and are happy to provide workplace adjustments when necessary. Should you need support with your application due to a disability or long\\-term condition, feel free to get in touch with us by email careers@next.co.uk (please include 'Workplace Adjustments' in the subject line), or call us on 0116 479 2223 / 0044 116 479 2223 (line opening times are Monday to Thursday 9am \\- 5pm; Friday 9am \\- 4\\.45pm; Saturday 9am \\- 5pm \\& Sunday 9am \\- 4pm. Excludes bank holidays). You know Next, but did you know we’re a FTSE\\-100 retail company employing over 44,000 people across the Next group. We’re the UK’s 2nd largest fashion retailer and for Kidswear we’re the market leader. At the last count we have over 450 stores, plus the Next Online and it’s now possible to buy on\\-line from over 80 countries around the world! So we’ve gone global!",
+   "job_url": "https://uk.indeed.com/viewjob?jk=88a943e91a37af94",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "SHIFTS YOU ARE APPLYING FOR: 17hrs p/w; Mon 10:00 - 16:30; Wed 10:00 - 17:00; Thu 09:30 - 14:00 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=a0941d2ec5ad7020": {
+   "title": "Team Member",
+   "company": "NEXT",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**SHIFTS YOU ARE APPLYING FOR:** **6\\.50hrs p/w; Wed 10:00 \\- 17:00** Working as part of a fast\\-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having a great attitude to work, we will invest in you and your development from day one. Flexible working options are available. **About the Role:** To be a successful Sales Team Member you will: * Offer fast and friendly service at all times, helping our customers to find the perfect products * Share your passion and knowledge about our amazing products * Work in all areas of the store, including sales floors, stockrooms and processing deliveries * Take control of your own development We'll offer amazing benefits (see further list below) **About You:** * A great communicator who’s always looking for ways you can help * Friendly, calm and efficient – even on your busiest days * Excited about the challenge of a varied and fast\\-paced job * Flexible, supportive and always ready to go the extra mile In accordance with Home Office guidance successful candidates will be required to evidence their right to work in the UK before commencement of employment. This role is not one we would typically consider for sponsorship under the Skilled Worker route due to, for example, the relevant Home Office requirements on skills level not being met. Candidates are therefore encouraged to consider their own right to work options without Next sponsorship **What’s Next** As part of your application you will be required to complete an online assessment. This will involve a Working with Numbers Assessment and a Retail Scenarios Assessment. Our in\\-store recruitment team will then review the successfully completed applications and those that match the job criteria closest will be contacted to arrange an initial Interview so we can have a chat to find out more about you. In order to apply for this position you must not have had an unsuccessful online assessment (as detailed above) in the last 6 months. Best of luck! \\#Assistant \\#Customer \\#Shop \\#Associate \\#Consultant \\#Delivery \\#Colleague * Recognition and rewards for doing a great job and achieving great results * 25% off most NEXT, MADE\\*, Lipsy\\*, Gap\\* and Victoria's Secret\\* products (\\*when purchased through NEXT) * 10% off most partner brands \\& up to 15% off Branded Beauty * 60% off a generous (optional) working wardrobe allowance to buy clothes to wear for work (minimum 6 week contract) * Early VIP access to sale stock * Hot deals and exclusive offers from over 3,500 retailers through our online benefits platform * Access to fantastic discounts at our Staff Shops * Sharesave scheme * Access a digital GP and other free health and wellbeing services * Life assurance * You can register for a discounted health plan for you and your family * Financial Wellbeing \\- Save, track and enhance your financial wellbeing * Apprenticeship \\- Earn, learn and gain a qualification (England stores only) * Direct to Work \\- Discount online and instore, collect your items the next day for free from your place of work or local store * Support Networks \\- Access to Network Groups to empower and celebrate each other Wellhub \\- Discounted flexible monthly gym memberships, with apps, PT sessions and more * Conditions apply to all benefits. These benefits are discretionary and subject to change. We aim to support all candidates during the application process and are happy to provide workplace adjustments when necessary. Should you need support with your application due to a disability or long\\-term condition, feel free to get in touch with us by email careers@next.co.uk (please include 'Workplace Adjustments' in the subject line), or call us on 0116 479 2223 / 0044 116 479 2223 (line opening times are Monday to Thursday 9am \\- 5pm; Friday 9am \\- 4\\.45pm; Saturday 9am \\- 5pm \\& Sunday 9am \\- 4pm. Excludes bank holidays). You know Next, but did you know we’re a FTSE\\-100 retail company employing over 44,000 people across the Next group. We’re the UK’s 2nd largest fashion retailer and for Kidswear we’re the market leader. At the last count we have over 450 stores, plus the Next Online and it’s now possible to buy on\\-line from over 80 countries around the world! So we’ve gone global!",
+   "job_url": "https://uk.indeed.com/viewjob?jk=a0941d2ec5ad7020",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "SHIFTS YOU ARE APPLYING FOR: 6.50hrs p/w; Wed 10:00 - 17:00 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having a great attitude to…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=3f09b433baeb45f0": {
+   "title": "Catering Assistant",
+   "company": "Aspens Services Ltd",
+   "location": "Rotherham, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "Job Introduction **About us:** Aspens Services is a market\\-leading contract caterer specialising in school food. We don't just serve meals—we create fantastic food experiences that fuel young minds! By blending deep knowledge of the education sector with the latest food trends, we encourage creativity and excitement in every kitchen. Our commitment to quality care for both clients and children has fueled rapid growth, and we are looking for passionate people like you to join our journey. **The role:** As a Catering Assistant, you will be a vital part of the team, supporting our kitchen in basic food preparation and delivering excellent service that makes the lunchtime rush run smoothly. **You’ll be making a real difference through responsibilities that include:** * **Customer Interaction:** Working on the tills during service (don’t worry, full training is provided!). * **Front\\-Line Service:** Providing friendly, polite customer service to all students and staff. * **Essential Support:** Assisting the team with basic food preparation * **Maintaining Standards:** Ensuring a safe, clean kitchen environment and meeting Health and Safety compliance **About you:** We’re looking for someone who shares our passion for delivering exceptional food and service to our schools. If you have these skills and qualities, we want to hear from you: * You’re a team player and thrive as part of a busy team * You have previous catering or fast\\-paced service experience * You have a basic knowledge of health and safety practices * The Food Hygiene Level 2 qualification is great, but not essential as we can provide the training! **Why Join the Aspens Family?** **Great Work\\-Life Balance:** You’ll work Monday to Friday during school term time \\- that means no late nights, no weekends and no working at Christmas! * 20 hours per week * 38 weeks per year \\- what will you do with all that time off? * £12\\.71 per hour **Career Growth and Development:** * Join a fast\\-growing, ambitious company. We have no ceiling in terms of where you can take your career in catering. * Benefit from a dedicated Learning \\& Development team offering apprenticeship and training courses to help you constantly develop your skills. **Ready to start a rewarding career with amazing hours? Apply today!** *Please note: All staff must share our commitment to safeguarding and promoting the welfare of children/young people. The company will seek an enhanced DBS disclosure.*",
+   "job_url": "https://uk.indeed.com/viewjob?jk=3f09b433baeb45f0",
+   "categories": [
+    "Hospitality",
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Job Introduction About us: Aspens Services is a market-leading contract caterer specialising in school food. We don't just serve meals—we create fantastic food experiences that fuel young minds! By blending deep knowledge of the education sector with the latest food trends, we encourage creativity…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=37ead29c54b4a2b7": {
+   "title": "Assistant Centre Manager",
+   "company": "Protyre Autocare",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**Protyre Autocare** is looking for an adaptable and forward\\-looking **Assistant Centre Manager.** This back\\-of\\-house technical role ensures workshop excellence, safety, productivity, and technical quality across the centre. You will be responsible for optimising workshop flow and bay utilisation, maintaining the highest standards of technical quality and safety, coaching technicians, and stepping up to lead the centre operationally in the Centre Manager’s absence. You will be the technical heart of the Protyre operating model. **Success in this role** will come from directly owning the technical execution and standards, enabling the Centre Manager to focus on people’s leadership, culture, and commercial performance. * **Working Pattern**:Monday \\- Friday 8:30 to 5:30, Saturday 8:30 to 4pm * **Must have**: Strong technical background as a vehicle technician / mechanic with proven diagnostic and repair experience and supervisory, team leader, or senior technician role (workshop or fast\\-fit environment) * **Full UK Driving Licence**, held for at least 6 months (age restrictions may apply – points or offences may affect your application) * **Training \\& Career Development**: Training and Company growth to boost career progression * **Benefits**: Staff discounts on servicing, tyres and MOTs. Retail vouchers, Finder’s fee, Life Insurance, Pension, Eye Care Vouchers, Buy/Sell Holiday, Flu Jab, Employee Assistant Program. Long Service Recognition, Enhance Maternity and Paternity, Cycle to Work, Charity Match. **About the role:** * Own workshop operations, flow, productivity and technical quality, optimising bay utilisation, job allocation and labour efficiency to deliver right\\-first\\-time work and maximise workshop output * Maintain the highest standards of technical quality, vehicle safety and workmanship, leading quality checks, final inspections and continuous improvement in technical standards * Coach, mentor and develop technicians on a day\\-to\\-day basis, raising technical capability, embedding new operating model standards \\- supporting skill development and career progression. * Make operational decisions in the Centre Manager’s absence, ensuring continuity of service, standards and team performance. * Champion readiness for new technologies (EV, ADAS, advanced diagnostics), support continuous improvement and work collaboratively with the Centre Manager and Protyre Expert to deliver seamless front\\-to\\-back customer journeys. * Drive compliance, safety and data integrity in the workshop, partnering with Area Compliance on audits and risk assessments while contributing accurate technical records and performance KPIs. **About you:** * Previous experience as a Workshop Controller, Workshop Manager, or Senior Technician in a fast\\-fit or dealership environment * Experience with EV / high\\-voltage systems and advanced driver assistance systems (ADAS) * Excellent technical knowledge across tyres, MOT, servicing, brakes, suspension, diagnostics, and emerging technologies (EV/ADAS) * Technically excellent with deep diagnostic and repair expertise, combined with high personal standards of quality, safety and integrity that set the benchmark for the workshop team * Great leadership and coaching skills — able to develop technicians and raise technical standards **Why join Protyre Autocare?** Protyre Autocare is the UK’s fastest growing supplier and fitter of tyres and automotive services, fitting over 1 million tyres every year through our fast\\-fit centres. We offer a wide variety of careers from Administrative to Mechanical, Digital to Financial and many other exciting roles within the motor industry. Protyre Autocare is the retail branch of The Micheldever Group. Micheldever Tyre Services (MTS). Job Type: Full\\-time Pay: £32,000\\.00\\-£36,000\\.00 per year Benefits: * Cycle to work scheme * Employee discount * Life insurance * On\\-site parking * Referral programme * Store discount Application question(s): * Do you have previous experience in a similar role? * Do you have hands on experience in an Automotive field? * Do you have a good understanding of the Automotive industry? Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=37ead29c54b4a2b7",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=aae222158079ab88": {
+   "title": "Store Team Member",
+   "company": "Home Bargains",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "Package **Salary \\& Hours** * £12\\.71 per hour (18\\-20\\), £13\\.00 per hour (21\\+) * Available contracted hours 12 hours per week * Applicants must be available to work 6am\\-10am * FIXED TERM 9 MONTHS **Employee Benefits** * Full\\-time employees receive 28 days of annual leave (inclusive of bank holidays), increasing to 33 days after 5 years of service. Annual leave is pro\\-rated for part\\-time or alternative working arrangements. * Contributable company pension scheme * 10% store discount at all our retail stores * Death in Service Benefit * Long service recognition scheme * Stream \\- Access to flexible pay, financial wellbeing support, exclusive discounts, savings opportunities and much more * MyHB colleague benefits platform with access to:* Discounts UK wide on retail, leisure, hospitality venues * Employee Assistance Programme with 24/7 confidential counselling and advice line * Low cost voluntary insured health cash plans and cancer cover Job Introduction At Home Bargains, you will find more than just a job, you will find opportunity. Customers often come in for one thing and leave with a full trolley thanks to our passionate teams who keep shelves stocked, create a welcoming atmosphere, and make sure every shopper leaves with a smile. As a Store Team Member, you will be at the heart of it all, greeting customers, replenishing shelves, and working across different departments from fresh food to seasonal while always delivering fantastic standards. Retail here is fast\\-paced and hands\\-on, with no two days the same. Because our stores are open from 6 am to 10 pm daily, we ask for some flexibility with evenings and weekends — but don’t worry, we work hard to balance shifts fairly so everyone gets the time off they need. Every role is part of something bigger, connecting with people and working together as a team. **Ready to take the first step?** Apply now and see why so many of our colleagues say, *\"I only came in for one thing... but I came out with a career.\"* Job Overview Step into a role that’s fast\\-paced, fun, and full of variety, here’s what you’ll be doing: * **Be the smile that makes a difference:** As a dedicated Store Team Member, you will be the face of Home Bargains, providing enthusiastic customer service by assisting with product queries and ensuring a welcoming atmosphere. * **Teamwork makes the dream work:** Whether you're watering plants, baking fresh goods, stocking shelves, or keeping displays and workspaces clean, you'll support your team to maintain high standards across the store. * **Keep the momentum going:** Take charge during the fill shift by unloading deliveries and swiftly getting stock out on the shelves, making sure everything’s ready for our customers to find what they need. * **No two days are the same:** You will be trained across multiple areas of the business. Your versatility will shine as you handle tills, manage cash transactions, restock shelves, and adapt to various roles in the Café, Bakery, or Garden Centre. Minimum Criteria To Apply We are looking for someone who is enthusiastic, approachable, and ready to make a real difference in\\-store. You’ll enjoy working as part of a team and helping customers have a great experience. Ideally, you will have: * A friendly and approachable attitude, with a love of helping customers * Hardworking, reliable, and willing to get stuck in * A can\\-do attitude and willingness to learn new things * Works well as part of team and want to make a difference * Ability to work in a fast\\-paced environment and maintain high standards * Flexibility to work varied shifts, including lates and weekends * Polite, professional, and committed to following company policies and keeping the workplace safe **We expect lots of interest, so get your application in early — the closing date might move forward!** About The Company At Home Bargains, customers often come in for one thing and leave with a full trolley — and it’s our amazing teams who make that possible. Our aim is simple: to deliver top brands at bottom prices, every day. Working here is fun, fast\\-paced, and never dull, there’s always something new happening in our growing and ever\\-changing business. As one of the UK’s fastest\\-growing discount retailers, we’re expanding rapidly, creating fantastic opportunities for you to develop and progress with us. No matter where you begin, Home Bargains is a place to grow, where passion meets potential and every contribution helps build something truly special. Many colleagues say, *“I only came in for one thing… but I came out with a career.”* And with supportive teams across our business, you’ll find an inclusive environment where you can thrive and be part of something exciting.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=aae222158079ab88",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Package Salary & Hours £12.71 per hour (18-20), £13.00 per hour (21+) Available contracted hours 12 hours per week Applicants must be available to work 6am-10am FIXED TERM 9 MONTHS Employee Benefits Full-time employees receive 28 days of annual leave (inclusive of bank holidays), increasing to 33…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=b2892416fbeb381b": {
+   "title": "Part Time Kitchen Assistant",
+   "company": "All Bar One",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**No CV to hand? No problem! We've made our application process mobile friendly and removed the need for a CV. Our form takes 2 minutes to complete and tells us all we need about you!** With your support as a Part Time Kitchen Assistant at All Bar One Sheffield, everything will run smoothly! You’ll make sure the kitchen is stocked up, clean, tidy and ready for the shift ahead; supporting the chefs to serve food to be proud of. Join us at All Bar One, our stylish city centre bars. Think morning coffees to Saturday night espresso martinis, sharing tapas with friends to getting down on the dancefloor. If you fancy mixing things up, we want to hear from you. **WHAT’S IN IT FOR ME?** * Flexible shifts to fit around you. * A massive 33% discount across all our brands. Whether its date night at Miller \\& Carter, a family roast at Toby Carvery, we’ve got you covered. * 20% discount across all off our brands for up to 5 friends and family. * Wagestream – a financial toolkit that helps you manage your finances and allows you to access your earned pay when you need it. * Opportunities to grow with paid for qualifications. * Discounts on gym memberships. * Team Socials – work hard, play hard! On top of this, as part of Mitchells \\& Butlers you will receive a pension; 28 days paid holiday; high\\-street shopping discounts; and we even give you free shares! There's also a free employee helpline\\- to support you with whatever life throws at you. **WHAT WILL I BE DOING? AS KITCHEN ASSISTANT YOU’LL…** * Set up the kitchen ready for the day. * Help keep the kitchen clean during a busy shift. * Work as part of a team, supporting the chefs to serve food to be proud of. At M\\&B, we want people to be supported, valued, able to be themselves and work in a great team. Join us and help us make every guest feel truly welcome. Haven't got a CV to hand? Don't worry you don't need a CV to apply INDBOH",
+   "job_url": "https://uk.indeed.com/viewjob?jk=b2892416fbeb381b",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "No CV to hand? No problem! We've made our application process mobile friendly and removed the need for a CV. Our form takes 2 minutes to complete and tells us all we need about you! With your support as a Part Time Kitchen Assistant at All Bar One Sheffield, everything will run smoothly! You’ll…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=b385bc2e85a19a26": {
+   "title": "Catering Assistant",
+   "company": "Cascade Multi Academy Trust",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**Beck Primary School** is seeking a reliable, enthusiastic and hardworking Catering Assistant to join our dedicated team. This is a fantastic opportunity for an organised, proactive and highly motivated professional to play a key role in the smooth and successful operation of our school. As part of Cascade Multi Academy Trust, you will contribute to our vision of transforming the life chances of children, providing safe and inspiring learning environments and making a positive impact within our local communities. **The Role** As a Catering Assistant, you will help provide healthy, nutritious meals for our pupils. Duties will include: * Assisting with the preparation and serving of food * Setting up and clearing dining areas * Maintaining high standards of cleanliness and food hygiene * Washing dishes and kitchen equipment * Supporting the catering team to ensure a positive lunchtime experience for pupils * Working as part of a team in the cleaning of all work areas * Assisting in the periodic deep clean work associated with food areas * Undertaking cash handling **We're Looking For Someone Who:** * Has a positive and friendly attitude * Works well as part of a team * Is reliable, punctual, and organised * Understands the importance of food hygiene and safety * Has experience in catering or food service (desirable but not essential) Permanent 16\\.25 hours per week, 39 weeks per year Salary: Grade 1, Scale point 3 Full time equivalent (FTE): £25,614 per annum Actual salary: £9,676 **Why Beck Primary School?** At Beck Primary School, we are known as \"The Big School with the Big Heart.\" We are a large, diverse and welcoming school where strong relationships, high expectations and a genuine commitment to children sit at the heart of everything we do. Our staff are valued, trusted and supported to thrive. We work collaboratively, celebrate new ideas and are committed to creating a positive workplace where people enjoy coming to work every day. As part of the Beck team, you will join a school that is ambitious for every child and committed to ensuring that all pupils can be here, belong here, take part here and succeed here. Every role within our school contributes to that vision, including our catering team, who play an important part in providing a positive and welcoming lunchtime experience. Being part of Cascade Multi Academy Trust also provides access to a wider network of support, professional development opportunities and staff wellbeing benefits, helping colleagues grow and succeed in their careers. Join Beck and become part of a caring, ambitious school community where your contribution truly makes a difference to children's lives every day. **What we Offer:** * A supportive Central Team and collaborative school leadership community * Employer\\-funded enhanced DBS check * Commitment to ongoing professional development * Local Government Pension Scheme * Employee benefits including Westfield Health, EAP, Health Cash Plan, Listening Service **Safeguarding** Cascade MAT is committed to safeguarding and promoting the welfare and safety of children and young people and expects all staff to share in this commitment. Our Safeguarding policy and Safer Recruitment policy can be found on Cascade’s website. In line with Keeping Children Safe in Education advice, the Trust will carry out online searches for shortlisted candidates. Shortlisted candidates are required to complete a self\\-declaration criminal history form prior to interview and any disclosures will be discussed with candidates at the interview stage. The successful candidate will be required to complete an enhanced DBS prior to employment commencing. **Application Process** To apply for this position, please visit www.cascademat.co.uk where you can find the recruitment pack and application form. ***Please note that in line with safeguarding and compliance regulations, applications submitted via CV will not be considered. All applicants must complete the application form.*** Your completed application form should be emailed to recruitment@beckprimary.co.uk. **Closing Date:** 27th September 2026 **Shortlisting:** 28th September 2026 **Assessment Date:** week commencing 28th September 2026 Pay: From £9,676\\.00 per year Benefits: * Company pension * Cycle to work scheme * Free parking Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=b385bc2e85a19a26",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Beck Primary School is seeking a reliable, enthusiastic and hardworking Catering Assistant to join our dedicated team. This is a fantastic opportunity for an organised, proactive and highly motivated professional to play a key role in the smooth and successful operation of our school. As part of…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=dce4ad3449eea610": {
+   "title": "Front of House Staff",
+   "company": "el paso",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**Job Summary** Join our vibrant team as a Front of House Staff member, where your energy and hospitality skills will create memorable experiences for our guests. In this dynamic role, you’ll be the friendly face welcoming visitors, taking orders, serving food and drinks, and ensuring every guest feels valued and comfortable. Your enthusiasm and attention to detail will help foster a lively, welcoming atmosphere that keeps customers coming back. This paid position offers an exciting opportunity to develop your hospitality expertise while contributing to a positive dining environment. **Responsibilities** * Greet guests warmly upon arrival and provide excellent customer service throughout their visit * Take accurate food and beverage orders, ensuring special requests are noted and fulfilled * Serve food and drinks efficiently, maintaining presentation standards and cleanliness * Assist with food preparation tasks as needed to support kitchen staff and ensure timely service * Maintain cleanliness of the dining area, bar, and service stations in compliance with food safety standards * Handle cash transactions accurately and process payments promptly * Support bartending or barista duties when required, including mixing drinks or preparing coffee beverages * Ensure all health and safety regulations are followed diligently to uphold a safe environment for staff and guests **Requirements** * Previous experience in hospitality, restaurant service, catering, or related roles is preferred but not mandatory * Strong communication skills with a friendly, approachable demeanor * Ability to work efficiently in a fast\\-paced environment while maintaining attention to detail * Knowledge of food safety standards and proper handling procedures * Experience with serving, bartending, or barista work is a plus * Flexibility to work various shifts including evenings, weekends, and holidays * A proactive attitude with a passion for delivering exceptional guest experiences Join us to be part of a lively team dedicated to creating memorable moments through outstanding service! We value energetic individuals who thrive in social settings and are eager to grow their hospitality skills. All positions are paid roles committed to providing a positive working environment where your enthusiasm makes a difference. Pay: £8\\.00\\-£10\\.85 per hour Expected hours: 10\\.0 – 20\\.0 per week Benefits: * Company events * Discounted or free food * Employee discount * On\\-site parking Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=dce4ad3449eea610",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "summary": "Job Summary Join our vibrant team as a Front of House Staff member, where your energy and hospitality skills will create memorable experiences for our guests. In this dynamic role, you’ll be the friendly face welcoming visitors, taking orders, serving food and drinks, and ensuring every guest feels…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=6ff6bf9f3c2bee4b": {
+   "title": "Bartender",
+   "company": "Roxy Leisure",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**BAR TEAM MEMBER** **ROXY BALL ROOM SHEFFIELD CHARTER SQUARE** **A LITTLE BIT ABOUT OUR BRAND:** Looking for a fun and exciting opportunity? Roxy Ball Room is the home of booze and ball games! One for the adults, as we are always an 18\\+ venue. Offering a wide range of gaming options from duck pin bowling to tech darts, karaoke to ice\\-free curling, get your balls wet with beer pong or try your hand at the exclusive Roxy creation Crazy Pool! Set to a classic rock \\& indie playlist with a drinks menu to knock your pins down, Roxy Ball Room is the place to be. Started by 2 brothers 13 years ago, falling under the Professionals At Play umbrella, we now operate 30 sites nationwide with many more to come! **WHAT WE’D EXPECT FROM YOU;** In our Bar Team Members, we want energy that drives the business forward in a way that requires you to be a real team player with a passion for hospitality. Role Responsibilities: * Ensure we are delivering the best guest experience for our customers on every visit. * Serving great quality drinks, food and gaming experiences to the specs and training provided * Leading by example through great team efforts and engagement * Maintaining great standards both in front and behind the bar * Be yourself! Bring your personality and get involved **WHAT WE WANT FROM AN INDIVIDUAL;** We want you to bring enthusiasm and your own character to the role. Roxy is about being professionals who bring the playground to the bar and we want people to join us on this journey who share our values; * Passionate attitude * Loves to be professional playful * Always gives good energy * Your team. Every time **WHAT YOU GET;** * Competitive Hourly Rates Available * Regular team incentives \\- recent rewards include trips to Dublin, Marbella, Thailand etc * 2 Staff Socials throughout the year * Opportunity for progression with in house and external training * Equal share of tips \\& service charge * 50% off food and drink \\& free gaming * Employee Assistance Program that includes access to free counselling services * Access to Rewards Gateway, offering discounts at 100s of retailers * Full access to your Tips \\& Service Charge weekly through TiPJAR **JOB SPECIFICS;** * Flexible hours available * It is expected that you will be available to work weekends and public holidays * Expected to have a reliable commute to work * Work within a large team of up to 50 staff members * Reporting directly to Line Managers",
+   "job_url": "https://uk.indeed.com/viewjob?jk=6ff6bf9f3c2bee4b",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "fit": "stretch",
+   "fit_reason": "3+ years experience required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=6556858931a6ad46": {
+   "title": "Maintenance Operative",
+   "company": "Cygnet",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "Helping others improve and turn their lives around – there’s no better feeling. It’s what we do for thousands of people at more than 150 sites across the UK. Be a part of it. We are looking for a skilled Maintenance Operative/Assistant with a passion for making a difference to others. You’ll be working Full Time 40 Hours a Week (Monday to Friday 8am \\- 4pm) at Sheffield Day Service, helping provide a safe and healthy environment for the people in our care. Sheffield Day Services support people with a primary diagnosis of a learning disability, in addition to those with complex health needs, physical disabilities and autism. We aim to enhance the quality of life of the individuals who attend the service. We focus on demonstrating outcomes and value through our activities. **Your Day\\-to\\-Day...** * Provide a comprehensive maintenance \\& repair service * Carry out a range of tasks including basic joinery, plumbing, painting \\& general building work * Maintain equipment, services \\& vehicles * Comply with safe working practices \\& report faulty equipment and potential hazards * Travel to other sites \\& on occasions be on call to carry out emergency repairs outside of normal working hours * Check the fire alarm points weekly, including fire exits, door retaining devices \\& fire emergency lights. **You are...** * Experienced in a similar role, or have worked in a self\\-employed capacity in recent years * Willing to travel \\& hold a full valid driving licence * Able to communicate at all levels \\& record detailed, accurate maintenance information * Skilled at DIY \\& general maintenance * Preferably experienced in the electrical/plumbing/construction industry * Friendly, conscientious \\& an excellent team member with a positive attitude. **Why Cygnet? We’ll offer you…** * £13\\.15 Per Hour * Strong career progression opportunities * Expert supervision \\& support * Employee referral scheme * Pension scheme * “Cycle to work” scheme \\& employee discount saving Please note: successful candidates will be required to undergo an enhanced DBS check.*What next?* If you care about making a difference – we want to talk to you. Click the button to apply",
+   "job_url": "https://uk.indeed.com/viewjob?jk=6556858931a6ad46",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=832dfa7f5b6539c7": {
+   "title": "Robotic Welding Technician",
+   "company": "Welbilt",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "We are recruiting a Robotic Welding Technician to join our team. This is a permanent position requiring a high standard of workmanship, attention to detail, and adherence to health and safety regulations. The Robotic Welding Technician is responsible for programming, testing, operating, and maintaining robotic welding equipment and automated production systems. The role supports the development and optimisation of robotic welding processes, ensures product quality and system reliability, and drives continuous improvement. **Responsibilities** * Support engineers in the development, testing, and maintenance of robotic systems and processes. * Program, test, and maintain robotic welding equipment. * Carry out quality checks and performance analysis of robotic equipment and welded products. * Support the delivery of robotics projects, ensuring quality, reliability, and continuous improvement. * Identify and resolve operational issues and equipment failures. * Comply with all health and safety regulations and company procedures. **Qualifications \\& Requirements** * Previous robotic welding experience is essential. * Hands\\-on experience with robotic equipment. * Excellent work ethic and willingness to learn. * Strong attendance and timekeeping record. * Comfortable working in a fast\\-paced manufacturing environment. * Own transport is desirable. **Skills** * Attention to detail. * Technical skill. * Problem\\-solving and troubleshooting abilities. * Strong communication and teamwork skills. **Hours – 2 rotating shift pattern (Mornings \\& Afters)** Week 1 * Monday–Thursday: 06:00 – 14:00 * Friday: 06:00 – 11:00 Week 2 * Monday–Thursday: 14:00 – 22:00 * Friday: 11:00 – 16:00pm Competitive salary \\& shift pay Benefits: * Canteen * Company pension * Employee discount * Free parking * On\\-site parking Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=832dfa7f5b6539c7",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "fit": "stretch",
+   "fit_reason": "licence/own-vehicle requirement",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=22dbf9cfcee3eac7": {
+   "title": "Engineering Manager",
+   "company": "Stagecoach",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**Salary** £53,000 **Engineering Manager** * Based at our Ecclesfield Depot, located in Sheffield * Annual salary: £53,000 Shift pattern: 37 Hours Per Week Monday\\-Friday * **Are you up for the challenge of leading a depot through one of the most significant transformations in Stagecoach engineering?** Ecclesfield depot is entering an exciting new chapter, with plans for a full site renovation and the introduction of a new electric vehicle fleet. Together, these investments will create a modern engineering operation, providing a unique opportunity to redefine standards, embrace new technologies, and drive improvements in performance, reliability and efficiency. We're looking for an experienced and hands\\-on Engineering Manager to lead this transformation, supporting and developing a committed engineering team while preparing the depot for a fully electric future. This is a rare opportunity to shape the direction of the depot, establishing the engineering culture, capability and processes needed to maximise the benefits of significant investment and deliver sustained operational improvement. The successful candidate will play a key role in turning this investment into enhanced engineering performance and making Ecclesfield a flagship operation for the future. **What you’ll be doing** * Leading a skilled team of engineers, technicians, cleaners, and apprentices to ensure our fleet is safe, reliable, and customer\\-ready * Managing the maintenance and presentation of 55 service buses and 2 training vehicles, including transitioning to an EV fleet * Overseeing depot plant, workshop equipment, and building maintenance, ensuring statutory compliance and a proactive approach to health \\& safety * Managing daily operations including resource planning, stock control, procurement, and supplier relationships * Coaching, developing, and empowering team members, helping them grow their technical capability and career progression * Using data, performance insights, and engineering best practice to drive continuous improvement * Working closely with the Engineering Director and contributing to regional projects, fleet strategy, and long\\-term planning Maintaining engineering quality in line with DVSA regulations and Stagecoach engineering standards * **What we’re looking for** * Engineering experience in sectors such as bus, coach, HGV, rail, plant, or automotive * A strong people leader, whether already a manager or ready to step up into your first depot leadership role * A proactive, organised, and safety\\-first mindset * Experience with compliance, budgets, audits, and health \\& safety A passion for reliability, operational excellence, and high presentation standards * **Why join Stagecoach?** * Competitive pay, opportunities for overtime, and a generous pension scheme * 25 days holiday, free travel for you and a companion, and a wide range of retail \\& leisure discounts * Clear progression routes, many of our colleagues move into engineering leadership, depot management, or regional roles * A supportive, inclusive working environment where your wellbeing matters The opportunity to lead in a depot recognised for engineering excellence, innovation, and EV growth * **Our working environment** Stagecoach is proud to be an inclusive employer. Across all our depots, including Rawmarsh, we foster a welcoming environment where everyone is respected, supported, and encouraged to thrive. You’ll have access to employee networks, wellbeing programmes, and a 24/7 Employee Assistance Programme for you and your family. **Ready to lead one of the best?** Click Apply to begin your Stagecoach journey. We can’t wait to welcome you on board. Stagecoach is proudly an inclusive employer, striving for a culture where everyone can be themselves and where all the differences people bring are truly appreciated. We welcome applications from all, irrespective of gender, ethnicity, race, religion, beliefs, disability, neurodiversity, sexual orientation, or age. **Location:** Stagecoach Ecclesfield Depot Green Lane, Ecclesfield Sheffied S35 9WY",
+   "job_url": "https://uk.indeed.com/viewjob?jk=22dbf9cfcee3eac7",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-07T19:42:06Z",
+   "fit": "stretch",
+   "fit_reason": "licence/own-vehicle requirement",
+   "fit_source": "rule"
   }
  },
  "last_run_report": {
-  "started": "2026-09-07T15:37:12Z",
+  "started": "2026-09-07T19:42:06Z",
   "searches": [
    {
     "term": "activity instructor",
@@ -5200,18 +5673,18 @@
    },
    {
     "term": "warehouse operative",
-    "found": 1,
+    "found": 2,
     "new": 1
    },
    {
     "term": "picker packer",
-    "found": 18,
+    "found": 1,
     "new": 0
    },
    {
     "term": "delivery driver",
     "found": 2,
-    "new": 1
+    "new": 0
    },
    {
     "term": "courier driver",
@@ -5220,23 +5693,23 @@
    },
    {
     "term": "customer service assistant",
-    "found": 12,
-    "new": 5
+    "found": 21,
+    "new": 11
    },
    {
     "term": "retail assistant",
-    "found": 5,
-    "new": 0
+    "found": 4,
+    "new": 1
    },
    {
     "term": "receptionist",
     "found": 2,
-    "new": 2
+    "new": 0
    },
    {
     "term": "kitchen assistant",
-    "found": 1,
-    "new": 0
+    "found": 4,
+    "new": 2
    },
    {
     "term": "kitchen porter",
@@ -5250,23 +5723,23 @@
    },
    {
     "term": "waiting staff",
-    "found": 9,
-    "new": 0
+    "found": 8,
+    "new": 1
    },
    {
     "term": "maintenance operative",
-    "found": 2,
-    "new": 2
+    "found": 4,
+    "new": 1
    },
    {
     "term": "maintenance technician",
-    "found": 2,
-    "new": 1
+    "found": 3,
+    "new": 2
    },
    {
     "term": "fitter",
     "found": 1,
-    "new": 1
+    "new": 0
    },
    {
     "term": "caretaker",
@@ -5274,7 +5747,7 @@
     "new": 0
    }
   ],
-  "new": 14,
-  "updated": 64
+  "new": 20,
+  "updated": 55
  }
 }
