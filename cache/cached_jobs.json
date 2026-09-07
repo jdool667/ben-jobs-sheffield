@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_run": "2026-09-07T09:26:00Z",
+  "last_run": "2026-09-07T15:37:12Z",
   "location": "Sheffield",
   "country": "UK",
   "hours_old": 72,
@@ -24,7 +24,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-07T15:37:12Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -46,10 +46,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Warehouse Supervisor at Cloud9 Fulfilment in Sheffield, paying £27,795–£29,280 per year, leading and supervising a team of warehouse operatives across picking, packing, despatch and returns. Key requirement is a forklift/MHE licence plus proven team-supervision experience.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Warehouse Supervisor role at Cloud9 Fulfilment in Sheffield, paying £27,795–£29,280 per year. Key duty involves leading and motivating warehouse teams across picking, packing, despatch, and returns to meet daily SLAs.",
    "fit": "stretch",
-   "fit_reason": "Requires a forklift licence and prior warehouse team-supervision experience that Ben does not have; this is a supervisory-level role beyond his current experience.",
+   "fit_reason": "Requires proven warehouse supervisory experience and a forklift licence, both of which Ben lacks.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -70,7 +70,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-07T15:37:12Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -92,7 +92,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-07T15:37:12Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -114,7 +114,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-07T15:37:12Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -136,7 +136,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-07T15:37:12Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -158,7 +158,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-07T15:37:12Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1070,10 +1070,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Production Operative at Sherwin-Williams in Sheffield, filling/packing products to production schedules with housekeeping and safety standards. No driving involved; training provided on the job.",
-   "fit": "good",
-   "fit_reason": "No licence or specialist tickets required; entry-level production role suits his immediate availability and engineering background is a bonus.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Production Operative role at Sherwin-Williams in Sheffield, filling/packing products on a production line with training provided. Key duty involves monitoring machine uptime/downtime and maintaining HSE/quality standards in a manufacturing environment.",
+   "fit": "maybe",
+   "fit_reason": "No licence or specific ticket required, and his engineering diploma helps, but he lacks direct factory/production-line experience; entry-level training should cover it.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -1447,10 +1447,10 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Live-In Maintenance Caretaker at Vinci Facilities UK, full-time permanent role at a Sheffield school with on-site 3-bed accommodation for £250/month rent. Key duties include planned/reactive building maintenance, emergency response, and site safety; enhanced DBS required (support provided), no driving licence needed.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Live-In Maintenance Caretaker at Vinci Facilities UK, a permanent full-time role at a Sheffield school (£250/month on-site accommodation, 26 days holiday + benefits). Key duty involves planned/reactive maintenance, emergency first response, opening the school, and basic building/plumbing/electrical repairs.",
    "fit": "stretch",
-   "fit_reason": "Requires previous caretaking or building maintenance experience and skilled trades (plumbing, electrical, building fabric) that Ben does not have, plus it is a live-in school site role which may not s",
+   "fit_reason": "Requires previous caretaking/facilities maintenance experience and \"good all-round maintenance skills\" across plumbing, electrical and building fabric — areas outside Ben's engineering and customer-se",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -1471,7 +1471,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-07T15:37:12Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1493,10 +1493,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Warehouse Operative (Hardware Staging) at Spencer Technologies UK in Sheffield, full-time permanent Mon–Fri 8am–4pm; involves picking, packing, pre-staging IT hardware and operating electric pallet stacker/order picker with full accredited training provided.",
-   "fit": "maybe",
-   "fit_reason": "No driving licence required and training on powered equipment is provided, but prior warehouse experience and confidence operating pallet stackers/order pickers at height are listed as expected — Ben'",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Warehouse Operative (Hardware Staging) at Spencer Technologies UK, Sheffield, Mon–Fri 8am–4pm, full-time permanent; involves picking/packing, pre-staging tech equipment, and training provided on powered pallet stacker and order picker.",
+   "fit": "good",
+   "fit_reason": "No driving required, full training on handling equipment provided, and Ben's engineering background plus customer service/delivery experience suit a methodical warehouse role.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -1517,10 +1517,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Nights Warehouse Assistant at Cooper and Turner Distribution in Tinsley, full-time temporary 39 hrs Mon–Thu nights packing products to spec and meeting targets. Physical warehouse role focused on packing, safety, and hazard identification.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Nights Warehouse Assistant (goods in/out) at Cooper and Turner Distribution in Tinsley, full-time temporary 39 hours Mon–Thurs nights; core duty is packing products to customer spec while meeting daily targets and safety standards.",
    "fit": "maybe",
-   "fit_reason": "No licence required and entry-level packing duties, but Ben has no warehouse experience and night shifts may not suit him.",
+   "fit_reason": "No licence needed and physically active night warehouse work suits his availability; packing/target-driven environment is plausible though he lacks direct warehouse experience.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -1541,10 +1541,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Apprentice Trade Counter Sales Advisor at Graham Plumbers Merchant in Sheffield, £8.40/hr rising to £9.20 after 6 months, full-time permanent apprenticeship. Combines customer service at the trade counter with warehouse duties, picking/packing orders, and learning product knowledge toward a Level 2 qualification.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Apprentice Trade Counter Sales Advisor at Graham Plumbers Merchant in Sheffield, £8.40/hr rising with structured Level 2 apprenticeship training. Combines customer service, warehouse operations, and product learning with long-term career progression.",
    "fit": "good",
-   "fit_reason": "Ben's customer service and POS experience plus his engineering background suit a hands-on counter/warehouse role, and no licence is required.",
+   "fit_reason": "Ben's customer service and delivery experience plus hands-on mechanical background suit this counter/warehouse role; no driving licence or specialist tickets required, and it's a permanent local appre",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2156,7 +2156,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T10:58:45Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-07T15:37:12Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -2178,10 +2178,10 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Casual Outdoor Education Instructor at Sheffield City Council's Thornbridge Outdoors centre in the Peak District; location Sheffield, pay not stated. Requires specific outdoor leadership qualifications (climbing, hillwalking, caving, canoeing, mountain biking) to deliver adventurous activities.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Casual Outdoor Education Instructor at Sheffield City Council's Thornbridge Outdoors centre near Bakewell in the Peak District; pay not stated. Role involves delivering outdoor education sessions including climbing, canoeing, caving, mountain biking and hillwalking to groups.",
    "fit": "stretch",
-   "fit_reason": "Ben has outdoor instruction experience and safeguarding/First Aid, but the ad requires specialist Mountain Training/British Canoeing leadership qualifications he is not stated to hold.",
+   "fit_reason": "Requires specific nationally-recognised outdoor leadership qualifications (climbing instructor, hill/mountain leader, caving or canoeing awards) which Ben does not hold.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2202,10 +2202,10 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Casual Outdoor Education Instructor/Trainer at Thornbridge Outdoors (Sheffield City Council, Peak District), £20.46/hr. Key duty is directing hillwalking leadership and/or ITC First first aid courses requiring specific Mountain Training/ITC qualifications and assessor approvals.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Casual Outdoor Education Instructor and Trainer at Sheffield City Council's Thornbridge Outdoors centre near Bakewell, £20.46/hr, delivering hillwalking leadership and first aid courses in the Peak District. Requires approval to direct Mountain Training Hill & Moorland Leader, Lowland Leader, and/or ITC First First Aid courses.",
    "fit": "stretch",
-   "fit_reason": "Requires formal approval to direct Mountain Training Hill & Moorland Leader, Lowland Leader, or ITC First courses — qualifications Ben does not hold, despite relevant outdoor experience.",
+   "fit_reason": "Ben has outdoor instructing and First Aid experience but lacks the specific Mountain Training/ITC First course director approvals required to run these accredited qualifications.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2226,10 +2226,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Warehouse Order Picker (back shift) at Crescent Pharma's Sheffield NDC, £14.50/hr (£30,160 basic) plus performance incentives, Mon-Fri afternoons/evenings. Dedicated order-picking role using scanners to fulfil pharmaceutical orders accurately to set performance standards.",
-   "fit": "good",
-   "fit_reason": "No driving, licence or specialist tickets required; Ben's reliability, physical fitness and customer service experience suit a picking role, and pharma training will be provided on the job.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Warehouse Order Picker back shift at Crescent Pharma's Sheffield National Distribution Centre, £14.50/hr (£30,160 basic) Mon–Fri. Dedicated pharma picking role requiring accuracy, scanner use, and meeting productivity standards.",
+   "fit": "maybe",
+   "fit_reason": "Physically active warehouse picking suits Ben's availability and he has relevant experience with physical/outdoor work, but accuracy targets and performance metrics may be demanding without prior ware",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2250,10 +2250,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Warehouse Order Picker at Crescent Pharma in Sheffield, £14.50/hr (£30,160 basic) on a permanent early shift Mon–Fri. Dedicated pharmaceutical order-picking role requiring accuracy, scanner use and adherence to performance standards.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Warehouse Order Picker at Crescent Pharma, Sheffield, £14.50/hr (£30,160 basic) Monday–Friday 06:00–15:00 picking pharmaceutical orders using scanners. Performance-based incentives up to £100/month; accuracy and reliability emphasised over driving or licences.",
    "fit": "good",
-   "fit_reason": "No driving required, physical role suits Ben's reliability and work ethic, and warehouse training is provided on scanners/procedures.",
+   "fit_reason": "No licence or specialist ticket required; entry-level picking role suits Ben's availability, reliability, and warehouse-adjacent experience, with on-site training on scanners and procedures.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -2275,7 +2275,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-07T15:37:12Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -2993,7 +2993,10 @@
    "first_seen": "2026-09-04T11:50:02Z",
    "last_seen": "2026-09-07T09:26:00Z",
    "summary": "Container Reach Stacker Operative at Newell & Wright Transport, Sheffield, £45,000–£50,000/year on a 4 on/4 off shift pattern; involves operating heavy container-handling machinery and basic maintenance. FIT: stretch REASON: Role requires a valid reach stacker/forklift certification and proven heavy machinery experience, neither of which Ben holds.",
-   "summary_source": "llm"
+   "summary_source": "llm",
+   "fit": "stretch",
+   "fit_reason": "Requires a valid forklift/heavy machinery certification and proven reach stacker experience, neither of which Ben holds.",
+   "fit_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=3913a70e9e304f87": {
    "title": "Container Reach Stacker Operative",
@@ -3151,10 +3154,10 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Caretaker role at Penistone Outdoor Markets (Norse Group), 7 hours/week split shift Thursdays at £13.31/hr in Sheffield. Duties include assembling/dismantling market stalls, litter picking, bin emptying, and basic repairs with full training provided.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Part-time Caretaker at Penistone Outdoor Markets (Norse Group), £13.31/hr, 7 hours per week split shifts Thursdays, based in Sheffield. Duties include assembling/dismantling market stalls, general maintenance, litter picking, and following health & safety protocols.",
    "fit": "maybe",
-   "fit_reason": "No licence needed and physical/practical tasks suit his maintenance experience from maritime engineering role, though no direct caretaking background listed.",
+   "fit_reason": "No driving or specialist licences needed and full training is offered; however, he lacks any prior cleaning/caretaking experience, so it relies on transferable initiative.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3329,10 +3332,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Seasonal Sales & Operations Assistant at Pandora Jewelry in Sheffield, £13.25/hr, fixed-term contract over Christmas period with focus on sales floor and back-of-house operations like click-and-collect, restocking, gift wrapping.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Seasonal Sales & Operations Assistant at Pandora Jewelry in Sheffield, £13.25/hr fixed-term until late Dec 2026/Jan 2027, combining retail sales with back-of-house operations like click-and-collect and stock management. No driving licence required; customer-facing and stock-handling duties suit someone with retail/customer service background.",
    "fit": "good",
-   "fit_reason": "Ben's customer service experience with POS, cash handling and food safety translates well to retail sales and operations, no driving or special licences required.",
+   "fit_reason": "Ben's customer service experience with POS, food safety, and allergen protocols plus his immediate availability and Sheffield base align well with this retail/operations seasonal role.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3353,10 +3356,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Retail Sales Assistant at American Golf in Sheffield; role involves customer service, till operations, merchandising and meeting sales targets with commission-based earnings and staff discounts. No licence required; uses Ben's existing customer service and POS/cash handling experience directly.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Retail Sales Assistant at American Golf in Sheffield; no pay stated but offers commission, discounts, and benefits. Key duty is delivering customer service, meeting sales targets, and maintaining product displays/till operations.",
    "fit": "good",
-   "fit_reason": "Ben's customer service assistant background with POS, food handling and allergen protocols matches the retail/till/customer-facing duties, and no driving licence is needed.",
+   "fit_reason": "Ben's customer service experience with POS, cash handling, and food safety protocols directly matches retail/sales skills required; no driving or specialist licences needed.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3364,7 +3367,7 @@
    "title": "Seasonal Sales & Operations Assistant",
    "company": "Pandora Jewelry",
    "location": "Sheffield, ENG, GB",
-   "job_type": null,
+   "job_type": "parttime",
    "is_remote": false,
    "min_amount": null,
    "max_amount": null,
@@ -3377,10 +3380,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Seasonal Sales & Operations Assistant at Pandora Jewelry in Sheffield, paying £13.25/hr (fixed-term to late Dec 2026/early Jan 2027). Retail-focused role covering customer sales, gift wrapping, click-and-collect, restocking, and deliveries in a busy store environment.",
-   "fit": "maybe",
-   "fit_reason": "Matches Ben's customer service and cash handling experience, but the role likely involves receiving deliveries which may require a driving licence or manual handling he hasn't specifically listed.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Seasonal Sales & Operations Assistant at Pandora Jewelry in Sheffield, £13.25/hr fixed-term to Dec 2026/Jan 2027. Customer-facing sales plus back-of-house operations including click-and-collect, restocking, gift wrapping, engraving and loading gift cards.",
+   "fit": "good",
+   "fit_reason": "Matches his customer service experience (POS, food service, allergen protocols) and no driving licence required; seasonal retail role is a clear fit for his immediately available status.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3401,10 +3404,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Part-Time Sales Assistant at Pandora Jewelry in Sheffield, £13.25/hr, 8 hours per week across 7 days. Customer-facing retail role focused on sales targets, product knowledge, and till/stock duties.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Part-Time Sales Assistant at Pandora Jewelry in Sheffield, paying £13.25/hr for 8 hours/week (all 7 days). Retail customer service role focused on sales targets, till work, and product knowledge — no licence required.",
    "fit": "good",
-   "fit_reason": "Ben has customer service and POS/cash handling experience and the part-time hours suit his immediate availability; no licence or specialist qualifications required.",
+   "fit_reason": "Matches Ben's customer service experience with POS and cash handling skills, and the part-time retail role suits his immediate availability with no licence or specialist qualifications needed.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3425,10 +3428,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Senior CRM Marketing Manager at UniHomes in Sheffield, paying £55,000–£65,000. Key duty is leading Salesforce Marketing Cloud CRM strategy and managing a team of two across multichannel customer journeys.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Senior CRM Marketing Manager at UniHomes, Sheffield, £55,000–£65,000; requires Salesforce Marketing Cloud expertise, team leadership, and strategic CRM/demand generation across the customer lifecycle.",
    "fit": "stretch",
-   "fit_reason": "Senior management marketing role requiring Salesforce Marketing Cloud expertise and team leadership, far beyond Ben's experience.",
+   "fit_reason": "Senior management marketing role requiring Salesforce Marketing Cloud and team leadership skills far beyond Ben's background.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3541,10 +3544,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Retail Sales Advisor at Nisbets in Sheffield, 20 hours/week at £12.85/hr (pro-rata ~£13,368). Standard retail role focused on customer service, sales KPIs, stock replenishment, visual merchandising, and payment processing.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Retail Sales Advisor at Nisbets in Sheffield, part-time 20 hrs/week at £12.85/hr (£13,368 annually). Customer service focus with stock replenishment, payment processing, visual merchandising, and meeting sales KPIs.",
    "fit": "good",
-   "fit_reason": "Ben has direct customer service and cash handling experience; no licence or specialist qualification required.",
+   "fit_reason": "Ben's customer service assistant experience with POS, cash handling and food safety directly matches this retail role, no driving or specialist licences needed.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3733,10 +3736,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Barista role at Costa Coffee in Sheffield, paying £13.12–£14.12 per hour plus benefits. Key duty is serving coffee and delivering an energising customer experience on flexible shifts.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Costa Coffee Barista role in Sheffield paying £13.12–£14.12 per hour, focusing on serving coffee and delivering great customer experience. No licence needed; suitable for entry-level candidates with a positive attitude.",
    "fit": "good",
-   "fit_reason": "Ben's customer service and food safety experience directly match, no licence or special qualifications needed.",
+   "fit_reason": "Ben's customer service experience with POS and food safety skills fits this customer-facing role, and no driving licence or specialist certification is required.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3757,10 +3760,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Barista role at Costa Coffee in Sheffield paying £13.12–£14.12 per hour, involving serving coffee, customer service, and keeping the store running smoothly. No driving or specialist licences required, just a positive attitude and people focus.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Barista at Costa Coffee in Sheffield paying £13.12-£14.12 per hour; core duty is serving coffee and delivering a great customer experience in a team-focused store environment.",
    "fit": "good",
-   "fit_reason": "Ben's customer service assistant experience (POS, cash handling, food safety, allergen protocols) directly matches barista duties, and he is locally based in Sheffield.",
+   "fit_reason": "Matches Ben's customer service experience (POS, cash handling, food safety, allergen protocols) and needs no licence or qualifications he lacks.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -3805,7 +3808,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-07T15:37:12Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3875,13 +3878,13 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-07T15:37:12Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
   },
   "https://uk.indeed.com/viewjob?jk=850d13f1d6ec1409": {
-   "title": "Owner Driver – Self-Employed Courier Driver",
+   "title": "Urgent - Owner Driver wanted Self-Employed Courier Driver",
    "company": "Safe And Secure Logistics",
    "location": "Sheffield, ENG, GB",
    "job_type": null,
@@ -3897,7 +3900,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-07T15:37:12Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -3919,7 +3922,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-07T15:37:12Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3941,7 +3944,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-07T15:37:12Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3963,7 +3966,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-07T15:37:12Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -3985,10 +3988,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Retail Team Member at NEXT in Sheffield, 9.75 hours per week across Sundays and Saturdays; involves customer service, stockroom work, and processing deliveries. No driving, licences, or specific qualifications required, and full training is provided.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Retail Sales Team Member at NEXT in Sheffield, 9.75 hours per week across weekend shifts; customer service and stock handling duties. No driving or licences required, and no prior retail experience specified.",
    "fit": "good",
-   "fit_reason": "Ben's customer service and cash handling experience match the role, and it requires no licences or driving.",
+   "fit_reason": "Ben's customer service assistant experience (POS, food safety, calm under pressure) directly matches the fast-paced retail role, and no licence is needed.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4009,10 +4012,10 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Sales Team Member at NEXT in Sheffield, 5.5 hours per week (Sun 11:00-17:00). Retail floor, stockroom, and delivery processing duties with no driving licence required.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Sales Team Member at NEXT in Sheffield, part-time 5.5hrs/week Sunday shifts with no driving required, focused on customer service and stock operations.",
    "fit": "good",
-   "fit_reason": "Matches his customer service experience (POS, food/cash handling) and availability; entry-level retail with no licences or qualifications needed.",
+   "fit_reason": "Ben's customer service and stock handling experience directly match the role, with no licence or specialist qualifications needed.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4033,10 +4036,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Kitchen Porter role at Zizzi Restaurants in Sheffield (flexible hours, minimum-hour contract, progression pathways to Chef/Kitchen Management). Zero experience needed; duties involve washing equipment, basic food prep, maintaining hygiene standards in a fast-paced kitchen.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Kitchen Porter at Zizzi Restaurants in Sheffield — no experience needed, flexible hours with a minimum-hour contract. Key duty is washing equipment, maintaining hygiene standards, and assisting with basic food prep in a busy kitchen.",
    "fit": "good",
-   "fit_reason": "No licence or qualifications required, aligns with Ben's customer service/food safety experience, and his immediate availability suits this entry-level kitchen role.",
+   "fit_reason": "Entry-level, no licence or experience required; Ben's customer service and food safety/allergen experience from his assistant role are directly relevant.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4057,10 +4060,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Barista role at Costa Coffee in Sheffield, paying £13.12–£14.12 per hour plus perks, focused on serving coffee and delivering customer experience.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Barista role at Costa Coffee in Sheffield, £13.12–£14.12 per hour with staff discount, pension and flexible shifts; core duties involve serving coffee, maintaining store standards and delivering customer experience.",
    "fit": "good",
-   "fit_reason": "Customer service experience with POS and food safety aligns well; no licence or specialist qualifications required.",
+   "fit_reason": "Customer-facing bar work aligns with Ben's customer service experience (POS, cash handling, food safety/allergens) and needs no licence or qualifications he lacks.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4081,10 +4084,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Barista role at Costa Coffee in Sheffield, paying £13.12–£14.12 per hour plus benefits. Customer-facing coffee preparation and team-based store duties.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Barista role at Costa Coffee in Sheffield paying £13.12–£14.12/hr with flexible shifts and staff discounts. Customer-facing coffee preparation, teamwork and high service standards in a fast-paced store.",
    "fit": "good",
-   "fit_reason": "Ben has customer service experience with POS, cash handling, and food safety skills that directly match barista requirements, and no licence is needed.",
+   "fit_reason": "Ben's customer service and food-handling experience plus his immediate availability fit this entry-level barista role with no licence or specialist qualifications required.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4105,10 +4108,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Coffee Shop Manager role at Cornerstone Coffee (SRMG Restaurants Ltd) in Sheffield City Centre, paying from £32,000 per year. Key duty involves running the unit, managing a team, hitting financial targets, and delivering specialty coffee/front-of-house experience.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Coffee Shop Manager at Cornerstone Coffee (SRMG Restaurants Ltd) in Sheffield City Centre, £32,000+; involves running the unit, managing a team, financial targets, and advanced barista skills.",
    "fit": "stretch",
-   "fit_reason": "Requires 2+ years' coffee shop management experience, P&L responsibility, and advanced barista skills — clearly a management role beyond Ben's customer service experience.",
+   "fit_reason": "Requires 2+ years coffee shop management experience, P&L responsibility, and advanced barista skills — clearly a management role beyond Ben's customer service experience.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4425,7 +4428,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-07T15:37:12Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -4538,10 +4541,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "E-commerce & Production Assistant at DIY Cosmetics Ltd in Sheffield, £12.71/hr, part-time (min 18 hrs/week, Mon mandatory). Varied hands-on role covering order packing, product manufacturing, customer enquiries, and social media content creation, with full training provided.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "E-commerce & Production Assistant at DIY Cosmetics Ltd in Sheffield, £12.71/hr, 18+ hours Mon–Fri 9am–3:30pm; varied role packing/manufacturing cosmetics and creating social media content with full on-the-job training.",
    "fit": "good",
-   "fit_reason": "No licence or specialist qualifications needed; Ben's customer service, team, communication and hands-on experience fit well, and Sheffield location is local.",
+   "fit_reason": "No licence or certifications required, fits his flexible availability, and his customer service plus hands-on manufacturing/engineering experience suits order packing, production, and customer enquiri",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4562,10 +4565,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Packaging Production Operative at Ecobags Brasil UK in Sheffield, £26,000–£28,000, weekday hours with on-the-job training and no driving required. Key duties include folding/assembling eco-bags, visual quality checks, and dispatch prep with full equipment training provided.",
-   "fit": "good",
-   "fit_reason": "Entry-level production role with full training, no licence needed, and Ben's engineering background plus customer service/physical work experience suit a hands-on assembly and quality-focused position",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Packaging Production Operative role at Ecobags Brasil UK in Sheffield (S11), £26,000–£28,000/year with weekday hours and full training provided; involves assembling eco-friendly bags, quality checks, and dispatch prep.",
+   "fit": "maybe",
+   "fit_reason": "No licence required and training is provided, but Ben has no prior manufacturing/packaging experience and pay is higher than typical entry-level, suggesting some background may be expected.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4586,10 +4589,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Warehouse Specialist role at Ecobags Brasil UK in Sheffield, £26,000–£28,000 per year, involving inventory control, order fulfilment, dispatch coordination, and stock management. Forklift licence listed as a \"major advantage\" and 2+ years warehouse experience specifically required.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Warehouse Specialist role in Sheffield (S11) paying £26,000–£28,000 with hybrid remote working. Involves inventory control, order picking/packing, dispatch coordination, and safety maintenance in a sustainable packaging warehouse.",
    "fit": "stretch",
-   "fit_reason": "Requires 2+ years dedicated warehouse/logistics experience Ben doesn't have, and the forklift licence (though advantageous rather than essential) plus unspecified transport coordination raise practica",
+   "fit_reason": "Requires 2+ years warehouse/logistics experience Ben doesn't have, and lists a forklift licence as a major advantage, which he lacks.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4610,10 +4613,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Part-time Picker & Packer / Warehouse Operative at HungryPanda (Panda Fresh) in Sheffield S1, from £12.71/hr. Requires Mandarin language skills, physical labour, and warehouse picking/packing duties.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Picker & Packer (warehouse) role at HungryPanda in Sheffield S1, £12.71/hr; Mandarin-speaking required, physical work picking/packing orders.",
    "fit": "stretch",
-   "fit_reason": "Requires fluent Mandarin which Ben is not indicated to speak; warehouse physical role itself suits him, but the language requirement makes it a stretch.",
+   "fit_reason": "Ben likely lacks fluent Mandarin, which is listed as a required language for the role.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4634,10 +4637,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Warehouse Volunteer (unpaid) at British Heart Foundation Homestore in Sheffield, involving lifting furniture, warehouse logistics, and building flat-pack items. No driving needed but it's voluntary rather than paid work.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Warehouse Volunteer (unpaid voluntary) at British Heart Foundation in Sheffield, involving lifting/carrying furniture, warehouse logistics, and building flat-pack items. Volunteer role, no pay, flexible hours, no driving required.",
    "fit": "maybe",
-   "fit_reason": "Physical warehouse role suits Ben's practical, hands-on background and he has no licence issue, though it's unpaid and his experience is more in maintenance/customer-facing work than furniture handlin",
+   "fit_reason": "Voluntary unpaid role won't help his income need, but duties suit his physical capability and no licence is required.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4658,10 +4661,10 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Warehouse Volunteer (unpaid) at British Heart Foundation Homestore in Sheffield involving lifting/moving furniture, warehouse logistics, and building flat-pack items.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Warehouse Volunteer (unpaid) at British Heart Foundation in Sheffield, moving furniture, handling deliveries, and building flat-pack items. Voluntary charity role with flexible hours, no driving required and physical tasks involved.",
    "fit": "good",
-   "fit_reason": "No licence, qualifications, or driving needed; physical role suits Ben's outdoor/instructor background and immediate availability, though unpaid.",
+   "fit_reason": "No licence or certification needed, physical and team-based tasks suit Ben's outdoor/engineering background, and being unpaid only matters if he needs income.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4682,7 +4685,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-07T15:37:12Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -4774,7 +4777,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-07T15:37:12Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -4796,10 +4799,10 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Part Time Waiting Staff at Miller & Carter, Sheffield City Centre (steakhouse). Key duty: greeting/serving guests food and drink in a team-focused hospitality setting.",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Part Time Waiting Staff at Miller & Carter in Sheffield City Centre; duties involve greeting/serving guests and maintaining cleanliness. No driving required, entry-level hospitality role with flexible shifts and staff discounts.",
    "fit": "good",
-   "fit_reason": "Ben has customer service and food safety experience; no licence required and shifts fit around availability.",
+   "fit_reason": "Ben has customer service and food safety experience, no licence or certifications needed for front-of-house waiting.",
    "fit_source": "llm",
    "summary_source": "llm"
   },
@@ -4820,7 +4823,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-07T15:37:12Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -4842,16 +4845,343 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Front of House Staff at Whitbys Fish & Chip Restaurant in Rotherham, £10.85–£13.10/hr plus tips, 27–33 hours over 3–4 days including weekends. Full training provided; involves serving food/drinks, clearing tables, and customer service in a 150-cover restaurant (must be 18+).",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Front of House Staff at Whitbys Fish & Chip Restaurant in Rotherham, £10.85–£13.10/hr plus tips; serving food/drinks and cleaning tables in a 150-cover restaurant. No driving or special licence required; full training provided.",
+   "fit": "maybe",
+   "fit_reason": "Ben has customer service and food safety/allergen experience from his assistant role, but this requires serving alcohol (he must be 18+, which is unclear) and is hospitality-specific; age and weekend ",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=4d24974b929f790b": {
+   "title": "General / FLT Operative",
+   "company": "MTL Advanced Ltd",
+   "location": "Rotherham, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**VACANCY: Materials Handler/FLT Warehouse operative.** **LOCATION**: **Rotherham, S60 (Close to Meadowhall, Sheffield)** **PAY: £15\\.17 Per Hour** **SHIFT : Rotating Days 6am \\- 2pm, Afternoons 2pm \\- 10pm and Nights 10pm \\- 6am.** **ABOUT US:** MTL Advanced is hiring due to a major expansion, marked by the opening of our brand\\-new manufacturing facility, based in Rotherham just 5 minutes away from Meadowhall shopping centre. MTL Advanced is operating from an impressive 390,000 sq. feet facility. We are a leading engineering and manufacturing company committed to innovation, quality and growth. As we continue to scale our capabilities, we are expanding our team and inviting skilled individuals to join us on our journey. We have invested in an extensive range of technology and equipment and provide services to a range of OEM’s from leading industries including defence, security, construction, quarrying, recycling and rail. Our inhouse capabilities include, large format Laser Cutting and Press Braking, CNC Precision Machining, Fabrication \\& Welding, Shot Blasting, Painting and final Assembly. We are looking for a self\\-motivated and enthusiastic Material Handler who has a strong desire to learn and grow with our business. You will feed our production teams with the materials required (steel, stainless steel, aluminium etc), manoeuvring materials on and off the machines either by crane or manually. You will require an in date FLT ( Counterbalance ) Licence to keep all aspects of the materials flowing. **ABOUT THE ROLE:** · Efficient unloading, handling and storage of delivered material · Safe loading, unloading and movement of our Fork Lifts. · Ensuring correct storage both inside and outside with location of materials and adhering to any special instructions · Book in parts and put away on to racking into its appropriate location. · Correct identification and marking up of material with unique traceability number · Sorting and feeding production with materials to production plans including assisting with manoeuvring of materials on to and off the machines, either by crane or manually. · Any down time beyond the above functions then assistance to be given in Laser Department **ABOUT YOU:** · Recent / relevant experience in a Manufacturing Goods In / Warehouse environment · Valid and in date Fork Lift Truck Licence – Counterbalance Licence B2 · Slinging and Lifting skills · Collaborative working style · Flexibility to adjust to workload priorities · Excellent organisation / time management skills · strong communication and motivational skills · Physical stamina \\- manually moving materials · Proficient in the use of warehouse / manufacturing technology and computer based operating systems **WHAT WE OFFER:** · Annual profit share bonus · 33 days holiday (including statutory Public Holidays) · Secure onsite free parking · £13\\.00 a month drink allowance to be used at the shop floor vending machines. · Life Assurance plan (Death in Service) · Employee Prize Draw · Company pension plan. · Reduced Costco membership · Reduced gym membership with Pure Gym and the Gym Group. · Healthcare Plan – with access to 24/7 GP service and 24/7 confidential advice line for support and advice on medical, legal and domestic issues. · Colleague Referral Programme: we pay you £1000 for successfully referring people to join our team We know that our people are the most important asset to MTL Advanced, and we are looking for skilled, passionate and driven professionals to work with our inspirational leaders, promote our culture and enable change. With expertise across the manufacturing industry and a leading UK facility, innovation and investment make MTL a great choice for your career. **APPLY NOW** \\- Please send your up\\-to\\-date CV to recruitment@mtladv.com **\\#HP** Job Types: Full\\-time, Permanent Pay: £15\\.17 per hour Application question(s): * Have you previously worked for MTL Advanced? * Have you been referred to this role by a current MTL Advanced employee? Please detail.... * Where did you hear about this vacancy? Licence/Certification: * and in date Counterbalance FLT Licence? (required) Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=4d24974b929f790b",
+   "categories": [
+    "Warehouse"
+   ],
+   "first_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "fit": "stretch",
+   "fit_reason": "licence/own-vehicle requirement",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=7edc10dc1510c9cb": {
+   "title": "Home Delivery Driver",
+   "company": "Iceland Foods",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-05",
+   "description": "**Job title: Home Delivery Driver** **Hourly rate: £13\\.71** **Key Benefits: 15% discount, optional health care plan, Grocery Aid, Christmas vouchers, min 28 days holiday** Are you looking for a role that keeps you active, independent \\& engaged with people? As one of the Best Big Companies to Work For, we have a rich history of loving our customers and looking after our teams. We understand that success is achieved through our people, and we are searching for a **Home Delivery Driver** to join our team. **Purpose** We’re hiring Home Delivery Drivers who take pride in providing excellent service \\& enjoy being out on the road. In this role you’ll be delivering shopping \\& connecting directly with customers as the face of Iceland. **In this role you can expect to**: * Ensure safe van loading procedures are followed (i.e heavy lifting \\& manual handling) * Always adhere to safe driving practises * Complete van checks * Ensure food arrives to the customer in the best condition * Provide excellent customer service * Lend a hand in store when required * Be able to work independently \\& manage your time efficiently * Flexibility to work shifts, the patterns can vary between 6am \\& 11pm **Apply if you:** * Have a full driving license (held for at least 3 years and have no more than 6 points) * Are positive, friendly \\& passionate about providing a good customer experience * Are punctual \\& can work well to deadlines * Can demonstrate a strong awareness of road safety **What to expect from us:** * A 15% discount card * Minimum 28 days holiday (including Bank Holidays), increasing with service * Christmas vouchers * Refer a friend scheme * Long service awards * Christmas savings scheme * Recognition and rewards for exceptional customer service * Option to join a health care plan * Grocery Aid for free and confidential, financial, emotional and practical support",
+   "job_url": "https://uk.indeed.com/viewjob?jk=7edc10dc1510c9cb",
+   "categories": [
+    "Driving & Logistics"
+   ],
+   "first_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=b358f95246ac9f30": {
+   "title": "Relief Pharmacy Assistant",
+   "company": "Well Pharmacy",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "Package Description * Highly competitive salaries * Generous holiday allowance including bank holidays * Opportunity to gain an NVQ 3 qualification * Pension scheme * Employee discount scheme * Superb development and career opportunities * Bonus scheme Overview of the role Are you friendly and organised with a passion for providing excellent customer service but looking to further your skills and career? Here at Well, we aim to build the best prescription experience in the UK. Sounds ambitious, right? But that’s okay, because we’ve got a fantastic team of talented, creative and forward\\-thinking people, that are key in helping us get there. Main Responsibilities Working alongside our knowledgeable Pharmacists and store teams, you will be instrumental in the efficient delivery of pharmacy processes to ensure our customers are really taken care of. This role maintains a high level of competence to ensure the safe dispensing of medication to customers as well as being the experts that our customers can rely on. The Ideal Candidate As a Relief Pharmacy Assistant, you will be responsible for covering absence and holidays in surrounding Well Pharmacies. You will be working within multiple teams across a number of Community Pharmacies as this role provides crucial support and ensures we provide the best patient and customer service. **In order to be considered for the Relief Pharmacy Assistant role it is essential that you already have a NVQ2 in Pharmacy Services or equivalent qualification.** *Well are proud to be a diverse and inclusive employer. If you have any specific requirements, we'll do everything we can to support you. Whether it is to find a pharmacy that is accessible, or if it is a part time position you are looking for, we can help find the role that is right for you. If you need us to make any reasonable adjustments to our recruitment process, we will be happy to accommodate you*. *Please be aware that due to the high number of applications we receive it may not be possible for us to provide an outcome to all applicants. If you are not contacted within 28 days of your submission unfortunately you will have been unsuccessful.* About The Company For over 70 years, we’ve been looking after the health and wellbeing of communities across the UK. Well Pharmacy (part of Bestway Healthcare) is the second largest pharmacy chain in the UK with c.760 pharmacies and a team of around 7,000 colleagues based across our Community Pharmacies, Online Pharmacy, Healthcare Services Centre, Community Drivers, Bestway Medhub \\& Wardles team and our Support Centre team. Our mission is to be here for the wellbeing of our patients and customers, to provide the best community pharmacy experience in the UK for everyone, for our patients, our customers, our people, and our NHS. The pharmacy of the future will look very different from the one we know today. It will play a huge role in transforming primary healthcare and we will play a central role in bringing it to life. We will use our clinical expertise and technological ambition to take advantage of the potential this future has to offer us. Making medicines, advice, services and care available in the places and spaces that people need and want it most. We want to be a great business. To be recognised as delivering a community pharmacy experience that is the best there is. To do this we want our teams to feel proud about the positive impact they make, feel valued as part of a close\\-knit and expert community, and feel confident in their role in a business that is stable, innovative, and caring. **‘Together we make a difference’**",
+   "job_url": "https://uk.indeed.com/viewjob?jk=b358f95246ac9f30",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Relief Pharmacy Assistant at Well Pharmacy in Sheffield; involves covering absences across multiple community pharmacies supporting dispensing and customer service. Key point: requires an NVQ2 in Pharmacy Services as essential, which Ben does not hold.",
+   "fit": "stretch",
+   "fit_reason": "Role explicitly requires NVQ2 in Pharmacy Services, a qualification Ben lacks.",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=1bffceed38a757d2": {
+   "title": "Leisure Operations Assistant",
+   "company": "swim!",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**Job Ref:** SPO2919**Branch:** swim! \\- Sheffield**Location:** swim! \\- Sheffield, Sheffield**Salary/Benefits:** £8 \\- £12\\.71**Contract type:** Permanent**Hours:** Part Time**Shift pattern:** Weekday afternoons evenings, Weekends**Hours per week:** 11 \\- 30 hours per week**Posted date:** 07/09/2026**Closing date:** 19/10/2026**About us** ------------ Founded by Olympians Becky Adlington OBE and Steve Parry MBE, We Are Swim is on a mission to revolutionise swimming and change lives. Every child deserves the chance to learn to swim and love it. Operating in our own venues and school and university pools nationwide, we deliver best\\-in\\-class lessons for children aged 0–11, helping to keep community pools open and thriving. We’re proud of our people and our product, and high standards should run through everything we do. From the quality of our teaching to the way we support every swimmer and family as well as safe, clean, warm venues. **The Role** ------------ We’re looking for engaging, inspiring individuals to join our award\\-winning team as Operations Assistants. In this role, you shall provide support at the venues to ensure our customers receive a first\\-class; clean, warm and safe experience for the entirety of every visit. You’ll bring energy and personality to every shift, while maintaining the highest hygiene, safety and customer service standards ensuring every swimmer and parent enjoys a first\\-class experience. **What You’ll Do** ------------------ * Provide outstanding customer care, welcoming families, engaging with parents, and ensuring every swimmer feels supported. * Maintain the highest standard of hygiene and cleanliness at site to ensure a safe, clean and warm operating environment. * Communicate confidently with existing and new customers, always delivering on\\-site resolutions to their queries and needs * Be a pioneer for the brand with a clear passion for its aims and values * Support all attendees at site with efficient and effective first aid response in appropriate situations * Provide poolside supervisory duties during the operating of lessons * Work collaboratively with fellow team members to maintain our high standards. * Attend training and team meetings to stay current and continuously improve. * If you are located close to other swim@ and swim! venues there is an opportunity to work across multiple locations. **About you** ------------- * A friendly, engaging personality with great communication skills. * Passion for swimming, sport and inspiring young people. * Friendly, confident communicator who connects easily with children and parents. * Strong focus on quality, safety, and consistency in every customer visit. * Positive attitude, reliability, and genuine care for every swimmer’s journey. * Flexibility to work evenings and weekends. * Able to swim to a reasonable standard, with confidence in water and submerge to 2m depth **Qualifications Experience** ----------------------------- Essential: * A positive attitude and willingness to learn. * Commitment to high teaching and safety standards. Desirable: * Water rescue or lifesaving qualification (STA Safety Award, L3 Lifeguard or RLSS NRASTC or NPLQ) * First Aids Qualifications and/or experience * Experience working with children in a leisure environment. Full training and qualifications can be provided for the right people; we recruit on character and potential. **Why Join Us** --------------- * Competitive pay and employment stability. * Fully funded training and qualifications * Extra day off for your birthday! * Instant earned wage access, save as you earn and discount vouchers * Bright, modern uniform and facilities designed for fun and safety. * Staff discounts on lessons for family and friends. * Monthly team training and collaboration sessions. * Recognition rewards, events, and ongoing development from industry leaders. * Clear career pathways to Teacher to Team Leader, Tutor, or Manager. * Be part of a business founded by Olympians with standards, passion, and purpose at its heart.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=1bffceed38a757d2",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Leisure Operations Assistant at swim! in Sheffield, part-time (11–30 hours), £8–£12.71, weekday afternoons/evenings and weekends. Key duty involves customer care, poolside supervision, first aid response, and maintaining cleanliness/safety standards at the venue.",
    "fit": "good",
-   "fit_reason": "Matches his customer service and food handling experience; no licence or specialist qualifications required, and training is offered.",
+   "fit_reason": "Ben's customer service, First Aid, and outdoor activity instructor experience with group leadership fit well; no driving or specialist licences required, and training is provided.",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=8089cb5902d85001": {
+   "title": "Facilities Assistant",
+   "company": "Irwin Mitchell",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "Who We Are As one of the UK’s leading law firms, we’re here for the people and businesses who rely on us at life’s important moments \\- made possible by our colleagues who bring the expertise, judgement and care that makes the difference. Our colleagues bring Irwin Mitchell to life every day, so it matters that you feel valued from the very first day and are trusted with the responsibility, in the right culture, to do the best work of your careers. Everyone’s path here is different, but we share a desire to help our business make a real impact. Where possible we will support our colleagues to work in a way that works for them, for us and most importantly our clients. Please speak to a member of our Recruitment and Onboarding team for more information. Your Role and What You'll Be Doing We’re looking for a Facilities Assistant to help provide an efficient, responsive and welcoming service to colleagues and clients. This is a varied, practical role supporting the day\\-to\\-day operation of our office. You’ll work across Travel booking team, Reception support, Hospitality support, document services, post and deliveries, meeting room preparation, stationery management, porterage and general facilities requests. You’ll be part of the Facilities Management team and report to the Office \\& Facilities Manager. If you’re organised, comfortable managing different types of task and committed to providing a helpful service, this could be a great opportunity to build your facilities experience. Your responsibilities will include: * Arranging business travel and accommodation in line with company policies. * Managing travel amendments, cancellations and itinerary changes, while keeping colleagues informed. * Providing reception and front\\-of\\-house cover when required, helping to create a professional and welcoming experience for colleagues and clients. * Helping to book meeting rooms and parking facilities for internal and external visitors. * Receiving, sorting and distributing incoming and outgoing post and courier deliveries. * Collecting outgoing items from across the office and processing them in line with agreed procedures. * Supporting scanning, copying, printing, document finishing and other reprographics requests. * Prioritising document requests and helping to process larger or more complex jobs. * Resolving basic issues with multifunctional devices, such as paper jams, and reporting faults that require further support. * Monitoring stationery and paper supplies, replenishing printers and keeping service areas tidy. * Moving furniture, equipment and other items, and setting up meeting rooms for different requirements. * Responding to day\\-to\\-day and ad hoc facilities requests in a timely and helpful way. * Checking that equipment is safe and fit for purpose, and reporting any concerns promptly. * Following health and safety procedures and raising concerns through the appropriate channels. * Completing the training needed to carry out the role safely and effectively. * Travelling to other offices occasionally to provide cover where required. About You * Ability to follow clear policies, procedures and instructions accurately. * Ability to organise and prioritise a varied workload, including tasks with competing deadlines. * Ability to communicate clearly and professionally with colleagues, clients, visitors and external suppliers. * Ability to use Microsoft 365 applications, including Outlook, Teams and basic Excel, or the ability to learn these tools with appropriate support. * Ability to work effectively both independently and as part of a team. * Ability to respond constructively when priorities or service requirements change. * Evidence of completing practical or administrative tasks accurately and paying attention to detail. * Willingness to undertake a range of office support duties and complete relevant training. * Ability to carry out the practical duties described in the advert, with reasonable adjustments where required. * Ability to travel to other offices occasionally when business needs require it. Desirable * Experience of arranging business travel or accommodation. * Experience of working in a customer\\-facing, reception, facilities, office services or similar service environment. * Experience of handling post, document production, office supplies or meeting room arrangements. * Experience of carrying out basic troubleshooting of printers, scanners or similar office equipment. Our Approach to Reward and Wellbeing * **25 days' holiday as standard, rising to 28 days depending on role level**, plus bank holidays and the option to purchase additional leave. * **Opportunities to share in our success** through annual pay and bonus review processes for eligible colleagues. * **Health and wellbeing support**, including Westfield Health and Digital GP access. * **Competitive pension arrangements** to help you plan for the future. * **Two paid volunteering days every year** to support causes that matter to you. * **Access to a range of colleague discounts and lifestyle benefits** to support you both inside and outside of work. We also offer a wide range of well\\-being initiatives to encourage positive mental health both in and out of the workplace and to make sure you’re fully supported. In 2026, Irwin Mitchell was recognised in the Sunday Times Best Places to Work guide and was the only law firm included in the 'Very Big' organisation category Our responsible business programmes are fundamental to who we are and our purpose. We’re committed to being a diverse and inclusive workplace where our colleagues can flourish, and we have established a number of inclusion network groups across our business to support this aim. Our commitment to Social Responsibility, community investment activity and tackling climate change is a fundamental part of who we are. It’s made up of four strands: Our People, Our Community, Our Environment and Our Pro Bono. Applying to Irwin Mitchell We want every…",
+   "job_url": "https://uk.indeed.com/viewjob?jk=8089cb5902d85001",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Facilities Assistant role at Irwin Mitchell in Sheffield, supporting office operations with travel, reception, post, reprographics and porterage duties.",
+   "fit": "good",
+   "fit_reason": "Practical varied role suits Ben's customer service and organisational skills; no driving licence or specialist tickets required.",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=e1e7635f9f9db9ca": {
+   "title": "Facilities Assistant",
+   "company": "Irwin Mitchell",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**Who We Are** As one of the UK’s leading law firms, we’re here for the people and businesses who rely on us at life’s important moments \\- made possible by our colleagues who bring the expertise, judgement and care that makes the difference. Our colleagues bring Irwin Mitchell to life every day, so it matters that you feel valued from the very first day and are trusted with the responsibility, in the right culture, to do the best work of your careers. Everyone’s path here is different, but we share a desire to help our business make a real impact. Where possible we will support our colleagues to work in a way that works for them, for us and most importantly our clients. Please speak to a member of our Recruitment and Onboarding team for more information. **Your Role and What You'll Be Doing** We’re looking for a Facilities Assistant to help provide an efficient, responsive and welcoming service to colleagues and clients. This is a varied, practical role supporting the day\\-to\\-day operation of our office. You’ll work across Travel booking team, Reception support, Hospitality support, document services, post and deliveries, meeting room preparation, stationery management, porterage and general facilities requests. You’ll be part of the Facilities Management team and report to the Office \\& Facilities Manager. If you’re organised, comfortable managing different types of task and committed to providing a helpful service, this could be a great opportunity to build your facilities experience. Your responsibilities will include: * Arranging business travel and accommodation in line with company policies. * Managing travel amendments, cancellations and itinerary changes, while keeping colleagues informed. * Providing reception and front\\-of\\-house cover when required, helping to create a professional and welcoming experience for colleagues and clients. * Helping to book meeting rooms and parking facilities for internal and external visitors. * Receiving, sorting and distributing incoming and outgoing post and courier deliveries. * Collecting outgoing items from across the office and processing them in line with agreed procedures. * Supporting scanning, copying, printing, document finishing and other reprographics requests. * Prioritising document requests and helping to process larger or more complex jobs. * Resolving basic issues with multifunctional devices, such as paper jams, and reporting faults that require further support. * Monitoring stationery and paper supplies, replenishing printers and keeping service areas tidy. * Moving furniture, equipment and other items, and setting up meeting rooms for different requirements. * Responding to day\\-to\\-day and ad hoc facilities requests in a timely and helpful way. * Checking that equipment is safe and fit for purpose, and reporting any concerns promptly. * Following health and safety procedures and raising concerns through the appropriate channels. * Completing the training needed to carry out the role safely and effectively. * Travelling to other offices occasionally to provide cover where required. **About You** * Ability to follow clear policies, procedures and instructions accurately. * Ability to organise and prioritise a varied workload, including tasks with competing deadlines. * Ability to communicate clearly and professionally with colleagues, clients, visitors and external suppliers. * Ability to use Microsoft 365 applications, including Outlook, Teams and basic Excel, or the ability to learn these tools with appropriate support. * Ability to work effectively both independently and as part of a team. * Ability to respond constructively when priorities or service requirements change. * Evidence of completing practical or administrative tasks accurately and paying attention to detail. * Willingness to undertake a range of office support duties and complete relevant training. * Ability to carry out the practical duties described in the advert, with reasonable adjustments where required. * Ability to travel to other offices occasionally when business needs require it. Desirable * Experience of arranging business travel or accommodation. * Experience of working in a customer\\-facing, reception, facilities, office services or similar service environment. * Experience of handling post, document production, office supplies or meeting room arrangements. * Experience of carrying out basic troubleshooting of printers, scanners or similar office equipment. **Our Approach to Reward and Wellbeing** * **25 days' holiday as standard, rising to 28 days depending on role level**, plus bank holidays and the option to purchase additional leave. * **Opportunities to share in our success** through annual pay and bonus review processes for eligible colleagues. * **Health and wellbeing support**, including Westfield Health and Digital GP access. * **Competitive pension arrangements** to help you plan for the future. * **Two paid volunteering days every year** to support causes that matter to you. * **Access to a range of colleague discounts and lifestyle benefits** to support you both inside and outside of work. We also offer a wide range of well\\-being initiatives to encourage positive mental health both in and out of the workplace and to make sure you’re fully supported. In 2026, Irwin Mitchell was recognised in the Sunday Times Best Places to Work guide and was the only law firm included in the 'Very Big' organisation category Our responsible business programmes are fundamental to who we are and our purpose. We’re committed to being a diverse and inclusive workplace where our colleagues can flourish, and we have established a number of inclusion network groups across our business to support this aim. Our commitment to Social Responsibility, community investment activity and tackling climate change is a fundamental part of who we are. It’s made up of four strands: Our People, Our Community, Our Environment and Our Pro Bono. **Applying to Irwin…",
+   "job_url": "https://uk.indeed.com/viewjob?jk=e1e7635f9f9db9ca",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Facilities Assistant at Irwin Mitchell (law firm) in Sheffield; varied office support role covering reception cover, post/deliveries, travel booking, reprographics, stationery and meeting room setup. No driving or licence requirements mentioned; duties align with Ben's customer service and practical experience.",
+   "fit": "good",
+   "fit_reason": "No licence or specialist ticket required; Ben's customer service, organisational and practical skills fit this entry-level facilities support role.",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=bda3e04ad72c587b": {
+   "title": "Supervisor",
+   "company": "W Boyes & Co",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**W Boyes \\& Co Ltd \\- Firth Park** **37\\. 50 Hours per week fully flexible to include Saturday, Sunday and Twilight working** **Main Purpose** To assist the Store Manager in the efficient day to day running of the store to achieve maximum sales and long term profit within the constraints of the Company’s policy framework and the effective running of the store in the absence of the Store Manager. **Overview** Boyes offer a wide range of good value merchandise at keen prices, sold within a customer friendly environment. To achieve success the maintenance of low overheads is essential whilst ensuring sufficient level of service to fulfil customer expectation. The Company strive on developing and nurturing a positive and engaged atmosphere in which the staff can fulfil their potential. The Supervisor is expected to perform duties of a Sales Assistant plus the following: Deputise for the Store Manager, which involves: **PEOPLE** **Staff relations.** **Training, deployment, development and keeping records.** **Maintaining discipline \\- adherence to rules and regulations.** **Welfare \\- personal problems, illness, accidents, safety, first aid, fire regulations.** **Wages and entitlement.** **Customer relations.** **Handling complaints and refunds.Safety. Accident procedures.** **Procedure for dealing with shoplifters.** **SALES AND STOCK** N.B. MAIN JOB OF MAXIMISING SALES IS ACHIEVED THROUGH THE FOLLOWING: **Pricing and ticketing.** **Advertising and display.** **Promotion planning.** **Developing in staff a friendly and helpful attitude.** **Maintaining an attractive, clean selling environment.** **Counters correctly stocked.** **Security of stock.** **Correct use of warehouse and stockrooms.** **Stocktaking.** **OPERATIONS** **Maintenance of proper records of stock movements.** **Checking goods in and out.** **Proper handling and storage of stock.** **Cleanliness of floors, windows, fixtures, etc.** **Report any maintenance work required to Head Office.** **Ensuring that scheduled and emergency maintenance is done.** **Alarm Systems / Security of premises \\- store opening and closing procedures.** **Fire drills.** **Bomb warnings and searches.** **Shoplifting and Other forms of shrinkage.** **Security procedures / Office security.** **Ensure premises comply with all safety regulations and that all operations are carried out to ensure complete safety of customers and staff.** **To attend any emergency call\\-outs as required.** **Correct use of all supplies.** **Re\\-order system of supplies and maintenance of adequate stocks.** **FINANCIAL** **Use of tills including cashing up.** **Transactions.** **Security of cash in tills during collection and banking procedures.** **Acceptance of all payment methods.** **Wage returns and records.** **Ensuring that all invoices are processed correctly. Dealing with quick payments.** **Correct handling of transfers, debits, credits, dummy invoices, etc.** **Handling mail.** **Use and re\\-ordering of stationery.** **Filing systems.** **Use of telephone systems.** **Knowledge of procedures in Procedures Manual.** **Understanding of the effect of V.A.T on margins.** **Marking down merchandise.** **Financial.** **Record keeping.** **Accounting.** **About Us :** A strong family retail brand, Boyes have been trading since 1881 and now operate over seventy stores located nationwide, including Yorkshire, the North East, Lincolnshire, Nottinghamshire , Leicestershire \\& Scotland. Job Types: Permanent, Part\\-time Pay: £13\\.71 per hour Benefits: * Referral programme * Store discount Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=bda3e04ad72c587b",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Supervisor role at W Boyes & Co in Firth Park, Sheffield, 37.5 hours per week fully flexible. Deputises for the Store Manager, overseeing staff, sales/stock, operations, safety and financial tasks like cashing up and invoices.",
+   "fit": "maybe",
+   "fit_reason": "Ben has retail customer service and cash handling experience, but this is a supervisory post expecting staff management, training, and stock control responsibility beyond his stated background.",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=e3f5612a870dc60c": {
+   "title": "Trainee Dental Nurse/Receptionist",
+   "company": "Pitsmoor Dental Health Centre",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**Trainee Dental Nurse / Receptionist** **NHS Dental Practice \\| Sheffield** We are currently looking for a **trainee Dental Nurse / Receptionist** to join our **friendly, well\\-established NHS dental practice** on a permanent basis. Our four\\-surgery practice is based in **Pitsmoor**, close to the city centre with excellent transport links. We pride ourselves on providing high\\-quality patient care in a supportive, professional, and welcoming environment. This is a fantastic opportunity for a **motivated, enthusiastic individual** who enjoys both clinical and front\\-of\\-house work and thrives as part of a close\\-knit team. **The Role** This is a **dual dental nursing and reception role**, offering variety and development within a busy NHS practice. **Key responsibilities include:** * Providing high\\-quality chairside dental nursing support to clinicians * Ensuring all cross\\-infection control procedures are followed to the highest standard * Supporting reception duties including patient booking, enquiries, and clerical tasks * Delivering excellent patient care and maintaining a calm, professional approach * Supporting compliance with **CQC standards** and practice protocols **About You** **Essential requirements:** * Strong communication and interpersonal skills * Professional, reliable, and patient\\-focused * Able to work independently and as part of a busy team **Desirable:** * SOE (Software of Excellence) experience * Previous experience in a mixed nursing/reception role **Hours** * **Full\\-time:** 35–40 hours per week * **Job Type:** Permanent **How to Apply** To apply, please email your CV to: kot28@hotmail.com FAO: Magdalena We look forward to welcoming a caring, motivated professional to our team. Job Types: Part\\-time, Permanent Pay: £13\\.00\\-£13\\.50 per hour Benefits: * Company pension * On\\-site parking Licence/Certification: * Valid GDC registration (preferred) Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=e3f5612a870dc60c",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Trainee Dental Nurse/Receptionist at Pitsmoor Dental Health Centre, NHS dental practice in Sheffield, £13–£13.50/hr permanent full-time. Role combines chairside dental nursing with reception duties including bookings and CQC compliance.",
+   "fit": "maybe",
+   "fit_reason": "Ben has customer service and food safety experience relevant to reception duties, but dental nursing requires specific clinical training and GDC registration he lacks, though trainee status suggests o",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=d1b9ecca1e4c8bc8": {
+   "title": "Medical Receptionist",
+   "company": "Brinsworth and Whiston Medical Centre",
+   "location": "Brinsworth, ENG, GB",
+   "job_type": "parttime, fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**Company description** Brinsworth and Whiston Medical Centre is a provider of primary care services to a patient population of 10,500 patients in Rotherham, across 2 sites. We pride ourselves on providing high quality holistic care allowing our patients to thrive with the best health possible. **Job description** You will form part of our friendly, but hard working, reception team, providing a professional, efficient and effective reception service to both patients and health professionals alike. Confidentiality is an essential part of the role. **Key responsibilities:** * Make, amend and cancel clinical appointments for patients using the SystmOne clinical system. * Care navigate patients to the most appropriate health professional/service when booking appointments. * Deal with and record accurate messages from clinicians and patients We are open from 7am until 6\\.30pm and flexibility is essential as you will be required to work between these hours to meet the needs of the business, and cover colleagues when required. Job Type: Part\\-time Pay: From £12\\.21 per hour Expected hours: 25 per week Benefits: * On\\-site parking Schedule: * Monday to Friday Pay: £12\\.71 per hour Benefits: * Company pension * Employee discount * On\\-site parking Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=d1b9ecca1e4c8bc8",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Part-time Medical Receptionist at Brinsworth and Whiston Medical Centre in Rotherham, £12.21/hr (£12.71/hr listed), 25 hours/week Mon–Fri. Key duty is booking/managing clinical appointments on SystmOne and care navigating patients.",
+   "fit": "good",
+   "fit_reason": "Customer service and cash-handling experience plus strong communication fit reception work; no licence or certifications required, and the role is local and immediately available.",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=ddeeb21375f07f60": {
+   "title": "Barista / Cafe staff",
+   "company": "Lovely Pear",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "We’re looking for front of house staff at Lovely Pear. Preferably someone used to working in busy restaurant / cafe environments. 10 \\- 20 hours per week, daytime shifts (we’re open Wednesday \\- Saturday) starting wage £12\\.71 \\- £13\\.50 Small independent business, gets busy so you need to able to thrive in the chaos. Fun environment to work in, free staff food, as much coffee as you can handle on shift. We are looking for someone long term, please don’t apply if you’re only in Sheffield for the next month or two. Job Type: Part\\-time Pay: £12\\.71\\-£13\\.50 per hour Experience: * Restaurant: 3 years (required) Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=ddeeb21375f07f60",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Part-time Barista/Cafe staff at Lovely Pear in Sheffield, £12.71-£13.50/hr, 10-20 hours daytime shifts Wed-Sat. Requires 3 years restaurant experience and ability to thrive in a busy independent cafe environment.",
+   "fit": "maybe",
+   "fit_reason": "Ben has customer service and food safety experience relevant to cafe work, but the ad specifies 3 years restaurant experience which exceeds his background.",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=b31245ae88541e25": {
+   "title": "Cleaning Operative",
+   "company": "The Green Cleaning Company",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "Cleaning Operative – Healthcare Site – Monday to Friday **Location:** Lightwood House **Hours:** Monday to Friday, 3:30pm–6:00pm **Contracted Hours:** 12\\.5 hours per week **Pay:** £12\\.71 per hour **Job Type:** Part\\-time, Permanent About the Role CGD Group is looking for a reliable and hardworking **Cleaning Operative** to join our team at **Lightwood House**. This position involves carrying out high\\-quality cleaning within a healthcare environment, helping to maintain a clean, safe and welcoming environment for staff, patients and visitors. Your core working hours will be **Monday to Friday, 3:30pm–6:00pm**, providing a consistent 12\\.5 contracted hours per week. As part of the role, you will also be **cross\\-trained across our other local sites**. We are therefore looking for someone who can offer a reasonable level of flexibility and is willing and able to provide **additional cover when colleagues are on annual leave or absent**, where required. Duties will include: * General cleaning of designated areas * Vacuuming, mopping and floor cleaning * Cleaning and sanitising washrooms * Cleaning touchpoints and communal areas * Emptying bins and disposing of waste correctly * Following site cleaning schedules and procedures * Using cleaning chemicals and equipment safely * Maintaining high standards of hygiene and infection control * Reporting any issues or maintenance concerns to your supervisor * Providing cover at other CGD Group sites when required About You Previous commercial cleaning experience would be ideal, particularly within a **healthcare, NHS or similar environment**, although this is **not essential** as full training and ongoing support will be provided. Knowledge of **COSHH and safe chemical handling** would also be beneficial. Due to the nature of the site, applicants must be able to successfully complete the required **DBS screening** for the role. We are looking for someone who is: * Reliable and punctual * Hardworking with excellent attention to detail * Able to work independently and as part of a team * Professional when working within a healthcare environment * Comfortable following cleaning procedures and site standards * **Flexible and willing to work across other local sites when required** * **Able to provide additional holiday and absence cover for other team members** * Able to communicate effectively with supervisors and site staff What We Provide * £12\\.71 per hour * Consistent Monday–Friday contracted hours * Opportunity for additional hours through holiday and absence cover * Cross\\-training across other CGD Group sites * Full induction and site training * COSHH and cleaning procedure training * Ongoing management support * Uniform provided * Opportunity to work with a growing facilities management company **Core Working Hours:** Monday to Friday **3:30pm–6:00pm** If you are reliable, flexible, take pride in maintaining high cleaning standards and are happy to support across our other sites when needed, we would be pleased to hear from you. Pay: £12\\.71 per hour Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=b31245ae88541e25",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Part-time Cleaning Operative role at CGD Group (Green Cleaning Company) at Lightwood House healthcare site in Sheffield, Mon-Fri 3:30pm-6:00pm (12.5 hrs/week) at £12.71/hr. Entry-level cleaning with full training provided; no licences or specific experience required, though DBS check needed.",
+   "fit": "good",
+   "fit_reason": "No driving or specialist licences needed, full training provided, and Ben's reliability/teamwork from prior roles suits this; DBS the only hurdle but not a missing qualification.",
+   "fit_source": "llm",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=1902bbd96e2864fb": {
+   "title": "VOID Operative",
+   "company": "Action Housing & Support",
+   "location": "Rotherham, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**VOID Operative** Permanent \\| Full\\-time \\| Based from Rotherham, working across Yorkshire and Derbyshire ***Action is committed to safeguarding and promoting the welfare of children, young people, and vulnerable adults, and expects all employees, volunteers, and agency workers to share this commitment.*** **Salary:** Grade 1 \\- £23,858 \\- £25,055 per year, dependent on experience **Hours:** Full\\-time, Monday to Friday. 36 hours per week. **Location:** Based out of Rotherham S60 1DX, with mobile working across properties in Rotherham, Chesterfield, Mansfield and Derby. **About Action** Action is a registered charity and housing provider. We support vulnerable individuals and families to establish and maintain a home, helping people build the skills and confidence they need for long\\-term independence. **About the role** We are looking for a reliable and practical Mobile Cleaner to join our Maintenance Team. This role is responsible for cleaning occupied and empty properties and communal spaces to a high standard, helping ensure safe, welcoming and well\\-maintained accommodation for our tenants. You will travel between properties across Yorkshire and Derbyshire, carrying out cleaning tasks, completing basic checks, reporting concerns and working closely with the Maintenance Office to support the smooth running of our accommodation. **Key responsibilities** As a Mobile Cleaner, you will: * Clean occupied and empty properties, including kitchens, bathrooms, toilets, appliances, floors, surfaces and other household areas. * Carry out communal and property cleaning tasks to agreed standards. * Complete basic health and safety checks while on site and report any concerns, hazards or new risks to the Maintenance Office. * Report repairs, missing furniture, missing goods or other property issues that cannot be resolved during the visit. * Monitor your own cleaning stock levels and report when materials or equipment need to be replenished. * Prioritise daily workload and liaise with the Maintenance Team to complete tasks effectively. * Handle cleaning issues safely, including the disposal of hazardous items such as abandoned drug\\-use equipment, using appropriate personal protective equipment and training. * Follow all relevant health and safety, operational, personnel, data protection and financial policies and procedures. * Attend meetings and training within working hours, when required. * Undertake other reasonable duties, commensurate with the grade and responsibilities of the post, as required to meet the needs of the service and organisation. **About you** We are looking for someone who takes pride in their work, can work independently and understands the importance of providing a safe, clean and respectful environment for tenants. You will be flexible, dependable and comfortable travelling between different properties as part of your working day. **Essential requirements** * Full UK driving licence. * Willingness to travel to properties across Yorkshire and Derbyshire. * Basic literacy skills to complete paperwork, stock updates and health and safety records. * Ability to work independently and as part of a team. * Positive, flexible and practical approach to work. * Ability to assess risks and follow safe working practices, including when lone working. * Ability to carry out cleaning duties involving lifting, handling and use of cleaning equipment, with reasonable adjustments where required. * Commitment to providing a high\\-quality service for tenants and colleagues. **Desirable experience** * Previous cleaning experience in a commercial, housing, property or similar setting. * Experience of cleaning void or occupied homes. * Experience of completing basic health and safety checks. * Understanding of social welfare issues, including issues that may affect people living in supported accommodation. * Basic DIY, gardening or low\\-level maintenance experience. (Not essential) **What we offer** * Permanent, full\\-time role. * Monday to Friday working pattern, with half\\-day Friday subject to confirmation. * 36 Hour working week * 180 hours’ holiday in addition to 8 statutory public holidays. * Company vehicle and petrol card provided for work duties; you do not need your own vehicle for this role. * Training and support from the Maintenance Team. * A varied mobile role supporting tenants and properties across the region. **Additional information** This role involves mobile working, cleaning, lifting and handling cleaning equipment and domestic goods. The successful candidate will need to work flexibly and respond positively to changing service needs. This role is subject to a DBS check **How to apply** If you are reliable, practical and committed to providing clean, safe accommodation for tenants, we would like to hear from you. To apply, please submit your application in line with Action Housing \\& Support’s recruitment process. The closing date for applications is 5 July, and interviews will be held on the 10th and 13th of July. For further information about the role, please contact the organisation directly. For an informal discussion please call the Maintenance Office at Action Housing and Support and ask for Lydia or Mark \\- 03000 230 720 **Benefits** * Equivalent of 28 days annual leave (3 Days between Christmas and New Year) \\+ Bank Holidays * 3 X Life assurance * Access to Blue Light Card * Access to the Company Shop * Westfield Health EAP Pay: £23,858\\.56\\-£25,055\\.00 per year Benefits: * Casual dress Application question(s): * This role is subject to a DBS check, please confirm you are happy to undergo this check. Licence/Certification: * Driving Licence (required) Work authorisation: * United Kingdom (required) Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=1902bbd96e2864fb",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=6d47206bad0dfe81": {
+   "title": "Operator",
+   "company": "SIBELCO",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "Operator**Location:** Sheffield**At Sibelco, we advance life through materials.** For over 150 years, we’ve been a trusted leader in sourcing, transforming, and distributing specialty industrial minerals. Our work powers progress across industries as diverse as glass, ceramics, construction, coatings, polymers, and water purification. Beyond our materials, we’re proud of our commitment to sustainability, innovation, and empowering people from all walks of life to thrive and make a meaningful impact. **Are We the Perfect Match?** At Sibelco, we believe building a successful career is a two\\-way journey. We’re looking for individuals who share our values and vision, just as much as you’re seeking a company that aligns with your aspirations. Together, we can shape the future. **Job Description:** **Role Purpose:** Ensure the installations perform the desired operation(s) according to the existing procedures and policies as well as monitor the installations in order to guarantee the delivery of a (semi\\-)finished product in accordance with the specifications. **Responsibilities:** * Handle and adjust the installations according to the existing procedures and policies. Serves pumps, open and closes taps, etc * Fixes alerts * Analyse and perform multiple quality checks of the respective products in order to meet the requirements of the process * Identify non\\-conformities throughout the production process and address other employees to ensure qualitative products * Control the amount of products produced by an installation * Carry out auxiliary tasks to the production process, according to the orientations of the procedures and their superiors * Performs small maintenance activities and assists the maintenance technicians as well as electricians in large maintenance activities * Works in conjunction with weighbridge operators, bagging operators etc when needed to ensure continuous production * Put all relevant production data into the required IT system * Ensure the use of personal protective equipment and take responsibility for its safekeeping and conservation as provided in the safety policy manual. **About you:** * Lower degree in high school or equivalent by experience * Prior experience in a similar role * Technical English – Read and comprehend **Employee Type:** Permanent**Why Join Us?** Sibelco is more than a workplace—it’s a community that encourages growth, innovation, and collaboration. Here’s what you can look forward to when you join our team: * **Meet Our People:** Careers * **Learn About Our Recruitment Process:** Learn More * **Discover Our Sustainability Goals:** Sibelco priorities We also welcome applications from all backgrounds and are committed to providing reasonable adjustments to support you through the selection process. **How to Apply** Follow us on LinkedIn, Instagram, Twitter/X and Facebook to learn more about life at Sibelco. Submit your application in the **Apply** option. Please note: We do not require agency services as we have a dedicated Global Talent Acquisition Team.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=6d47206bad0dfe81",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Operator role at Sibelco in Sheffield operating industrial mineral processing installations, monitoring quality and performing light maintenance; no pay or licence mentioned. FIT: stretch REASON: Requires prior experience in a similar industrial/production operator role, which Ben lacks, though his engineering background and mechanical fault-finding skills give him a plausible foundation with on-t",
+   "summary_source": "llm"
+  },
+  "https://uk.indeed.com/viewjob?jk=0e1b627966195ef2": {
+   "title": "Powered Access and Plant Fitter",
+   "company": "Tedbar Tinker Industrial Supplies",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**Overview** Due to expansion, we are seeking a motivated and skilled Powered Access and Plant Fitter to join our dynamic team. In this vital role, you will be responsible for maintaining and repairing plant machinery. This position offers an exciting opportunity to work with a variety of equipment, apply your mechanical and electrical skills, and deliver exceptional service to our clients. We are looking for a candidate with experience in some or all of our plant range. Training can be given to some areas if limited experience. Our equipment ranges are: · Powered Access · Forklift Trucks · Compressors · Generators · Welders · Avants · Small Plant **Duties** * Conduct routine inspections, diagnostics, and preventive maintenance to ensure safety and reliability. * Perform repairs. * Interpret schematics and technical manuals to accurately diagnose issues and execute repairs or modifications. * Assemble new equipment components or modify existing machinery to meet operational specifications. * Maintain detailed service records, repair logs, and maintenance schedules for all equipment serviced. **Experience** * Proven experience in mechanical repair and maintenance of plant machinery. * Strong electrical and mechanical experience. * Skilled in fabrication techniques such as welding and metalworking to repair or modify equipment parts. * Knowledge of hydraulic systems, power tools, hand tools, and assembly processes related to heavy machinery. * Familiarity with operating and repairing a range of plant machinery. * Ability to interpret technical schematics and manuals accurately for troubleshooting purposes. * Excellent customer service skills with a proactive approach to problem\\-solving in fast\\-paced environments. Join us as a Powered Access and Plant Fitter to be part of a dedicated team committed to excellence in equipment maintenance! Your expertise will ensure our machinery operates safely and efficiently while supporting our commitment to delivering top\\-tier service across diverse projects. **Working Hours \\- 2 week rotation** Week 1: Monday to Friday 8:00am to 5pm Week 2: Monday to Thursday 7:30am to 5pm and Friday 7:30am to 2pm Salary is very competitive. Benefits: * Company pension * Cycle to work scheme * Free parking * Life insurance * On\\-site gym * On\\-site parking * Private medical insurance Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=0e1b627966195ef2",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-07T15:37:12Z",
+   "last_seen": "2026-09-07T15:37:12Z",
+   "summary": "Powered Access and Plant Fitter at Tedbar Tinker Industrial Supplies in Sheffield — duties include diagnostics, maintenance, and repair of plant machinery like forklifts, compressors, and welders.",
+   "fit": "stretch",
+   "fit_reason": "Role emphasises plant/forklift machinery repair with welding and fabrication skills, which goes well beyond Ben's maintenance experience and would likely require trade qualifications or licences he la",
    "fit_source": "llm",
    "summary_source": "llm"
   }
  },
  "last_run_report": {
-  "started": "2026-09-07T09:26:00Z",
+  "started": "2026-09-07T15:37:12Z",
   "searches": [
    {
     "term": "activity instructor",
@@ -4870,8 +5200,8 @@
    },
    {
     "term": "warehouse operative",
-    "found": 13,
-    "new": 0
+    "found": 1,
+    "new": 1
    },
    {
     "term": "picker packer",
@@ -4880,8 +5210,8 @@
    },
    {
     "term": "delivery driver",
-    "found": 7,
-    "new": 0
+    "found": 2,
+    "new": 1
    },
    {
     "term": "courier driver",
@@ -4890,22 +5220,22 @@
    },
    {
     "term": "customer service assistant",
-    "found": 11,
-    "new": 0
+    "found": 12,
+    "new": 5
    },
    {
     "term": "retail assistant",
-    "found": 12,
+    "found": 5,
     "new": 0
    },
    {
     "term": "receptionist",
-    "found": 15,
-    "new": 0
+    "found": 2,
+    "new": 2
    },
    {
     "term": "kitchen assistant",
-    "found": 2,
+    "found": 1,
     "new": 0
    },
    {
@@ -4915,8 +5245,8 @@
    },
    {
     "term": "barista",
-    "found": 5,
-    "new": 0
+    "found": 6,
+    "new": 1
    },
    {
     "term": "waiting staff",
@@ -4925,18 +5255,18 @@
    },
    {
     "term": "maintenance operative",
-    "found": 1,
-    "new": 0
+    "found": 2,
+    "new": 2
    },
    {
     "term": "maintenance technician",
-    "found": 3,
-    "new": 0
+    "found": 2,
+    "new": 1
    },
    {
     "term": "fitter",
-    "found": 14,
-    "new": 0
+    "found": 1,
+    "new": 1
    },
    {
     "term": "caretaker",
@@ -4944,7 +5274,7 @@
     "new": 0
    }
   ],
-  "new": 0,
-  "updated": 127
+  "new": 14,
+  "updated": 64
  }
 }
