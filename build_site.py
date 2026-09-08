@@ -347,7 +347,7 @@ main{max-width:760px;margin:0 auto;padding:10px 12px}
 
 APP_JS = r"""function startApp(){const NEW_DAYS=3;
 const FIT_ORDER={good:0,maybe:1,stretch:2};
-let cat='All',sortMode='fit';const MODES=['fit','new','az'],MODE_NAME={fit:'Best fit',new:'Newest',az:'A–Z'};
+let cat='All',sortMode='new';const MODES=['fit','new','az'],MODE_NAME={fit:'Best fit',new:'Newest',az:'A–Z'};
 const esc=s=>(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function chips(){
   const el=document.getElementById('chips');el.innerHTML='';
