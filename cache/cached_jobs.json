@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_run": "2026-09-07T19:42:06Z",
+  "last_run": "2026-09-08T09:37:38Z",
   "location": "Sheffield",
   "country": "UK",
   "hours_old": 72,
@@ -70,7 +70,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -92,7 +92,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -114,7 +114,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -136,7 +136,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -158,7 +158,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -852,12 +852,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:58:45Z",
-   "summary": "Part-time kitchen porter at Wagamama in Sheffield; duties include washing pots/equipment, keeping the kitchen clean, restocking supplies, and basic food prep following health and safety standards. No licence required, entry-level with on-the-job training.",
-   "fit": "good",
-   "fit_reason": "No licence or certification needed; Ben's customer service and food safety/allergen experience in a food setting directly transfers to a kitchen environment.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-08T09:37:38Z",
+   "summary": "kitchen porter part time at wagamama, food is life. our kitchens are all about fresh food, prioritising good ingredients and serving dishes that are made to order every time. as a kitchen porter, you’re the backbone of the kitchen - keeping everything clean, organised, and running smoothly so the…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=9acb2f43aceee275": {
    "title": "Kitchen Porter",
@@ -876,12 +876,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:58:45Z",
-   "summary": "Kitchen Porter role at Leonardo Hotels in Sheffield, supporting the Head Chef in a busy hotel kitchen environment with training and progression opportunities.",
-   "fit": "good",
-   "fit_reason": "No licence or specialist qualification required; hospitality kitchen role suits his customer service/food safety background and immediate availability.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-08T09:37:38Z",
+   "summary": "Be Yourself – Be a Bold Team Player – Be Leonardo Once you’re part of the team, you’re part of the Leonardo community of over 55 hotels across the UK & Ireland! As a Kitchen Porter you’ll be right in the heart of the hotel, so we want you to take pride in everything you’ll be doing to support the…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=8adf91d50d2b23bc": {
    "title": "Part-time Kitchen Porter",
@@ -900,12 +900,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:58:45Z",
-   "summary": "Part-time Kitchen Porter at Smoke BBQ in Sheffield, £12.71/hr plus tips and staff meals; physically demanding kitchen cleaning role requiring stamina and teamwork.",
-   "fit": "good",
-   "fit_reason": "No licence or certification needed; Ben's customer service and food safety/allergen experience translate well to a kitchen environment.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-08T09:37:38Z",
+   "summary": "Smoke BBQ is looking for a part-time kitchen porter with an immediate start. Candidates should possess the following: - A strong work ethic - Ability to perform under pressure - A positive 'can do' attitude - Be a team player Previous experience in a similar role would be advantageous. Benefits…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=9962d523e269a56e": {
    "title": "Kitchen Porter",
@@ -924,12 +924,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-03T10:58:45Z",
-   "summary": "Kitchen Porter role at Tavern Collective in Sheffield (pay not stated), focusing on fast-paced dishwashing and maintaining kitchen cleanliness. No licence or prior experience required, with on-the-job training and growth opportunities offered.",
-   "fit": "good",
-   "fit_reason": "Entry-level kitchen porter role needs no licence or certification, and Ben's customer service/hospitality experience plus immediate availability make him a strong match.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-08T09:37:38Z",
+   "summary": "Our people are the heart and soul of our business, and we are looking for enthusiastic, upbeat, and hard-working people to join our team. As a Kitchen Porter, you support the restaurant to ensure cleanliness is a priority. While utilizing speed and efficiency as your main priority in the dish area,…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=99726c71372802dd": {
    "title": "Kitchen Team Member",
@@ -1447,7 +1447,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "Caretaker Sub Division: Facilities Management Location: Sheffield Contract Type: Permanent Hours: Full Time - 37.5 hours - Monday to Friday Creating and maintaining great places to live and work delivered by excellent people who care… Purpose of Role We're looking for a reliable and proactive…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -1824,12 +1824,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:58:45Z",
-   "summary": "Kitchen Porter at The Wildcard Bar & Grill in Sheffield, paying £10.85–£13.00 per hour. Main duties are dishwashing, kitchen cleaning, and supporting the culinary team with sanitation and food safety compliance.",
+   "last_seen": "2026-09-08T09:37:38Z",
+   "summary": "Job Overview: We are seeking a reliable and hardworking Kitchen Porter / Kitchen Assistant to join our kitchen team. The ideal candidate will assist with various kitchen duties mostly centred around dishwashing, ensuring a clean and efficient workspace, and supporting our culinary staff in…",
+   "summary_source": "fallback",
    "fit": "maybe",
-   "fit_reason": "No driving required and food safety knowledge from his customer service role is relevant, but 1 year hospitality experience is listed as required which he lacks.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=fd5bbe5906d88ebf": {
    "title": "kitchen porter",
@@ -1848,12 +1848,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:58:45Z",
-   "summary": "Kitchen porter (part-time) at wagamama in Sheffield, with biweekly pay, free meals on shift, and tips share. Entry-level role focused on washing equipment, keeping the kitchen clean, basic prep, and following health & safety standards.",
-   "fit": "good",
-   "fit_reason": "No licence or specialist quals needed; Ben's customer service and food safety experience suit a busy kitchen environment.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-08T09:37:38Z",
+   "summary": "kitchen porter part time at wagamama, food is life. our kitchens are all about fresh food, prioritising good ingredients and serving dishes that are made to order every time. as a kitchen porter, you’re the backbone of the kitchen - keeping everything clean, organised, and running smoothly so the…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=8751ce111f3c439e": {
    "title": "Kitchen Porter",
@@ -2178,7 +2178,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "Job description Thornbridge Outdoors is Sheffield City Council’s outdoor learning centre located near Bakewell in the Peak District. Our mission is ‘to widen the horizons of young people through real outdoor adventures in the Peak District’. This is an exciting opportunity to join the pool of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2202,7 +2202,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "Job description Thornbridge Outdoors is Sheffield City Council’s outdoor learning centre located near Bakewell in the Peak District. Our mission is ‘to widen the horizons of young people through real outdoor adventures in the Peak District’. This is an exciting opportunity to join the pool of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2871,12 +2871,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-06T11:24:20Z",
-   "summary": "Kitchen Porter/Cleaner role at Greetaly in Sheffield, paying up to £12.71/hr with discounted food and flexitime. Entry-level kitchen support role focused on cleaning, basic food prep, and assisting chefs in a busy restaurant.",
-   "fit": "good",
-   "fit_reason": "No licence or specialist cert required; Ben's customer service and food handling experience align well with kitchen support work.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-08T09:37:38Z",
+   "summary": "Job Overview We are seeking a dedicated and enthusiastic Kitchen Porter to join our dynamic kitchen team. The Kitchen Porter plays a crucial role in ensuring the smooth operation of our kitchen by assisting with food preparation, maintaining cleanliness, and supporting the culinary staff. This…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=19f07157646707ce": {
    "title": "Kitchen Assistant",
@@ -3154,7 +3154,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "Caretaker – Penistone Outdoor Markets £13.31 Per Hour Join Our Team as a Part-Time Caretaker at Penistone Outdoor Markets We’re looking for a reliable and detail-oriented Caretaker to join our team on a part-time basis. This is a fantastic opportunity To work as part of a multi-disciplinary…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -3878,7 +3878,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3900,7 +3900,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -3922,7 +3922,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3944,7 +3944,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3966,7 +3966,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -3988,7 +3988,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 9.75hrs p/w; Sun 10:30 - 15:00; Sat 12:00 - 17:30 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -4012,7 +4012,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 5.50hrs p/w; Sun 11:00 - 17:00 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having a great attitude to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -4060,7 +4060,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "At Costa Coffee, we craft great coffee and memorable experiences. As a Barista, you’ll bring energy, warmth and skill to every shift. We also offer flexible shifts to suit both your needs and the store’s. Why Costa £13.12 - £14.12 per hour (location dependent) 50% discount on all food and drink in…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -4084,7 +4084,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "At Costa Coffee, we craft great coffee and memorable experiences. As a Barista, you’ll bring energy, warmth and skill to every shift. We also offer flexible shifts to suit both your needs and the store’s. Why Costa £13.12 - £14.12 per hour (location dependent) 50% discount on all food and drink in…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -4108,7 +4108,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "Cornerstone Coffee is an exciting new specialty coffee bar at opening in Sheffield City Centre. We believe in delivering great results and your team and customers will always come first. It’s all about eye for detail and delivering a great experience and work place for everyone. We require a…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -4685,7 +4685,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -4777,7 +4777,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -4799,7 +4799,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "No CV to hand? No problem! We've made our application process mobile friendly and removed the need for a CV. Our form takes 2 minutes to complete and tells us all we need about you! As Part Time Waiting Staff at Miller & Carter - Sheffield City Centre, you will give a warm welcome and excellent…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -4823,7 +4823,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -4869,7 +4869,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -4891,7 +4891,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -4913,7 +4913,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "Package Description Highly competitive salaries Generous holiday allowance including bank holidays Opportunity to gain an NVQ 3 qualification Pension scheme Employee discount scheme Superb development and career opportunities Bonus scheme Overview of the role Are you friendly and organised with a…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -4937,7 +4937,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "Job Ref: SPO2919Branch: swim! - SheffieldLocation: swim! - Sheffield, SheffieldSalary/Benefits: £8 - £12.71Contract type: PermanentHours: Part TimeShift pattern: Weekday afternoons evenings, WeekendsHours per week: 11 - 30 hours per weekPosted date: 07/09/2026Closing date: 19/10/2026About us…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -4961,7 +4961,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "Who We Are As one of the UK’s leading law firms, we’re here for the people and businesses who rely on us at life’s important moments - made possible by our colleagues who bring the expertise, judgement and care that makes the difference. Our colleagues bring Irwin Mitchell to life every day, so it…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -4985,7 +4985,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "Who We Are As one of the UK’s leading law firms, we’re here for the people and businesses who rely on us at life’s important moments - made possible by our colleagues who bring the expertise, judgement and care that makes the difference. Our colleagues bring Irwin Mitchell to life every day, so it…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5009,7 +5009,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "W Boyes & Co Ltd - Firth Park 37. 50 Hours per week fully flexible to include Saturday, Sunday and Twilight working Main Purpose To assist the Store Manager in the efficient day to day running of the store to achieve maximum sales and long term profit within the constraints of the Company’s policy…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5033,7 +5033,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "Trainee Dental Nurse / Receptionist NHS Dental Practice Sheffield We are currently looking for a trainee Dental Nurse / Receptionist to join our friendly, well-established NHS dental practice on a permanent basis. Our four-surgery practice is based in Pitsmoor, close to the city centre with…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5057,7 +5057,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "Company description Brinsworth and Whiston Medical Centre is a provider of primary care services to a patient population of 10,500 patients in Rotherham, across 2 sites. We pride ourselves on providing high quality holistic care allowing our patients to thrive with the best health possible. Job…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5081,7 +5081,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "We’re looking for front of house staff at Lovely Pear. Preferably someone used to working in busy restaurant / cafe environments. 10 - 20 hours per week, daytime shifts (we’re open Wednesday - Saturday) starting wage £12.71 - £13.50 Small independent business, gets busy so you need to able to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5105,7 +5105,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "Cleaning Operative – Healthcare Site – Monday to Friday Location: Lightwood House Hours: Monday to Friday, 3:30pm–6:00pm Contracted Hours: 12.5 hours per week Pay: £12.71 per hour Job Type: Part-time, Permanent About the Role CGD Group is looking for a reliable and hardworking Cleaning Operative to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5129,7 +5129,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -5151,7 +5151,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "OperatorLocation: SheffieldAt Sibelco, we advance life through materials. For over 150 years, we’ve been a trusted leader in sourcing, transforming, and distributing specialty industrial minerals. Our work powers progress across industries as diverse as glass, ceramics, construction, coatings,…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5175,7 +5175,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "Overview Due to expansion, we are seeking a motivated and skilled Powered Access and Plant Fitter to join our dynamic team. In this vital role, you will be responsible for maintaining and repairing plant machinery. This position offers an exciting opportunity to work with a variety of equipment,…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5200,7 +5200,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -5222,7 +5222,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 12.50hrs p/w; Mon 09:00 - 12:30; Fri 11:30 - 14:30; Sat 09:00 - 15:30 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5246,7 +5246,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 7.50hrs p/w; Sun 10:30 - 14:00; Sat 16:00 - 20:00 Working as part of a fast-paced store team, your top priority will be to locate, pack and promptly process stock, ensuring it’s beautifully presented to our customers. When you’re needed to work on the salesfloor, your…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5270,7 +5270,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 12.25hrs p/w; Sun 12:30 - 17:00; Mon 17:15 - 21:00; Thu 17:00 - 21:00 Working as part of the Beauty team, your top priority will be to offer outstanding service and beautifully presented stock to our customers. In return for supporting all company policies and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5294,7 +5294,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 11.50hrs p/w; Wed 17:00 - 21:00; Fri 16:15 - 20:00; Sat 15:15 - 19:00 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5318,7 +5318,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 9hrs p/w; Fri 09:00 - 13:30; Sat 09:30 - 14:00 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having a…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5342,7 +5342,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 9hrs p/w; Fri 12:15 - 18:00; Sat 10:00 - 13:30 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having a…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5366,7 +5366,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 11.50hrs p/w; Tue 16:30 - 21:00; Fri 13:00 - 16:30; Sat 13:00 - 16:30 Working as part of the Beauty team, your top priority will be to offer outstanding service and beautifully presented stock to our customers. In return for supporting all company policies and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5390,7 +5390,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 17hrs p/w; Mon 10:00 - 16:30; Wed 10:00 - 17:00; Thu 09:30 - 14:00 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5414,7 +5414,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 6.50hrs p/w; Wed 10:00 - 17:00 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having a great attitude to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5439,7 +5439,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "Job Introduction About us: Aspens Services is a market-leading contract caterer specialising in school food. We don't just serve meals—we create fantastic food experiences that fuel young minds! By blending deep knowledge of the education sector with the latest food trends, we encourage creativity…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5463,7 +5463,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -5485,7 +5485,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "Package Salary & Hours £12.71 per hour (18-20), £13.00 per hour (21+) Available contracted hours 12 hours per week Applicants must be available to work 6am-10am FIXED TERM 9 MONTHS Employee Benefits Full-time employees receive 28 days of annual leave (inclusive of bank holidays), increasing to 33…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5509,7 +5509,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "No CV to hand? No problem! We've made our application process mobile friendly and removed the need for a CV. Our form takes 2 minutes to complete and tells us all we need about you! With your support as a Part Time Kitchen Assistant at All Bar One Sheffield, everything will run smoothly! You’ll…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5533,7 +5533,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "Beck Primary School is seeking a reliable, enthusiastic and hardworking Catering Assistant to join our dedicated team. This is a fantastic opportunity for an organised, proactive and highly motivated professional to play a key role in the smooth and successful operation of our school. As part of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5557,7 +5557,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "summary": "Job Summary Join our vibrant team as a Front of House Staff member, where your energy and hospitality skills will create memorable experiences for our guests. In this dynamic role, you’ll be the friendly face welcoming visitors, taking orders, serving food and drinks, and ensuring every guest feels…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5581,7 +5581,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -5603,7 +5603,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -5625,7 +5625,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -5647,14 +5647,86 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-07T19:42:06Z",
+   "last_seen": "2026-09-08T09:37:38Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=80352a91bd291f77": {
+   "title": "Assistant Operations Manager",
+   "company": "UNITE Students",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "**Lead with energy. Support your team. Create great experiences for residents.** At Unite Group, we create Homes for Success through our student accommodation brands, Unite Students and Hello Student. This opportunity is with our Unite Students brand. **Assistant Operations Manager** **Location:** Sheffield \\& Huddersfield **Contract Type:** Permanent **Salary:** £32,500 \\+ Benefits \\+ Bouns As an **Assistant Operations Manager**, you will play a key role in delivering an outstanding resident experience across your property, supporting the day\\-to\\-day running of operations and leading frontline teams to deliver high standards of service. You will oversee resident services, housekeeping and operational coordination, ensuring the property is safe, well\\-maintained, and welcoming for all residents. With responsibility for service delivery, team leadership, and supporting commercial performance, you will help ensure the property operates efficiently while creating a positive and engaging environment for students. Working closely with the Cluster Operations Manager and wider teams, this is a hands\\-on leadership role where you will be visible, proactive, and central to the success of the property. **Your impact** Whilst no two days are the same at Unite Students, here\\`s a flavour of what you\\`ll be responsible for in this role: * Support the day\\-to\\-day operational running of the property, ensuring services are delivered efficiently, safely, and to a high standard * Lead and support frontline teams, including resident services and housekeeping, creating a positive, high\\-performing team environment * Deliver an excellent resident experience, ensuring residents feel supported throughout their stay and that queries are resolved quickly and professionally * Maintain high standards of property presentation, cleanliness and safety across all communal areas * Support sales, retention and occupancy performance, including managing enquiries, viewings and resident renewals * Oversee housekeeping operations, including cleaning schedules, inspections, and contractor coordination * Monitor operational performance and identify opportunities to improve service delivery and efficiency * Ensure health, safety and compliance standards are maintained, supporting audits and responding to incidents where required * Act as a key point of contact on shift and participate in the Duty Manager rota **Your background** You don\\`t need to follow a traditional path \\- what matters most is your ability to lead people, solve problems and deliver great customer experiences. To be successful in this role, you will: * Have experience in a **customer service, hospitality, property or operational environment**. * Have experience **supervising or supporting teams**. * Be confident managing **resident enquiries, complaints and operational issues**. * Have strong organisational and problem\\-solving skills. * Be proactive and comfortable managing **multiple priorities in a busy environment**. * Have strong communication and leadership skills. * Experience working in **student accommodation, residential property or hospitality environments** would be beneficial. **Why it\\`s great to work with US!** In this values\\-led organisation, you\\`ll do work that makes a difference, helping to shape welcoming, vibrant communities where students can thrive. Whether this is your first step or your next one, we\\`ll help you build skills, confidence and a career you\\`re proud of. Alongside a competitive salary, we offer: * A performance\\-related bonus paid twice a year * 25 days annual leave plus bank holidays, with the option to buy up to 5 extra days * A generous pension scheme where contributions range between 4% and 11% depending on how much you save * Life assurance worth 4 times your salary * Share save scheme giving you access to purchase Unite Students shares at a discounted rate * Enhanced Family Leave policies * Medicash (Health Cash Plan) * Employee Assistance Programme (EAP) * One free volunteering day each year * Retail and hospitality discounts Alongside these benefits, you\\`ll also have access to learning and development programmes designed to support your growth and career progression. If you\\`re expecting ordinary, think again. **We\\`re US, we\\`re different \\- and we\\`re proud of it.** **How far could you go? Join US and find out.**",
+   "job_url": "https://uk.indeed.com/viewjob?jk=80352a91bd291f77",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-08T09:37:38Z",
+   "last_seen": "2026-09-08T09:37:38Z",
+   "summary": "Lead with energy. Support your team. Create great experiences for residents. At Unite Group, we create Homes for Success through our student accommodation brands, Unite Students and Hello Student. This opportunity is with our Unite Students brand. Assistant Operations Manager Location: Sheffield &…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=92e1ed5a3e78c0e1": {
+   "title": "Assistant Duty Manager",
+   "company": "Millhouses Catering",
+   "location": "Nether Edge, ENG, GB",
+   "job_type": "parttime, fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "Millhouses Park Café is seeking an additional Assistant Duty Manager to join the already established team. To assist in the running of house and kitchen operations ensuring customer satisfaction. To be based at Millhouses Park Café and Rivelin Park Cafe. These cafes are positioned inside the parks making them busy and vibrant venues. Candidate must have relevant hospitality experience and must be able to demonstrate a positive leadership style. Candidate must help develop the team to be committed with enthusiasm. The position is part time offering 3\\\\4 shifts a week (up to 32 hours), to include some weekends on a rota basis. To manage a team of up to 9 people, stock levels, customer flow \\& satisfaction, hygiene \\& cleanliness. We are open 7 days a week inc. bank holidays with the exception of Christmas Day and Christmas Eve. No Evenings close past 5\\.00pm. Responsibilities: \\-Managing a team of up to 9 staff on a shift \\-To offer excellent customer service \\-Maintain a safe and welcoming environment for both staff and customers \\-Key holder and cash handling Experience and skills: \\-Proven leadership and management experience in hospitality \\-Familiarity with social media and basic computer skills \\-Ability to work flexible hours inc some weekends Benefits: \\-No evening work \\-Flexible working days \\-Lunch Provided \\-Company Pension \\-Annual Leave Job Types: Full\\-time, Part\\-time, Permanent Pay: £13\\.50\\-£13\\.75 per hour Benefits: * Additional leave * Company pension * Discounted or free food * Free parking * On\\-site parking Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=92e1ed5a3e78c0e1",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-08T09:37:38Z",
+   "last_seen": "2026-09-08T09:37:38Z",
+   "summary": "Millhouses Park Café is seeking an additional Assistant Duty Manager to join the already established team. To assist in the running of house and kitchen operations ensuring customer satisfaction. To be based at Millhouses Park Café and Rivelin Park Cafe. These cafes are positioned inside the parks…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=4d2e1247b2e601ac": {
+   "title": "Seasonal Sales Assistant - Self Service Tills",
+   "company": "Dunelm",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-07",
+   "description": "### **Overview** **Pay \\-** **16\\-17 \\- £8\\.00 per hour.** **18\\+ \\- £12\\.71 per hour.** **This is a seasonal position lasting until 13 February 2027\\.** Your local store is looking for **8hrs per week** Sales Assistant \\- Self Service Tills. Every visit to our store is a chance to make someone’s day \\- and you’ll be right there to make sure it happens, from the first hello to the final thank you. Our Sales Assistants are the foundation of our stores \\- a brilliant team at the heart of everything we do. With a focus on creating great experiences, they’re the first to lend a helping hand, always ready to offer support and guidance. Whether it’s finding the perfect item or offering a little inspiration, they make sure every customer leaves with exactly what they came for, and a lasting impression that brings them back time and time again. As a self\\-service till specialist, you’ll be right where the action is, supporting customers at one of the most important parts of their shopping journey. Whether someone’s in a hurry, looking for a bit of help, or just wants a friendly face nearby, you’ll be there to make sure everything runs smoothly. You’ll be confident using our tech, quick to solve any hiccups, and always ready to step in with a smile. You’ll keep an eye on multiple tills at once, making sure no customer feels unseen or stuck. It’s all about creating a checkout experience that’s fast, friendly, and fuss\\-free. Because when the last thing a customer sees is great service, it’s the first thing they remember. ### **What you'll be doing** * You’ll be customer obsessed – always considering the impact of your actions on the customer experience and striving to deliver joyful experiences in the most effective and thoughtful way * You’ll consistently deliver exceptional customer service to support strong CSAT (Customer Satisfaction) scores, ensuring every customer receives a welcoming, helpful, and memorable experience * Serving our customers at checkouts across different types of tills, handling in store purchases, as well as in\\-store and online returns. * Overseeing multiple self\\-service tills and supporting when required, ensuring all items are scanned correctly and maintaining the cleanliness and functionality of tills. * Serving customers who have purchased via Click \\& Collect. Whilst your focus will be on tills, you’ll trained in all aspects of customer\\-facing store life, such as: * Shop Floor – Helping shoppers find exactly what they’re looking for \\- and maybe even something they didn’t know they needed. You’ll offer friendly, knowledgeable support that leaves a lasting impression, building loyalty through genuine service and a real passion for our products and people * Hosting – When something isn’t available on the shelves, you’ll step in with confidence, using our iPad systems to place orders for home delivery, making sure no one leaves empty\\-handed. You’ll also be trained to deliver our fantastic Made to Measure service, helping create bespoke curtains and blinds tailored to each shopper’s needs. And when it comes to styling key areas like our ever\\-popular bedding displays, you’ll bring inspiration to life \\- giving customers the chance to feel the fabrics and find the perfect pieces for their home * Stock \\& Delivery – A hands\\-on role that involves some heavy lifting and plenty of variety. While you’ll be taking in deliveries, checking stock, and replenishing the shop floor, this isn’t just a backroom job \\- it’s customer\\-facing too. You’ll keep displays looking their best, update pricing, and recover the store after busy periods, all while staying tuned in to what shoppers need and making sure everything’s easy to find, well\\-presented, and ready to go ### **What we'll look for in you** * You are customer obsessed \\- you put customers first in every interaction * The ability to multitask and oversee multiple self\\-service tills in use at the same time and the confidence to offer assistance when required. * You’ll enjoy contributing to a welcoming environment that feels like home, for our colleagues and our customers * You’ll bring your sociable nature and enthusiasm to a fast\\-paced retail environment, where your energy and passion help create lasting impressions and meaningful moments for everyone who visits us * You’ll support your colleagues across the store and work together to create a smooth, enjoyable experience for everyone, ensuring everything runs efficiently and with the customer in mind at every step We’re not after a carbon copy of anyone else. We want people who bring something new to the table \\- different perspectives, fresh ideas, and a shared love of making our stores feel like home.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=4d2e1247b2e601ac",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-08T09:37:38Z",
+   "last_seen": "2026-09-08T09:37:38Z",
+   "summary": "Overview Pay - 16-17 - £8.00 per hour. 18+ - £12.71 per hour. This is a seasonal position lasting until 13 February 2027. Your local store is looking for 8hrs per week Sales Assistant - Self Service Tills. Every visit to our store is a chance to make someone’s day - and you’ll be right there to…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   }
  },
  "last_run_report": {
-  "started": "2026-09-07T19:42:06Z",
+  "started": "2026-09-08T09:37:38Z",
   "searches": [
    {
     "term": "activity instructor",
@@ -5674,7 +5746,7 @@
    {
     "term": "warehouse operative",
     "found": 2,
-    "new": 1
+    "new": 0
    },
    {
     "term": "picker packer",
@@ -5694,12 +5766,12 @@
    {
     "term": "customer service assistant",
     "found": 21,
-    "new": 11
+    "new": 3
    },
    {
     "term": "retail assistant",
-    "found": 4,
-    "new": 1
+    "found": 2,
+    "new": 0
    },
    {
     "term": "receptionist",
@@ -5708,33 +5780,33 @@
    },
    {
     "term": "kitchen assistant",
-    "found": 4,
-    "new": 2
+    "found": 3,
+    "new": 0
    },
    {
     "term": "kitchen porter",
-    "found": 1,
+    "found": 7,
     "new": 0
    },
    {
     "term": "barista",
-    "found": 6,
-    "new": 1
+    "found": 5,
+    "new": 0
    },
    {
     "term": "waiting staff",
-    "found": 8,
-    "new": 1
+    "found": 7,
+    "new": 0
    },
    {
     "term": "maintenance operative",
     "found": 4,
-    "new": 1
+    "new": 0
    },
    {
     "term": "maintenance technician",
     "found": 3,
-    "new": 2
+    "new": 0
    },
    {
     "term": "fitter",
@@ -5747,7 +5819,7 @@
     "new": 0
    }
   ],
-  "new": 20,
-  "updated": 55
+  "new": 3,
+  "updated": 73
  }
 }
