@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_run": "2026-09-10T12:07:15Z",
+  "last_run": "2026-09-10T16:55:59Z",
   "location": "Sheffield",
   "country": "UK",
   "hours_old": 72,
@@ -1409,7 +1409,7 @@
    "summary_source": "llm"
   },
   "https://uk.indeed.com/viewjob?jk=92d9f8033a121980": {
-   "title": "Fitter Workshop",
+   "title": "Plant Fitter",
    "company": "GAP Group",
    "location": "Sheffield, ENG, GB",
    "job_type": "fulltime",
@@ -1419,13 +1419,13 @@
    "interval": null,
    "currency": "GBP",
    "date_posted": "2026-09-02",
-   "description": "**Vacancy details** ------------------- ### **Division** Plant \\& Tools \\- Fitter ### **Title** Fitter Workshop ### **Contract type** Permanent Full Time **Vacancy location** -------------------- ### **Location** Stevenson Rd, Sheffield S9 3XG, UK ### **Location** United Kingdom, North East, Sheffield Plant \\& Tools **Requester** ------------- ### **Number of positions to be provided** 2 **Employment Details** ---------------------- ### **Contract hours** 42\\.50 **About the role** ------------------ ### **The Role** Ready to get hands\\-on with industry\\-leading equipment and make a real impact? We're looking for a skilled and motivated Plant Mechanic to join our high\\-performing Plant \\& Tool division. If you're passionate about machinery, thrive on solving problems, and want to be part of a business that's growing fast—this could be the opportunity you've been waiting for. As a Plant Mechanic, you'll play a key role in keeping our fleet of diggers, dumpers, and hand tools hire\\-ready. You'll carry out servicing, maintenance, and repairs—both in the depot and occasionally on customer sites—ensuring our equipment is safe, reliable, and ready to go when our customers need it. This is a hands\\-on, high\\-impact role offering real career progression in a company that invests in its people. What You'll Be Doing * Servicing and maintaining a wide range of plant and tool equipment within the GAP fleet * Diagnosing faults and completing repairs efficiently to minimise downtime * Accurately updating service records and ensuring compliance with safety standards * Occasionally attending customer sites to carry out repairs and maintenance * Supporting the depot team to ensure equipment availability and customer satisfaction ### **About You** What You'll Bring We're looking for someone with strong technical expertise and a proactive approach, including: * Proven experience working in a mechanical role \\- candidates out with the plant hire industry are welcomed as full training will be provided! * Experience with diesel engines would be highly beneficial * A keen eye for detail and the ability to stay calm under pressure * A customer\\-focused mindset and a collaborative team spirit * A full, valid driving licence is preferred but not essential ### **About Us** About GAP and What We Offer You'll be joining an industry leader that's growing and genuinely committed to your success. At GAP, we're proud to be the UK's leading equipment hire provider—supporting projects big and small across construction, infrastructure, events, and more. With nearly 200 locations nationwide and a wide range of specialist divisions, we offer exciting opportunities in everything from Plant and Tools to Lifting, Survey, Pumps, Power and Environmental, and Event Services. As a family\\-run business with over 50 years of experience, we believe in doing things the right way. That means: * More investment in our equipment than anyone else in the industry, so you work with the best tools in the game * Remaining fully independent, which lets us make agile, long\\-term decisions that support your success * Offering real career growth, training, and development from day one * Support that values you – from generous holidays to Life Assurance and Health \\& Wellness Support If you're up for the challenge and want to feel valued at work, then we'd love to hear from you! Ready to get started? Upload your CV and complete our short application, we'll take it from there. We're proud to be an Equal Opportunities employer and embrace the unique contributions each individual brings. **General information** ----------------------- ### **Reference** 011897 ### **Publication start date** 02/09/2026 ### **Job description** Fitters ### **Post description** Fitter \\- Workshop",
+   "description": "Vacancy details Division Plant \\& Tools \\- Fitter Title Fitter Workshop Contract type Permanent Full Time Vacancy location Location Stevenson Rd, Sheffield S9 3XG, UK Location United Kingdom, North East, Sheffield Plant \\& Tools Requester Number of positions to be provided 2 Employment Details Contract hours 42\\.50 About the role The Role Ready to get hands\\-on with industry\\-leading equipment and make a real impact? We're looking for a skilled and motivated Plant Mechanic to join our high\\-performing Plant \\& Tool division. If you're passionate about machinery, thrive on solving problems, and want to be part of a business that's growing fast—this could be the opportunity you've been waiting for. As a Plant Mechanic, you'll play a key role in keeping our fleet of diggers, dumpers, and hand tools hire\\-ready. You'll carry out servicing, maintenance, and repairs—both in the depot and occasionally on customer sites—ensuring our equipment is safe, reliable, and ready to go when our customers need it. This is a hands\\-on, high\\-impact role offering real career progression in a company that invests in its people. What You'll Be Doing * Servicing and maintaining a wide range of plant and tool equipment within the GAP fleet * Diagnosing faults and completing repairs efficiently to minimise downtime * Accurately updating service records and ensuring compliance with safety standards * Occasionally attending customer sites to carry out repairs and maintenance * Supporting the depot team to ensure equipment availability and customer satisfaction About You What You'll Bring We're looking for someone with strong technical expertise and a proactive approach, including: * Proven experience working in a mechanical role \\- candidates out with the plant hire industry are welcomed as full training will be provided! * Experience with diesel engines would be highly beneficial * A keen eye for detail and the ability to stay calm under pressure * A customer\\-focused mindset and a collaborative team spirit * A full, valid driving licence is preferred but not essential About Us About GAP and What We Offer You'll be joining an industry leader that's growing and genuinely committed to your success. At GAP, we're proud to be the UK's leading equipment hire provider—supporting projects big and small across construction, infrastructure, events, and more. With nearly 200 locations nationwide and a wide range of specialist divisions, we offer exciting opportunities in everything from Plant and Tools to Lifting, Survey, Pumps, Power and Environmental, and Event Services. As a family\\-run business with over 50 years of experience, we believe in doing things the right way. That means: * More investment in our equipment than anyone else in the industry, so you work with the best tools in the game * Remaining fully independent, which lets us make agile, long\\-term decisions that support your success * Offering real career growth, training, and development from day one * Support that values you – from generous holidays to Life Assurance and Health \\& Wellness Support If you're up for the challenge and want to feel valued at work, then we'd love to hear from you! Ready to get started? Upload your CV and complete our short application, we'll take it from there. We're proud to be an Equal Opportunities employer and embrace the unique contributions each individual brings. General information Reference 011897 Publication start date 02/09/2026 Job description Fitters Post description Fitter \\- Workshop Work Location: In person",
    "job_url": "https://uk.indeed.com/viewjob?jk=92d9f8033a121980",
    "categories": [
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -2178,7 +2178,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Job description Thornbridge Outdoors is Sheffield City Council’s outdoor learning centre located near Bakewell in the Peak District. Our mission is ‘to widen the horizons of young people through real outdoor adventures in the Peak District’. This is an exciting opportunity to join the pool of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2202,7 +2202,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Job description Thornbridge Outdoors is Sheffield City Council’s outdoor learning centre located near Bakewell in the Peak District. Our mission is ‘to widen the horizons of young people through real outdoor adventures in the Peak District’. This is an exciting opportunity to join the pool of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -4132,7 +4132,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -4154,12 +4154,12 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Tyre Fitter at Ossett Tyres and Autos, Sheffield, part-time permanent at £10–£11/hr. Hands-on role fitting, repairing, and balancing tyres on various vehicles using hand/power tools with heavy lifting involved.",
+   "last_seen": "2026-09-10T16:55:59Z",
+   "summary": "Job Overview We are seeking a skilled and reliable Tyre Fitter to join our team. The successful candidate will be responsible for fitting, repairing, and maintaining tyres on a variety of vehicles, ensuring safety and quality standards are met. This role offers an excellent opportunity for…",
+   "summary_source": "fallback",
    "fit": "maybe",
-   "fit_reason": "Driving licence not required, and his mechanical fault-diagnosis background is transferable, but tyre fitting experience is preferred and he'd need on-the-job training.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=4c304a126ed47b47": {
    "title": "Tyre Fitter",
@@ -4178,12 +4178,12 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Tyre Fitter at R&R Motor Group in Rotherham, full-time at £12.71/hr, involving tyre fitting, repairs and basic vehicle servicing.",
-   "fit": "stretch",
-   "fit_reason": "Tyre-fitting experience is preferred but not required; however, reaching Rotherham from S2 likely needs a driving licence, and hands-on garage experience exceeds Ben's customer-service/engineering bac",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-10T16:55:59Z",
+   "summary": "Tyre Fitter – Full Time R&R Motor Group – Rotherham We are looking for a Tyre Fitter to join our team at R&R Motor Group in Rotherham. The main part of the role will be fitting, changing and repairing tyres. We are expanding this side of the business and will shortly be running a winter tyre…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=0ceda8443d5d3da4": {
    "title": "HGV Technician",
@@ -4224,7 +4224,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -4246,7 +4246,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -4268,7 +4268,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -4357,7 +4357,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -4379,12 +4379,12 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Assembly Fitter at ITM Power in Sheffield assembling/testing PEM electrolyser components in a production environment; no pay stated but local to Ben. Role requires reading technical drawings, pipe bending/forming, and fault investigation — well-suited to Ben's engineering background.",
+   "last_seen": "2026-09-10T16:55:59Z",
+   "summary": "Assembly Fitter ITM Power Location: Sheffield Direct Applicants Only - No Agency Applications at this stage About ITM Power ITM is at the forefront of the green hydrogen industry, designing and manufacturing cutting-edge PEM electrolysers that are instrumental in global decarbonisation efforts.…",
+   "summary_source": "fallback",
    "fit": "maybe",
-   "fit_reason": "Ben's Level 3 Engineering Diploma and motorman fault-finding experience are relevant, but pipe fitting/drawing interpretation may need on-the-job training and ITM typically seeks NVQ-qualified fitters",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=457f323a8ac13b94": {
    "title": "Tool fitter & Fettler",
@@ -4403,12 +4403,12 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Tool fitter & Fettler at Forged Solutions Group Ltd in Sheffield on a rotating 3-day week. Hands-on role fettling forged parts, assembling tools and operating press/dies, with forklift and overhead crane licences listed as requirements.",
-   "fit": "stretch",
-   "fit_reason": "Requires forklift and overhead crane licences which Ben does not hold; engineering background is relevant but the licence requirements make it a stretch.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-10T16:55:59Z",
+   "summary": "Job Function: OperationsJob Location: River Don - SheffieldHours of Work: 3 days per week - rotating days + nightsClosing Date: Open until filledMain Purpose of Job: Fettling parts to achieve the required quality standard. Assemble / disassemble tools. Key Tasks and Accountabilities: Fettle parts…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=719d2018efefd8cc": {
    "title": "Warehouse Assistant/Driver",
@@ -5175,7 +5175,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Overview Due to expansion, we are seeking a motivated and skilled Powered Access and Plant Fitter to join our dynamic team. In this vital role, you will be responsible for maintaining and repairing plant machinery. This position offers an exciting opportunity to work with a variety of equipment,…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5222,7 +5222,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 12.50hrs p/w; Mon 09:00 - 12:30; Fri 11:30 - 14:30; Sat 09:00 - 15:30 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5246,7 +5246,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 7.50hrs p/w; Sun 10:30 - 14:00; Sat 16:00 - 20:00 Working as part of a fast-paced store team, your top priority will be to locate, pack and promptly process stock, ensuring it’s beautifully presented to our customers. When you’re needed to work on the salesfloor, your…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5270,7 +5270,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 12.25hrs p/w; Sun 12:30 - 17:00; Mon 17:15 - 21:00; Thu 17:00 - 21:00 Working as part of the Beauty team, your top priority will be to offer outstanding service and beautifully presented stock to our customers. In return for supporting all company policies and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5294,7 +5294,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 11.50hrs p/w; Wed 17:00 - 21:00; Fri 16:15 - 20:00; Sat 15:15 - 19:00 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5318,7 +5318,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 9hrs p/w; Fri 09:00 - 13:30; Sat 09:30 - 14:00 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having a…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5342,7 +5342,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 9hrs p/w; Fri 12:15 - 18:00; Sat 10:00 - 13:30 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having a…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5366,7 +5366,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 11.50hrs p/w; Tue 16:30 - 21:00; Fri 13:00 - 16:30; Sat 13:00 - 16:30 Working as part of the Beauty team, your top priority will be to offer outstanding service and beautifully presented stock to our customers. In return for supporting all company policies and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5390,7 +5390,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 17hrs p/w; Mon 10:00 - 16:30; Wed 10:00 - 17:00; Thu 09:30 - 14:00 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5414,7 +5414,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 6.50hrs p/w; Wed 10:00 - 17:00 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having a great attitude to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5439,7 +5439,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Job Introduction About us: Aspens Services is a market-leading contract caterer specialising in school food. We don't just serve meals—we create fantastic food experiences that fuel young minds! By blending deep knowledge of the education sector with the latest food trends, we encourage creativity…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5485,7 +5485,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Package Salary & Hours £12.71 per hour (18-20), £13.00 per hour (21+) Available contracted hours 12 hours per week Applicants must be available to work 6am-10am FIXED TERM 9 MONTHS Employee Benefits Full-time employees receive 28 days of annual leave (inclusive of bank holidays), increasing to 33…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5557,7 +5557,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Job Summary Join our vibrant team as a Front of House Staff member, where your energy and hospitality skills will create memorable experiences for our guests. In this dynamic role, you’ll be the friendly face welcoming visitors, taking orders, serving food and drinks, and ensuring every guest feels…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5669,7 +5669,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T09:37:38Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Lead with energy. Support your team. Create great experiences for residents. At Unite Group, we create Homes for Success through our student accommodation brands, Unite Students and Hello Student. This opportunity is with our Unite Students brand. Assistant Operations Manager Location: Sheffield &…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5693,7 +5693,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T09:37:38Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Millhouses Park Café is seeking an additional Assistant Duty Manager to join the already established team. To assist in the running of house and kitchen operations ensuring customer satisfaction. To be based at Millhouses Park Café and Rivelin Park Cafe. These cafes are positioned inside the parks…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5717,7 +5717,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T09:37:38Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Overview Pay - 16-17 - £8.00 per hour. 18+ - £12.71 per hour. This is a seasonal position lasting until 13 February 2027. Your local store is looking for 8hrs per week Sales Assistant - Self Service Tills. Every visit to our store is a chance to make someone’s day - and you’ll be right there to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5741,7 +5741,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T12:02:47Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -5763,7 +5763,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-08T12:02:47Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Ciao! Kia’s Pastaria is a family owned Italian restaurant that is run by our hard-working and professional staff – want to be part of a business that values commitment and effort? If yes, then please have a look at the job opening! This opportunity will allow you to become part of our small but…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5787,7 +5787,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-08T12:02:47Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Job Overview We are seeking a proactive and dependable Yard Operative to join our dynamic team. In this vital role, you will be responsible for maintaining the smooth operation of our yard and warehouse facilities. Your energetic approach will ensure materials are handled efficiently, equipment is…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5811,7 +5811,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T17:07:31Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Finance Assistant Employment Package Job Title: Finance Assistant Reports to: Senior Finance Officer Contract Type: Permanent Working Hours: Part-time (16 - 22.5 hours/week) Salary: £26,228 pro-rata Pension scheme: Employers contribution of 7% after 3months Holiday allowance: 26 days holiday plus…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5835,7 +5835,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T17:07:31Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Job Description Job Title: Operations Assistant Posting Start Date: 08/09/2026 Job Id: 3019 School/Department: Mechanical, Aerospace & Civil Engineering Work Arrangement: Full Time (Hybrid) Contract Type: Fixed-term Salary per annum (£): £25,249.00 - 26,707.00 Closing Date: 22/09/2026 The…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5859,7 +5859,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T17:07:31Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "The successful applicant will have the following duties; Work between Monday to Friday all year round between the hours 07.15 - 18.00. Shift given in advance. Keep records and files up to date. Adhere to policy and procedures and ensure these are all updated. Welcoming families & other visitors to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5907,7 +5907,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-08T17:07:31Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Company Description Title: Kitchen Porter Location: Sheffield Hourly Rate: £13.45 Part Time: 15 Hours Benefits: 28 Days holiday including bank holidays Plus your birthday off 3 volunteering days 3 days grandparent leave 24 week’s enhanced maternity leave Secondary carer leave Wedding/commitment day…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5931,7 +5931,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-08T17:07:31Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Job Summary We are seeking a skilled and enthusiastic Bartender to join our vibrant team. The ideal candidate will have a passion for hospitality and a knack for creating memorable experiences for our guests. As a Bartender, you will be responsible for mixing, garnishing, and serving drinks…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5956,7 +5956,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "All employees are legally responsible for their own health and safety as well as those who may be affected by their acts or omissions. They are also legally required to co-operate in health and safety matters as directed by their employer. The correct protective preventative clothing and equipment…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5980,7 +5980,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6003,7 +6003,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "We are seeking a dedicated and enthusiastic Kitchen & Service Assistant to join our dynamic team at The Athenian. In this versatile role, you will contribute to both the kitchen and customer-facing operations, ensuring seamless service and exceptional food quality. This is a fantastic opportunity…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6027,7 +6027,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "1 X 15 hour posts available, worked Monday to Friday 6am - 9am Applicants must be able to achieve a high standard of cleanliness and provide a clean and safe hospital environment for staff, patients and visitors in accordance with the National Standards of Cleanliness and customer's care. Catering…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6051,7 +6051,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 9.50hrs p/w; Fri 16:00 - 21:00; Sat 15:00 - 20:00 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6075,7 +6075,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "SHIFTS YOU ARE APPLYING FOR: 6hrs p/w; Sun 10:00 - 13:00; Sat 17:00 - 20:00 Working as part of a fast-paced store team, your top priority will be to offer outstanding service and excellent stock operations to our customers. In return for supporting all Company policies and procedures and having a…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6099,7 +6099,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6121,7 +6121,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6144,7 +6144,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "HOW YOU WILL MAKE A DIFFERENCE About Us At STERIS Instrument Processing we are experts in surgical instrument sterilisation. We offer on and offsite re-processing, alongside reliable instrument maintenance solutions. Our diverse and talented teams use cutting edge technology to ensure that the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6168,7 +6168,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -6184,14 +6184,14 @@
    "interval": null,
    "currency": "GBP",
    "date_posted": "2026-09-08",
-   "description": "Job Description: **Kitchen Assistant** **Broomcroft House Care Home,** **Ecclesall Road South, Sheffield, South Yorkshire, S11 9PY** **CQC rating: Good** **Salary: £12\\.75 \\- £13\\.75ph dependent on experience** **Permanent contract. Hours between 8am and 6pm** **We make health happen** Here at Bupa we support those when they need it the most. Our care homes are dedicated to delivering person\\-centred care, supporting independence and honouring choice to help our residents live their best lives. Our fantastic Kitchen Team are the magic behind each delicious dish we serve our guests. They are passionate about all things food and take great pride in each dish they prepare. We are looking for an equally passionate Kitchen Assistant to join the team and help deliver an excellent dining experience for our residents. Add section here about the home and the role (bring it to life and sell the idea of working in this home) **You'll help us make health happen by:** * Acting as the link between the main kitchen and our residents * Assisting the chefs to plate meals, prepare food trolleys and ensure all preparation areas are kept clean and tidy * Monitoring stock rotation, complying to company policies and procedures following all mandatory COSHH and HACPP guidelines * Assisting with catering for special events such as summer BBQs and Christmas parties **Key Skills / Qualifications needed for this role:** A passion for food with previous experience working in a kitchen and a Basic Food Hygiene Certificate. You want to deliver an excellent service at each meal and make our residents feel at home. You'll understand the importance of maintaining high standards in and around the home, ensuring our residents enjoy a pleasant dining experience. Working with the wider kitchen and care home teams \\- you're comfortable communicating with others, cherishing the little moments with our residents. **Benefits** Our benefits are designed to make health happen for our people. Viva is our global wellbeing programme and includes all aspects of our health \\- from mental and physical, to financial, social and environmental wellbeing. We support flexible working and have a range of family friendly benefits. Joining Bupa in this role you will receive the following benefits and more: * My Healthcare \\- Free access to 24/7 support, advice, and treatment for a variety of health\\-related issues, including remote GP appointments, physiotherapy and mental health support * Annual allowance which you can redeem against a menu of Bupa healthcare products, all to the approximate value of £350 * Wagestream \\- Have early access to up to 40% of your earned wages within minutes * 28 days holiday * We offer a sick pay scheme to our frontline teams, as an addition to statutory sick pay, to help provide some reassurance and financial support during longer absences. * Long service \\- For every milestone at Bupa we will reward you with ecards, extra holidays and money! * Free meal on every shift * Interest\\-free annual travel loan to enable the purchase of public transport annual season tickets * We offer a range of Bupa pension plans \\- find out more on our career site * Parental leave \\- We have schemes for adoption, birth parents and co parents \\-find out more on our career site * Menopause Plan \\- Specifically designed to empower women to seek advice, choose their treatment and take control of their health * Access to discounts at a wide variety of gyms and fitness facilities across the UK **Why Bupa?** We're a health insurer and provider. With no shareholders, our customers are our focus. Our people are all driven by the same purpose \\- helping people live longer, healthier, happier lives and making a better world. We make health happen by being brave, caring and responsible in everything we do. We encourage all of our people to ”Be you at Bupa”, we champion diversity, and we understand the importance of our people representing the communities and customers we serve. That's why we especially encourage applications from people with diverse backgrounds and experiences. Bupa is a Level 2 Disability Confident Employer. This means we aim to offer an interview/assessment to every disabled applicant who meets the minimum criteria for the role. We'll make sure you are treated fairly and offer reasonable adjustments as part of our recruitment process to anyone that needs them. \\*\\* Please note, this role is not at or above RQF Level 3 and is not included under the UK's Points Based Immigration System for sponsorship by an employer. Time Type: Part time Job Area: Care Home \\- Facilities \\& Home Support Locations: Broomcroft House Paid volunteer time, Company pension, Referral programme, Discounted or free food, Health \\& wellbeing programme, Additional leave, Private dental insurance, Free flu jabs, Employee mentoring programme, Financial planning services, Gym membership, Cycle to work scheme",
+   "description": "Job Description: **Kitchen Assistant** **Broomcroft House Care Home,** **Ecclesall Road South, Sheffield, South Yorkshire, S11 9PY** **CQC rating: Good** **Salary: £12\\.75 \\- £13\\.75ph dependent on experience** **Permanent contract. Hours between 8am and 6pm** **We make health happen** Here at Bupa we support those when they need it the most. Our care homes are dedicated to delivering person\\-centred care, supporting independence and honouring choice to help our residents live their best lives. Our fantastic Kitchen Team are the magic behind each delicious dish we serve our guests. They are passionate about all things food and take great pride in each dish they prepare. We are looking for an equally passionate Kitchen Assistant to join the team and help deliver an excellent dining experience for our residents. Add section here about the home and the role (bring it to life and sell the idea of working in this home) **You'll help us make health happen by:** * Acting as the link between the main kitchen and our residents * Assisting the chefs to plate meals, prepare food trolleys and ensure all preparation areas are kept clean and tidy * Monitoring stock rotation, complying to company policies and procedures following all mandatory COSHH and HACPP guidelines * Assisting with catering for special events such as summer BBQs and Christmas parties **Key Skills / Qualifications needed for this role:** A passion for food with previous experience working in a kitchen and a Basic Food Hygiene Certificate. You want to deliver an excellent service at each meal and make our residents feel at home. You'll understand the importance of maintaining high standards in and around the home, ensuring our residents enjoy a pleasant dining experience. Working with the wider kitchen and care home teams \\- you're comfortable communicating with others, cherishing the little moments with our residents. **Benefits** Our benefits are designed to make health happen for our people. Viva is our global wellbeing programme and includes all aspects of our health \\- from mental and physical, to financial, social and environmental wellbeing. We support flexible working and have a range of family friendly benefits. Joining Bupa in this role you will receive the following benefits and more: * My Healthcare \\- Free access to 24/7 support, advice, and treatment for a variety of health\\-related issues, including remote GP appointments, physiotherapy and mental health support * Annual allowance which you can redeem against a menu of Bupa healthcare products, all to the approximate value of £350 * Wagestream \\- Have early access to up to 40% of your earned wages within minutes * 28 days holiday * We offer a sick pay scheme to our frontline teams, as an addition to statutory sick pay, to help provide some reassurance and financial support during longer absences. * Long service \\- For every milestone at Bupa we will reward you with ecards, extra holidays and money! * Free meal on every shift * Interest\\-free annual travel loan to enable the purchase of public transport annual season tickets * We offer a range of Bupa pension plans \\- find out more on our career site * Parental leave \\- We have schemes for adoption, birth parents and co parents \\-find out more on our career site * Menopause Plan \\- Specifically designed to empower women to seek advice, choose their treatment and take control of their health * Access to discounts at a wide variety of gyms and fitness facilities across the UK **Why Bupa?** We're a health insurer and provider. With no shareholders, our customers are our focus. Our people are all driven by the same purpose \\- helping people live longer, healthier, happier lives and making a better world. We make health happen by being brave, caring and responsible in everything we do. We encourage all of our people to ”Be you at Bupa”, we champion diversity, and we understand the importance of our people representing the communities and customers we serve. That's why we especially encourage applications from people with diverse backgrounds and experiences. Bupa is a Level 2 Disability Confident Employer. This means we aim to offer an interview/assessment to every disabled applicant who meets the minimum criteria for the role. We'll make sure you are treated fairly and offer reasonable adjustments as part of our recruitment process to anyone that needs them. \\*\\* Please note, this role is not at or above RQF Level 3 and is not included under the UK's Points Based Immigration System for sponsorship by an employer. Time Type: Part time Job Area: Care Home \\- Facilities \\& Home Support Locations: Broomcroft House Private dental insurance, Company pension, Cycle to work scheme, Referral programme, Free flu jabs, Additional leave, Paid volunteer time, Gym membership, Discounted or free food, Employee mentoring programme, Health \\& wellbeing programme, Financial planning services",
    "job_url": "https://uk.indeed.com/viewjob?jk=2bb3a8b12db16f05",
    "categories": [
     "Hospitality",
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Job Description: Kitchen Assistant Broomcroft House Care Home, Ecclesall Road South, Sheffield, South Yorkshire, S11 9PY CQC rating: Good Salary: £12.75 - £13.75ph dependent on experience Permanent contract. Hours between 8am and 6pm We make health happen Here at Bupa we support those when they…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6209,13 +6209,13 @@
    "interval": null,
    "currency": "GBP",
    "date_posted": "2026-09-08",
-   "description": "Job Description: **Care Assistant** **Broomcroft House Care Home, 414 Ecclesall Road South, Sheffield S11 9PY** **CQC rating: Good** **Carehome.co.uk rating: 9\\.6/10** **Salary: £12\\.75 \\- £13\\.75ph dependent on experience and qualifications** **Permanent Contract. Full Time position. Shift pattern will include alternate weekends** **We make health happen** At Bupa, our purpose is to help people live longer, healthier, happier lives and make a better world. As a Care Assistant, you'll be at the heart of this, providing person\\-centred care that supports independence and honours choice. You'll be part of a team dedicated to delivering the highest standards of care, ensuring our residents live a life they truly love. Our values of being Brave, Caring, and Responsible guide everything we do, and we strive to create the most inclusive and supportive workplace for our people. **Key Responsibilities** * Support residents with a wide range of differing requirements from companionship to personal care. * Observe and manage residents' behaviour with care and ensure to document and report any changes in accordance with the required legislation. * Support residents' nutrition and hydration needs, encouraging and assisting them to eat and drink according to their care plan. * Provide essential physical and mental stimulation through social and recreational activities, both in groups and individually. * Maintain accurate care plans in line with regulatory \\& legal requirements. **What we're looking for:** * Motivation, positivity, and great interpersonal skills. * Excellent communication skills and the ability to work both independently and as part of a team. * Desirable: Previous experience in a care home environment or a Health and Social Care qualification. **Benefits** Our benefits are designed to make health happen for our people. Viva is our global wellbeing programme, encompassing all aspects of health \\- from mental and physical to financial, social, and environmental wellbeing. We support flexible working and offer a range of family\\-friendly benefits. Joining Bupa in this role, you will receive the following benefits and more: * My Healthcare \\- Free access to 24/7 support, advice, and treatment for a variety of health\\-related issues, including remote GP appointments, physiotherapy and mental health support * Annual allowance which you can redeem against a menu of Bupa healthcare products, all to the approximate value of £350 * Wagestream \\- Have early access to up to 40% of your earned wages within minutes * 28 days holiday * We offer a sick pay scheme to our frontline teams, as an addition to statutory sick pay, to help provide some reassurance and financial support during longer absences. * Long service \\- For every milestone at Bupa we will reward you with ecards, extra holidays and money! * Free meal on every shift * Interest\\-free annual travel loan to enable the purchase of public transport annual season tickets * We offer a range of Bupa pension plans \\- find out more on our career site * Parental leave \\- We have schemes for adoption, birth parents and co parents \\-find out more on our career site * Menopause Plan \\- Specifically designed to empower women to seek advice, choose their treatment and take control of their health * Access to discounts at a wide variety of gyms and fitness facilities across the UK **Why Bupa?** We're a health insurer and provider. With no shareholders, our customers are our focus. Our people are all driven by the same purpose \\- helping people live longer, healthier, happier lives and making a better world. We make health happen by being brave, caring and responsible in everything we do. We encourage all of our people to ”Be you at Bupa”, we champion diversity, and we understand the importance of our people representing the communities and customers we serve. That's why we especially encourage applications from people with diverse backgrounds and experiences. Bupa is a Level 2 Disability Confident Employer. This means we aim to offer an interview/assessment to every disabled applicant who meets the minimum criteria for the role. We'll make sure you are treated fairly and offer reasonable adjustments as part of our recruitment process to anyone that needs them. Time Type: Full time Job Area: Care Home \\- Care Assistants Locations: Broomcroft House Paid volunteer time, Company pension, Referral programme, Discounted or free food, Health \\& wellbeing programme, Additional leave, Private dental insurance, Free flu jabs, Employee mentoring programme, Financial planning services, Gym membership, Cycle to work scheme",
+   "description": "Job Description: **Care Assistant** **Broomcroft House Care Home, 414 Ecclesall Road South, Sheffield S11 9PY** **CQC rating: Good** **Carehome.co.uk rating: 9\\.6/10** **Salary: £12\\.75 \\- £13\\.75ph dependent on experience and qualifications** **Permanent Contract. Full Time position. Shift pattern will include alternate weekends** **We make health happen** At Bupa, our purpose is to help people live longer, healthier, happier lives and make a better world. As a Care Assistant, you'll be at the heart of this, providing person\\-centred care that supports independence and honours choice. You'll be part of a team dedicated to delivering the highest standards of care, ensuring our residents live a life they truly love. Our values of being Brave, Caring, and Responsible guide everything we do, and we strive to create the most inclusive and supportive workplace for our people. **Key Responsibilities** * Support residents with a wide range of differing requirements from companionship to personal care. * Observe and manage residents' behaviour with care and ensure to document and report any changes in accordance with the required legislation. * Support residents' nutrition and hydration needs, encouraging and assisting them to eat and drink according to their care plan. * Provide essential physical and mental stimulation through social and recreational activities, both in groups and individually. * Maintain accurate care plans in line with regulatory \\& legal requirements. **What we're looking for:** * Motivation, positivity, and great interpersonal skills. * Excellent communication skills and the ability to work both independently and as part of a team. * Desirable: Previous experience in a care home environment or a Health and Social Care qualification. **Benefits** Our benefits are designed to make health happen for our people. Viva is our global wellbeing programme, encompassing all aspects of health \\- from mental and physical to financial, social, and environmental wellbeing. We support flexible working and offer a range of family\\-friendly benefits. Joining Bupa in this role, you will receive the following benefits and more: * My Healthcare \\- Free access to 24/7 support, advice, and treatment for a variety of health\\-related issues, including remote GP appointments, physiotherapy and mental health support * Annual allowance which you can redeem against a menu of Bupa healthcare products, all to the approximate value of £350 * Wagestream \\- Have early access to up to 40% of your earned wages within minutes * 28 days holiday * We offer a sick pay scheme to our frontline teams, as an addition to statutory sick pay, to help provide some reassurance and financial support during longer absences. * Long service \\- For every milestone at Bupa we will reward you with ecards, extra holidays and money! * Free meal on every shift * Interest\\-free annual travel loan to enable the purchase of public transport annual season tickets * We offer a range of Bupa pension plans \\- find out more on our career site * Parental leave \\- We have schemes for adoption, birth parents and co parents \\-find out more on our career site * Menopause Plan \\- Specifically designed to empower women to seek advice, choose their treatment and take control of their health * Access to discounts at a wide variety of gyms and fitness facilities across the UK **Why Bupa?** We're a health insurer and provider. With no shareholders, our customers are our focus. Our people are all driven by the same purpose \\- helping people live longer, healthier, happier lives and making a better world. We make health happen by being brave, caring and responsible in everything we do. We encourage all of our people to ”Be you at Bupa”, we champion diversity, and we understand the importance of our people representing the communities and customers we serve. That's why we especially encourage applications from people with diverse backgrounds and experiences. Bupa is a Level 2 Disability Confident Employer. This means we aim to offer an interview/assessment to every disabled applicant who meets the minimum criteria for the role. We'll make sure you are treated fairly and offer reasonable adjustments as part of our recruitment process to anyone that needs them. Time Type: Full time Job Area: Care Home \\- Care Assistants Locations: Broomcroft House Private dental insurance, Company pension, Cycle to work scheme, Referral programme, Free flu jabs, Additional leave, Paid volunteer time, Gym membership, Discounted or free food, Employee mentoring programme, Health \\& wellbeing programme, Financial planning services",
    "job_url": "https://uk.indeed.com/viewjob?jk=b2874509a7b1bfd7",
    "categories": [
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Job Description: Care Assistant Broomcroft House Care Home, 414 Ecclesall Road South, Sheffield S11 9PY CQC rating: Good Carehome.co.uk rating: 9.6/10 Salary: £12.75 - £13.75ph dependent on experience and qualifications Permanent Contract. Full Time position. Shift pattern will include alternate…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6258,13 +6258,13 @@
    "interval": null,
    "currency": "GBP",
    "date_posted": "2026-09-08",
-   "description": "**Type:** Fixed\\-term contract (6 months), 20 hours per week **Work Location:** On the road and at customer sites. **Pay:** £17 per hour **Licence/Certification:** Full valid UK driving licence (required) Focal Systems is the industry leader in retail AI solutions. Our mission is to automate and optimise brick\\-and\\-mortar retail using deep\\-learning computer vision. Focal has been deployed at scale with the top retailers in the world. We are looking for smart, creative, and passionate people who love to learn, enjoy thinking critically, share our values, and want to build a great and enduring company. We have built the next\\-generation operating system for brick \\& mortar retail. This OS leverages shelf\\-mounted cameras that constantly measure the state of the retailers' shelves and use that information to order quicker and smarter, planogram better, and schedule, direct, train, and manage their staff. We have proven this with major retailers around the world. **Job Description** We are currently expanding our operations throughout the UK and seeking a dedicated Field Service Technician to complete installations for our customers in your area. This role will primarily involve working overnight, attending installations where our product will be installed. As a crucial member of our team, you will assume accountability for the successful installation, deployment and adoption of our system. Physical stamina, proficiency with power tools, and the ability to meet quality and speed Key Performance Indicators (KPIs) are essential for this role. **This will be a 6 Month contract position, working a minimum of 20 hrs per week with a possibility to extend beyond the initial contract.** * ***Night shift work*** * ***Driver's License and Transportation: Valid driver's license and reliable transportation to travel to sites is required.*** **What You Will Be Doing** * Installation of camera hardware: mounting, connecting and configuring in accordance with company standards. * Respond promptly to installation requests and ensure customer SLAs are met. * Maintain accurate records of installation activities, including work performed, parts used, and time spent, using company\\-provided tools * Onboarding/scanning products into the system. * Operate power tools safely and efficiently to complete installations. * Adhere to safety protocols and guidelines to minimize risks during installation visits. * Work collaboratively with team members to ensure timely completion of installations. * Maintain a high level of attention to detail to ensure installation tasks meet quality standards. * Meet or exceed speed and quality Key Performance Indicators (KPIs) consistently. * Communicate effectively with supervisors and team members to provide updates on progress and address any issues or challenges encountered during store visits. * Adhere to company policies and procedures at all times. **Requirements:** * Proven Field Service Technician Experience: Previous experience in a field technician role, preferably in field service, installation, construction, or a related field. * Strong technical aptitude and troubleshooting skills, with the ability to diagnose and resolve hardware and software issues efficiently. * Proficiency in using power tools and other installation equipment required for this type of role. * Physical Stamina: Strong physical stamina to work on feet and perform physically demanding tasks for extended periods (up to 9 hours). * Detail\\-Oriented: Excellent attention to detail to ensure maintenance work meets quality standards and adheres to specifications. * Time Management: Ability to work well under pressure, meet tight deadlines, and ensure timely completion of assigned tasks. * Communication Skills: Effective communication skills to liaise with supervisors, team members, and customers, providing updates on progress and addressing any issues encountered during installation visits. * Driver's License and Transportation: Valid driver's license and reliable transportation to travel to sites as required. * Ability to work nights and weekends. **Why Focal Systems** Strong Values and Mission \\- We are a tightly\\-knit team with an ambitious mission and a strong set of core values, which define our approach to business and have successfully guided us since inception. Exceptional Team \\- We are a team of hard\\-working, fun\\-loving professionals from some of the most eminent universities, research labs, and tech companies of our time. We pride ourselves on recruiting exceptional individuals to help us redefine the state\\-of\\-the\\-art. Outstanding Partners \\- We work with 10\\+ of the largest retailers in the world and have a world\\-class roster of investors, advisors and partners to support \\& advise us in our endeavors. **What we offer** We care deeply about the health, happiness, and wellbeing of all of our employees. We offer: * Paid Time Off * Pension * Sick Leave",
+   "description": "Type: Fixed\\-term contract (6 months), 20 hours per week Work Location: On the road and at customer sites. Pay: £17 per hour Licence/Certification: Full valid UK driving licence (required) Focal Systems is the industry leader in retail AI solutions. Our mission is to automate and optimise brick\\-and\\-mortar retail using deep\\-learning computer vision. Focal has been deployed at scale with the top retailers in the world. We are looking for smart, creative, and passionate people who love to learn, enjoy thinking critically, share our values, and want to build a great and enduring company. We have built the next\\-generation operating system for brick \\& mortar retail. This OS leverages shelf\\-mounted cameras that constantly measure the state of the retailers' shelves and use that information to order quicker and smarter, planogram better, and schedule, direct, train, and manage their staff. We have proven this with major retailers around the world. Job Description We are currently expanding our operations throughout the UK and seeking a dedicated Field Service Technician to complete installations for our customers in your area. This role will primarily involve working overnight, attending installations where our product will be installed. As a crucial member of our team, you will assume accountability for the successful installation, deployment and adoption of our system. Physical stamina, proficiency with power tools, and the ability to meet quality and speed Key Performance Indicators (KPIs) are essential for this role. This will be a 6 Month contract position, working a minimum of 20 hrs per week with a possibility to extend beyond the initial contract. Night shift work Driver's License and Transportation: Valid driver's license and reliable transportation to travel to sites is required. What You Will Be Doing Installation of camera hardware: mounting, connecting and configuring in accordance with company standards. Respond promptly to installation requests and ensure customer SLAs are met. Maintain accurate records of installation activities, including work performed, parts used, and time spent, using company\\-provided tools Onboarding/scanning products into the system. Operate power tools safely and efficiently to complete installations. Adhere to safety protocols and guidelines to minimize risks during installation visits. Work collaboratively with team members to ensure timely completion of installations. Maintain a high level of attention to detail to ensure installation tasks meet quality standards. Meet or exceed speed and quality Key Performance Indicators (KPIs) consistently. Communicate effectively with supervisors and team members to provide updates on progress and address any issues or challenges encountered during store visits. Adhere to company policies and procedures at all times. Requirements: Proven Field Service Technician Experience: Previous experience in a field technician role, preferably in field service, installation, construction, or a related field. Strong technical aptitude and troubleshooting skills, with the ability to diagnose and resolve hardware and software issues efficiently. Proficiency in using power tools and other installation equipment required for this type of role. Physical Stamina: Strong physical stamina to work on feet and perform physically demanding tasks for extended periods (up to 9 hours). Detail\\-Oriented: Excellent attention to detail to ensure maintenance work meets quality standards and adheres to specifications. Time Management: Ability to work well under pressure, meet tight deadlines, and ensure timely completion of assigned tasks. Communication Skills: Effective communication skills to liaise with supervisors, team members, and customers, providing updates on progress and addressing any issues encountered during installation visits. Driver's License and Transportation: Valid driver's license and reliable transportation to travel to sites as required. Ability to work nights and weekends. Why Focal Systems Strong Values and Mission \\- We are a tightly\\-knit team with an ambitious mission and a strong set of core values, which define our approach to business and have successfully guided us since inception. Exceptional Team \\- We are a team of hard\\-working, fun\\-loving professionals from some of the most eminent universities, research labs, and tech companies of our time. We pride ourselves on recruiting exceptional individuals to help us redefine the state\\-of\\-the\\-art. Outstanding Partners \\- We work with 10\\+ of the largest retailers in the world and have a world\\-class roster of investors, advisors and partners to support \\& advise us in our endeavors. What we offer We care deeply about the health, happiness, and wellbeing of all of our employees. We offer: Paid Time Off Pension Sick Leave",
    "job_url": "https://uk.indeed.com/viewjob?jk=32150c83fb8edd23",
    "categories": [
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6286,7 +6286,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-09T12:13:10Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6308,7 +6308,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-09T12:13:10Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6330,7 +6330,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-09T12:13:10Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6346,14 +6346,14 @@
    "interval": null,
    "currency": "GBP",
    "date_posted": "2026-09-09",
-   "description": "Job Description: **Hospitality Assistant** **Broomcroft House Care Home,** **414 Ecclesall Road South, Sheffield, South Yorkshire S11 9PY** **Carehome.co.uk rating: 9\\.3 / 10** **Salary: £2\\.75 \\- £13\\.75ph, depending on experience** **Permanent contract. Full time position. Rota will include alternate weekends.** **We make health happen** Here at Bupa we support those when they need it the most. Our care homes are dedicated to delivering person\\-centred care, supporting independence and honouring choice to help our residents live their best lives. **You'll help us make health happen by:** * Providing excellent customer service to all our residents * Ensuring high quality food presentation at all times * Serving meals and drinks to residents in the dining areas and to their rooms * Cleaning of the dining area ensuring it's tidy and presentable * Serving refreshments outside of meal times to residents, relatives and visitors as required **Key Skills / Qualifications needed for this role:** Experience in a customer facing environment with a Basic Food Hygiene Certificate, you want to deliver an excellent service to make our residents feel at home. You'll understand the importance of maintaining high standards in and around the home, ensuring our residents enjoy a pleasant dining experience. Comfortable communicating with others \\- nothing is too much trouble, you're always happy to help the wider team, cherishing the little moments with our residents. **Benefits** Our benefits are designed to make health happen for our people. Viva is our global wellbeing programme and includes all aspects of our health \\- from mental and physical, to financial, social and environmental wellbeing. We support flexible working and have a range of family friendly benefits. Joining Bupa in this role you will receive the following benefits and more: * My Healthcare \\- Free access to 24/7 support, advice, and treatment for a variety of health\\-related issues, including remote GP appointments, physiotherapy and mental health support * Annual allowance which you can redeem against a menu of Bupa healthcare products, all to the approximate value of £350 * Wagestream \\- Have early access to up to 40% of your earned wages within minutes * 28 days holiday * We offer a sick pay scheme to our frontline teams, as an addition to statutory sick pay, to help provide some reassurance and financial support during longer absences. * Long service \\- For every milestone at Bupa we will reward you with ecards, extra holidays and money! * Free meal on every shift * Interest\\-free annual travel loan to enable the purchase of public transport annual season tickets * We offer a range of Bupa pension plans \\- find out more on our career site * Parental leave \\- We have schemes for adoption, birth parents and co parents \\-find out more on our career site * Menopause Plan \\- Specifically designed to empower women to seek advice, choose their treatment and take control of their health * Access to discounts at a wide variety of gyms and fitness facilities across the UK **Why Bupa?** We're a health insurer and provider. With no shareholders, our customers are our focus. Our people are all driven by the same purpose \\- helping people live longer, healthier, happier lives and making a better world. We make health happen by being brave, caring and responsible in everything we do. We encourage all of our people to ”Be you at Bupa”, we champion diversity, and we understand the importance of our people representing the communities and customers we serve. That's why we especially encourage applications from people with diverse backgrounds and experiences. Bupa is a Level 2 Disability Confident Employer. This means we aim to offer an interview/assessment to every disabled applicant who meets the minimum criteria for the role. We'll make sure you are treated fairly and offer reasonable adjustments as part of our recruitment process to anyone that needs them. \\*\\*Please note, this role is not at or above RQF Level 3 and is not included under the UK's Points Based Immigration System for sponsorship by an employer. Time Type: Full time Job Area: Locations: Broomcroft House Paid volunteer time, Company pension, Referral programme, Discounted or free food, Health \\& wellbeing programme, Additional leave, Private dental insurance, Free flu jabs, Employee mentoring programme, Financial planning services, Gym membership, Cycle to work scheme",
+   "description": "Job Description: **Hospitality Assistant** **Broomcroft House Care Home,** **414 Ecclesall Road South, Sheffield, South Yorkshire S11 9PY** **Carehome.co.uk rating: 9\\.3 / 10** **Salary: £2\\.75 \\- £13\\.75ph, depending on experience** **Permanent contract. Full time position. Rota will include alternate weekends.** **We make health happen** Here at Bupa we support those when they need it the most. Our care homes are dedicated to delivering person\\-centred care, supporting independence and honouring choice to help our residents live their best lives. **You'll help us make health happen by:** * Providing excellent customer service to all our residents * Ensuring high quality food presentation at all times * Serving meals and drinks to residents in the dining areas and to their rooms * Cleaning of the dining area ensuring it's tidy and presentable * Serving refreshments outside of meal times to residents, relatives and visitors as required **Key Skills / Qualifications needed for this role:** Experience in a customer facing environment with a Basic Food Hygiene Certificate, you want to deliver an excellent service to make our residents feel at home. You'll understand the importance of maintaining high standards in and around the home, ensuring our residents enjoy a pleasant dining experience. Comfortable communicating with others \\- nothing is too much trouble, you're always happy to help the wider team, cherishing the little moments with our residents. **Benefits** Our benefits are designed to make health happen for our people. Viva is our global wellbeing programme and includes all aspects of our health \\- from mental and physical, to financial, social and environmental wellbeing. We support flexible working and have a range of family friendly benefits. Joining Bupa in this role you will receive the following benefits and more: * My Healthcare \\- Free access to 24/7 support, advice, and treatment for a variety of health\\-related issues, including remote GP appointments, physiotherapy and mental health support * Annual allowance which you can redeem against a menu of Bupa healthcare products, all to the approximate value of £350 * Wagestream \\- Have early access to up to 40% of your earned wages within minutes * 28 days holiday * We offer a sick pay scheme to our frontline teams, as an addition to statutory sick pay, to help provide some reassurance and financial support during longer absences. * Long service \\- For every milestone at Bupa we will reward you with ecards, extra holidays and money! * Free meal on every shift * Interest\\-free annual travel loan to enable the purchase of public transport annual season tickets * We offer a range of Bupa pension plans \\- find out more on our career site * Parental leave \\- We have schemes for adoption, birth parents and co parents \\-find out more on our career site * Menopause Plan \\- Specifically designed to empower women to seek advice, choose their treatment and take control of their health * Access to discounts at a wide variety of gyms and fitness facilities across the UK **Why Bupa?** We're a health insurer and provider. With no shareholders, our customers are our focus. Our people are all driven by the same purpose \\- helping people live longer, healthier, happier lives and making a better world. We make health happen by being brave, caring and responsible in everything we do. We encourage all of our people to ”Be you at Bupa”, we champion diversity, and we understand the importance of our people representing the communities and customers we serve. That's why we especially encourage applications from people with diverse backgrounds and experiences. Bupa is a Level 2 Disability Confident Employer. This means we aim to offer an interview/assessment to every disabled applicant who meets the minimum criteria for the role. We'll make sure you are treated fairly and offer reasonable adjustments as part of our recruitment process to anyone that needs them. \\*\\*Please note, this role is not at or above RQF Level 3 and is not included under the UK's Points Based Immigration System for sponsorship by an employer. Time Type: Full time Job Area: Locations: Broomcroft House Private dental insurance, Company pension, Cycle to work scheme, Referral programme, Free flu jabs, Additional leave, Paid volunteer time, Gym membership, Discounted or free food, Employee mentoring programme, Health \\& wellbeing programme, Financial planning services",
    "job_url": "https://uk.indeed.com/viewjob?jk=46057eafc04f8d68",
    "categories": [
     "Hospitality",
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-09T12:13:10Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Job Description: Hospitality Assistant Broomcroft House Care Home, 414 Ecclesall Road South, Sheffield, South Yorkshire S11 9PY Carehome.co.uk rating: 9.3 / 10 Salary: £2.75 - £13.75ph, depending on experience Permanent contract. Full time position. Rota will include alternate weekends. We make…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6377,7 +6377,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-09T12:13:10Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "United Kingdom 7075 Employee Regular Full Time Job Description ------------------- Overview About the role We’re looking for a Customer Advocate for our office in Sheffield. You’ll join an awesome team to support our growing customer base. The Customer Advocate serves as the primary relationship…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6401,7 +6401,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-09T12:13:10Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Company Description ----------------------- Title: Kitchen Porter Location: Sheffield Hourly Rate: £13.45 Part Time: 15 Hours Benefits: 28 Days holiday including bank holidays Plus your birthday off 3 volunteering days 3 days grandparent leave 24 week’s enhanced maternity leave Secondary carer…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6425,7 +6425,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-09T12:13:10Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6447,7 +6447,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "As we evolve into Social Wellness Clubs, we are creating spaces and experiences that support every aspect of our members' physical, mental, nutritional and social wellbeing. By bringing together expert guidance, genuine community, personalised experiences and innovative technology, we make wellness…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6471,7 +6471,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6493,7 +6493,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6515,7 +6515,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6537,7 +6537,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6559,7 +6559,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Description Contract: Permanent, part time – 15 hours per week Salary: £9,991 per annum, (£24,976 FTE) Location: Sheffield, S7 2PY Closing date: Tuesday 22nd September 2026 Interview date: Thursday 1st October 2026 We’re recruiting a Reception & Administration Assistant for our Rehoming & Fostering…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6583,7 +6583,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Job Reference Code: R-105403 Employment Type: Part time Contract Type: Permanent Shift Pattern: Work Shift: Afternoons Hours per Week: 16.5 Pay Rate: £13.10 Closing Date: 22 September 2026About the Role To be employed in this role you must pass an enhanced safeguarding check. Our stores operate 24…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6631,7 +6631,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Beres is a family owned chain of shops. We are known for our freshly prepared pork sandwiches, traditional pork products and home made pastries. We currently have vacancies at the following stores: Ecclesall Road - 20 hours Crookes - 19 hours We are looking for friendly staff who can work well as…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6655,7 +6655,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Barista At Costa Coffee, we craft great coffee and memorable experiences. As a Barista, you’ll bring energy, warmth and skill to every shift. We also offer flexible shifts to suit both your needs and the store’s. Why Costa £13.12 - £14.12 per hour (location dependent) 50% discount on all food and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6679,7 +6679,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Team Leader At Costa Coffee, we’re all about crafting great coffee and memorable moments. As a Team Leader, you’ll bring energy, confidence and support to every shift. We also offer flexible shifts to suit you and the store. Why Costa £13.75–£14.75 per hour (location dependent) 50% discount on all…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6703,7 +6703,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Barista At Costa Coffee, we craft great coffee and memorable experiences. As a Barista, you’ll bring energy, warmth and skill to every shift. We also offer flexible shifts to suit both your needs and the store’s. Why Costa £13.12 - £14.12 per hour (location dependent) 50% discount on all food and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6727,7 +6727,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Team Leader At Costa Coffee, we’re all about crafting great coffee and memorable moments. As a Team Leader, you’ll bring energy, confidence and support to every shift. We also offer flexible shifts to suit you and the store. Why Costa £13.75–£14.75 per hour (location dependent) 50% discount on all…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6751,7 +6751,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Package Description:At Avery Healthcare, we are all about supporting the people who care for our residents. We know how hard our teams work, and we’re here to celebrate and support you every step of the way. When you join us, you’ll be making a positive impact on residents’ lives every day – your…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6775,7 +6775,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Job Introduction At Avery Healthcare, we are all about supporting the people who care for our residents. We know how hard our teams work, and we’re here to celebrate and support you every step of the way. When you join us, you’ll be making a positive impact on residents’ lives every day – your…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6799,7 +6799,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-09T21:33:14Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6821,7 +6821,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-09T21:33:14Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6843,7 +6843,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-09T21:33:14Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6865,7 +6865,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-09T21:33:14Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Company Description Portico is defined by our unique culture – One that rewards hard work and dedication, empowers people to grow, with the belief that work should be fun and engaging! Our family is made up of many different people. We embrace diversity and believe in treating everyone equally to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6889,7 +6889,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-09T21:33:14Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "No CV to hand? No problem! We've made our application process mobile friendly and removed the need for a CV. Our form takes 2 minutes to complete and tells us all we need about you! As Part Time Waiting Staff at Miller & Carter - Sheffield Centertainment, you will give a warm welcome and excellent…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6913,7 +6913,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-10T12:07:15Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6935,7 +6935,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-10T12:07:15Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6979,7 +6979,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-10T12:07:15Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "About the role We’re looking for a Customer Service Assistant to join our team at One Stop, a subsidiary of Tesco. As a Customer Service Assistant, you will be working in a fast paced retail environment where no day is the same. You will plays an important role in the day-to-day operations of our…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7003,7 +7003,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-10T12:07:15Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "More about the role We're looking for friendly, reliable people to join our team, working across the store to serve our customers. You'll work in a fast-paced, structured environment with clear routines and timed activities that help keep everything running smoothly - all to make sure our customers…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7027,7 +7027,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-10T12:07:15Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "More about the role We're looking for friendly, reliable people to join our team, working across the store to serve our customers. You'll work in a fast-paced, structured environment with clear routines and timed activities that help keep everything running smoothly - all to make sure our customers…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7075,7 +7075,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-10T12:07:15Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "Company Description Join us at Hungry Horse, where the drinks are always flowing and the plates are piled high, our pubs bring families and friends together. From footy days to family time, a swift drink after work, to a quarterly pool tournament – there’s always something going on. Beyond our…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7099,7 +7099,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-10T12:07:15Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "VACANCY: Press Brake Operative LOCATION: Rotherham, S60 (Close to Meadowhall, Sheffield) SHIFT: Friday - Sunday 6am - 6pm - plus one midweek 8 hour shift. ABOUT US: MTL Advanced is a Yorkshire-based steel engineering and manufacturing company operating from a 300,000 sq. ft. facility in Rotherham.…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7123,7 +7123,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-10T12:07:15Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "summary": "VACANCY: Press Brake Operative LOCATION: Rotherham, S60 (Close to Meadowhall, Sheffield) AVALIABLE SHIFT PATTERN : 3 shift rotating : Monday - Friday Days 6am-2pm, Afternoons 2pm-10pm and Nights 10pm - 6am. ABOUT US: MTL Advanced is hiring due to a major expansion, marked by the opening of our…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7147,7 +7147,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-10T12:07:15Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7169,7 +7169,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-10T12:07:15Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -7191,18 +7191,133 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-10T12:07:15Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-10T16:55:59Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=2edd86bf53023537": {
+   "title": "Warehouse Operator",
+   "company": "Gripple",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-10",
+   "description": "**Unleash your potential. Change the game with Gripple.** We are currently seeking a **Warehouse Operator** to join our Supply Chain team. This is an excellent opportunity for a motivated and dependable individual who enjoys working in a fast\\-paced environment and can work effectively both independently and as part of a team. **Why Gripple?** Were not just innovatorswere game\\-changers. Since 1989, Gripple has led the charge in wire joining and suspension systems. As a **100% employee\\-owned business**, we dont just hire talentwe invest in it. Youll be backed by a global infrastructure, a powerhouse support team, and a culture that champions ownership, passion, and performance. **Whats in it for you:** * **Share ownership**: Buy a stake in Gripple and the GLIDE group and share in our success * **15% non\\-contributory pension** * **32 days holiday**, increasing with long service * **Private healthcare**, family\\-focused policies, and exceptional benefits that support your wellbeing at every stage **The role:** Reporting to the warehouse team leader and based predominately at our Old West Gun Works site, with the occasional requirement to cover sites across Sheffield and Rotherham, you will be provided with training to work within warehouse operations and become an integral part of the supply chain team. **What you'll be doing:** * Unloading and booking in goods from suppliers * Driving our van to fulfil our site\\-to\\-site deliveries and collect from suppliers * Picking products and booking out goods to service our production team * Partaking in regular stock takes * Working to given processes and in accordance with health and safety guidelines * Maintenance of 5S standards and general housekeeping * Using IT systems to maintain accurate stock levels and update works orders **Who you are****:** To be considered for this challenging and often demanding role, you must ideally have warehousing experience and be: * Highly motivated and hard working with a positive, can do attitude * Flexible to the requirements of working within a small team with a willingness to be able to work to time sensitive deadlines * Able to prioritise tasks to maintain an effective operation and accurate warehouse * Be computer literate * Enthusiastic, with a good work ethic, willingness to learn and ability to work on your own initiative * Numerate and able to communicate both verbally and written in a clear and concise manner * Flexible to work across multiple sites as and when needed **Working hours** This position will entail working regular mornings and afternoons, Monday to Friday. Night shift and weekend work may also be required to meet the demands of the business. A flexible, can do attitude is therefore paramount. **The Gripple Spirit** Our values fun, integrity, passion, entrepreneurship, teamwork, innovation arent just words on a wall. They shape everything we do. Join us, and youll experience: * true **work\\-life balance** * an inclusive and caring workplace where your ideas matter, and your impact is felt globally **Take a closer look:** * Learn more about who we are and how were changing the game: https://www.gripple.com/about\\-gripple * Take a tour of our head office at the historic Old West Gun Works in Sheffield, South Yorkshire here **Closing date 28****th** **September 2026\\.** Bring your ambition. Well bring the opportunity. **Join a team where everyone belongs** We encourage applications from people from all backgrounds and aim to have a workforce that represents the wider society that we serve. We champion diversity, inclusion and wellbeing and aim to create a workplace where everyone feels valued with a sense of belonging. If there are any adjustments that would help your experience with Gripple, please let us know when you apply. Whilst not mandatory, your completion of the applicant ethic monitoring form will help us monitor and encourage equality and diversity. The information you provide will be anonymous and kept both confidential and separate to your application.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=2edd86bf53023537",
+   "categories": [
+    "Warehouse"
+   ],
+   "first_seen": "2026-09-10T16:55:59Z",
+   "last_seen": "2026-09-10T16:55:59Z",
+   "summary": "Unleash your potential. Change the game with Gripple. We are currently seeking a Warehouse Operator to join our Supply Chain team. This is an excellent opportunity for a motivated and dependable individual who enjoys working in a fast-paced environment and can work effectively both independently…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=d965aaea09c0c134": {
+   "title": "Delivery Driver",
+   "company": "JM Hall Couriers Ltd",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-10",
+   "description": "***We have available a Self\\-Employed Multi Drop Delivery Driver Position at Sheffield*** We’re seeking reliable, hard\\-working, passionate people who can succeed in a fast\\-paced environment and join the fastest growing and most stable industry to be in! At JMHC Logistics, we are extremely passionate about what we do. We have an award\\-Winning fleet at our disposal whereby we deliver everything from raw materials to consumables and finished goods. Customer experience is key to us and we strive to leave our customers smiling. What we offer * Refer a friend Scheme which can earn you another £50! * Extra work available to increase your weekly pay * Career progression opportunities for motivated individuals who work hard * Easy and fast application process * Hire Vehicle available and Owner Drivers also welcome! (Must be compliant with Euro 6 Standards) * 24/7 driver support hotline which helps you on the road * Full Time Position – 5 days per week Monday to Friday and rot'd Saturday * Fuel Card Provided Responsibilities: * Load vans and deliver and collect packages * Adhere to all safety regulation on the road * Operate an electronic device for GPS and daily records * Greet and interact with customers and the public with a professional and positive attitude * Represent the ever\\-growing JMHC brand Requirements: * Independent problem solver with good communication skills * Must have held your full driving licence for a minimum of 12 months * Commercial (or work\\-related) driving experience is a bonus but not essential * Able to work 9\\-hour shifts Job Type: Full\\-time Pay: £500\\.00\\-£700\\.00 per week Experience: * Driving: 1 year (required) * Delivery driver: 1 year (preferred) Work Location: On the road",
+   "job_url": "https://uk.indeed.com/viewjob?jk=d965aaea09c0c134",
+   "categories": [
+    "Driving & Logistics"
+   ],
+   "first_seen": "2026-09-10T16:55:59Z",
+   "last_seen": "2026-09-10T16:55:59Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=8bd7a9375cf9f014": {
+   "title": "Kitchen Assistant",
+   "company": "Greene King",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-10",
+   "description": "**Company Description** Join us at Greene King pubs, where we have always been the beacon for communities, wherever people want to come together. Our collection of community pubs are the heart and soul of the local area around them, helmed by a local hero and crewed by a team always ready with your favourite tipple. Our pubs embody the true meaning of a local pub, acting as a central hub where locals can enjoy one of our events, a feast of lovingly cooked food or a quick catch up with friends over a drink. **Job Description** As a Kitchen Assistant, you’ll play a key part in the kitchen ensuring a busy service runs smoothly. You’ll make sure everything is well stocked, clean, and the team around you have everything they need to create the perfect dish for our customers. **Qualifications** **As a Kitchen Assistant, you will…** * Help the kitchen service run smoothly by making sure it is well stocked and clean. * Maintain hygiene levels and safety regulations in the kitchen to help guarantee the safety of your entire team and visitors. * Communicate clearly with your team, ensuring they have everything they need. **What you’ll bring to the kitchen:** * A positive can\\-do attitude to support your team. * A passion for challenges and thriving in a fast\\-paced kitchen. * Willingness to learn and expand your skills in the kitchen. * Sufficient spoken and written English to perform the role safely and understand allergen controls. **Additional Information** **We’re all about rewarding our team’s hard work, that’s why…** You’ll receive a competitive salary, pension contribution as well as: * The chance to further your career across our well\\-known brands – as one of the industry's top apprenticeship providers, we can provide training and development at each level of your career. * Discount of 33% for you and 15% for your loved ones on all of our brands – so you enjoy your favourite food and drink at a discount. * Free employee assistance program – mental health, well\\-being, financial, and legal support because you matter! * Enhanced, family\\-friendly maternity and paternity policies * Menopause Friendly Employer * Discount of 50% for you and 25% for your loved ones at our Greene King Inns and hotels – so you can enjoy a weekend away without breaking the bank. * Refer a friend – who do you know who could be interested in a new role? When they are placed, you could earn up to £1,500 for referring them! * Wagestream – access your wage before payday for when life happens. * Retail discounts – Receive up to 30% off at Superdrug, exclusive discounts with Three Mobile along with many more… **CREATING PLACES WHERE PEOPLE FEEL WELCOME, SAFE AND THAT THEY BELONG** We aim to embed inclusion into every decision we make – across our people, customers, communities, suppliers, and operations. We want to create a culture where everyone feels welcome, valued, and able to thrive.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=8bd7a9375cf9f014",
+   "categories": [
+    "Hospitality",
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-10T16:55:59Z",
+   "last_seen": "2026-09-10T16:55:59Z",
+   "summary": "Company Description Join us at Greene King pubs, where we have always been the beacon for communities, wherever people want to come together. Our collection of community pubs are the heart and soul of the local area around them, helmed by a local hero and crewed by a team always ready with your…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=cc51abfcf1a9c17d": {
+   "title": "Customer Services Assistant",
+   "company": "SSP Group",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-10",
+   "description": "**CUSTOMER SERVICE ASSISTANT \\- SHEFFIELD STATION** **Pay Rate: £13\\.45 per hour.** **Hours**: Full Time (40 hours) **Shifts**: Between 4:00am to 11:00pm * Due to some responsibilities within the Customer Service Assistant role, applicants will need to be 18 years of age or over to perform certain tasks or work on certain shifts. We are a premier provider of catering and onboard services to the British Railway Industry. With over 40 service centres nationwide and a workforce of over 1000 employees in the UK alone, we are committed to delivering a First\\-Class service consistently. **AS A CUSTOMER SERVICE ASSISTANT YOU’LL:** * Operating delivery equipment for train\\-side deliveries (Full training provided). * Loading/offloading catering equipment/stock from EMR trains. * Order assembly and stock control. * Comply with Health \\& Safety/Food Hygiene Regulations. **WHY JOIN US?** At Rail Gourmet, we don't just offer jobs; we provide dynamic career opportunities with a host of benefits: * **Employee Discounts:** Enjoy up to a 50% discount on various SSP brands and franchises across the UK such as M\\&S, Burger King, Starbucks, Upper Crust etc. * **75% discounted meal** during work hours. * **Learn while you Earn**: Access to award\\-winning training, apprenticeships and development. * **Internal Growth Opportunities:** Build your career with us! 70% of our Managers are internal promotions. * **Employee rewards:** Access shopping discounts, financial aid, wellbeing resources, GP appointments, and a 24/7 helpline for you and your loved ones. * **Health and Wellbeing Support:** Spectrum Life, flexible working, family\\-friendly leave. * **Culture**: We value diverse backgrounds, offering support networks for LGBTQ\\+, Women’s Network, Neurodiversity, Disability, and more. * **Financial Support**: UK Pension Plans, Life assurance, Share Incentives Scheme, Cycle to Work Scheme, competitive pay rates, Advance earned pay, and up to £5000 Loans repaid through salary. * 28 days holiday pro rata, inclusive of Bank Holidays. * Receive rewards and recognition such as RG Stars, Extra Mile Vouchers, and more. * **2 Free EMR return tickets per year** after probation. Feel like you could belong at RG? Apply now and embark on the best part of your journey. Rail Gourmet is proud to be an equal opportunity employer who seek to recruit and retain talented individuals from diverse backgrounds, skills and perspectives.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=cc51abfcf1a9c17d",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-10T16:55:59Z",
+   "last_seen": "2026-09-10T16:55:59Z",
+   "fit": "stretch",
+   "fit_reason": "3+ years experience required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=d8e21e60d538c1e4": {
+   "title": "Care assistant in nursing home",
+   "company": "Broomgrove Nursing Home",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-10",
+   "description": "Broomgrove Trust Nursing Home in Sheffield has an exciting opportunity for the position of **Care Assistant on days only**, who possesses a genuine commitment to providing high quality care to our residents under the direction of the Registered Nurse. It is a unique chance to work in a friendly and professional environment within our charitable organization. There is always support from our Clinical nurse manager (Mon\\-Fri), and also 2 or 3 nurses are on duty all the time(7 to 8 carers are on the floor in our 40\\-bed unit throughout each day shift). **About you:** * **Care assistant/Health care assistant with minimum 1 year experience in UK (we do not offer sponsorship)** * A professional, friendly attitude * Quick learner, able to implement our staff values within the team * Motivated and enthusiastic on mentoring and coaching all the staff * Drive and focus to provide excellent customer service and quality of care * Excellent communication and interpersonal skills * Experience and an up to date understanding of care service practices, legislation, regulations and standards **Responsibilities** * Working together with all disciplines involved with the total care of residents and their families, integrating care with their residents' physical, psychological and spiritual needs. * Be aware of residents' and carers' needs and report any changes to the supervising registered nurse. * Assist with the maintenance of a safe clinical environment, report to the Nurse in Charge on any issues identified which may put health, safety and security at risk. * Assist in the effective use of resources within the clinical area, e.g. equipment and supplies. * Report incidents and be aware of all relevant policies and procedures, e.g. Accidents, violence, fire. * Deliver a high standard of person\\-centred care in accordance with Broomgrove Trust Nursing Home policies and procedures. * Enable residents and carers to maintain their individuality. * Maintain confidentiality of information according to our Nursing Home's policy. **Hours \\- days** Full time \\- 35 hours/ 5 days per week or 28 hours/ 4 days per week (including weekends) There is flexibility offered to spread the hours through several days. Shift: 7:30 \\- 15:00 or 14:30 \\- 22:00, or you can work what we call a double shift 7:30 \\- 22:00 (and work less days per week) *\\*Two full time vacancies available or three part time*\\* You are more than welcome to apply if you are interested in Bank work (zero hours contract) as well! **About Your benefits:** * **Salary \\- The rate of pay per hour will be £12\\.81 (Mon\\-Fri) with a 20% enhancement at weekends (£15\\.37 \\- Sat\\-Sun).** * **Bank holiday rate of pay will be £19\\.22 and Christmas day \\& New Year's day pay rate will be £25\\.62\\.** * 6 weeks holiday entitlement per year/30 days inclusive of bank holiday(after 5 years in service you receive additional holiday up to a maximum of 7 weeks per year) * Referral Recruitment Bonus Scheme * Free uniform provided * Free onsite Parking * Possibility to purchase meals on site * Death in Service scheme * Paid DBS check * Great training package **Requirements \\- The post is subject to an enhanced DBS check through the Disclosure and Barring Service and Successful completion of a six\\-month probationary period.** **Broomgrove cannot offer sponsorship!** If you love to work with elderlies and vulnerable adults in a nursing home, we would like to hear from you. Application process deadline is 27/09/2026! **Advert is not for AGENCIES! Direct recruiting only!** *We are unable to give each candidate individualized feedback because of the volume of applications we receive. If you do not hear from us within 7 days following deadline date, kindly consider that application has not been successful.* *We would like to take this opportunity to thank you for your interest in working at Broomgrove and wish you the best of luck in your job search.*",
+   "job_url": "https://uk.indeed.com/viewjob?jk=d8e21e60d538c1e4",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-10T16:55:59Z",
+   "last_seen": "2026-09-10T16:55:59Z",
+   "fit": "stretch",
+   "fit_reason": "3+ years experience required",
    "fit_source": "rule"
   }
  },
  "last_run_report": {
-  "started": "2026-09-10T12:07:15Z",
+  "started": "2026-09-10T16:55:59Z",
   "searches": [
    {
     "term": "activity instructor",
-    "found": 1,
+    "found": 3,
     "new": 0
    },
    {
@@ -7217,8 +7332,8 @@
    },
    {
     "term": "warehouse operative",
-    "found": 4,
-    "new": 0
+    "found": 3,
+    "new": 1
    },
    {
     "term": "picker packer",
@@ -7228,31 +7343,31 @@
    {
     "term": "delivery driver",
     "found": 12,
-    "new": 3
+    "new": 1
    },
    {
     "term": "courier driver",
-    "found": 10,
+    "found": 1,
     "new": 0
    },
    {
     "term": "customer service assistant",
-    "found": 37,
+    "found": 39,
     "new": 3
    },
    {
     "term": "retail assistant",
-    "found": 5,
-    "new": 1
+    "found": 4,
+    "new": 0
    },
    {
     "term": "receptionist",
-    "found": 7,
+    "found": 5,
     "new": 0
    },
    {
     "term": "kitchen assistant",
-    "found": 7,
+    "found": 6,
     "new": 0
    },
    {
@@ -7267,31 +7382,31 @@
    },
    {
     "term": "waiting staff",
-    "found": 11,
-    "new": 1
+    "found": 10,
+    "new": 0
    },
    {
     "term": "maintenance operative",
-    "found": 7,
-    "new": 2
+    "found": 4,
+    "new": 0
    },
    {
     "term": "maintenance technician",
-    "found": 7,
-    "new": 2
+    "found": 5,
+    "new": 0
    },
    {
     "term": "fitter",
-    "found": 2,
+    "found": 12,
     "new": 0
    },
    {
     "term": "caretaker",
     "found": 1,
-    "new": 1
+    "new": 0
    }
   ],
-  "new": 13,
-  "updated": 110
+  "new": 5,
+  "updated": 112
  }
 }
