@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_run": "2026-09-12T11:31:55Z",
+  "last_run": "2026-09-12T16:05:47Z",
   "location": "Sheffield",
   "country": "UK",
   "hours_old": 72,
@@ -347,12 +347,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-04T11:50:02Z",
-   "summary": "Part-Time Barista & Cafe Assistant at Cavells Bar, Sheffield city centre, ~20 hrs/week at £10.85–£13.00/hr. Requires barista experience, keyholder duties, and opening the venue independently in mornings.",
+   "last_seen": "2026-09-12T16:05:47Z",
+   "summary": "Location: Cavells Cafe Bar, High Street, Sheffield Job Type: Part-time, Permanent We’re looking for a dependable, friendly team member to join us at Cavells Cafe Bar for around 20 hours a week. If you enjoy a mix of morning coffee prep, classic bar service, and chatty customer hospitality, this is…",
+   "summary_source": "fallback",
    "fit": "maybe",
-   "fit_reason": "Matches his customer service and food safety experience, but barista skills and keyholder responsibility aren't explicitly in his background.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=61606e4058873051": {
    "title": "Marketing Assistant",
@@ -1234,7 +1234,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1257,7 +1257,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -1279,7 +1279,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1437,7 +1437,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Caretaker Sub Division: Facilities Management Location: Sheffield Contract Type: Permanent Hours: Full Time - 37.5 hours - Monday to Friday Creating and maintaining great places to live and work delivered by excellent people who care… Purpose of Role We're looking for a reliable and proactive…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2168,7 +2168,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Job description Thornbridge Outdoors is Sheffield City Council’s outdoor learning centre located near Bakewell in the Peak District. Our mission is ‘to widen the horizons of young people through real outdoor adventures in the Peak District’. This is an exciting opportunity to join the pool of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2192,7 +2192,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Job description Thornbridge Outdoors is Sheffield City Council’s outdoor learning centre located near Bakewell in the Peak District. Our mission is ‘to widen the horizons of young people through real outdoor adventures in the Peak District’. This is an exciting opportunity to join the pool of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -3144,7 +3144,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Caretaker – Penistone Outdoor Markets £13.31 Per Hour Join Our Team as a Part-Time Caretaker at Penistone Outdoor Markets We’re looking for a reliable and detail-oriented Caretaker to join our team on a part-time basis. This is a fantastic opportunity To work as part of a multi-disciplinary…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -3750,12 +3750,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T15:37:12Z",
-   "summary": "Barista at Costa Coffee in Sheffield paying £13.12-£14.12 per hour; core duty is serving coffee and delivering a great customer experience in a team-focused store environment.",
-   "fit": "good",
-   "fit_reason": "Matches Ben's customer service experience (POS, cash handling, food safety, allergen protocols) and needs no licence or qualifications he lacks.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-12T16:05:47Z",
+   "summary": "At Costa Coffee, we craft great coffee and memorable experiences. As a Barista, you’ll bring energy, warmth and skill to every shift. We also offer flexible shifts to suit both your needs and the store’s. Why Costa £13.12 - £14.12 per hour (location dependent) 50% discount on all food and drink in…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=6cf8752eb64e37a8": {
    "title": "Front of House Staff/Server MULTI TASKER CAFE/BAR CLEANER",
@@ -5547,7 +5547,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-10T16:55:59Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Job Summary Join our vibrant team as a Front of House Staff member, where your energy and hospitality skills will create memorable experiences for our guests. In this dynamic role, you’ll be the friendly face welcoming visitors, taking orders, serving food and drinks, and ensuring every guest feels…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5593,7 +5593,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6437,7 +6437,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "As we evolve into Social Wellness Clubs, we are creating spaces and experiences that support every aspect of our members' physical, mental, nutritional and social wellbeing. By bringing together expert guidance, genuine community, personalised experiences and innovative technology, we make wellness…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6669,7 +6669,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Team Leader At Costa Coffee, we’re all about crafting great coffee and memorable moments. As a Team Leader, you’ll bring energy, confidence and support to every shift. We also offer flexible shifts to suit you and the store. Why Costa £13.75–£14.75 per hour (location dependent) 50% discount on all…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6789,7 +6789,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-09T21:33:14Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6855,7 +6855,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-09T21:33:14Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Company Description Portico is defined by our unique culture – One that rewards hard work and dedication, empowers people to grow, with the belief that work should be fun and engaging! Our family is made up of many different people. We embrace diversity and believe in treating everyone equally to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6879,7 +6879,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-09T21:33:14Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "No CV to hand? No problem! We've made our application process mobile friendly and removed the need for a CV. Our form takes 2 minutes to complete and tells us all we need about you! As Part Time Waiting Staff at Miller & Carter - Sheffield Centertainment, you will give a warm welcome and excellent…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6903,7 +6903,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-10T12:07:15Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6925,7 +6925,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-10T12:07:15Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7065,7 +7065,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-10T12:07:15Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Company Description Join us at Hungry Horse, where the drinks are always flowing and the plates are piled high, our pubs bring families and friends together. From footy days to family time, a swift drink after work, to a quarterly pool tournament – there’s always something going on. Beyond our…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7203,7 +7203,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-10T16:55:59Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Unleash your potential. Change the game with Gripple. We are currently seeking a Warehouse Operator to join our Supply Chain team. This is an excellent opportunity for a motivated and dependable individual who enjoys working in a fast-paced environment and can work effectively both independently…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7227,7 +7227,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-10T16:55:59Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7250,7 +7250,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-10T16:55:59Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Company Description Join us at Greene King pubs, where we have always been the beacon for communities, wherever people want to come together. Our collection of community pubs are the heart and soul of the local area around them, helmed by a local hero and crewed by a team always ready with your…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7349,7 +7349,7 @@
   },
   "https://uk.indeed.com/viewjob?jk=282207a6b516bf7d": {
    "title": "Kitchen Porter/Kitchen Assistant",
-   "company": "Bens Fire & Feast",
+   "company": null,
    "location": "Sheffield, ENG, GB",
    "job_type": "fulltime",
    "is_remote": false,
@@ -7365,7 +7365,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-10T21:28:52Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "About Us Ben’s Fire & Feast is a busy and growing takeaway and delivery business serving bold, crowd-pleasing food. Our menu includes pizzas, feast boxes, kebabs, gyros, wraps, burgers and loaded sides. Everything we do is focused on fast, high-quality service for collection and delivery customers.…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7413,7 +7413,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-10T21:28:52Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Part-time Bar and Front-of-House If you’re a people person, comfortable with a coffee machine, and ready to hop behind the bar when needed, we’d love to hear from you. Your role will include serving drinks with a smile, keeping the tills organised, ensuring the bar runs smoothly, making guests feel…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7485,7 +7485,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-11T12:05:46Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7507,7 +7507,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-11T12:05:46Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7529,7 +7529,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-11T12:05:46Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "We are recruiting for a part time Sales Assistant for our store in Boundary Outlet, Sheffield. We are looking for the right candidate to join our team who is flexible with their working hours and happy to work a minimum of 16 hours per week. This does include weekends and late night trading hours.…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7553,7 +7553,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-11T12:05:46Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Job Title: Commercial Administrative Assistant Department: Sales Reports To: Sales Director Location: Sheffield with occasional travel Hours of Work: Monday to Thursday, 0800-1630, Friday 0800-1400, flexibility required to meet customer demand Company Description Mechan Limited specialises in the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7577,7 +7577,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-11T12:05:46Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Full-Time Admin Assistant / Receptionist Location: Express Coatings, 28 Johnson Street, Sheffield, S3 8GT Express Coatings is looking for a friendly, organised, and reliable Admin Assistant / Receptionist to join our team on a full-time basis. About the Role As the first point of contact for our…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7601,7 +7601,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-11T12:05:46Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Details ----------- Brand · Pull&Bear Location · SHEFFIELD, THE UNITED KINGDOM Description --------------- Inditex is a family of brands, one of the world’s leading fashion retail groups, with global brands including Zara, Pull&Bear, Massimo Dutti, Bershka, Stradivarius, Oysho, Zara Home and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7721,7 +7721,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-11T12:05:46Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "JOB TITLE: Senior Sales Advisor LOCATION: Meadowhall Shopping Centre, Sheffield CONTRACT: Permanent HOURS: 14.5 hours per week over 2 days PAY RATE: £13.09 per hour We have an amazing opportunity to join our Apricot family in one of our retail stores! We are looking for knowledgeable Senior Sales…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7745,7 +7745,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-11T12:05:46Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Responsibilities: - Greet and interact with customers in a friendly and professional manner - Take customer orders and prepare a variety of alcoholic and non-alcoholic beverages - Provide excellent customer service by ensuring all guests' needs are met - Maintain cleanliness and organization of the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7769,7 +7769,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-11T12:05:46Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7791,7 +7791,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-11T12:05:46Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7835,7 +7835,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-11T16:57:06Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Description Diversity matters We are building a brand that represents the people of the world. It’s what you do that counts, and we are always looking to expand perspectives and voices to shape our future. We see you, we celebrate you, we want you! Who we are You might know us as the inventors of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7859,7 +7859,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-11T16:57:06Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7881,7 +7881,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-11T16:57:06Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7903,7 +7903,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-11T21:36:23Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Production Operative / Production Assistant HBD Jewellery – Sheffield Pay: £29,120 Hours: 40 hours, Mon-Fri, 8.30am-4.30pm, About the role We’re looking for a reliable, hands on Production Assistant to join our jewellery manufacturing team in Sheffield. You’ll support day to day production, helping…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7927,7 +7927,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-11T21:36:23Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "hmv has been the home of entertainment in the UK since 1921. If you really know your stuff about the products that we sell and can inspire customers and deliver exceptional service, we can offer you an exciting career in entertainment retail. Using your specialist product and market knowledge,…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7962,7 +7962,7 @@
    "title": "Seasonal Sales & Operations Assistant",
    "company": "Pandora Jewelry",
    "location": "Rotherham, ENG, GB",
-   "job_type": null,
+   "job_type": "fulltime",
    "is_remote": false,
    "min_amount": null,
    "max_amount": null,
@@ -7975,7 +7975,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-11T21:36:23Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Join Pandora’s team as a Seasonal Sales & Operations Assistant! Rate of pay: ﻿£13.25 ﻿ Please note that this is a fixed-term contract ending on either 27th December 2026 or 3rd January 2027. Spread joy and make the season sparkle with Pandora as a Seasonal Sales & Operations Assistant and enjoy a…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7999,7 +7999,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-11T21:36:23Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "No CV to hand? No problem! We've made our application process mobile friendly and removed the need for a CV. Our form takes 2 minutes to complete and tells us all we need about you! With your support as a Kitchen Assistant at EGO - Sheffield City Centre, everything will run smoothly! You’ll make…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8023,7 +8023,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-11T21:36:23Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Job Introduction About us: Aspens Services is a market-leading contract caterer specialising in school food. We don't just serve meals—we create fantastic food experiences that fuel young minds! By blending deep knowledge of the education sector with the latest food trends, we encourage creativity…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8047,7 +8047,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-11T21:36:23Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Taylor Shaw – Food That Fuels School Days Good food today. Better habits tomorrow. At Taylor Shaw, we cook fresh, nutritious meals that support focus, energy and wellbeing in schools across the UK. It's simple: good food helps children thrive, and every plate you serve plays a part in that. Taylor…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8071,16 +8071,202 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-12T11:31:55Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-12T16:05:47Z",
    "summary": "Do you want to work for the UK’s leading textile, recycling and clothing collection company, that passionately cares about its colleagues, stakeholders and the planet, whilst offering some amazing benefits such as a virtual GP service, fantastic pension scheme and a starting holiday entitlement of…",
    "summary_source": "fallback",
    "fit": "maybe",
    "fit_reason": "no fit data",
    "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=fc62c6a654f6dca2": {
+   "title": "Experienced Barista/Kitchen Assistant",
+   "company": "The Woodland Coffee Stop",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-29",
+   "description": "**About Us** The Woodland Coffee Stop is a vibrant, community‑focused coffee shop set in the beautiful Ecclesall Woods. We serve high‑quality coffee, light bites, and homemade cakes in a warm, welcoming environment that values sustainability. **Role Overview** We’re looking for reliable team members with **barista experience** and a background in working in a busy coffee shop. This is a hands‑on role that involves all aspects of running the café, including: * Preparing hot drinks * Serving customers at the counter * Handling cash and card payments * Working in the kitchen * General cleaning and washing‑up duties **Start Date \\& Availability** We are recruiting now for new team members to start in **September**. Weekend shifts are essential. Additional shifts may be available during school holidays and to cover staff absences. **What You’ll Need** * Weekend availability * A strong work ethic and willingness to take on all tasks * Excellent customer service skills * Good timekeeping * Ability to work well in a team and also independently using your own initiative **When Applying** Please tell us: * Which days you are available to work * Whether you prefer Saturday or Sunday shifts Please submit your CV and a **brief cover letter** highlighting why you are interested in joining our team. We look forward to hearing from you! Pay: £10\\.85\\-£12\\.75 per hour Benefits: * Discounted or free food * Employee discount * Free parking * On\\-site parking Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=fc62c6a654f6dca2",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-12T16:05:47Z",
+   "last_seen": "2026-09-12T16:05:47Z",
+   "summary": "About Us The Woodland Coffee Stop is a vibrant, community‑focused coffee shop set in the beautiful Ecclesall Woods. We serve high‑quality coffee, light bites, and homemade cakes in a warm, welcoming environment that values sustainability. Role Overview We’re looking for reliable team members with…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=ab3a438c428c03b4": {
+   "title": "Café General Manager",
+   "company": "Gaard Coffee Hide Limited",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime, fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-27",
+   "description": "Are you an experienced barista with a flair for plant\\-based food and a passion for community\\-driven cafes? Gaard is looking for a dynamic and hands\\-on General Manager to lead operations across our vibrant café. About Us Gaard is a Sheffield\\-based, independent plant\\-based café with a strong local following. We serve up speciality coffee, fresh food, and good vibes – all 100% vegetarian and vegan. Our goal is to create warm, welcoming spaces that champion sustainability, community, and quality in everything we do. About the Role We’re looking for a proactive and energetic General Manager to oversee Gaard – someone who’s as confident behind the coffee machine as they are running a team. You’ll be responsible for day\\-to\\-day operations, supporting our growth, and maintaining high standards of service, food, and drink. What You’ll Need * Full barista training with strong coffee knowledge and service skills * Experience in food preparation and baking (bonus if plant\\-based) * Previous team leadership or management experience in hospitality * A natural flair for organisation, people management, and problem solving * A real passion for veggie and vegan food, sustainability, and great customer service * Ability to work hands\\-on and lead by example * A strong sense of responsibility, commercial awareness, and a desire to grow with the business What You’ll Do * Lead and motivate the team. * Maintain consistently excellent coffee and food standards * Manage rotas, stock, ordering, training, and site presentation * Help shape menus, events, and growth opportunities * Build strong relationships with the team, customers, and local community * Contribute ideas and energy to drive the business forward Why Join Us? * Be part of an ethical, independent business with room to grow * A supportive team and creative environment * Opportunities to shape our future and bring your own ideas to life * Staff food, coffee, and perks * The chance to help define the future of one of Sheffield’s favourite plant\\-based spots Ready to take the next step in your hospitality journey? Apply now with your CV and a short cover note telling us why you’re the right fit for Gaard. Job Types: Full\\-time, Part\\-time, Permanent Pay: £28,000\\.00\\-£32,000\\.00 per year Benefits: * Discounted or free food * Employee discount * Free parking * On\\-site parking * Store discount Experience: * Barista: 1 year (required) * Hospitality: 1 year (required) Licence/Certification: * Driving Licence (required) Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=ab3a438c428c03b4",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-12T16:05:47Z",
+   "last_seen": "2026-09-12T16:05:47Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=62e357770bcda471": {
+   "title": "Multi-Skilled Café & Kitchen Team Member",
+   "company": "Beacon Hill Kitchen & Deli Ltd",
+   "location": "Woodhouse, ENG, GB",
+   "job_type": "parttime, fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-18",
+   "description": "Multi\\-Skilled Café \\& Kitchen Team Member **Beacon Hill Kitchen \\& Deli – Leicestershire** **£13\\.25–£13\\.75 per hour \\| 4–5 days per week \\| 2 positions available** **Love food but don't want to spend every day stuck in a kitchen? Or love café life and fancy learning both sides of the business?** We're looking for **two brilliant people** to join our team at Beacon Hill Kitchen \\& Deli. These are genuinely varied roles. Some days you'll be preparing and cooking food in our kitchen. Other days you'll be out front making coffee, serving customers and helping run the café. We're deliberately looking for people who enjoy **both**. Beacon Hill can change quickly depending on the weather and how busy the Country Park is, so having a flexible team who work together and can move between different roles is really important to us. What you'll be doing You'll be trained to work confidently across the café, including: **Kitchen** * Preparing and cooking our café menu * Working independently in the kitchen once trained * Producing consistently good\\-looking, good\\-quality food * Food preparation * Food safety and allergen procedures * Stock rotation * Keeping a clean and organised kitchen **Café / Front of House** * Welcoming and serving customers * Taking orders and using the till * Making great coffee and other drinks * Running food * Clearing tables * Restocking * Keeping the café looking great * Helping wherever the team needs you when we're busy Who we're looking for We're much more interested in finding the **right people** than somebody with a particular job title. We'd love to meet people who: * Enjoy working with food * Genuinely like customers and hospitality * Are happy being busy and active * Have common sense and initiative * Notice what needs doing * Take pride in doing things properly * Are reliable * Work well as part of a team * Are willing to learn * Like variety rather than doing exactly the same job every day Previous café, kitchen, catering or barista experience would be a real advantage, but the right attitude is extremely important to us and training can be provided. You will eventually need to be confident enough to operate our kitchen independently, so some previous food or kitchen experience would be particularly useful. The working pattern We're looking for people who can work **4–5 days per week**. Weekend working is required as part of the role, although we aim to share weekend commitments fairly across the team. There are **no late nights** – we're a daytime café. What we offer * **£13\\.25–£13\\.75 per hour depending on experience and skills** * 4–5 days per week * Daytime hours * Full barista training where required * Kitchen and food training * Genuine variety between kitchen and FOH * Opportunities to develop into senior, training, key\\-holder or supervisory roles * Staff benefits and discounts * A supportive independent business * A pretty amazing workplace in the heart of Beacon Hill Country Park Important **You must be able to drive and have your own transport** due to our location and working hours. If you're the sort of person who enjoys a busy café, likes talking to customers, loves food and doesn't want to be pigeonholed into doing one thing every day, we'd really like to meet you. **Please apply with your CV and tell us a little about yourself and your experience.** Pay: £13\\.25\\-£13\\.75 per hour Benefits: * Employee discount * Flexible schedule * Free parking * On\\-site parking Application question(s): * Are you able and willing to work weekends? * Do you have you own transport to and from work? Experience: * Kitchen: 2 years (required) Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=62e357770bcda471",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-12T16:05:47Z",
+   "last_seen": "2026-09-12T16:05:47Z",
+   "fit": "stretch",
+   "fit_reason": "licence/own-vehicle requirement",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=771d3dabe78a63e1": {
+   "title": "Barista/All Rounder",
+   "company": "313 cake & patisserie ltd",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-15",
+   "description": "We’re looking for a friendly and hardworking Barista to join our team! What we’re looking for: Excellent customer service skills Trustworthy, reliable, and punctual Hardworking and motivated A bubbly and positive personality If you love coffee, enjoy making people smile, and thrive in a fast\\-paced environment, we’d love to hear from you! Apply now and become part of our vibrant team! Pay: Up to £13\\.00 per hour Benefits: * Casual dress * Free parking * On\\-site parking * Store discount Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=771d3dabe78a63e1",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-12T16:05:47Z",
+   "last_seen": "2026-09-12T16:05:47Z",
+   "summary": "We’re looking for a friendly and hardworking Barista to join our team! What we’re looking for: Excellent customer service skills Trustworthy, reliable, and punctual Hardworking and motivated A bubbly and positive personality If you love coffee, enjoy making people smile, and thrive in a fast-paced…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=1b643dfc914d2154": {
+   "title": "Front of House Staff",
+   "company": "Graze Inn",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": true,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-14",
+   "description": "**Overview** Join our friendly team as a Front of House Staff member! In this role, you will be the first point of contact for guests, ensuring they experience amazing service from the moment they arrive. Your energetic and friendly demeanor will help create a lively, positive atmosphere that keeps guests coming back. Whether assisting with food and beverage service, managing guest inquiries, or maintaining a clean and inviting space, your enthusiasm will drive memorable experiences for everyone who walks through our doors. **Responsibilities** * Greet guests warmly upon arrival and provide excellent customer service throughout their visit * Serve food and beverages efficiently, ensuring presentation and quality standards are met * Maintain cleanliness and organization of our bar \\& restaurant areas * Handle guest inquiries professionally, providing information about menu items and specials * Ensure compliance with food safety standards and health regulations at all times * Support barista duties by preparing coffee, tea, and specialty drinks with precision and care * Collaborate with team members to deliver seamless service during busy periods **Experience** * Previous experience in restaurant or hospitality settings is helpful but not essential as full training will be given Join us to be part of a fun, friendly team! This job would ideally suit a student based in Sheffield. We are 15 minutes from Ecclesall Road and offer flexible working patterns. As we are a fairly remote location a car would be advantageous but not a necessity Benefits: * Company pension * Discounted or free food * Employee discount * Free parking * On\\-site parking * Store discount Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=1b643dfc914d2154",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-12T16:05:47Z",
+   "last_seen": "2026-09-12T16:05:47Z",
+   "summary": "Overview Join our friendly team as a Front of House Staff member! In this role, you will be the first point of contact for guests, ensuring they experience amazing service from the moment they arrive. Your energetic and friendly demeanor will help create a lively, positive atmosphere that keeps…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=006ea9559e38e58e": {
+   "title": "Crew Member",
+   "company": "Virgin Active",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-07-24",
+   "description": "KAUAI, part of the Virgin Active brand. At KAUAI we are passionate about health and wellbeing and we promise to deliver nothing but the very best in food and nutrition. Serving the best quality ingredients means we bring to our customers real food that is, where possible, free of GMOs and has no additives, preservatives, artificial colourants and flavourants. We make health and healthy eating habits accessible and exciting. So what qualities does a Kitchen Team Member need to join KAUAI? A friendly, calm and approachable nature with the ability to act quickly and effectively Enthusiastic, dedicated, and driven individuals to ensure customer excellence through good service Excellent attention to detail – nothing gets by without you noticing! Consistently acting in a safe manner, knowing the importance of completing safety checks and recording them accurately Confident in your own ability to keep customer satisfaction at a high Acting as a member of one team with one goal ESSENTIAL DUTIES AND RESPONSIBILITIES include the following but are not limited to: Enthusiastic, dedicated, and driven individuals to ensure customer excellence through good service. Good ability to carry out instructions from management. Ensure all food safety controls are maintained and checklists Prepare orders for smoothies and juices, coffee and food. A customer\\-oriented positive attitude, good customer service is essential. Work timeously in various positions. Assist management and other crew members in working together as a team Ensure high personal hygiene standards are followed at all times Practise “Clean as You Go” at all times and ensure consistently high hygiene standards in the store. Assist in training up new recruits as per the brand standards and requirements. Ensure continuous awareness of all promotions, product standards and specifications. EXPERIENCE Six months to one year related experience and/or training. Kitchen experience and knowledge is OUR PERKS Leave – 30 days Pension fund 50% discount on Kauai meals while on duty Complimentary Virgin Active membership for yourself",
+   "job_url": "https://uk.indeed.com/viewjob?jk=006ea9559e38e58e",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-12T16:05:47Z",
+   "last_seen": "2026-09-12T16:05:47Z",
+   "summary": "KAUAI, part of the Virgin Active brand. At KAUAI we are passionate about health and wellbeing and we promise to deliver nothing but the very best in food and nutrition. Serving the best quality ingredients means we bring to our customers real food that is, where possible, free of GMOs and has no…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=bb622b1c62139f01": {
+   "title": "Barista - Store# 63087, Sheffield-The Common DT",
+   "company": "Starbucks",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-02-13",
+   "description": "Brand: Starbucks Coffee Company**Location** ------------ : Sheffield\\-The Common DT (Store\\# 63087\\) Church Street Ecclesfield S35 9ZZ Take your place at the heart of our community. At Starbucks, where your voice matters and your passion for customer service is brewed into everything we do. We’ve got an exciting opportunity for you to join us as a barista. Being at the forefront of our community, you’ll get involved in creating our Starbucks experience by providing our customers with high quality service, beverages and products, whilst creating our third place environment. We want you to be your true authentic self at work and that’s why you’ll also have access to our partner networks, because here you belong. You don’t need previous experience to join our team as a barista, all we ask is you bring a passion for bringing joy to our customers. Working in a Starbucks store is different from any other job. You’re creating genuine moments of connection with our customers and making a difference to their day, through creating handcraft delicious beverages and building relationships with our customers (getting to know their favourite drink), and with your fellow partners in store. The best part about this role is that no two days are ever the same! Working in one of our dynamic stores, a typical day could include: * Supporting with store procedures including, opening or closing the store, cash handling, and safety and security * Supporting your fellow partners during periods of high volume to keep the store operating * Anticipating and delivering on your customer and store needs by getting to know your store environment and customers * Supporting in creating the third place environment during each shift * Delivering legendary customer service to all customers by acting with a customer comes first attitude and creating genuine connections * Maintaining a clean and organised workspace for your customers and partners * Providing quality beverages, whole bean and food products consistently for all customers in line with our recipe and presentation standards Given the nature of our stores, our working hours could include early mornings, evenings, weekends, nights and/or holidays. All our retail store partners begin their careers with us by undertaking an introductory training programme which are led by our amazing in store trainers and coaches and are designed to immerse you in the Starbucks culture and set you up for success. These training programmes are delivered in our stores and provide partners with the opportunity to learn on the job supported by their manager. In return, we’ll offer you a competitive starting salary (in line with the national living wage) and benefits that include: * 28 days holiday a year (including Bank Holidays) \\+ an additional special day for you to take to celebrate a special moment in your life each year * Free drinks and food when you’re on shift * Bean stock options for all partners (own part of Starbucks!) * Comprehensive training (including coffee knowledge!) and access to Starbucks Global Academy (our online learning platform to help continuously develop yourself) * A free bag of coffee each week and a 30% partner discounts on food, beverages, and merchandise * Discounts with local and national retailers (cell phones, gym memberships, entertainment tickets, hotels, etc.) through Perks at Work platform * Life assurance * Home Sweet Loan (Interest\\-free loans that can be paid back over 12 months to help pay your rental deposit) * A free 24/7 Employee Assistance Programme available to you and your family * Recognition schemes and monetary awards for long service, WOWing customers and your fellow partners * Great long\\-term career opportunities in store and support center So, if you’re looking for a new opportunity, with us you’ll be welcomed, you’ll be challenged, you’ll be inspired. Here you’ll be heard. Because here, you’re a part of it all. Here you belong. **What is our process?** Application \\> CV review \\> interview and in store experience \\> offer and onboarding Starbucks is committed to building an inclusive and diverse workforce. All applicants and partners will be treated fairly, without regard to race, religion, sex, nationality, age, physical or mental disability, sexual orientation, marital status, gender identity and expression. Know someone who would be a perfect fit? Share this opportunity with them! At Starbucks, there’s always room for one more **Job Number:** =============== 260005776",
+   "job_url": "https://uk.indeed.com/viewjob?jk=bb622b1c62139f01",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-12T16:05:47Z",
+   "last_seen": "2026-09-12T16:05:47Z",
+   "summary": "Brand: Starbucks Coffee CompanyLocation ------------ : Sheffield-The Common DT (Store 63087) Church Street Ecclesfield S35 9ZZ Take your place at the heart of our community. At Starbucks, where your voice matters and your passion for customer service is brewed into everything we do. We’ve got an…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=7456843541ae1c40": {
+   "title": "Food Services Assistant",
+   "company": "Sainsbury’s",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-12",
+   "description": "**Food Services Assistant** =========================== **Rate:** **£13\\.23 per hour** **Location:** **Wadsley Bridge Store, Sheffield, S6 1LY** **Hours:** **Part time, 17 hours per week** **Contract type:** **Permanent** **Business area:** **Retail** **Requisition ID:** **400081051** ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ##### **Availability Window** **Thursday:** **04:00 \\- 10:00** **Friday:** **04:00 \\- 10:00** **Saturday:** **04:00 \\- 10:00** **Working in our stores:** Our stores are fast\\-paced environments where no two days are ever the same. They are at the heart of the local community providing outstanding value, quality and great service. As one of our Food Services Assistants, you’ll be the special ingredient that ensures our stores are set\\-up brilliantly to provide our customers with a range of great tasting products. **Eligibility:** * You must be above the school\\-leaver age in your country School leaving age \\- GOV.UK * You must have Right to Work eligibility in the UK * If the shifts for this role cover hours earlier than 6am or later than 11pm, you will need to be at least 18 years of age. **What you’ll be doing:** * Preparing, packing and displaying a range of breads, pastries, sweet treats, hot foods and seasonal items so they are enticing for our customers * Complying to food safety and hygiene standards by checking food temperatures, date checking products, disposing of waste and cleaning the food areas * Be tuned in to what our customers want and be on hand to serve them brilliantly, supporting with any questions, and proactively offering help * Replenishing stock to maintain availability and keeping our shelves tidy and full of well\\-presented products * Build great knowledge about our products, services and promotions to help provide recommendations * Working flexibly across the store as required **What makes a great Sainsbury’s Colleague:** * Friendly and welcoming with a genuine enthusiasm for helping customers and a passion for food * Happy working in a fast\\-paced, physical and high energy environment, and thrives in being part of a team * Takes responsibility for owning tasks and uses initiative to solve problems * Always ready to work flexibly and productively across the store to a high standard – you’ll be fully trained in a variety of skills, so you have opportunities to learn, develop and try new things * Comfortable in learning to use new digital tools and technology to do your job brilliantly * Have great attention to detail, keeping the store clean and clutter free, always looking to create the best shopping experience for our customers **Working for us has great rewards:** We truly value our colleagues and provide market\\-leading benefits and training to reflect that: * **Discount card** – 10% off at Sainsbury’s, Argos, Tu, and Habitat after four weeks, increasing to 15% discount at Sainsbury’s every Friday and Saturday * **Free food and hot drinks** – provided for Colleagues in all our stores * **Generous holiday entitlement** – based on the hours you work, plus maternity and paternity leave * **Pension** – we’ll match between 4\\-7\\.5% of your pension contributions * **Sainsbury’s share schemes** – buy Sainsbury’s shares at discounted prices * **Shopping discounts** – special offers on gym memberships, restaurants, holidays, retail vouchers and more * **Wellbeing support** – including free access to our Employee Assistance Programme which is a confidential service providing support and guidance on a wide range of issues **Please note that our vacancies may close quickly, so we encourage candidates to apply at their earliest convenience.** **If you need an update on your application, you should contact the store that you have applied to. You can find contact details for all Sainsbury’s stores** **here****.** **An inclusive place to work and shop** We are dedicated to being a truly inclusive retailer, where every colleague can achieve their full potential, and every customer feels welcome when they shop with us. To support this commitment, our colleagues may be entitled to a range of enhanced discretionary leave for families, as well as support for carers. We provide our colleagues resources to help them understand and support their role and their team effectively. Our internal colleague networks seek to ensure true representation for everyone, helping us identify and remove barriers that our colleagues may face. We are proud to offer a range of development opportunities, including mentorship, training, and career progression pathways, to help our colleagues grow and succeed. We also celebrate diversity through various initiatives and events, fostering a culture of inclusion and respect. If you would like to learn more about our commitment to inclusivity, please take a look here. As part our commitment as a Disability Confident Leader, all candidates will have the opportunity to be offered an interview through our online assessment which will prioritise those candidates who achieve the highest score and therefore most closely match the essential criteria for the role. **Should you require any reasonable adjustments during the application or interview stages, please let us know, and we will endeavour to support you.**",
+   "job_url": "https://uk.indeed.com/viewjob?jk=7456843541ae1c40",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-12T16:05:47Z",
+   "last_seen": "2026-09-12T16:05:47Z",
+   "fit": "stretch",
+   "fit_reason": "3+ years experience required",
+   "fit_source": "rule"
   }
  },
  "last_run_report": {
-  "started": "2026-09-12T11:31:55Z",
+  "started": "2026-09-12T16:05:47Z",
   "searches": [
    {
     "term": "activity instructor",
@@ -8099,17 +8285,17 @@
    },
    {
     "term": "warehouse operative",
-    "found": 2,
+    "found": 1,
     "new": 0
    },
    {
     "term": "picker packer",
-    "found": 3,
+    "found": 2,
     "new": 0
    },
    {
     "term": "delivery driver",
-    "found": 7,
+    "found": 6,
     "new": 0
    },
    {
@@ -8119,17 +8305,17 @@
    },
    {
     "term": "customer service assistant",
-    "found": 10,
-    "new": 1
-   },
-   {
-    "term": "retail assistant",
     "found": 8,
     "new": 0
    },
    {
+    "term": "retail assistant",
+    "found": 7,
+    "new": 0
+   },
+   {
     "term": "receptionist",
-    "found": 3,
+    "found": 2,
     "new": 0
    },
    {
@@ -8144,13 +8330,13 @@
    },
    {
     "term": "barista",
-    "found": 1,
-    "new": 0
+    "found": 11,
+    "new": 7
    },
    {
     "term": "waiting staff",
     "found": 5,
-    "new": 0
+    "new": 1
    },
    {
     "term": "maintenance operative",
@@ -8173,7 +8359,7 @@
     "new": 0
    }
   ],
-  "new": 1,
-  "updated": 60
+  "new": 8,
+  "updated": 56
  }
 }
