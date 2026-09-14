@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_run": "2026-09-14T13:46:00Z",
+  "last_run": "2026-09-14T20:12:28Z",
   "location": "Sheffield",
   "country": "UK",
   "hours_old": 72,
@@ -347,7 +347,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "Location: Cavells Cafe Bar, High Street, Sheffield Job Type: Part-time, Permanent We’re looking for a dependable, friendly team member to join us at Cavells Cafe Bar for around 20 hours a week. If you enjoy a mix of morning coffee prep, classic bar service, and chatty customer hospitality, this is…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -876,7 +876,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "Be Yourself – Be a Bold Team Player – Be Leonardo Once you’re part of the team, you’re part of the Leonardo community of over 55 hotels across the UK & Ireland! As a Kitchen Porter you’ll be right in the heart of the hotel, so we want you to take pride in everything you’ll be doing to support the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -900,7 +900,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "Smoke BBQ is looking for a part-time kitchen porter with an immediate start. Candidates should possess the following: - A strong work ethic - Ability to perform under pressure - A positive 'can do' attitude - Be a team player Previous experience in a similar role would be advantageous. Benefits…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -1257,7 +1257,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -1279,7 +1279,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1301,7 +1301,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-05T10:59:03Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1437,7 +1437,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "Caretaker Sub Division: Facilities Management Location: Sheffield Contract Type: Permanent Hours: Full Time - 37.5 hours - Monday to Friday Creating and maintaining great places to live and work delivered by excellent people who care… Purpose of Role We're looking for a reliable and proactive…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2168,7 +2168,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "Job description Thornbridge Outdoors is Sheffield City Council’s outdoor learning centre located near Bakewell in the Peak District. Our mission is ‘to widen the horizons of young people through real outdoor adventures in the Peak District’. This is an exciting opportunity to join the pool of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2192,7 +2192,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "Job description Thornbridge Outdoors is Sheffield City Council’s outdoor learning centre located near Bakewell in the Peak District. Our mission is ‘to widen the horizons of young people through real outdoor adventures in the Peak District’. This is an exciting opportunity to join the pool of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2861,7 +2861,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "Job Overview We are seeking a dedicated and enthusiastic Kitchen Porter to join our dynamic kitchen team. The Kitchen Porter plays a crucial role in ensuring the smooth operation of our kitchen by assisting with food preparation, maintaining cleanliness, and supporting the culinary staff. This…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -3075,12 +3075,12 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-06T11:24:20Z",
-   "summary": "Medical Service Technician (electronics repair/servicing) at Numed Healthcare, Sheffield — £26,780–£29,355, 37.5 hrs, no driving required, full training provided. Workshop-based role diagnosing and repairing medical electronic devices with component-level work.",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "Medical Service Technician – Electronics Repair & Servicing Salary: £26,780 - £29,355 (depending on experience) Hours: 37.5 hours per week (flexible start between 8:30am and 9:30am) Location: Sheffield (Workshop based) Do you enjoy fixing things? We’re looking for an electronics technician to join…",
+   "summary_source": "fallback",
    "fit": "maybe",
-   "fit_reason": "Ben's Level 3 Engineering Diploma and motorman fault-finding experience are relevant, but the role targets electronics/PCB diagnostics which is outside his core background; training is provided though",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=7a9c701bc09eef89": {
    "title": "Dog Wellbeing Technician",
@@ -3144,7 +3144,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "Caretaker – Penistone Outdoor Markets £13.31 Per Hour Join Our Team as a Part-Time Caretaker at Penistone Outdoor Markets We’re looking for a reliable and detail-oriented Caretaker to join our team on a part-time basis. This is a fantastic opportunity To work as part of a multi-disciplinary…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5547,7 +5547,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "Job Summary Join our vibrant team as a Front of House Staff member, where your energy and hospitality skills will create memorable experiences for our guests. In this dynamic role, you’ll be the friendly face welcoming visitors, taking orders, serving food and drinks, and ensuring every guest feels…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5593,7 +5593,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6254,7 +6254,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-11T16:57:06Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6391,7 +6391,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-09T12:13:10Z",
-   "last_seen": "2026-09-11T21:36:23Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "Company Description ----------------------- Title: Kitchen Porter Location: Sheffield Hourly Rate: £13.45 Part Time: 15 Hours Benefits: 28 Days holiday including bank holidays Plus your birthday off 3 volunteering days 3 days grandparent leave 24 week’s enhanced maternity leave Secondary carer…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6437,7 +6437,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "As we evolve into Social Wellness Clubs, we are creating spaces and experiences that support every aspect of our members' physical, mental, nutritional and social wellbeing. By bringing together expert guidance, genuine community, personalised experiences and innovative technology, we make wellness…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6669,7 +6669,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "Team Leader At Costa Coffee, we’re all about crafting great coffee and memorable moments. As a Team Leader, you’ll bring energy, confidence and support to every shift. We also offer flexible shifts to suit you and the store. Why Costa £13.75–£14.75 per hour (location dependent) 50% discount on all…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7365,7 +7365,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-10T21:28:52Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "About Us Ben’s Fire & Feast is a busy and growing takeaway and delivery business serving bold, crowd-pleasing food. Our menu includes pizzas, feast boxes, kebabs, gyros, wraps, burgers and loaded sides. Everything we do is focused on fast, high-quality service for collection and delivery customers.…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7769,7 +7769,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-11T12:05:46Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7791,7 +7791,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-11T12:05:46Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7859,7 +7859,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-11T16:57:06Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -8072,7 +8072,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-12T11:31:55Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "Do you want to work for the UK’s leading textile, recycling and clothing collection company, that passionately cares about its colleagues, stakeholders and the planet, whilst offering some amazing benefits such as a virtual GP service, fantastic pension scheme and a starting holiday entitlement of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8096,7 +8096,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-12T16:05:47Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "About Us The Woodland Coffee Stop is a vibrant, community‑focused coffee shop set in the beautiful Ecclesall Woods. We serve high‑quality coffee, light bites, and homemade cakes in a warm, welcoming environment that values sustainability. Role Overview We’re looking for reliable team members with…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8120,7 +8120,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-12T16:05:47Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -8142,7 +8142,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-12T16:05:47Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -8164,7 +8164,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-12T16:05:47Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "We’re looking for a friendly and hardworking Barista to join our team! What we’re looking for: Excellent customer service skills Trustworthy, reliable, and punctual Hardworking and motivated A bubbly and positive personality If you love coffee, enjoy making people smile, and thrive in a fast-paced…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8212,7 +8212,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-12T16:05:47Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "KAUAI, part of the Virgin Active brand. At KAUAI we are passionate about health and wellbeing and we promise to deliver nothing but the very best in food and nutrition. Serving the best quality ingredients means we bring to our customers real food that is, where possible, free of GMOs and has no…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8236,7 +8236,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-12T16:05:47Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "Brand: Starbucks Coffee CompanyLocation ------------ : Sheffield-The Common DT (Store 63087) Church Street Ecclesfield S35 9ZZ Take your place at the heart of our community. At Starbucks, where your voice matters and your passion for customer service is brewed into everything we do. We’ve got an…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8282,7 +8282,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-12T21:29:18Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "Come join our fantastic team. We love to entertain! It’s in our DNA!... and it’s not just about bowling. We have lots more to offer from Escape Rooms to Karaoke Rooms, Laser Arena, Soft Play to Arcade Machines and Pool Tables. We also have fully licensed bars including cocktails, and of course our…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8396,7 +8396,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-13T12:37:16Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "The ideal applicant We're looking for fun, enthusiastic, passionate people to join our hard-working teams. No experience is needed, just a good attitude, a willingness to learn and a calm head under pressure. As a UK Top Employer with an award-winning training programme, we know that we can teach…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8444,7 +8444,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-13T16:53:31Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "Package Description Welcome to Pizza Hut, we make every single one of our craveable pizzas by hand. And we work even harder to help you handcraft your future. Exactly how you choose to. We aim to create an exciting environment to help you get where you want to go in your personal life and work - a…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8468,7 +8468,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-13T16:53:31Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "We are looking for a competent and friendly individual with excellent knowledge and a good customer service manner. Knowledge of DIY products and a desire to learn more is essential. The job will be between 20 and 32 hours depending on skills and experience, covering 4 to 5 days per week.…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8514,7 +8514,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-13T16:53:31Z",
-   "last_seen": "2026-09-13T16:53:31Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "More about the role We're looking for friendly, reliable people to join our team, working across the store to serve our customers. You'll work in a fast-paced, structured environment with clear routines and timed activities that help keep everything running smoothly - all to make sure our customers…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8538,7 +8538,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-13T16:53:31Z",
-   "last_seen": "2026-09-13T16:53:31Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "More about the role We're looking for friendly, reliable people to join our team, working across the store to serve our customers. You'll work in a fast-paced, structured environment with clear routines and timed activities that help keep everything running smoothly - all to make sure our customers…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8707,7 +8707,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "Job Title: Warehouse Operative – Embroidery & Heat Transfer Clothing Location: Sheffield, UK Hours: Part-time Wednesday-Thursday, 8am-5pm & Friday 8am-4pm Salary: £12.71 per hour Start Date: Immediate We are a diverse company with a fast-growing custom apparel department seeking a skilled and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8731,7 +8731,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -8753,7 +8753,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -8775,7 +8775,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -8797,7 +8797,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -8819,7 +8819,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "Location: Sheffield Job Type: Full-time Shift Pattern: Monday to Friday, 9:00am–6:00pm (Optional Saturday shifts available) Pay Structure: Guaranteed base pay plus performance bonus incentives Start Date: Immediate or within 2 weeks If you love being in the middle of a busy shop floor, enjoy…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8867,7 +8867,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "Location: Primark Meadowhall, Sheffield Pay rate: £13.00 per hour Employment type: Fixed Term Contract (Contract End date - 09th January 2027) Job type: Part Time Contracted hours: 22.5 hours per week Shift pattern: Varied shifts including mornings; afternoons; evenings and weekends – all will be…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8885,14 +8885,14 @@
    "interval": null,
    "currency": "GBP",
    "date_posted": "2026-09-14",
-   "description": "Parker Rhodes Hickmotts are seeking to appoint a full\\-time Legal Secretary to join our busy Immigration Department. This role will be supporting fee earners in the department, duties include: * Secretarial and administrative duties, including digital audio typing; * Opening and closing files; * Booking interpreters and liaising with other third parties; * Dealing with clients both over the telephone and face to face and subsequently creating precise file notes; * Filing, photo\\-copying and other ad\\-hoc duties; * Ad\\-hoc reception cover. Salary – Minimum Wage. To apply, please send your CV and covering letter to recruitment@prhsolicitors.co.uk Job Type: Part\\-time Work Location: In person",
+   "description": "Parker Rhodes Hickmotts are seeking to appoint a full\\-time experienced Legal Secretary to join our busy Immigration Department. This role will be supporting fee earners in the department, duties include: * Secretarial and administrative duties, including digital audio typing; * Opening and closing files; * Booking interpreters and liaising with other third parties; * Dealing with clients both over the telephone and face to face and subsequently creating precise file notes; * Filing, photo\\-copying and other ad\\-hoc duties; * Ad\\-hoc reception cover. Salary – Minimum Wage. This is a permanent position with contracted hours being 9:00 am to 5:15 pm Monday to Friday. Previous secretarial work is essential. To apply, please send your CV and covering letter to recruitment@prhsolicitors.co.uk Job Type: Part\\-time Work Location: In person",
    "job_url": "https://uk.indeed.com/viewjob?jk=bc2db637b693bf43",
    "categories": [
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T13:46:00Z",
-   "summary": "Parker Rhodes Hickmotts are seeking to appoint a full-time Legal Secretary to join our busy Immigration Department. This role will be supporting fee earners in the department, duties include: Secretarial and administrative duties, including digital audio typing; Opening and closing files; Booking…",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "Parker Rhodes Hickmotts are seeking to appoint a full-time experienced Legal Secretary to join our busy Immigration Department. This role will be supporting fee earners in the department, duties include: Secretarial and administrative duties, including digital audio typing; Opening and closing…",
    "summary_source": "fallback",
    "fit": "maybe",
    "fit_reason": "no fit data",
@@ -8915,7 +8915,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "ATTENDANCE AND ADMIN OFFICER Start date: As soon as possible Hours: 32.5 hours a week, 39 weeks per year Monday – Friday 08:00am – 3:00pm Salary: Grade 3, payscale 5 - 6 £26,427 - £26,847 per annum Actual Salary: £19,966 - £20,284 per annum Cascade Multi Academy Trust is seeking to appoint an…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8936,10 +8936,11 @@
    "description": "**Company Description** Join us at Greene King pubs, where we have always been the beacon for communities, wherever people want to come together. Our collection of community pubs are the heart and soul of the local area around them, helmed by a local hero and crewed by a team always ready with your favourite tipple. Our pubs embody the true meaning of a local pub, acting as a central hub where locals can enjoy one of our events, a feast of lovingly cooked food or a quick catch up with friends over a drink. **Job Description** As a Kitchen Assistant, you’ll play a key part in the kitchen ensuring a busy service runs smoothly. You’ll make sure everything is well stocked, clean, and the team around you have everything they need to create the perfect dish for our customers. **Qualifications** **As a Kitchen Assistant, you will…** * Help the kitchen service run smoothly by making sure it is well stocked and clean. * Maintain hygiene levels and safety regulations in the kitchen to help guarantee the safety of your entire team and visitors. * Communicate clearly with your team, ensuring they have everything they need. **What you’ll bring to the kitchen:** * A positive can\\-do attitude to support your team. * A passion for challenges and thriving in a fast\\-paced kitchen. * Willingness to learn and expand your skills in the kitchen. * Sufficient spoken and written English to perform the role safely and understand allergen controls. **Additional Information** **We’re all about rewarding our team’s hard work, that’s why…** You’ll receive a competitive salary, pension contribution as well as: * The chance to further your career across our well\\-known brands – as one of the industry's top apprenticeship providers, we can provide training and development at each level of your career. * Discount of 33% for you and 15% for your loved ones on all of our brands – so you enjoy your favourite food and drink at a discount. * Free employee assistance program – mental health, well\\-being, financial, and legal support because you matter! * Enhanced, family\\-friendly maternity and paternity policies * Menopause Friendly Employer * Discount of 50% for you and 25% for your loved ones at our Greene King Inns and hotels – so you can enjoy a weekend away without breaking the bank. * Refer a friend – who do you know who could be interested in a new role? When they are placed, you could earn up to £1,500 for referring them! * Wagestream – access your wage before payday for when life happens. * Retail discounts – Receive up to 30% off at Superdrug, exclusive discounts with Three Mobile along with many more… **CREATING PLACES WHERE PEOPLE FEEL WELCOME, SAFE AND THAT THEY BELONG** We aim to embed inclusion into every decision we make – across our people, customers, communities, suppliers, and operations. We want to create a culture where everyone feels welcome, valued, and able to thrive.",
    "job_url": "https://uk.indeed.com/viewjob?jk=54191e4a318fe678",
    "categories": [
-    "Hospitality"
+    "Hospitality",
+    "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "Company Description Join us at Greene King pubs, where we have always been the beacon for communities, wherever people want to come together. Our collection of community pubs are the heart and soul of the local area around them, helmed by a local hero and crewed by a team always ready with your…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8963,16 +8964,721 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-14T20:12:28Z",
    "summary": "Job Description ------------------- Join Our Team as a Catering Assistant at Astrea Academy Sheffield! Are you passionate about creating delicious meals and providing excellent dining experiences? Astrea Academy Sheffield is looking for a dedicated and enthusiastic Catering Assistant to join our…",
    "summary_source": "fallback",
    "fit": "maybe",
    "fit_reason": "no fit data",
    "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=ffdad0710c5dc1c8": {
+   "title": "Warehouse Operative & Delivery Driver",
+   "company": "Cafeology Limited",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "**About Us** Cafeology are an independently owned company specialising in the manufacture and distribution of hot beverages and equipment across the UK. Operating from our Roastery and Head Office near Meadowhall, Sheffield (Junction 34, M1\\), we supply complete beverage solutions to many prestigious clients both locally and nationally. Due to continued growth, we are looking for a Delivery Driver / Warehouse Operative to join our friendly and dedicated team. **The Role** This is a varied role combining warehouse and delivery responsibilities. You will be responsible for ensuring our customers receive their orders on time, in full, and in excellent condition. As the role involves manual handling, you’ll need to be comfortable with lifting and being active throughout the day. You will also be the face of Cafeology with our customers, so good communication and customer service skills are essential. Full training will be provided on our products and systems. **Key Responsibilities** * Safely deliver goods to customers across the UK, acting as a professional and friendly brand ambassador. * Load and unload vehicles, ensuring all products are handled carefully. * Pick, pack and prepare customer orders accurately in the warehouse. * Carry out daily vehicle checks, ensuring the van is clean, roadworthy and well\\-maintained. * Use delivery apps and cloud\\-based systems (training provided). * Assist in keeping the warehouse tidy, organised and operating smoothly. * Support colleagues with general warehouse duties when not out on deliveries. * Follow health and safety procedures at all times. * Occasionally support other departments such as our Roastery, helping with production tasks or ad hoc projects when required. **About You** * Positive “can do” attitude with flexibility and willingness to learn. * Reliable, punctual, and able to work well within a small team. * Strong customer service skills. * Numerate and able to follow delivery paperwork accurately. * Physically fit and comfortable with lifting. * Forklift / Reach truck licence desirable (training available if needed). * Must hold a valid UK driving licence. **Benefits** * 20 days annual leave, increasing to 25 days with service, plus 8 bank holidays * Christmas close down period * Full training provided on our products, systems and ways of working * Opportunity to work as part of a friendly, supportive and established team * Monday to Friday working pattern with no regular weekend work * Based at our Sheffield Roastery and Head Office, with free on\\-site parking * Company uniform provided * Annual company funded retreat **Hours** Monday to Friday, 8:00am – 5:00pm (occasional flexibility required). Job Types: Full\\-time, Permanent Pay: £28,000\\.00 per year Benefits: * Company pension * Employee discount * Free parking * On\\-site parking Application question(s): * This role requires flexibility to work outside of regular working hours when needed, including occasional early starts and later finishes. Are you able to meet this requirement? Experience: * Commercial driving: 1 year (preferred) Language: * English (required) Licence/Certification: * Driving Licence (required) * Reach Truck Licence – any recognised UK provider (preferred) Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=ffdad0710c5dc1c8",
+   "categories": [
+    "Driving & Logistics",
+    "Warehouse"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=d6e0a5c75b17f633": {
+   "title": "Packing Operators",
+   "company": "Gripple",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "Were on the hunt for **packing operators** to join the Gripple operations team. This is a fantastic opportunity for a confident, hard\\-working individual capable of working both as part of a team and on their own. **Why Gripple?** Were not just innovatorswere game\\-changers. Since 1989, Gripple has led the charge in wire joining and suspension systems. As a **100% employee\\-owned business**, we dont just hire talentwe invest in it. Youll be backed by a global infrastructure, a powerhouse support team, and a culture that champions ownership, passion, and performance. **Whats in it for you:** * **Share ownership**: Buy a stake in Gripple and the GLIDE group and share in our success * **15% non\\-contributory pension** * **32 days holiday**, increasing with long service * **Private healthcare**, family\\-focused policies, and exceptional benefits that support your wellbeing at every stage **The role:** We are looking for individuals who are technical, enthusiastic and flexible with a keen eye for detail. Based at our Riverside Works site and reporting to a team leader, your main task will be to operate packaging equipment whilst ensuring the product quality is up to standard. Energy, enthusiasm and an ability to do some lifting are crucial. **What you'll be doing:** * Operating machinery and equipment to high standards ensuring targets are achieved * Bagging, boxing and palletising goods * Effectively prioritising customer orders to meet demand in a fast\\-faced environment * Basic fault finding to identify machinery inefficiencies * Undertaking asset care as part of your daily role * Maintaining and driving forward 5S standards * Using IT systems (E8 / Microsoft Dynamics 365\\) to update works orders and complete quality checks * Completing documentation for traceability and invoicing purposes **Who you are****:** Knowledge, skills and experience: * Numeracy skills and an ability to communicate both verbally and in writing in a clear and concise manner, with a good standard of written and spoken English Personal attributes: * Enthusiasm with a good work ethic and excellent interpersonal skills * An organised approach and ability to cope well under pressure * Good problem\\-solving capacity and ability to work on own initiative * A flexible, hard\\-working and can do attitude and adaptability to changes in your working environment * A willingness to learn other disciplines * Self\\-motivation and the ability to work on own initiative as well as part of a team * The drive to challenge machine targets, always identify areas for improvement and remain vigilant and observant **Working hours** The position will entail working regular mornings and afternoons on a two\\-week shift pattern, Mon\\-Thurs 6\\.00am\\-2\\.00pm or 2\\.00pm\\-10\\.00pm and Fri 6\\.00am\\-1\\.00pm or 1\\.00pm\\-8\\.00pm. Night shift and weekend work may also be required to meet the demands of the business and you may also be required to help in other areas on site. A flexible, can do attitude is therefore paramount. **The Gripple Spirit** Our values fun, integrity, passion, entrepreneurship, teamwork, innovation arent just words on a wall. They shape everything we do. Join us, and youll experience: * true **work\\-life balance** * an inclusive and caring workplace where your ideas matter, and your impact is felt globally **Take a closer look:** * Learn more about who we are and how were changing the game: https://www.gripple.com/about\\-gripple * Take a tour of our head office at the historic Old West Gun Works in Sheffield, South Yorkshire here **Closing date 28****th** **September 2026\\.** Bring your ambition. Well bring the opportunity. **Join a team where everyone belongs** We encourage applications from people from all backgrounds and aim to have a workforce that represents the wider society that we serve. We champion diversity, inclusion and wellbeing and aim to create a workplace where everyone feels valued with a sense of belonging. If there are any adjustments that would help your experience with Gripple, please let us know when you apply. Whilst not mandatory, your completion of the applicant ethic monitoring form will help us monitor and encourage equality and diversity. The information you provide will be anonymous and kept both confidential and separate to your application.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=d6e0a5c75b17f633",
+   "categories": [
+    "Warehouse"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "Were on the hunt for packing operators to join the Gripple operations team. This is a fantastic opportunity for a confident, hard-working individual capable of working both as part of a team and on their own. Why Gripple? Were not just innovatorswere game-changers. Since 1989, Gripple has led the…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=c10fc4222a7ebf56": {
+   "title": "Delivery Driver",
+   "company": "Well Pharmacy",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "The Ideal Candidate Are you friendly, organised, and passionate about delivering outstanding customer service? Looking for a role where you can make a real difference in your local community while developing your skills and career? At **Well**, we're on a mission to create the best prescription experience in the UK. It may sound ambitious, but with our talented, supportive, and forward\\-thinking teams, we're making it happen every day. We believe our people are the key to our success, and we're looking for someone who shares our commitment to helping others. ### **About the Role** As a **Delivery Driver**, you'll play a vital role in supporting both our pharmacy teams and local customers. Many of the people you will deliver to are unable to visit our pharmacies themselves and rely on our service to receive essential prescriptions and healthcare products. For some of our most vulnerable customers, your deliveries are much more than a convenience, they're an important part of maintaining their health and wellbeing. Working closely with the Delivery Team Manager and pharmacy colleagues, you'll use your local knowledge, excellent communication skills, and customer\\-focused approach to ensure every delivery reaches the right patient safely and on time. ### **What We're Looking For** To be successful in this role, you'll need: * A full UK Driving Licence * The right to work in the UK * Excellent communication and interpersonal skills * A reliable, organised, and customer\\-focused approach * Flexibility to complete deliveries across varying timeslots as required * A genuine passion for helping people and supporting your local community ### **Important Information** Due to the nature of this position, the successful candidate will be required to undergo an **enhanced DBS check** prior to employment. This will include spent and unspent convictions, as well as any information held by local police that is considered relevant to the role. Employment is subject to satisfactory DBS clearance. The Disclosure and Barring Service (DBS) helps employers make safer recruitment decisions and protects vulnerable groups, including children and adults who may require additional support. ### **Diversity \\& Inclusion** At **Well**, we're proud to be a diverse and inclusive employer. We are committed to creating an environment where everyone feels valued and supported. If you have specific requirements during the recruitment process, we'll do everything we can to accommodate you, whether that's identifying an accessible pharmacy location, discussing flexible working opportunities, or making reasonable adjustments to support your application. ### **Application Process** Due to the high volume of applications we receive, we may not be able to respond individually to every applicant. If you have not heard from us within 28 days of submitting your application, please assume that your application has been unsuccessful on this occasion. About The Company For over 70 years, we’ve been looking after the health and wellbeing of communities across the UK. Well Pharmacy (part of Bestway Healthcare) is the second largest pharmacy chain in the UK with c.760 pharmacies and a team of around 7,000 colleagues based across our Community Pharmacies, Online Pharmacy, Healthcare Services Centre, Community Drivers, Bestway Medhub \\& Wardles team and our Support Centre team. Our mission is to be here for the wellbeing of our patients and customers, to provide the best community pharmacy experience in the UK for everyone, for our patients, our customers, our people, and our NHS. The pharmacy of the future will look very different from the one we know today. It will play a huge role in transforming primary healthcare and we will play a central role in bringing it to life. We will use our clinical expertise and technological ambition to take advantage of the potential this future has to offer us. Making medicines, advice, services and care available in the places and spaces that people need and want it most. We want to be a great business. To be recognised as delivering a community pharmacy experience that is the best there is. To do this we want our teams to feel proud about the positive impact they make, feel valued as part of a close\\-knit and expert community, and feel confident in their role in a business that is stable, innovative, and caring. **‘Together we make a difference’**",
+   "job_url": "https://uk.indeed.com/viewjob?jk=c10fc4222a7ebf56",
+   "categories": [
+    "Driving & Logistics"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=8858cb9eac98a9c6": {
+   "title": "Self Employed Trade Plate Driver",
+   "company": "Vehicle Hire Company",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "**Become a Self\\-Employed Trade Plate Vehicle Delivery Driver and enjoy the freedom of independent working.** **Partner with a Leading UK Vehicle Logistics Network** With over 20 years of experience, we are one of the UK’s most respected vehicle logistics providers. We are engaging self\\-employed Trade Plate Drivers across the UK. **The Role** As a Vehicle Collection \\& Delivery Driver, you will drive new and s/h vehicles across the UK, travelling between jobs using public transport. * Collect and deliver vehicles nationwide * Conduct comprehensive vehicle appraisals * Use public transport between delivery and collection (costs reimbursed) * Work independently and manage your own schedule **What You Can Expect** * Regular weekday work (Monday–Friday) * Weekly payments * Full reimbursement of public transport costs * Nationwide travel starting from your home * Carryover vehicles / chase cars often available to get you home * Performance uplift with enhanced earning potential * Make a start within a week! * Drive some really spectacular cars! **Eligibility Criteria** * **Aged 25 or over** (insurance requirement) * Full UK driving licence held for **at least 2 years** * Licence must show your **current address** * **Maximum 6 penalty points** (no serious offences) * You must have **private or off\\-road parking** at your home * Right to work in the UK * Willing to complete a DBS check (paid by us) * Physically fit for daily travel and walking **If you do not meet the above criteria then please do NOT apply as you WILL NOT BE CONSIDERED for the role, sorry.** **Preferred Experience** * Delivery driving (1\\+ year preferred) * Trade plate or vehicle movement experience * Strong customer service skills **Why Join Us** * No office\\-based work * Variety of vehicles and routes * Independence and flexibility * Join a small but growing business * Drive some fabulous cars **Additional Information** * Job Type: Freelance / Self\\-Employed * Location: UK\\-wide (on the road) * You need to have Off\\-road parking for your carry over car \\- insurance requirement * 2 years valid driving licence * Licence with current address * Over 25 Pay: £450\\.00\\-£650\\.00 per week Licence/Certification: * Driving Licence showing current home address (required) * You MUST HAVE off\\-road parking at your home to be considered (required) * Driving Licence for AT LEAST 2 YEARS and be 25 or over (required) Work Location: On the road",
+   "job_url": "https://uk.indeed.com/viewjob?jk=8858cb9eac98a9c6",
+   "categories": [
+    "Driving & Logistics"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=ccf065dd502c6c9b": {
+   "title": "HGV Class 1 Driver",
+   "company": "Hermes",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-13",
+   "description": "Posted Sunday, 13 September 2026 at 19:00 Evri Group is the UK’s premier parcel delivery business, uniting four distinct brands—Evri, Evri Premium, a network of DHL, UK Mail and Irish e\\-commerce specialist Coll\\-8—to deliver more than 1 billion parcels and letters annually across the UK and to over 200 global destinations. With 12,000 colleagues, 30,000 couriers and drivers, 8,000 vehicles, and a nationwide network of hubs, depots and fulfilment centres, we combine over 50 years of expertise with the scale and flexibility to support everyone from casual senders to SMEs and major retailers. Driven by our friendly, ambitious and diverse people, we are passionate about delivering exceptional service and offer exciting opportunities across the Evri Group. Position: HGV Class 1 Driver Contract Type: Permanent – 45 hrs Location: Sheffield Shift: Mon\\-Fri \\- Days Salary: £35,900 Join the UK’s premier parcel delivery company What You’ll Do: You will drive a lorry from our exceptional fleet of Volvo vehicles, all less than 4 years old. They’re a joy to drive, and are equipped to a high specification, including fridges, leather seats and many more optional extras to make sure you’re comfortable. Most of our sites run from Monday to Friday, with 45 hour working weeks, and 9\\-hour shifts per day which typically start at 7/8am. Our well\\-organised shift schedules mean you often know in advance where you’ll be driving, taking the stress out of your day. Key Role Responsibilities We don’t micromanage our drivers. We trust them to get the job done and plan their own routes. The average number of stops in a shift is 4 to 6, so there’s plenty of time to enjoy being out on the open road \\- but you’ll still be home again at the end of every 9\\-hour shift. You’ll make sure Cages, Pallets, Freight, Stillages and Yorks get to and from customers bang on time. At some sites, the goods will be loaded or unloaded for you \\- at others, you’ll need to do it yourself. Scanning consignments and driving pallet trucks will sometimes be part of your day. You’ll be responsible for inspecting your vehicle and trailer every day and complete a Defect Report if necessary. What We Can Offer You: We’re proud to offer a workplace where everyone can thrive. Here’s what you can expect: * Annual Leave: At least 28 days of annual leave (including Bank Holidays). * Career Progression * Inclusive Benefits: Access to flexible perks including shopping vouchers, insurance, and healthcare. What We’re Looking For * Class 1 Driving licence * Driver CPC qualification card * Completed required DCPC training hours or be working towards them * Excellent knowledge of Road Transport Laws \\- and commitment to safe use of the roads **Everyone Belongs at Evri Group**We're committed to creating an inclusive workplace where everyone feels valued, respected and able to succeed.As a **Disability Confident Committed Employer**, a **Silver\\-accredited Inclusive Employer**, and through our partnership with **Scope**, we're working to make our workplace and recruitment process more accessible for everyone.We encourage candidates to request adjustments at any stage of the recruitment process and there are touchpoints through the application process to do so. Every application is reviewed by a member of our Talent Acquisition team meaning that we don't use AI to screen candidates.At Evri Group, we're building an environment where everyone can be themselves and thrive. **Job Details** --------------- Job Family Drivers \\- Evri Premium Job Function Operations \\- Evri Premium Pay Type Hourly Scan this QR code and apply! Download Sheffield Site, Unit 1, Atomic 31 East, Kingfisher Way, Dinnington, Sheffield, Sheffield, United Kingdom",
+   "job_url": "https://uk.indeed.com/viewjob?jk=ccf065dd502c6c9b",
+   "categories": [
+    "Driving & Logistics"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=e6f10b40ef1db93e": {
+   "title": "Customer Assistant - Scanning",
+   "company": "Wm Morrisons Supermarkets",
+   "location": "Catcliffe, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "**More about the role** We're looking for friendly, reliable people to join our team, working across the store to serve our customers. You'll work in a fast\\-paced, structured environment with clear routines and timed activities that help keep everything running smoothly \\- all to make sure our customers can get what they need, when they need it. You'll be trained to support various parts of the store, so this is a great role for a team player who is ready to help wherever you're needed. **More about our perks*** Generous holiday entitlement * 15% discount in our supermarkets and convenience stores from the day you join us * Additional 10% discount card for a friend or family member * Genuine career progression and development opportunities \\- read more about our Leadership School here * Subsidised in\\-store cafe or shop floor ranges * Free parking * Competitive pension and life assurance * Healthcare / Wellbeing benefits including Aviva Digital GP * 'MyPerks' with discounts at high street shops, cinemas and gyms, and lots more * Optional payroll charity donations * A range of family\\-friendly policies including 26 weeks maternity and adoption leave along with neonatal and fertility leave **More about you** We're looking for people who are equally as passionate about putting customers first as we are. Here are some of the things we look out for:* Helpful and friendly approach * Enjoys staying active and being hands\\-on * Works well in a busy, structured environment * Comfortable using equipment safely and following processes * Loves to help support our customers and resolve their queries **Please note**: We are only able to recruit individuals who are over school leaver's age. Some of our roles need you to be over 18, due to health and safety requirements. If you are applying for a role working in our Kiosk or Cash Offices, a successful credit check will be required before you join. Morrisons is a place where you can be yourself, feel valued, and have a true sense of belonging. We are proud to be an equal opportunities employer and welcome applications from people from all walks of life, as we strive to build a workforce that truly represents the communities we serve. We are also a Disability Confident Employer, which means we're committed to providing an inclusive and accessible recruitment process. If you require any reasonable adjustments, please let us know when you submit your application and support will be provided wherever it’s required. Starting as a Bradford market stall, we are proud to be the Yorkshire retailer now serving over 11 million customers nationwide each week. We’re unique: both foodmakers and shopkeepers, processing our own fresh produce and preparing more food in\\-store than any other supermarket. We offer real opportunities to build your career across our stores, sites, and support teams. We’re a down\\-to\\-earth team that values hard work, reliability, and great customer service. If you’re friendly, dependable, and ready to get stuck in, there’s always More to Morrisons for you.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=e6f10b40ef1db93e",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "More about the role We're looking for friendly, reliable people to join our team, working across the store to serve our customers. You'll work in a fast-paced, structured environment with clear routines and timed activities that help keep everything running smoothly - all to make sure our customers…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=d56f340179f97e65": {
+   "title": "B2C Sales Executive",
+   "company": "UniHomes",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "**B2C Sales Executive** ----------------------- Sheffield City Centre (office\\-based) **Salary: £24,500 plus commission (OTE £35,000\\)** We're looking for a B2C Sales Executive to join our small telesales team in Sheffield on a permanent basis. UniHomes has grown from a Sheffield start up into a 140 strong business working with students and letting agents in more than 60 cities, and we have ambitious plans for the next few years. This is a role with real scope to shape how we look after our student customers. Most of your day will be spent on the phone with students who are sorting out utilities and broadband for their shared house, often for the first time. This is a high volume calling role, particularly over the summer, but the conversations themselves are consultative: you'll listen properly, explain how our service works and recommend what genuinely suits the household. The role is busiest over the summer, but it runs across the full year, so you'll also pick up earlier stage enquiries, follow ups and onboarding. In a team this size your contribution is visible, and there is a clear path to develop as the business grows. **Key responsibilities:** **Selling and advising*** Making a high volume of outbound calls to students and student households about their utilities and broadband, and taking the time on each one to understand what they need. * Recommending the package that suits the household, and being straight with them about what it does and does not cover. * Handling objections and questions with sound knowledge of our service and terms. * Working towards individual and team targets, with uncapped commission on what you sell. **Customer experience*** Leaving every student better informed than they were at the start of the call, whether or not it ends in a sale. * Being a calm, knowledgeable point of contact for households juggling housemates, deadlines, and bills. * Staying with customers through onboarding and contract completion so their setup runs smoothly. **Day to day and year round*** Keeping our CRM and telephony systems up to date so pipeline and customer records are accurate (we use Salesforce and Vonage, and full training is provided). * Working with the wider B2C team on campaigns and the other tasks that keep the customer journey running. * Feeding back what you hear from students so we can keep improving the service and the way we explain it. **Skills and experience:*** Some experience in sales, telesales, retail or another customer facing role is helpful, but how you treat people matters more than your CV. * A confident communicator with a warm, friendly, and professional phone manner. * Able to build rapport quickly and relate to students dealing with shared houses, housemates, broadband, and bills. * Comfortable with a high call volume and a busy summer, and not put off when the answer is no. * Organised and accurate, with good attention to detail when recording customer information. * Excited by the idea of building a career here, not just doing a job. **Working hours** * Monday to Thursday: 9:00 to 5:30 * Friday: 9:00 to 5:00 * One weekend per month, with days off in lieu during the week * Drinks at 4:30 on Fridays **Why join us?** * A permanent, year round role with the security of a salary and no cap on what you can earn. * A small team where you are trusted to run your own conversations, in a business with big ambitions. * Genuine career progression: people in this team have moved into team leader, retentions, and other roles across the business. * Full training and ongoing coaching, whatever your starting point. **About us:** At UniHomes, we’re on a mission to transform the entire student rental experience across the UK. As the market\\-leading student accommodation advertising platform and utility management service provider, we make finding and securing all\\-inclusive student accommodation simple, seamless, and stress\\-free. We’re not just another platform. UniHomes is developing innovative technology to deliver one go\\-to destination that supports the entire student rental journey. With an unwavering focus on our students, partner letting agents, operators and suppliers, we continually evolve and enhance our products and services to exceed expectations, while tackling market complexity with ease and transparency. Since launching in 2015, we’ve experienced rapid growth. Today, we operate in 60\\+ cities, partner with 1,000\\+ agents and operators, and are backed by Macquarie Capital and LDC. Our success has been recognised with accolades from EY Entrepreneur of the Year, Deloitte UK Technology Fast 50, The Negotiator Awards, and Great Place to Work® certification. Our 140\\+ strong team is based in the heart of Sheffield City Centre, where we’re driving innovation, expanding into new markets, and fostering a culture built on collaboration, creativity, and growth. If you’re ready to make a meaningful impact and help redefine how students find their perfect home, now is the time to join UniHomes. Be part of a team that’s opening new doors to better experiences, brighter ideas, and stress\\-free living. **We are a team driven and united by our core values:** * **Lead the Way** * **In it Together** * **Customers Matter** * **Keep it Simple** * **Rise Above Challenges** * **Make it Happen** **What do you get when you work here?** With people and culture at the heart of our organisation, we are continually enhancing our employee offer and culture. We are incredibly proud to have been officially certified as a Great Place to Work® (GPTW®) and an accredited Living Wage employer \\- all our employees earn a fair living wage above the government minimum wage. Working in our stunning new office at New Era Square in the centre of Sheffield, you will get complimentary breakfast, hot \\& cold drinks, snacks, pool table, holidays, length of service days, voluntary day, enhanced pension scheme, pension salary sacrifice scheme, healthcare scheme, Employee Assistant Programme,…",
+   "job_url": "https://uk.indeed.com/viewjob?jk=d56f340179f97e65",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "B2C Sales Executive ----------------------- Sheffield City Centre (office-based) Salary: £24,500 plus commission (OTE £35,000) We're looking for a B2C Sales Executive to join our small telesales team in Sheffield on a permanent basis. UniHomes has grown from a Sheffield start up into a 140 strong…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=772ffca355b1fa93": {
+   "title": "Trainee or Qualified Pharmacy Assistant",
+   "company": "Well Pharmacy",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "Package Description * Highly competitive salaries * Generous holiday allowance including bank holidays * Opportunity to gain an NVQ 2/3 qualification * Pension scheme * Employee discount scheme * Superb development and career opportunities * Bonus scheme Overview of the role Are you friendly and organised with a passion for providing excellent customer service but looking to further your skills and career? Here at Well, we aim to build the best prescription experience in the UK. Sounds ambitious, right? But that’s okay, because we’ve got a fantastic team of talented, creative and forward\\-thinking people, that are key in helping us get there. Main Responsibilities Working alongside our knowledgeable Pharmacists and store teams, you will be instrumental in the efficient delivery of pharmacy processes to ensure our customers are really taken care of. This role maintains a high level of competence to ensure the safe dispensing of medication to customers as well as being the experts that our customers can rely on. The Ideal Candidate We're happy to consider either a **Trainee Pharmacy Assistant** or a **Qualified Pharmacy Assistant** for this role. Whether you're just starting out in the Pharmacy industry or if you're already qualified we're looking for someone who is friendly and organised with a passion for providing excellent customer service. Building relationships with your customers is key and you’ll play an important part in meeting their unique healthcare needs. **In order to be considered for the Qualified Pharmacy Assistant role it is essential that you already have a NVQ2 in Pharmacy Services or equivalent qualification.** *Well are proud to be a diverse and inclusive employer. If you have any specific requirements, we'll do everything we can to support you. Whether it is to find a pharmacy that is accessible, or if it is a part time position you are looking for, we can help find the role that is right for you. If you need us to make any reasonable adjustments to our recruitment process, we will be happy to accommodate you*. *Please be aware that due to the high number of applications we receive it may not be possible for us to provide an outcome to all applicants. If you are not contacted within 28 days of your submission unfortunately you will have been unsuccessful.* About The Company For over 70 years, we’ve been looking after the health and wellbeing of communities across the UK. Well Pharmacy (part of Bestway Healthcare) is the second largest pharmacy chain in the UK with c.760 pharmacies and a team of around 7,000 colleagues based across our Community Pharmacies, Online Pharmacy, Healthcare Services Centre, Community Drivers, Bestway Medhub \\& Wardles team and our Support Centre team. Our mission is to be here for the wellbeing of our patients and customers, to provide the best community pharmacy experience in the UK for everyone, for our patients, our customers, our people, and our NHS. The pharmacy of the future will look very different from the one we know today. It will play a huge role in transforming primary healthcare and we will play a central role in bringing it to life. We will use our clinical expertise and technological ambition to take advantage of the potential this future has to offer us. Making medicines, advice, services and care available in the places and spaces that people need and want it most. We want to be a great business. To be recognised as delivering a community pharmacy experience that is the best there is. To do this we want our teams to feel proud about the positive impact they make, feel valued as part of a close\\-knit and expert community, and feel confident in their role in a business that is stable, innovative, and caring. **‘Together we make a difference’**",
+   "job_url": "https://uk.indeed.com/viewjob?jk=772ffca355b1fa93",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "Package Description Highly competitive salaries Generous holiday allowance including bank holidays Opportunity to gain an NVQ 2/3 qualification Pension scheme Employee discount scheme Superb development and career opportunities Bonus scheme Overview of the role Are you friendly and organised with a…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=04d8b8db22213c4a": {
+   "title": "Full Time Store Supervisor",
+   "company": "Footasylum",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "**Store Supervisor (Full\\-Time)** **Location:**Meadowhall Store **Contract:***40 hours per week* **Description** We are hiring for a **Full\\-Time** Store Supervisor to join one of our exciting stores based in Meadowhall. There’s an established team in place, and you will be working directly with them to help create the best customer shopping experience possible. Footasylum is a business that believes in our front\\-end retail staff. The primary function of a Supervisor is to oversee Retail staff’s work in the Store environment. You will be in charge of monitoring employee activity, solving problems at a day\\-to\\-day level and assisting customers when needed. You will be working in a thriving store and day to day your tasks will be different. Part of this will include supporting the Store Manager to ensure the team maximise sales, have a service\\-first mentality, adhere to best practices as per company expectations and overall ensure the shopping experience to our customers. We invest in our training and development and this role will be no different. Our aim is to continue to build and create an environment where our employee can achieve, develop, and progress. You will be supported in your journey, and we will celebrate with you, every step of the way. Regular 1\\-2\\-1’s, training, and support will be available but most importantly, you will be given all the tools to help you thrive and feel empowered on your journey with us. We also have a track record of progression, support, and training. We have a plethora of examples across our teams where people have progressed upwards or into completely new opportunities within the business. Ultimately your development is paramount to us, and we want to help support you to achieve your goals **Why Footasylum?** We’ve been on a journey, growing significantly over the last few years. We are vibrant, engaged and performing well. Innovation is key to our business, and we have been looking at how we deliver value to our wider Retail estate. We want to create a place for colleagues to do their best work, and you will have the opportunity to influence our decisions, help define Retail standards across the Estate and contribute to a happy and healthy working environment. **About you:** * The successful candidate must have passion for Fashion Retail and our company ethos * You will have ideally worked previously in Fashion Retail * Experience in managing and motiving a team of Sales Assistants * Be able to work independently, as well as part of a team * Strong verbal and written skills * Be able to work in a fast\\-paced environment * Efficient and highly organised with a customer focused attitude **Diversity:** We recognise and value the importance of diversity to help make sure we have lots of different perspectives when we are providing services to our colleagues and customers. We know that this will help us build a great service, which our customers will love. This is great news for our business. Diversity for us is also, importantly, about building happy teams full of people that want to learn and want to be inspired by each other and our different experiences. **Recruitment process:** We review applications on an individual basis, and if we feel you would be a good fit we’ll invite you for a face\\-to\\-face chat about the role, and to see if we’re a good fit for you. We value open and honest conversations and collaboration, giving you a chance to learn about what we are doing in an informal and friendly environment. We want to know about you, and why you feel this is the opportunity for you.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=04d8b8db22213c4a",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "Store Supervisor (Full-Time) Location:Meadowhall Store Contract:40 hours per week Description We are hiring for a Full-Time Store Supervisor to join one of our exciting stores based in Meadowhall. There’s an established team in place, and you will be working directly with them to help create the…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=3fa5b6c51bf148fb": {
+   "title": "Shift Manager",
+   "company": "Urban Fresh Burgers & Fries",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "**About Us** **Job Responsibilities** You will be a part of the Management team, along with your Assistant Manager, Deputy Manager and General Manager. You will be responsible for assisting your Management team with the daily operations of your restaurant. In their absence, you will be required to oversee and manage both the kitchen and dining area to ensure a positive customer experience. You will be expected to uphold our high standards and ensure we achieve our three priorities every day; Top Quality Food, Great Customer Service and Exceptional Cleanliness. Your duties will include but are not limited to: * Leading by example in areas of maturity, professionalism and integrity * Ensuring guest satisfaction through the meeting of targets and standards * Ongoing training and monitoring of Burger Masters in health and safety, food hygiene, and workstation compliance * Completing any due diligence and paperwork relating to food safety and health and safety when on duty * Cashing up and maintaining accurate financial records in the absence of your Management team * Upholding the highest standards of food hygiene and food preparation at all times through proper training, monitoring and observation * Collaborating with your management team to achieve sales, costs and performance targets **Job Requirements** Our ideal Shift Manager is positive, organised, ambitious and takes pride in their work. In order to be successful in this role, you should have: * 1\\-year minimum experience of management experience in a fast\\-paced restaurant environment * The ability to learn and train others in all aspects of Urban operations * A strong, positive work ethic and the ability to inspire your team * Strong organisational skills * Strong people skills * Good mathematic ability * Use of Microsoft Office (Word and Excel primarily) Qualifications that are preferred: * Level 2 Food Safety and Hygiene * First Aid at Work **Benefits** Working at URBAN is an opportunity to be a key part of a quick\\-growing, hands\\-on company. We offer several other great benefits, including: * Generous employee discount across all Urban Fresh Burgers \\& Fries sites * Free staff meals on shift * Flexible work schedules * Huge opportunities for career development and progression Apply today to start your new career journey with Urban Fresh Burgers \\& Fries! INDMANAGE",
+   "job_url": "https://uk.indeed.com/viewjob?jk=3fa5b6c51bf148fb",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "About Us Job Responsibilities You will be a part of the Management team, along with your Assistant Manager, Deputy Manager and General Manager. You will be responsible for assisting your Management team with the daily operations of your restaurant. In their absence, you will be required to oversee…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=99bdd27ca6f190c8": {
+   "title": "Shift Manager",
+   "company": "Urban Fresh Burgers & Fries",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "**About Us** **Job Responsibilities** You will be a part of the Management team, along with your Assistant Manager, Deputy Manager and General Manager. You will be responsible for assisting your Management team with the daily operations of your restaurant. In their absence, you will be required to oversee and manage both the kitchen and dining area to ensure a positive customer experience. You will be expected to uphold our high standards and ensure we achieve our three priorities every day; Top Quality Food, Great Customer Service and Exceptional Cleanliness. Your duties will include but are not limited to: * Leading by example in areas of maturity, professionalism and integrity * Ensuring guest satisfaction through the meeting of targets and standards * Ongoing training and monitoring of Burger Masters in health and safety, food hygiene, and workstation compliance * Completing any due diligence and paperwork relating to food safety and health and safety when on duty * Cashing up and maintaining accurate financial records in the absence of your Management team * Upholding the highest standards of food hygiene and food preparation at all times through proper training, monitoring and observation * Collaborating with your management team to achieve sales, costs and performance targets **Job Requirements** Our ideal Shift Manager is positive, organised, ambitious and takes pride in their work. In order to be successful in this role, you should have: * 1\\-year minimum experience of management experience in a fast\\-paced restaurant environment * The ability to learn and train others in all aspects of Urban operations * A strong, positive work ethic and the ability to inspire your team * Strong organisational skills * Strong people skills * Good mathematic ability * Use of Microsoft Office (Word and Excel primarily) Qualifications that are preferred: * Level 2 Food Safety and Hygiene * First Aid at Work **Benefits** Working at URBAN is an opportunity to be a key part of a quick\\-growing, hands\\-on company. We offer several other great benefits, including: * Generous employee discount across all Urban Fresh Burgers \\& Fries sites * Free staff meals on shift * Flexible work schedules * Huge opportunities for career development and progression Apply today to start your new career journey with Urban Fresh Burgers \\& Fries! INDMANAGE",
+   "job_url": "https://uk.indeed.com/viewjob?jk=99bdd27ca6f190c8",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "About Us Job Responsibilities You will be a part of the Management team, along with your Assistant Manager, Deputy Manager and General Manager. You will be responsible for assisting your Management team with the daily operations of your restaurant. In their absence, you will be required to oversee…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=3251c81706b1971e": {
+   "title": "Senior Sales Assistant (Part Time)",
+   "company": "Heron Foods",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "**Discover Your Next Opportunity: Senior Part\\-Time Sales Assistant at Heron Foods** **Location: Jordanthorpe, Sheffield, S8 8DX** **Pay:** Up to £13 per hour (inclusive of enhancement when performing management duties) **Hours:** 20 hours per week **Why Heron Foods?** Be part of a fast\\-growing company with over 340 stores and counting. Every day brings new challenges, and you’ll never find yourself without something meaningful to do. As a Senior Sales Assistant, you’ll enjoy a supportive team environment where your leadership truly matters. **Take advantage of a range of benefits, including:** **Discounts:** 10% off at both Heron Foods and B\\&M stores. **Career Development:** Access to tailored training and leadership programs like ‘Future Flyers.’ **Wellbeing Support:** 24/7 GP access for you and your family, plus free, confidential assistance. **Recognition \\& More:** From long\\-service rewards to exclusive discounts and additional perks. **What You'll Do:** As a Senior Part\\-Time Sales Assistant, you’ll take on a key leadership role to keep the store running smoothly and successfully. Your responsibilities will include: * Supporting and motivating the team to deliver exceptional results. * Ensuring high standards of customer service and resolving queries effectively. * Maintaining an impeccable store presentation with well\\-stocked and tidy shelves. * Assisting with stock management and overseeing deliveries. * Acting as a keyholder and taking responsibility for the store in the absence of management (including store openings and closes). **Fast\\-Paced and Rewarding:** At Heron Foods, no two days are the same. From supporting your team on the shop floor to stepping into a management role when needed, you’ll thrive in a busy, fast\\-paced environment. You’ll play a vital role in achieving store goals and fostering a positive, close\\-knit team culture. **What We’re Looking For:** We’re seeking individuals who bring: * A friendly, approachable, and professional manner with a passion for leadership. * A strong work ethic and the ability to thrive in a busy, fast\\-moving workplace. * Previous leadership experience in retail or hospitality, with bonus points for key\\-holder experience. * The ability to juggle multiple tasks and take ownership when stepping into a supervisory role. **Apply Today:** Don’t wait—apply early, as this opportunity may close sooner than expected! At Heron Foods, diversity is at the heart of our values, and we are proud to be an equal opportunity employer. Take the next step in your career and join a team where your leadership makes a real impact. Apply now!",
+   "job_url": "https://uk.indeed.com/viewjob?jk=3251c81706b1971e",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "Discover Your Next Opportunity: Senior Part-Time Sales Assistant at Heron Foods Location: Jordanthorpe, Sheffield, S8 8DX Pay: Up to £13 per hour (inclusive of enhancement when performing management duties) Hours: 20 hours per week Why Heron Foods? Be part of a fast-growing company with over 340…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=5064c2533e79f801": {
+   "title": "Pharmacy Assistant",
+   "company": "Allied Pharmacies",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "Are you looking to build a rewarding career in community pharmacy? Seven Hills Pharmacy is seeking a friendly and reliable Pharmacy Assistant to join our welcoming team. In this varied role, you'll be at the heart of our day\\-to\\-day operations, supporting our pharmacists and delivering a first\\-class service to the local community we're proud to look after. Key responsibilities: * Assist the pharmacy team with the accurate dispensing and preparation of prescriptions * Greet customers warmly and provide helpful advice on over\\-the\\-counter products * Handle prescription intake, queries and collections in a professional manner * Maintain stock levels, including ordering, receiving deliveries and rotating stock * Keep the dispensary and retail areas clean, tidy and well organised * Support the pharmacist with a range of pharmacy services and administrative tasks * Ensure all activities comply with relevant standards, procedures and confidentiality requirements What we're looking for: * A warm, approachable manner with excellent customer service skills * Strong attention to detail and the ability to work accurately under pressure * Good communication skills and a genuine willingness to help others * The ability to work well as part of a close\\-knit team * A reliable, professional attitude and a commitment to patient care * Previous experience in a pharmacy or retail healthcare setting is desirable, though not essential as full training will be provided * A Dispensing Assistant or Pharmacy Assistant NVQ Level 2 qualification would be an advantage, but candidates willing to work towards this are also welcome If you're enthusiastic about making a real difference to the health and wellbeing of your community, we'd love to hear from you. Apply today to join the team at Seven Hills Pharmacy.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=5064c2533e79f801",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "Are you looking to build a rewarding career in community pharmacy? Seven Hills Pharmacy is seeking a friendly and reliable Pharmacy Assistant to join our welcoming team. In this varied role, you'll be at the heart of our day-to-day operations, supporting our pharmacists and delivering a first-class…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=d67f1957f1cd6d32": {
+   "title": "Casual Sales Assistant",
+   "company": "Lindt & Sprüngli",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "**A little bit about Lindt** We are a premium chocolate manufacturer established in 1845 operating in over 86 countries around the World. Guided by our Global purpose to Enchant the World with Chocolate and UK vision of Creating Moments to Make Everyone Feel Special, we have around 700 team members in the UK across our Head Office, Retail, and Field Sales divisions. We are a Top 20 Great Place to Work and are proud of our incredible people, our unique values\\-led culture and our iconic market leading brands such as LINDOR \\& GOLD BUNNY. We’re also proud of being one of the few bean\\-to\\-bar chocolate makers in the world, where we control every step of our chocolate production. **How you could help us to Enchant the World with Chocolate** We have an exciting opportunity where you could be a part of our incredible team. In this role you will: * Support the store management team towards the accomplishment of the retail plan * Embody the Lindt brand with passion and be part of a team of Lindt brand ambassadors who are experts at delivering the Lindt Service proposition and exceeding customer expectations every day * Actively contribute towards an environment of collaboration through sharing knowledge, information and teamwork to drive ideas to action. **Where you’ll be based** This role is based in the Meadowhall Retail Store and is a 0 hours casual contract. **Key Responsibilities** **Customer Service Role** * Work with team and Management to achieve set store targets. * Be committed to working hours/working pattern. * Provide excellent standard of customer service. * When in work always have a can\\-do attitude * Have good working relationships in store and be part of the team. * Greet customers. * Accurately processing transactions through the till * Upsell and add on items as well as offering alternatives. * Effectively manage queues. * Support team with the Sampling of products and introducing customers to our Loyalty program * Comply with company Health and Safety policy and procedures, and take associated actions to ensure a safe working environment for all **Delivery / Stock / replenishment Role** * Work with team and Management to achieve set store targets. * Be committed to working hours/working pattern. * When in work always have a can\\-do attitude * Have good working relationships in store and be part of the team. * Comply with company Health and Safety policy and procedures and take associated actions to ensure a safe working environment for all. * Processing deliveries efficiently * Keep stockroom organized and rotated. * Keeping shop floor fixtures full * Clear communication to management regarding low levels / sell ots **VM / Gift Specialist Role** * Work with team and Management to achieve set store targets. * Be committed to working hours/working pattern. * When in work always have a can\\-do attitude * Reactive positively to change in pace. * Have good working relationships in store and be part of the team. * Comply with company Health and Safety policy and procedures, and take associated actions to ensure a safe working environment for all * Support team in ensuring store always looks presentable and shoppable. * Build gifting to company guidelines. * Monitor Gifting levels, best sellers and react appropriately. **What experience you’ll bring** * Proven experience within a retail organisation is preferable, as is a genuine love of all that a career in retail has to offer * A highly motivated self\\-starter, with a drive for results * Excellent interpersonal skills, able to build relationships internally and externally. * An infectious can do attitude – ready to try new things and enthuse everyone you meet **Being yourself every day** We want everyone at Lindt feel safe to be themselves, ensuring they are empowered, represented, celebrated and included in our workplace. You’ll notice this throughout the recruitment process; in our ‘dress for your day’ policy and through our proactive DE\\&I strategy. **Living our values everyday** At Lindt UK, our values guide us in everything we do. Being Passionately Lindt, Always Evolving, Building Real Relationships, Acting Responsibly and Making An Impact are an integral part of life here at Lindt. **What you can expect from us** In return for everything that you’ll bring, we can offer you an exciting role in a fast\\-growing organisation, where we’ll provide an environment where you will thrive, feel supported and fulfil your career aspirations. As well as supporting your physical and mental wellbeing, as part of our offering, you will receive a competitive compensation and benefits package including; competitive salary, bonus, pension, life cover, chocolate allowance; chocolate give\\-aways, chocolate discount, £100 a year personal development allowance, birthday day off and so much more!",
+   "job_url": "https://uk.indeed.com/viewjob?jk=d67f1957f1cd6d32",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "A little bit about Lindt We are a premium chocolate manufacturer established in 1845 operating in over 86 countries around the World. Guided by our Global purpose to Enchant the World with Chocolate and UK vision of Creating Moments to Make Everyone Feel Special, we have around 700 team members in…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=fa00d11bbf81b43a": {
+   "title": "Seasonal Sales Assistant",
+   "company": "The Entertainer",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "Hourly salary: Up to £12\\.71 per hour **Want to work in a busy toy shop at the best time of year?** At The Entertainer, Sheffield in the Meadowhall Shopping Centre, we love to create a special experience for the customers who come through our doors, helping to find the perfect toy or gift, keeping the shelves full and our stores welcoming. At Christmas, this is no different! With a love of toys, customer service and an enthusiastic personality, you could be the perfect match to join our team as a Seasonal Sales Assistant. **Key Information about this role:** Rates of Pay: 16\\-20 year olds \\- £11\\.15 per hour. 21\\-year\\-old plus \\- £12\\.71 per hour Contract end date: 31st December 2026\\. Our stores will be open 7 days a week so you will need to be able to support us at the weekends including Sundays. The hours we have available for this store are: **DELETE AS REQUIRED** * A 12\\-hour per week contract: you may work 4\\-hour shifts over 3 days, or you might be asked to work two 6\\-hour shifts. * An 8\\-hour per week contract: you will typically be offered 4\\-hour shifts over 2 days, or perhaps one full day at times. * A 20\\-hour per week contract: you may typically be working 4\\-hour shifts over 5 days. So, if you are flexible to work various shifts, including evenings and different days of the week, have a great attitude, and friendly personality, we can make the hours you are available – work for you and us, just make sure you give us as much detail as possible in your application form. There may also be an opportunity for you to work extra hours in this role, depending on trade. With all our Seasonal Sales Assistant contracts you will also be asked to work Christmas Eve, Boxing Day or New Years Eve – they’re some of our busiest days of the year. **How we will reward you:** We have some great benefits for you working as a Seasonal Sales Assistant: * 20% toy discount in our Entertainer stores * Fortnightly pay * Flexible access to your pay via MyPayNow * Access to the Retail Trust * Virtual GP **To be a Seasonal Sales Assistant at The Entertainer you must be:** * Reliable and flexible in what hours you can work, there may be the chance of extra hours too if we're busy! * Approachable and confident to deliver excellent customer service, talking to customers on the shop floor and at the till points. * Physically fit and able to move stock around the store, working with deliveries and pallets on your own and as a team * Attentive to detail, keeping the shelves full and handling deliveries. **Holly, Seasonal Sales Assistant from last year says:** “Working for the entertainer is a wonderful and thrilling experience, there is never a day where I am bored or have nothing to do. I enjoy restocking and making sure all the prices are correct for all our customers, however, I do like seeing kids get excited about seeing their favourite toys in stock brings me back to when I was younger and enjoyed those same toys, for me this is very rewarding and love seeing the excited and thrilled looks on their faces. On the weekends when it is especially busy, I like to replenish and make myself available for everybody, whether that’s to grab an item off the top shelf or to recommend a toy or bestseller for Christmas, I love being a Seasonal Sales Assistant as I feel that those little jobs like restocking can make a big difference to a customer coming in to our store for the first time.”",
+   "job_url": "https://uk.indeed.com/viewjob?jk=fa00d11bbf81b43a",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "Hourly salary: Up to £12.71 per hour Want to work in a busy toy shop at the best time of year? At The Entertainer, Sheffield in the Meadowhall Shopping Centre, we love to create a special experience for the customers who come through our doors, helping to find the perfect toy or gift, keeping the…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=03aea194868ff828": {
+   "title": "Store Supervisor (Sheffield Store)",
+   "company": "Pop Mart UK",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "Founded in 2010, POP MART is a leading global pop culture and entertainment company. With IP at its core, POP MART works with artists and designers worldwide to develop and operate IPs, creating products, services and entertainment experiences for consumers. Its portfolio includes beloved IP characters such as THE MONSTERS , TWINKLE TWINKLE, CRYBABY, DIMOO, SKULLPANDA, Hirono and MOLLY. As of the first half of 2026, POP MART had more than 100 million registered members worldwide, operated 676 physical stores and over 2,800 ROBO SHOP vending machines, and reached nearly 100 countries and regions through cross\\-border e\\-commerce platforms,bringing joy to consumers around the world. **Store Supervisor \\- Sheffield Store** **Industry:**Designer collectible pieces **Location:** Meadowhall Centre The, 1 The Oasis, Sheffield S9 1EP **Job type:** Full Time, Permanent **About POP MART** POP MART (09992\\.HK) is a leading global company in the trend culture and entertainment industry. Centered around IP, POP MART has built a comprehensive platform for creative incubation and IP operation, empowering global creators while delivering exciting products, services and immersive entertainment experiences to consumers. POP MART identifies and nurtures emerging artists and designers worldwide, creating popular character IPs through a well\\-established development and operation system. Our portfolio includes iconic characters such as MOLLY, SKULLPANDA, DIMOO, THE MONSTERS and Hirono. POP MART operates over 500 physical stores and more than 2,300 Robo Shops across more than thirty countries and regions, and through multiple cross border e commerce platforms reaches audiences in over ninety countries and regions, bringing joy to young consumers around the world. POP MART has developed a comprehensive IP commercialisation ecosystem that spans multiple industries, deepening emotional bonds between fans and IPs while exploring broader opportunities for value creation. Our ventures include the world’s first immersive intellectual property themed park in the designer collectible pieces industry, the expansion of its IPs into global markets through licensing and co\\-branding with leading global brands, and the curation of designer collectible pieces art expos and intellectual property themed exhibitions internationally. In Europe, POP MART has built a strong presence in key markets including the United Kingdom, France, Italy, Germany, the Netherlands and Spain, and is expanding into new high potential markets. Our expansion brings POP MART closer to European fans and offers new ways for them to connect with our IPs and stories. For more information, please visit www.popmart.com and our LinkedIn Career page. **What to Expect** POP MART is a fast\\-paced company with a young and multicultural team where you can expect to: * Contribute to a fast\\-growing European business that combines retail, art, and creative storytelling * Work with passionate teams across different countries, all connected by a shared love for designer collectible pieces and unique customer experiences * Grow your skills through hands\\-on projects, collaborative learning, and opportunities to explore new ideas **Benefits** POP MART offers our employees: * Monthly appreciation gifts featuring our latest POP MART designs * A structured bonus scheme linked to company and individual performance * Access to a confidential Employee Assistance Programme (EAP) for counselling and wellbeing support * Training and development programmes that build both professional skills and creative thinking * Regular team events that bring our people together to share ideas and celebrate our work * Join Our Team – 40\\-Hour Workweek, 7\\-Hour Shifts \\+1h Paid Lunch **The Role and Candidate** We are searching for a Supervisor to work alongside our Assistant Store Manager in our new Sheffield store! This is a key role in managing the store in all aspects of retail operations and ensuring the sales team provides exceptional customer service that meets POP MART’s standards. This leadership position requires strong organisational skills, excellent communication abilities, and a passion for retail management. Your enthusiasm for designer collectible pieces will make you a competitive candidate. The position reports to and receives functional guidance from the Assistant Store Manager. **Responsibilities** * Act as the store\\-in\\-charge, overseeing all aspects of store operations * Provide exceptional customer service and resolve any customer issues or complaints * Train and supervise the sales team, ensuring they adhere to company policies and procedures * Collaborate with the Store Manager to develop strategies for achieving sales targets * Closely monitor inventory levels and coordinate with the merchandising team and management for replenishment * Control stock discrepancy by monitoring inventory levels and preventing shoplifting * Own visual merchandising. Ensure the store tidiness and cleanliness are maintained at the highest level * Manage the cashier point’s daily opening and closing procedures * Conduct regular staff meetings to communicate goals, expectations, and updates * Assist in recruitment, evaluation of potential candidates’ performance, and training new team members * Perform administrative tasks such as rota scheduling and sales reporting * Be available to work flexible hours, including nights, weekends, and holidays **Required Qualifications** * Fluent in professional English, with excellent verbal and written communication skills * Proactive with strong customer service skills to provide a memorable shopping experience * Proven ability to develop and implement strategies to achieve sales targets * Demonstrated leadership skills with experience supervising a team * Strong organizational skills with a keen attention to detail * Proficient in administrative tasks such as rota scheduling and reporting * Effective time management and task prioritization abilities…",
+   "job_url": "https://uk.indeed.com/viewjob?jk=03aea194868ff828",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "Founded in 2010, POP MART is a leading global pop culture and entertainment company. With IP at its core, POP MART works with artists and designers worldwide to develop and operate IPs, creating products, services and entertainment experiences for consumers. Its portfolio includes beloved IP…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=268c07279a6c8ebf": {
+   "title": "Store Manager (Sheffield Store)",
+   "company": "Pop Mart UK",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "Founded in 2010, POP MART is a leading global pop culture and entertainment company. With IP at its core, POP MART works with artists and designers worldwide to develop and operate IPs, creating products, services and entertainment experiences for consumers. Its portfolio includes beloved IP characters such as THE MONSTERS , TWINKLE TWINKLE, CRYBABY, DIMOO, SKULLPANDA, Hirono and MOLLY. As of the first half of 2026, POP MART had more than 100 million registered members worldwide, operated 676 physical stores and over 2,800 ROBO SHOP vending machines, and reached nearly 100 countries and regions through cross\\-border e\\-commerce platforms,bringing joy to consumers around the world. Pop Mart Store Manager – Sheffield Industry: Designer collectible pieces Location: Meadowhall Centre The, 1 The Oasis, Sheffield S9 1EP Job type: Full time, permanent About POP MART POP MART (09992\\.HK) is a leading global company in the trend culture and entertainment industry. Centered around IP, POP MART has built a comprehensive platform for creative incubation and IP operation, empowering global creators while delivering exciting products, services and immersive entertainment experiences to consumers. POP MART identifies and nurtures emerging artists and designers worldwide, creating popular character IPs through a well\\-established development and operation system. Our portfolio includes iconic characters such as MOLLY, SKULLPANDA, DIMOO, THE MONSTERS and Hirono. POP MART operates over 500 physical stores and more than 2,300 Robo Shops across more than thirty countries and regions, and through multiple cross border e commerce platforms reaches audiences in over ninety countries and regions, bringing joy to young consumers around the world. POP MART has developed a comprehensive IP commercialisation ecosystem that spans multiple industries, deepening emotional bonds between fans and IPs while exploring broader opportunities for value creation. Our ventures include the world’s first immersive intellectual property themed park in the art toy industry, the expansion of its IPs into global markets through licensing and co\\-branding with leading global brands, and the curation of art toy expos and intellectual property themed exhibitions internationally. In Europe, POP MART has built a strong presence in key markets including the United Kingdom, France, Italy, Germany, the Netherlands and Spain, and is expanding into new high potential markets. Our expansion brings POP MART closer to European fans and offers new ways for them to connect with our IPs and stories. For more information, please visit www.popmart.com and our LinkedIn Career page. What to Expect POP MART is a fast\\-paced company with a young and multicultural team where you can expect to: * Contribute to a fast\\-growing European business that combines retail, art, and creative storytelling * Work with passionate teams across different countries, all connected by a shared love for designer toys and unique customer experiences * Grow your skills through hands\\-on projects, collaborative learning, and opportunities to explore new ideas Benefits POP MART offers our employees: * Monthly appreciation gifts featuring our latest POP MART designs * A structured bonus scheme linked to company and individual performance * Access to a confidential Employee Assistance Programme (EAP) for counselling and wellbeing support * Training and development programmes that build both professional skills and creative thinking * Regular team events that bring our people together to share ideas and celebrate our work * Join Our Team – 40\\-Hour Workweek, 7\\-Hour Shifts \\+1h Paid Lunch The Role and Candidate We are searching for a Retail Store Manager to lead and oversee operations at our new and upcoming Sheffield store! This is a key leadership role responsible for managing all aspects of retail operations and ensuring the sales team provides exceptional customer service that meets POP MART's standards. This management position requires strong leadership skills, excellent communication abilities, and a passion for retail management. Your enthusiasm for designer toys will make you a competitive candidate. The position reports to and receives functional guidance from the Area Manager. Responsibilities * Oversee all aspects of store operations, including sales, customer service, inventory management, and staff supervision * Develop and implement strategies to achieve sales targets and improve store performance * Provide exceptional customer service and resolve any customer issues or complaints * Train, mentor, and supervise the sales team, ensuring they adhere to company policies and procedures * Closely monitor inventory levels and coordinate with the merchandising team and management for replenishment * Control stock discrepancy by monitoring inventory levels and implementing loss prevention measures * Manage visual merchandising and product displays, ensuring the store's tidiness and cleanliness are maintained at the highest level * Oversee cashier point operations, including daily opening and closing procedures * Conduct regular staff meetings to communicate goals, expectations, and updates * Lead recruitment efforts, evaluate potential candidate's performance, and train new team members * Perform administrative tasks such as rota scheduling, payroll management, and sales reporting * Ensure compliance with all company policies, procedures, and relevant regulations * Be available to work flexible hours. Required Qualifications * Proven experience (4\\+ years) in retail management, preferably in a similar industry * Bachelor’s degree in business administration, Retail Management, or a related field (or equivalent work experience) * Fluent in professional English, with excellent verbal and written communication skills * Strong leadership skills with the ability to motivate and develop a high\\-performing team * Proven ability to develop and implement strategies to achieve sales…",
+   "job_url": "https://uk.indeed.com/viewjob?jk=268c07279a6c8ebf",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "Founded in 2010, POP MART is a leading global pop culture and entertainment company. With IP at its core, POP MART works with artists and designers worldwide to develop and operate IPs, creating products, services and entertainment experiences for consumers. Its portfolio includes beloved IP…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=61c01e79f721971d": {
+   "title": "Assistant Store Manager (Sheffield Store)",
+   "company": "Pop Mart UK",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "Founded in 2010, POP MART is a leading global pop culture and entertainment company. With IP at its core, POP MART works with artists and designers worldwide to develop and operate IPs, creating products, services and entertainment experiences for consumers. Its portfolio includes beloved IP characters such as THE MONSTERS , TWINKLE TWINKLE, CRYBABY, DIMOO, SKULLPANDA, Hirono and MOLLY. As of the first half of 2026, POP MART had more than 100 million registered members worldwide, operated 676 physical stores and over 2,800 ROBO SHOP vending machines, and reached nearly 100 countries and regions through cross\\-border e\\-commerce platforms,bringing joy to consumers around the world. Pop Mart Assistant Store Manager – Sheffield Industry: Designer collectible pieces Location: Meadowhall Centre The, 1 The Oasis, Sheffield S9 1EP Job type: Full time, permanent **About POP MART** POP MART (09992\\.HK) is a leading global company in the trend culture and entertainment industry. Centred around intellectual property (IP), POP MART has built a comprehensive platform for creative incubation and IP operations, empowering global creators while delivering exciting products, services, and immersive entertainment experiences to consumers. POP MART identifies and nurtures emerging artists and designers worldwide, creating popular character IPs through a well\\-established development and operation system. Our portfolio includes iconic characters such as MOLLY, SKULLPANDA, DIMOO, THE MONSTERS, and HIRONO. POP MART operates over 500 physical stores and more than 2,300 Robo Shops across over 30 countries and regions. Through multiple cross\\-border e\\-commerce platforms, we reach customers in more than 90 countries and regions, bringing joy to young consumers around the world. POP MART has developed a comprehensive IP commercialisation ecosystem spanning multiple industries, strengthening the emotional connection between fans and IPs while creating new opportunities for growth. Our ventures include the world’s first immersive IP\\-themed park in the designer collectible industry, global licensing and co\\-branding partnerships with leading brands, and internationally recognised designer collectible exhibitions and IP\\-themed experiences. In Europe, POP MART has established a strong presence across key markets including the United Kingdom, France, Italy, Germany, the Netherlands, and Spain, while continuing to expand into new high\\-potential markets. For more information, please visit **www.popmart.com** and our LinkedIn Careers page. **What to Expect** POP MART is a fast\\-paced company with a young and multicultural team. You can expect to: * Contribute to a fast\\-growing European business that combines retail, art, and creative storytelling. * Work with passionate teams across different countries, united by a shared love for designer collectibles and exceptional customer experiences. * Develop your skills through hands\\-on projects, collaborative learning, and opportunities to grow your career. **Benefits** POP MART offers employees: * Monthly appreciation gifts featuring our latest POP MART designs. * A structured bonus scheme linked to company and individual performance. * Access to a confidential Employee Assistance Programme (EAP) for counselling and wellbeing support. * Training and development programmes to support your professional growth. * Regular team events and celebrations. * Company pension scheme. * Health and wellbeing programmes. * A 40\\-hour working week with 7\\-hour shifts and a 1\\-hour paid lunch break. **The Role** We are looking for an experienced Assistant Store Manager to support the successful launch and operation of our New Sheffield Store. Working closely with the Store Manager, you will play a key role in driving store performance, delivering exceptional customer experiences, and ensuring operational excellence. This is a hands\\-on leadership role where you will support the management of all aspects of store operations, including sales performance, team development, stock management, visual merchandising, and customer service. You will help create an engaging and memorable POP MART experience for our customers while supporting the team to achieve commercial targets and maintain the highest operational standards. **Key Responsibilities** * Support the Store Manager in overseeing all aspects of store operations, including sales, customer service, stock management, and team performance. * Deliver exceptional customer service and ensure customer concerns are handled professionally and effectively. * Support the coaching, training, and development of the sales team to achieve high\\-performance standards. * Assist in implementing strategies to achieve sales targets and improve store performance. * Monitor sales performance and support the delivery of store KPIs. * Work closely with the Store Manager and merchandising team to maintain appropriate stock levels and ensure timely replenishment. * Support inventory control processes and minimise stock discrepancies through effective loss prevention measures. * Maintain excellent visual merchandising standards and ensure the store remains clean, organised, and visually engaging. * Support daily cash\\-handling procedures, including opening and closing routines. * Assist with team briefings and meetings to communicate business objectives, updates, and expectations. * Support recruitment, onboarding, training, and performance development of new team members. * Assist with rota planning, payroll administration, and operational reporting. * Ensure compliance with company policies, health and safety standards, and operational procedures. * Be flexible to work weekends, evenings, holidays, and peak trading periods when required. **Required Qualifications** * Minimum 2 years’ experience in a retail management or supervisory role, preferably within premium, lifestyle, fashion, specialty retail, or customer\\-focused environments. * Excellent written and…",
+   "job_url": "https://uk.indeed.com/viewjob?jk=61c01e79f721971d",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "Founded in 2010, POP MART is a leading global pop culture and entertainment company. With IP at its core, POP MART works with artists and designers worldwide to develop and operate IPs, creating products, services and entertainment experiences for consumers. Its portfolio includes beloved IP…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=69f97f87b90512da": {
+   "title": "Part Time Sales Assistant",
+   "company": "Heron Foods",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "**Discover Your Next Opportunity: Part\\-Time Sales Assistant at Heron Foods** **Location:** Jordanthorpe, Sheffield, S8 8DX **Salary:** Up to £12\\.71 per hour **Hours:** 12 hours per week **Why Heron Foods?** Be part of a fast\\-paced and growing company with over 340 stores and counting. Every day is different, and you’ll never find yourself at a loose end—there’s always something to do to keep the store running smoothly. Our supportive team environment ensures you’ll always feel part of something special. **Enjoy a range of perks, including:** * **Discounts:** 10% off at both Heron Foods and B\\&M stores. * **Personal Growth:** Access to career development programs like ‘Future Flyers.’ * **Wellbeing Support:** 24/7 GP access for you and your family, and free confidential support. * **Recognition \\& More:** From long\\-service rewards to exclusive discounts and a host of extras. **What You'll Do:** As a Part\\-Time Sales Assistant, your role is varied and dynamic. You'll: * Check and organise deliveries to keep the store stocked and looking great. * Maintain high presentation standards with well\\-stocked and tidy shelves. * Respond promptly and courteously to customer needs, ensuring a positive shopping experience. * Play your part in the team to meet store goals and deliver success together. **Fast\\-Paced and Rewarding:** Working at Heron Foods means every shift is engaging and purposeful. Whether you’re answering customer queries, arranging products, or helping your team, time will fly by. You'll thrive in an energetic environment where everyone understands what it takes to make the store a success and collaborates to get it done. **What We’re Looking For:** We’re seeking individuals who bring: * A friendly and approachable manner, with a passion for great customer service. * A strong work ethic and the ability to thrive in a busy, fast\\-moving workplace. * Prior experience in sales, retail, or hospitality is ideal but not essential. **You Might Know This Role As:** If you’re searching for opportunities under different titles, this position may also be listed or known as: **Sales Assistant, Store Assistant, Retail Assistant, Shop Floor Assistant, Customer Service Assistant, Retail Team Member, Part\\-Time Retail Worker, Convenience Store Assistant, Retail Operative, or Stock Assistant.** Whatever the title, if you enjoy helping people and working in a busy, team\\-focused environment—we’d love to hear from you! **Apply Today:** This opportunity won’t wait—submit your application early, as we may close sooner than expected! At Heron Foods, diversity is at the heart of our values, and we are proud to be an equal opportunity employer. Take the next step in your career and join a team where your contributions truly matter. Apply now!",
+   "job_url": "https://uk.indeed.com/viewjob?jk=69f97f87b90512da",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "Discover Your Next Opportunity: Part-Time Sales Assistant at Heron Foods Location: Jordanthorpe, Sheffield, S8 8DX Salary: Up to £12.71 per hour Hours: 12 hours per week Why Heron Foods? Be part of a fast-paced and growing company with over 340 stores and counting. Every day is different, and…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=427be225fd2c483b": {
+   "title": "Seasonal Night Stock Assistant",
+   "company": "The Entertainer",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "Hourly salary: Up to £12\\.71 per hour plus night shift premium **Why Us?** Christmas at The Entertainer, Sheffield in the Meadowhall Shopping Centre is like no other retailer \\- we're selling toys! At Christmas! This position is ideally suited to someone who is not afraid of hard work and able to work through the night and into the morning in the lead up to Christmas! You will have a big responsibility to the children visiting our store to make sure their favourite toy is on display so they can add it to that all important Christmas list! **Key Information about this role:** Rates of Pay: 18\\-20 year olds \\- £11\\.15 per hour. 21\\-year\\-old plus \\- £12\\.71 per hour Our stores will be open 7 days a week so you will need to be able to support us at the weekends including Sundays. **As a Night Stock Assistant, your duties will include:** * Accepting deliveries, working delivery stock onto shop floor and racking away overs * Replenishing sections from the stockroom and merchandising when needed * Pricing, tagging and price sweep compliance * Promotional set up and window displays * Keeping a clean and tidy working environment **Starting on a 20 hour contract you will learn the role before transitioning to night shift patterns, with hours per week up to 37\\.5\\.** When on 37\\.5 hours per week you would typically start work at 10pm or 11pm at night and work through till the next morning. Having a flexible approach and a commitment to help the store operate, it is key for this role that you are able to work these hours. **Employment starts from** STORE TO ENTER DATE Contract ends, Thursday 24th December 2026 **How we will reward you** * 20% toy discount in Entertainer stores * Fortnightly Pay * Nightshift premium pay (1\\.25 per hour for hours worked between 11pm and 6am) * Flexible access to your pay via MyView PayNow * Access to the Retail Trust * Virtual GP **Before you apply, please think about the following things:** * You will need to commit to work the entire night shift duration which varies from 2 to 9 weeks depending on the store. * Your final night shift will end on the morning of Thursday 24th December * Getting to and from the store safely, at any time, is up to you, and you will need to travel outside of work hours * If you have any other paid work or volunteering that could be affected, you may need to reconsider – you will need to make sure you are able to get plenty of rest in between shifts **So, are you:** * Reliable and flexible in the hours you can work? * Fast paced and efficient, able to always keep a tidy and safe environment? * Physically fit and able to move stock around the store, both independently and as part of a team? * Trustworthy and responsible to achieve the tasks set, able to apply logic and communicate well if problems arise? **What our colleagues say** \"Working as part of the Night Stock team, we work behind the scenes, through the night doing the heavy lifting, to get the toys on the shelves! The customers don't see all the hard work we put in, breaking down pallets of deliveries and preparing stock to be taken out to the shop floor or stored in the stockroom. We're only a small team, and the time goes fast, but we get it all done when we work together... and having music on helps too! We price stock, we might sometimes change window displays and we most importantly, make sure the shelves are full ready for the next day of busy trade. I quite like being able to go home in the morning, and say hi to my family before they go off to work, and then get into bed to catch up on some sleep... ready for the next shift!\"",
+   "job_url": "https://uk.indeed.com/viewjob?jk=427be225fd2c483b",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "Hourly salary: Up to £12.71 per hour plus night shift premium Why Us? Christmas at The Entertainer, Sheffield in the Meadowhall Shopping Centre is like no other retailer - we're selling toys! At Christmas! This position is ideally suited to someone who is not afraid of hard work and able to work…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=6a20d0888eef7506": {
+   "title": "Kitchen Assistant",
+   "company": "All Bar One",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "**No CV to hand? No problem! We've made our application process mobile friendly and removed the need for a CV. Our form takes 2 minutes to complete and tells us all we need about you!** With your support as a Kitchen Assistant at All Bar One Sheffield, everything will run smoothly! You’ll make sure the kitchen is stocked up, clean, tidy and ready for the shift ahead; supporting the chefs to serve food to be proud of. Join us at All Bar One, our stylish city centre bars. Think morning coffees to Saturday night espresso martinis, sharing tapas with friends to getting down on the dancefloor. If you fancy mixing things up, we want to hear from you. **WHAT’S IN IT FOR ME?** * Flexible shifts to fit around you. * A massive 33% discount across all our brands. Whether its date night at Miller \\& Carter, a family roast at Toby Carvery, we’ve got you covered. * 20% discount across all off our brands for up to 5 friends and family. * Wagestream – A financial toolkit that helps you manage your finances and allows you to access your earned pay when you need it * Opportunities to grow with paid for qualifications. * Discounts on gym memberships. * Team Socials – work hard, play hard! On top of this, as part of Mitchells \\& Butlers you will receive a pension; 28 days paid holiday; high\\-street shopping discounts; and we even give you free shares! There's also a free employee helpline\\- to support you with whatever life throws at you. **WHAT WILL I BE DOING? AS KITCHEN ASSISTANT YOU’LL…** * Set up the kitchen ready for the day. * Help keep the kitchen clean during a busy shift. * Work as part of a team, supporting the chefs to serve food to be proud of. Haven't got a CV to hand? Don't worry you **don't need a CV to apply** At M\\&B, we want people to be supported, valued, able to be themselves and work in a great team. Join us and help us make every guest feel truly welcome. INDBOH",
+   "job_url": "https://uk.indeed.com/viewjob?jk=6a20d0888eef7506",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "No CV to hand? No problem! We've made our application process mobile friendly and removed the need for a CV. Our form takes 2 minutes to complete and tells us all we need about you! With your support as a Kitchen Assistant at All Bar One Sheffield, everything will run smoothly! You’ll make sure the…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=b33a9ab1359f0cb0": {
+   "title": "LCV - Automotive Technician / Mechanic - Workshop Based - Sheffield",
+   "company": "Enterprise Mobility",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-19",
+   "description": "### **Overview** #### **Competitive Salary \\+ Overtime \\+ Career Progression** **\\+ £1500 JOINING BONUS\\*** #### **Join a Team That Keeps the UK Moving** **Make Your Move** and join a team where your skills are valued, your growth is supported, and your work truly moves the world. At **Enterprise Mobility**, we operate one of the UK’s most diverse and dynamic vehicle fleets. Now, we’re looking for a skilled and motivated **LCV Technician** **/ Mechanic** to join our **Flex\\-E\\-Rent Sheffield workshop team**. If you’re passionate about vehicles and want to work in a supportive, forward\\-thinking environment, this is your opportunity to thrive. #### **Why Join Us?** * **Competitive Pay** – With overtime paid at 1\\.25x and annual salary reviews. * **Structured Career Development** – Our 5\\-stage training programme can take you to **Master Technician** level. * **Work\\-Life Balance** – Monday to Friday schedule with no weekend shifts. * **Generous Leave** – 25 days annual leave, increasing to 30\\+ with service \\+ bank holidays \\+ time off on your Birthday! * **Comprehensive Benefits** – Including pension, life assurance, access to same day virtual private GP appointments \\& more! * **Employee Perks** – Discounts on car hire, Cycle to Work scheme, paid volunteer days. **What Division will I be working in?** Enterprise Flex\\-E\\-Rent is our commercial vehicle rental division, providing services tailored to the needs of commercial vehicle hire customers from locations all across the UK and Ireland. Join our team and be one of the people driving our growth. To help understand and find out more about our Flex\\-E\\-Rent division of Enterprise Mobility, please visit: Commercial Vehicle Hire \\| Enterprise Flex\\-E\\-Rent (flexerent.co.uk) **Location** Enterprise Flex\\-E\\-Rent, 1 Lawrence St, Attercliffe, Sheffield S9 3RG* £750 payable in first months’ pay and £750 payable after successful completion of 90\\-day probation review. Subject to tax and NI deductions, eligibility criteria will apply ### **Responsibilities** #### **What You’ll Be Doing:** * Diagnosing, maintaining, and repairing a wide range of vehicles * Working with top brands like Mercedes, Iveco, and Ford * Ensuring all vehicles meet safety and quality standards * Prepare vehicles for MOT * Collaborating with a skilled, friendly team ### **Qualifications** #### **What We’re Looking For:** * NVQ Level 3 in Vehicle Maintenance (or equivalent) * Experience working with HGVs or LCVs * A Full UK / Irish / EU Manual Driving Licence * A proactive, detail\\-oriented approach and a passion for vehicle maintenance **Enterprise Mobility** is a family\\-owned business that values its people. We invest in your growth, support your ambitions, and offer a stable, rewarding career path. **Apply now** and take the next step in your journey with a company that puts technicians first. Should you require our relocation assistance please speak to a member of the Talent Acquisition Team for details. ***Please note that all applicants must have the ability to pass a security check involving financial probity and basic criminality.***",
+   "job_url": "https://uk.indeed.com/viewjob?jk=b33a9ab1359f0cb0",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=c18f2e63914159c3": {
+   "title": "HGV - Automotive Technician / Mechanic - Workshop Based - Sheffield",
+   "company": "Enterprise Mobility",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-07-16",
+   "description": "### **Overview** #### **Competitive Salary \\+ Overtime \\+ Career Progression** **\\+ £1500 JOINING BONUS\\*** #### **Join a Team That Keeps the UK Moving** **Make Your Move** and join a team where your skills are valued, your growth is supported, and your work truly moves the world. At **Enterprise Mobility**, we operate one of the UK’s most diverse and dynamic vehicle fleets. Now, we’re looking for a skilled and motivated **HGV Technician** to join our **Flex\\-E\\-Rent Sheffield workshop team**. If you’re passionate about vehicles and want to work in a supportive, forward\\-thinking environment, this is your opportunity to thrive. #### **Why Join Us?** * **Competitive Pay** – With overtime paid at 1\\.25x and annual salary reviews. * **Structured Career Development** – Our 5\\-stage training programme can take you to **Master Technician** level. * **Work\\-Life Balance** – Monday to Friday schedule with no weekend shifts. * **Generous Leave** – 25 days annual leave, increasing to 30\\+ with service \\+ bank holidays \\+ time off on your Birthday! * **Comprehensive Benefits** – Including pension, life assurance, access to same day virtual private GP appointments \\& more! * **Employee Perks** – Discounts on car hire, Cycle to Work scheme, paid volunteer days. **What Division will I be working in?** Enterprise Flex\\-E\\-Rent is our commercial vehicle rental division, providing services tailored to the needs of commercial vehicle hire customers from locations all across the UK and Ireland. Join our team and be one of the people driving our growth. To help understand and find out more about our Flex\\-E\\-Rent division of Enterprise Mobility, please visit: Commercial Vehicle Hire \\| Enterprise Flex\\-E\\-Rent (flexerent.co.uk) **Location** Enterprise Flex\\-E\\-Rent, 1 Lawrence St, Attercliffe, Sheffield S9 3RG* £750 payable in first months’ pay and £750 payable after successful completion of 90\\-day probation review. Subject to tax and NI deductions, eligibility criteria will apply ### **Responsibilities** #### **What You’ll Be Doing:** * Diagnosing, maintaining, and repairing a wide range of HGVs and specialist vehicles * Working with top brands like Mercedes, Iveco, and Ford * Ensuring all vehicles meet safety and quality standards * Prepare vehicles for MOT * Predominantly workshop based with mobile capability, attending breakdowns as required * Collaborating with a skilled, friendly team ### **Qualifications** #### **What We’re Looking For:** * NVQ Level 3 in Vehicle Maintenance (or equivalent) * Experience working with HGVs or LCVs * A Full UK / Irish / EU Class C or CE (formerly Class 1 or 2\\) Manual Driving Licence * A proactive, detail\\-oriented approach and a passion for vehicle maintenance **Enterprise Mobility** is a family\\-owned business that values its people. We invest in your growth, support your ambitions, and offer a stable, rewarding career path. **Apply now** and take the next step in your journey with a company that puts technicians first. Should you require our relocation assistance please speak to a member of the Talent Acquisition Team for details. ***Please note that all applicants must have the ability to pass a security check involving financial probity and basic criminality.***",
+   "job_url": "https://uk.indeed.com/viewjob?jk=c18f2e63914159c3",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=abc37a40b5917d6e": {
+   "title": "Maintenance Technician",
+   "company": "iQ Student Accommodation",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-07-14",
+   "description": "Salary £27,600 Contractual hours 40 Basis Full Time Region Sites \\- North Central Package 25 days annual leave (plus bank holidays) Day off on your birthday Discretionary bonus scheme Pension – matched up to 8% Life Assurance Season ticket loans Cycle to work scheme Gym discounts Discounts \\& Offers Job category/type Operations Date posted 14/07/2026 Job reference R00666 **Maintenance Technician** ***Doing the right thing, even when nobody's watching? It's an iQ thing.*** iQ is one of the UK's biggest providers of student accommodation, committed to giving our 37,000 students in 86 sites across 29 UK cities their **best year yet**. Our site\\-based Maintenance teams are bursting with a can\\-do attitude and are problem solvers who just love to make people's day. **Here's** **a bit about the role . . .** Our Maintenance Technicians at iQ make sure the students who stay with us always feel at home, this means carrying out minor repairs on our sites and interacting with our students to make a difference to their day to day lives. As a Maintenance Technician, you’ll make sure our students always feel at home. No two days are the same — you might be: * Carrying out minor repairs across our sites * Tackling reactive maintenance such as plumbing, joinery or painting and decorating * Completing compliance checks and keeping up to date with policies and procedures * Interacting with students and helping make their day a little better And through it all, you’ll be part of the iQ family \\- a team that always has your back. **What makes a great iQer?** First and foremost, we're looking for a positive, team player who thrives in a get\\-stuff\\-done kind of environment. You won't mind rolling your sleeves up, you will have a drive to get the job done to a high standard and great communications skills. You'll have some experience either in maintenance or as a general builder/labourer. **Working hours** Our residents come first, so we work around their needs. Your shift pattern will be confirmed at least six weeks in advance and may vary across a six‑week cycle. You’ll work within our operating hours of 8am–8pm, Monday to Friday, with occasional weekend work agreed in advance for busy periods or open days. **What you'll get** In exchange, you'll receive great benefits and upskilling opportunities, and you get to work as part of a fun, supportive team in a business that's definitely going places. Working at iQ is so much more than a job, it's the chance to carve out your future and build a career in a truly diverse and fun environment. Want to know what it’s really like to work at iQ? Check us out on Glassdoor and hear directly from our people. **Ready to feel like you've got the best job ever? Apply today!**",
+   "job_url": "https://uk.indeed.com/viewjob?jk=abc37a40b5917d6e",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "Salary £27,600 Contractual hours 40 Basis Full Time Region Sites - North Central Package 25 days annual leave (plus bank holidays) Day off on your birthday Discretionary bonus scheme Pension – matched up to 8% Life Assurance Season ticket loans Cycle to work scheme Gym discounts Discounts & Offers…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=e660924f560b9a7c": {
+   "title": "Service Technician",
+   "company": "Crane Payment Innovations",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": true,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-07-13",
+   "description": "Have you ever used the self\\-checkout in a Tesco or deposited coins at a NatWest/RBS branch? Played the slots at a Mekur Casino? Maybe you grabbed a drink from a vending machine or paid to park your car? If you’ve answered with a resounding “YES”, then you’ve done so with the aid of one of the 10 million devices installed by Crane Payment Innovations (CPI). We make the technology that powers your everyday life, enabling more than 4 billion transactions every week in more than 143 currencies worldwide. From cash and coins to cards and mobile, we keep the world of payments moving with smart validation devices and business management software. Headquartered in Malvern, PA, CPI is supported by: \\>2,000 global associates, 7 manufacturing sites, 12 corporate offices and an International field service organization. If you are interested in making a global impact, we are looking for a full\\-time **Field Service** **Technician I** to service the **Sheffield, Derbyshire and wider UK area.** **WHAT YOU’LL BE DOING** The Field Service Technician is responsible for servicing, fixing, upgrading and performing preventative maintenance on various types of equipment such as coin \\& currency equipment, ATM’s, software and specialized office products located at client sites in the UK and surrounding area. To guarantee ongoing success, you will work in coordination with branch sales and other service team members. **Responsibilities and Duties:** * Service, upgrade and perform preventative maintenance on company electromechanical equipment * Travel by vehicle, daily, to client sites (90%) with overnight travel as needed (10%) \\- Some long drive times are encountered depending on geographical territory covered * Work with branch employees to satisfy client needs * Address customer service requests within the specified contract response time * Extended Hours Coverage periods and ‘On\\-Call’ duty where applicable * Safeguard and maintain a balanced vehicle stock parts inventory * Upkeep and cleanliness of company issued vehicle including scheduled service intervals * Safeguarding of any company issued assets including tablet computer and mobile phone * All other duties as required **WHO WE ARE LOOKING FOR** **Qualifications**: * 5\\+ years of working in Technical/Field Service position or similar technical profession * Impeccable Integrity * Must be able to gain access to highly secured environments; Occupational licenses may be necessary to obtain depending on territory/accounts * Strong electromechanical aptitude * Excellent verbal and written communication skills, including a positive, customer\\-first attitude * Personable, approachable and able to work easily with others at all levels * Strong Attention to details \\- able to proof and prioritize your own work * Proficient in iOS, MS Office applications and Windows OS * Ability to set and track goals independently, initiate and follow through on assignments without coaching, and work proactively as a team player * Able to commit to and meet project deadlines **Physical Requirements:** * Available for periodic travel to our corporate office in Coventry for training classes * Able to lift, push or carry a minimum of 25KG’s such as large money counting machines and parts in and out of client sites * The job requires kneeling, bending, twisting, lifting and squatting to service equipment on the ground up to 60% of the time * Hand and wrist dexterity needed to turn screwdrivers and place parts and equipment * Phone or desk work about 10% of the time doing computer work, bench repair work, parts stocking, tracking service calls and setting up appointments * Ability to stand for long periods up to 75% of the time while servicing some equipment **Key Attributes for Success:** * High energy level, comfortable performing multifaceted projects in conjunction with day\\-to\\-day activities * Strong influencing, analytical, and problem\\-solving skills, with the ability to multi\\-task in a fast\\-paced environment * Ability to establish credibility, make decisive decisions and support the organization's preferences and priorities * Results and people oriented with sound judgment—ability to balance other business considerations * Team player – able to work in a matrix organization * Excellent communication skills verbally and in writing **WE ARE OFFERING** * Competitive salaries * Technician Incentive Compensation Plan * Company provided vehicle, uniform, tools and training * Paid time off * Sick time off * Private medical cover * Private pension with Company contribution * Community involvement Sound interesting? Come see why we are OneCPI and Apply Today! **CPI is a part of Crane NXT** Crane NXT is a premier industrial technology company that provides proprietary and trusted technology solutions to secure, detect, and authenticate what matters most to its customers. The company is a pioneer in advanced, proprietary micro\\-optics technology for securing physical products, and its sophisticated electronic equipment and associated software leverages proprietary core capabilities with detection and sensing technologies. Crane NXT has approximately 4,000 employees with global operations and manufacturing facilities in the United States, the United Kingdom, Mexico, Japan, Switzerland, Germany, Sweden, and Malta. For more information, visit www.cranenxt.com. *Crane Payment Innovations is committed to hiring a diverse workforce. Applicants will receive consideration without regard to race, color, religion, sex, gender identity, sexual orientation, age, disability, military status, or national origin or any other characteristic protected under federal, state, or applicable local law.* \\#CPI \\#LI\\-JL \\#LI\\-REMOTE Pay: £30,000\\.00\\-£32,000\\.00 per year Work Location: On the road",
+   "job_url": "https://uk.indeed.com/viewjob?jk=e660924f560b9a7c",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "Have you ever used the self-checkout in a Tesco or deposited coins at a NatWest/RBS branch? Played the slots at a Mekur Casino? Maybe you grabbed a drink from a vending machine or paid to park your car? If you’ve answered with a resounding “YES”, then you’ve done so with the aid of one of the 10…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=60661302745dc997": {
+   "title": "Service Technician",
+   "company": "Crane NXT",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": true,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-07-13",
+   "description": "Have you ever used the self\\-checkout in a Tesco or deposited coins at a NatWest/RBS branch? Played the slots at a Mekur Casino? Maybe you grabbed a drink from a vending machine or paid to park your car? If you’ve answered with a resounding “YES”, then you’ve done so with the aid of one of the 10 million devices installed by Crane Payment Innovations (CPI). We make the technology that powers your everyday life, enabling more than 4 billion transactions every week in more than 143 currencies worldwide. From cash and coins to cards and mobile, we keep the world of payments moving with smart validation devices and business management software. Headquartered in Malvern, PA, CPI is supported by: \\>2,000 global associates, 7 manufacturing sites, 12 corporate offices and an International field service organization. If you are interested in making a global impact, we are looking for a full\\-time **Field Service** **Technician I** to service the **Sheffield, Derbyshire and wider UK area.** **WHAT YOU’LL BE DOING** The Field Service Technician is responsible for servicing, fixing, upgrading and performing preventative maintenance on various types of equipment such as coin \\& currency equipment, ATM’s, software and specialized office products located at client sites in the UK and surrounding area. To guarantee ongoing success, you will work in coordination with branch sales and other service team members. **Responsibilities and Duties:** * Service, upgrade and perform preventative maintenance on company electromechanical equipment * Travel by vehicle, daily, to client sites (90%) with overnight travel as needed (10%) \\- Some long drive times are encountered depending on geographical territory covered * Work with branch employees to satisfy client needs * Address customer service requests within the specified contract response time * Extended Hours Coverage periods and ‘On\\-Call’ duty where applicable * Safeguard and maintain a balanced vehicle stock parts inventory * Upkeep and cleanliness of company issued vehicle including scheduled service intervals * Safeguarding of any company issued assets including tablet computer and mobile phone * All other duties as required **WHO WE ARE LOOKING FOR** **Qualifications**: * 5\\+ years of working in Technical/Field Service position or similar technical profession * Impeccable Integrity * Must be able to gain access to highly secured environments; Occupational licenses may be necessary to obtain depending on territory/accounts * Strong electromechanical aptitude * Excellent verbal and written communication skills, including a positive, customer\\-first attitude * Personable, approachable and able to work easily with others at all levels * Strong Attention to details \\- able to proof and prioritize your own work * Proficient in iOS, MS Office applications and Windows OS * Ability to set and track goals independently, initiate and follow through on assignments without coaching, and work proactively as a team player * Able to commit to and meet project deadlines **Physical Requirements:** * Available for periodic travel to our corporate office in Coventry for training classes * Able to lift, push or carry a minimum of 25KG’s such as large money counting machines and parts in and out of client sites * The job requires kneeling, bending, twisting, lifting and squatting to service equipment on the ground up to 60% of the time * Hand and wrist dexterity needed to turn screwdrivers and place parts and equipment * Phone or desk work about 10% of the time doing computer work, bench repair work, parts stocking, tracking service calls and setting up appointments * Ability to stand for long periods up to 75% of the time while servicing some equipment **Key Attributes for Success:** * High energy level, comfortable performing multifaceted projects in conjunction with day\\-to\\-day activities * Strong influencing, analytical, and problem\\-solving skills, with the ability to multi\\-task in a fast\\-paced environment * Ability to establish credibility, make decisive decisions and support the organization's preferences and priorities * Results and people oriented with sound judgment—ability to balance other business considerations * Team player – able to work in a matrix organization * Excellent communication skills verbally and in writing **WE ARE OFFERING** * Competitive salaries * Technician Incentive Compensation Plan * Company provided vehicle, uniform, tools and training * Paid time off * Sick time off * Private medical cover * Private pension with Company contribution * Community involvement Sound interesting? Come see why we are OneCPI and Apply Today! **CPI is a part of Crane NXT** Crane NXT is a premier industrial technology company that provides proprietary and trusted technology solutions to secure, detect, and authenticate what matters most to its customers. The company is a pioneer in advanced, proprietary micro\\-optics technology for securing physical products, and its sophisticated electronic equipment and associated software leverages proprietary core capabilities with detection and sensing technologies. Crane NXT has approximately 4,000 employees with global operations and manufacturing facilities in the United States, the United Kingdom, Mexico, Japan, Switzerland, Germany, Sweden, and Malta. For more information, visit www.cranenxt.com. *Crane Payment Innovations is committed to hiring a diverse workforce. Applicants will receive consideration without regard to race, color, religion, sex, gender identity, sexual orientation, age, disability, military status, or national origin or any other characteristic protected under federal, state, or applicable local law.* \\#CPI \\#LI\\-JL \\#LI\\-REMOTE",
+   "job_url": "https://uk.indeed.com/viewjob?jk=60661302745dc997",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "Have you ever used the self-checkout in a Tesco or deposited coins at a NatWest/RBS branch? Played the slots at a Mekur Casino? Maybe you grabbed a drink from a vending machine or paid to park your car? If you’ve answered with a resounding “YES”, then you’ve done so with the aid of one of the 10…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=daee22b1ae680f9d": {
+   "title": "Service Technician",
+   "company": "JCT600",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-07-09",
+   "description": "**Service Technician – Volkswagen Commercial Vehicles** **Location:** Sheffield, South Yorkshire **Salary:** Competitive plus bonus This opportunity is a 40 hour week working over 4 days on a rota basis As a Service Technician, you’ll be at the heart of keeping vehicles in top condition. Ensuring vehicles are serviced, repaired, and maintained to the highest standards. You’ll play a key role in making sure every vehicle leaves the workshop performing at its best. **Your day\\-to\\-day as a service technician will include:** * Carrying out detailed inspections and fault diagnostics * Recording findings and recommended repairs clearly on job cards * Communicating effectively with service advisors to keep customers updated **What we’re looking for in a Service Technician:** We’re looking for someone who is passionate and committed to delivering exceptional standards. You’ll ideally have: * Level 3 IMI in Light Vehicle Maintenance and Repair * Proven experience as a Service Technician * Full UK driving licence (free from excessive penalties) * Excellent attention to detail * A positive and team focused attitude **What we offer** At JCT600, we believe in rewarding and supporting our colleagues. Every Service Technician benefits from a competitive package and access to a wide range of colleague benefits including: * **Annual leave:** 34 days including bank holidays, increasing to 36 days (5 years) and 38 days (10 years) * **Family support:** Enhanced paid maternity and paternity leave * **Wellbeing \\& protection:** Life assurance, pension, enhanced sickness cover * **Training \\& development:** From foundation to advanced levels through brand partner training and our best\\-in\\-class leadership development * **Colleague car purchase scheme \\& servicing discounts** * **Cycle\\-to\\-work and discounted gym schemes** * **Referral scheme up to £1,000** Read more about our Employee Benefits \\- JCT600 **Why JCT600?** * We’ve spent over 80 years building a business that values its people and their careers * We pride ourselves on being rated highly by colleagues for engagement and inclusivity * Our commitment to your growth is reflected in our “Life at JCT600” philosophy and seven colleague commitments **How to Apply** At JCT600, you’re ***always a name, never a number***. Ready to drive your career forward? Click “Apply Now” and upload your CV. Looking for future roles? Submit your CV directly here and join our talent pool. **Inclusivity \\& Diversity** *JCT600 Ltd is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.* *As part of our commitment to being an inclusive business, we’re proud to be a* *Disability Confident employer**.* *We try our hardest to make JCT600 feel like a home from home for all of our colleagues. To us, that’s a place where we can all feel supported to be our true selves every day and where our workforce represents the wonderful communities we serve.*",
+   "job_url": "https://uk.indeed.com/viewjob?jk=daee22b1ae680f9d",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=a2a910cb364ee236": {
+   "title": "Maintenance Electrician",
+   "company": "Vinci Facilities UK",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-06-09",
+   "description": "**Mobile Repair Technician** **Sub Division: Facilities Management** **Location: Sheffield** **Contract Type: Permanent** **Hours: Full Time \\- 37\\.5 hours \\- Monday to Friday** Creating and maintaining great places to live and work delivered by excellent people who care… **Purpose of Role** As a Maintenance Electrician based in Sheffield, you’ll enjoy the freedom to manage your day with autonomy, supported by a friendly and collaborative team that genuinely wants you to succeed. This is a role where no two days are the same, offering variety, challenge, and the opportunity to continuously learn and develop your skills. **Job Description** As a Maintenance Electrician based in Crawley, you’ll enjoy the freedom to manage your day with autonomy, supported by a friendly and collaborative team that genuinely wants you to succeed. This is a role where no two days are the same, offering variety, challenge, and the opportunity to continuously learn and develop your skills. **Responsibilities** * Maintain the highest standards of Health \\& Safety and ensure all work complies with statutory and company requirements. * Carry out electrical maintenance, fault finding, testing, inspections, installations, and compliance tasks, delivering; planned preventative maintenance, reactive repairs, and small works across a diverse portfolio of commercial retail sites. * Perform general building maintenance, including basic plumbing, carpentry, painting, and minor fabrication. * Use mobile technology (tablet) and internal systems to efficiently manage, update, and close work orders. * Complete all administrative tasks and maintain accurate records of maintenance and compliance activities. * Work independently and collaboratively with planning teams, colleagues, store managers, and subcontractors to achieve KPIs and ensure an efficient, high quality service. * Support operational and commercial objectives, including contributing to quotations and business requirements where needed. * Participate in a structured on\\-call rota to support out\\-of\\-hours service requirements. **Essential Qualifications/Skills** * 18th Edition wiring regulations certification. * NVQ Level 3 in Electrical Installation or equivalent. * Proven experience working in a retail, commercial, or multi\\-site maintenance environment * Experience in wider building maintenance and multi\\-trade capabilities. * Fault\\-finding and repair skills, with a proactive and customer\\-focused approach. * Clear communication and interpersonal skills, with the ability to engage effectively with customers and colleagues. * Adaptable and flexible approach, with a clear commitment to continuous learning In return for your hard work we offer additional training and development, 26 days holiday (\\+ bank holidays), generous pension contribution, life assurance and much more. We are VINCI Facilities – experts in the built environment. VINCI Facilities is a Facilities Management and Building Solutions provider, delivering cost\\-effective and sustainable bespoke solutions to customers in the public and private sectors. We are committed to working towards a lower carbon society, focusing on sustainable and innovative methods to exceed our partners' goals and add value for all stakeholders – and we were named the top\\-ranked FM service provider in the Sustainable FM Index for 2020\\. We put our people first. Always working as a team and collaborating from start to finish. We are the trusted expert in the built environment because we listen to our team and create a workplace that maximises their potential. Fairness, Inclusion and Respect (FIR) at VINCI Facilities is about recognising and celebrating each other’s differences and what they bring to the team. Harnessing this diversity and applying the experiences, abilities and unique qualities of individuals will enhance our business; therefore, we commit to equity of opportunity and fair treatment of all current and potential employees and encourage job applications from all. Should you require any reasonable adjustments to be made as part of the application process please contact us directly. VINCI recognises the importance of helping our employees balance their work and home life by offering flexible working arrangements across many of our roles which include working from home to enable employees to balance their working life with other priorities. Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=a2a910cb364ee236",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "Mobile Repair Technician Sub Division: Facilities Management Location: Sheffield Contract Type: Permanent Hours: Full Time - 37.5 hours - Monday to Friday Creating and maintaining great places to live and work delivered by excellent people who care… Purpose of Role As a Maintenance Electrician…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=c6e93f26ba0bbf2c": {
+   "title": "Print Services Technician",
+   "company": "THE SHEFFIELD COLLEGE",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2025-05-16",
+   "description": "#### **Print Services Technician** Sheffield 28/09/2026 Print Services Technician The job requirements are detailed below. Where applicable the skills, qualifications and memberships required for this job have also been included. ### **Job details** ##### **Job details** Salary £27,455 \\- £29,810 per annum (this will be pro\\-rata'd to reflect the hours worked) Contractual hours 18\\.5 Basis Part time Package Annual Leave\\- 30 Days (222 hours) \\+ 8 Bank Holidays (59\\.2 hours)\\- this includes a discretionary Christmas closure period Employer Pension Contribution into Local Government Pension Scheme Date posted 16/05/2025 Job reference RR00001197 *attachment* ### **Job description** ##### **Job description** **About us** The Sheffield College is a thriving further and higher education community, empowering around 13,000 learners each year to achieve their goals. Driven by our mission to transform lives through learning, we foster an inclusive environment — recognised through our 2026 Investors in Diversity Gold award and 3rd‑place ranking in the National Centre for Diversity’s 2025 Top 100 Most Inclusive UK Employers. **About** **the role** As an experienced Print Services Technician, you will understand the importance of producing a professional service for both our staff and students. We are looking for the right person with knowledge in all aspects of running and managing a reprographic department. The role is challenging and at time extremely fast paced looking after both staff and student print and copy requests. **This is a part time role working 18\\.5 hours per week, 52 weeks per year.** **Main Responsibilities:** * Experience in all aspects of printing, binding, copying is a must along with experience of being part of a working print room. * You will have excellent standards, paying attention to proof\\- reading and checking for accuracy and presentation. * Knowledge of copyright legislation will also be essential * Experience with all machinery associated with this role, including basic maintenance repairs and fault diagnostics. * You will be confident dealing with external companies and have a significant input into procuring new contractors and leases. * You will be confident in helping managing the department budget and responsibilities that come with this role. * An excellent understanding of Microsoft Office and photo editing software will also be needed to provide the best possible service and advice to our customers. * You will be a dynamic and motivated person constantly looking for new technologies and innovative ways to engage our customers and encourage income growth. * You will develop advertisement campaigns to increase college awareness of the Reprographic department and the services provided. If you want to find out more about the role please contact Tracey Rawlings, IT Operations Manager \\- Tracey.Rawlings@sheffcol.ac.uk **What we can offer you** As the successful candidate, you will be offered a salary of between **£27,455 \\- £29,810** per annum (this will be pro\\-rata'd to reflect the hours worked) based upon a combination of the skills, knowledge and experience that you can bring to the role. Alongside your salary, your pension is one of the most valuable benefits of joining the College. The **Local Government Pension Scheme (LGPS)**, administered locally by **SYPA**, provides financial security in retirement and support for your loved ones. **Our Full Benefits Package** * SYPA – with a **generous employer contribution** * **Annual leave \\- 30 Days** (222 hours) \\+ 8 Bank Holidays (59\\.2 hours) \\- this includes a discretionary Christmas closure period * **Health and wellbeing support**, including: * Employee assistance programme through Bupa * Occupational Health through PAM * Free eye tests for VDU users * **Free parking** is available at the majority of our campuses * **Hybrid and flexible working** opportunities * **Continuous professional development** opportunities * **A people**‑**focused working culture** where you can grow and thrive Further information can be found on our Benefits and Career Development pages. **Disability Confident** We are a Disability Confident employer and are committed to removing barriers for applicants with a disability during our recruitment process, upon appointment and as an employee. Please review our Recruitment Guidelines for Disabled Candidates which provides further information on reasonable adjustments and how the Disability Confident scheme works in practice. If you require any reasonable adjustments or any support at any point throughout the process, please contact jobs@sheffcol.ac.uk **Armed Forces Covenant** As part of our commitment through the Armed Forces Covenant, we’re pledged to support the Armed Forces Community. Recognising the value Personnel, Veterans and military families contribute to our community and country. **Safeguarding** We are an employer who is committed to safeguarding and promoting the welfare of students. Successful applicants will be required to have an enhanced DBS check and will be subject to safer recruiting procedures. Further details on our safer recruiting procedures, including the employment of ex\\-offenders can be found here Safeguarding **Next Steps:** **To apply:** Click and follow the links to complete the online application. For queries regarding the application process, please contact the Recruitment Team at jobs@sheffcol.ac.uk CVs are currently not accepted. As a Leader in Diversity employer, we encourage applications from everyone and value diversity in our workforce. **Closing date: 28th September 2026** Please be aware – If we have a high number of applications, we may decide to close the vacancy earlier.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=c6e93f26ba0bbf2c",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "summary": "Print Services Technician Sheffield 28/09/2026 Print Services Technician The job requirements are detailed below. Where applicable the skills, qualifications and memberships required for this job have also been included. Job details Job details Salary £27,455 - £29,810 per annum (this will be…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=2116a264d1a1fcfa": {
+   "title": "Multi-Skilled Operative - Joiner",
+   "company": "Target Housing",
+   "location": "Rotherham, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "**We are hiring a Joiner \\- Multi\\-Skilled Operative at Target Housing to join our Maintenance team.** Location: Rotherham, S60 1BY Job Type: Full\\-Time, Permanent (39 hours per week) **About Us:** Target Housing is a charity and registered social landlord. Over the past 30 years we have shown that stable accommodation and support can help transform lives. We work in a psychologically and trauma informed way to empower people to achieve independence. Target delivers the highest standard of housing and support to enable vulnerable people to live independently, fulfil their potential and contribute to their communities and wider society. **Main Purpose:**To maintain the properties within the Target portfolio to a high standard. To carry out planned, reactive and emergency repairs as and when required within agreed timescales. **Specific Tasks \\& Responsibilities** * Work independently on task lists * Maintenance and repair work for buildings and facilities * Completing joinery, such as but not limited to: studwork, roofing joinery, hanging doors, skirting boards, architraves and installing kitchens * Basic plumbing tasks * Assist and liaise with external contractors and others as necessary * Undertake emergency jobs (e.g. reacting to the impact of weather conditions on buildings and grounds) * Be involved with building and maintenance work, when required, to alter or create workspaces suitable for the needs of the business * Maintenance of buildings and offices to comply with current legislation * Attend team meetings, supervisions, and training as directed * To understand and comply with Health and Safety regulations * Undertake any other duties as required to meet the needs of the organisation **Person Specification** * Able to work on your own initiative as well as part of a team * You will demonstrate good aptitude for ‘hands on’ work and the use of hand tools * Good communication skills with the ability to follow instructions * You have a positive ‘can do’ attitude, with adaptability to change and varying work priorities * You will have excellent reliability \\& flexibility as a team member, committed to excellent levels of punctuality and attendance * You will be a high\\-quality installer/fitter/joiner * A full driving licence is essential * An awareness of Health \\& Safety working practices If you have any special access requirements or other support needs throughout the application process (including interview), please contact us so that we can let you know how we can support you. **Get in Touch:**If you have any questions about the role, please get in touch with emma.shipley@targethousing.org.uk *This role is subject to Enhanced DBS clearance, 2 Employment References, a full valid Driving Licence and access to a road worthy vehicle.*",
+   "job_url": "https://uk.indeed.com/viewjob?jk=2116a264d1a1fcfa",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-14T20:12:28Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
   }
  },
  "last_run_report": {
-  "started": "2026-09-14T13:46:00Z",
+  "started": "2026-09-14T20:12:28Z",
   "searches": [
    {
     "term": "activity instructor",
@@ -8991,43 +9697,43 @@
    },
    {
     "term": "warehouse operative",
-    "found": 1,
+    "found": 2,
     "new": 1
    },
    {
     "term": "picker packer",
-    "found": 3,
+    "found": 4,
     "new": 1
    },
    {
     "term": "delivery driver",
-    "found": 3,
+    "found": 6,
     "new": 2
    },
    {
     "term": "courier driver",
-    "found": 1,
+    "found": 2,
     "new": 1
    },
    {
     "term": "customer service assistant",
-    "found": 6,
-    "new": 1
+    "found": 21,
+    "new": 14
    },
    {
     "term": "retail assistant",
     "found": 7,
-    "new": 2
+    "new": 1
    },
    {
     "term": "receptionist",
     "found": 2,
-    "new": 2
+    "new": 0
    },
    {
     "term": "kitchen assistant",
-    "found": 5,
-    "new": 2
+    "found": 3,
+    "new": 1
    },
    {
     "term": "kitchen porter",
@@ -9051,13 +9757,13 @@
    },
    {
     "term": "maintenance technician",
-    "found": 1,
-    "new": 0
+    "found": 12,
+    "new": 8
    },
    {
     "term": "fitter",
-    "found": 10,
-    "new": 0
+    "found": 1,
+    "new": 1
    },
    {
     "term": "caretaker",
@@ -9065,7 +9771,7 @@
     "new": 0
    }
   ],
-  "new": 12,
-  "updated": 54
+  "new": 30,
+  "updated": 57
  }
 }
