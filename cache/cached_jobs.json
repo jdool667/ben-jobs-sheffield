@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_run": "2026-09-14T20:12:28Z",
+  "last_run": "2026-09-15T12:32:20Z",
   "location": "Sheffield",
   "country": "UK",
   "hours_old": 72,
@@ -114,7 +114,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-13T21:17:35Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -136,7 +136,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-13T21:17:35Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -158,7 +158,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-13T21:17:35Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -876,7 +876,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Be Yourself – Be a Bold Team Player – Be Leonardo Once you’re part of the team, you’re part of the Leonardo community of over 55 hotels across the UK & Ireland! As a Kitchen Porter you’ll be right in the heart of the hotel, so we want you to take pride in everything you’ll be doing to support the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -900,7 +900,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Smoke BBQ is looking for a part-time kitchen porter with an immediate start. Candidates should possess the following: - A strong work ethic - Ability to perform under pressure - A positive 'can do' attitude - Be a team player Previous experience in a similar role would be advantageous. Benefits…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -1437,7 +1437,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Caretaker Sub Division: Facilities Management Location: Sheffield Contract Type: Permanent Hours: Full Time - 37.5 hours - Monday to Friday Creating and maintaining great places to live and work delivered by excellent people who care… Purpose of Role We're looking for a reliable and proactive…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2168,7 +2168,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Job description Thornbridge Outdoors is Sheffield City Council’s outdoor learning centre located near Bakewell in the Peak District. Our mission is ‘to widen the horizons of young people through real outdoor adventures in the Peak District’. This is an exciting opportunity to join the pool of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2192,7 +2192,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Job description Thornbridge Outdoors is Sheffield City Council’s outdoor learning centre located near Bakewell in the Peak District. Our mission is ‘to widen the horizons of young people through real outdoor adventures in the Peak District’. This is an exciting opportunity to join the pool of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2861,7 +2861,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Job Overview We are seeking a dedicated and enthusiastic Kitchen Porter to join our dynamic kitchen team. The Kitchen Porter plays a crucial role in ensuring the smooth operation of our kitchen by assisting with food preparation, maintaining cleanliness, and supporting the culinary staff. This…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -3144,7 +3144,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Caretaker – Penistone Outdoor Markets £13.31 Per Hour Join Our Team as a Part-Time Caretaker at Penistone Outdoor Markets We’re looking for a reliable and detail-oriented Caretaker to join our team on a part-time basis. This is a fantastic opportunity To work as part of a multi-disciplinary…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -3868,7 +3868,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3890,7 +3890,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-13T21:17:35Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -3956,7 +3956,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-13T21:17:35Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -5897,7 +5897,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-08T17:07:31Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Company Description Title: Kitchen Porter Location: Sheffield Hourly Rate: £13.45 Part Time: 15 Hours Benefits: 28 Days holiday including bank holidays Plus your birthday off 3 volunteering days 3 days grandparent leave 24 week’s enhanced maternity leave Secondary carer leave Wedding/commitment day…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6391,7 +6391,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-09T12:13:10Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Company Description ----------------------- Title: Kitchen Porter Location: Sheffield Hourly Rate: £13.45 Part Time: 15 Hours Benefits: 28 Days holiday including bank holidays Plus your birthday off 3 volunteering days 3 days grandparent leave 24 week’s enhanced maternity leave Secondary carer…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6437,7 +6437,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "As we evolve into Social Wellness Clubs, we are creating spaces and experiences that support every aspect of our members' physical, mental, nutritional and social wellbeing. By bringing together expert guidance, genuine community, personalised experiences and innovative technology, we make wellness…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7227,7 +7227,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-10T16:55:59Z",
-   "last_seen": "2026-09-13T21:17:35Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7318,7 +7318,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-10T21:28:52Z",
-   "last_seen": "2026-09-13T21:17:35Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7365,7 +7365,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-10T21:28:52Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "About Us Ben’s Fire & Feast is a busy and growing takeaway and delivery business serving bold, crowd-pleasing food. Our menu includes pizzas, feast boxes, kebabs, gyros, wraps, burgers and loaded sides. Everything we do is focused on fast, high-quality service for collection and delivery customers.…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8282,7 +8282,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-12T21:29:18Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Come join our fantastic team. We love to entertain! It’s in our DNA!... and it’s not just about bowling. We have lots more to offer from Escape Rooms to Karaoke Rooms, Laser Arena, Soft Play to Arcade Machines and Pool Tables. We also have fully licensed bars including cocktails, and of course our…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8396,7 +8396,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-13T12:37:16Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "The ideal applicant We're looking for fun, enthusiastic, passionate people to join our hard-working teams. No experience is needed, just a good attitude, a willingness to learn and a calm head under pressure. As a UK Top Employer with an award-winning training programme, we know that we can teach…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8444,7 +8444,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-13T16:53:31Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Package Description Welcome to Pizza Hut, we make every single one of our craveable pizzas by hand. And we work even harder to help you handcraft your future. Exactly how you choose to. We aim to create an exciting environment to help you get where you want to go in your personal life and work - a…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8468,7 +8468,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-13T16:53:31Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "We are looking for a competent and friendly individual with excellent knowledge and a good customer service manner. Knowledge of DIY products and a desire to learn more is essential. The job will be between 20 and 32 hours depending on skills and experience, covering 4 to 5 days per week.…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8707,7 +8707,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Job Title: Warehouse Operative – Embroidery & Heat Transfer Clothing Location: Sheffield, UK Hours: Part-time Wednesday-Thursday, 8am-5pm & Friday 8am-4pm Salary: £12.71 per hour Start Date: Immediate We are a diverse company with a fast-growing custom apparel department seeking a skilled and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8731,7 +8731,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -8753,7 +8753,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -8775,7 +8775,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -8819,7 +8819,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Location: Sheffield Job Type: Full-time Shift Pattern: Monday to Friday, 9:00am–6:00pm (Optional Saturday shifts available) Pay Structure: Guaranteed base pay plus performance bonus incentives Start Date: Immediate or within 2 weeks If you love being in the middle of a busy shop floor, enjoy…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8843,7 +8843,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Batch’d serves incredible sweet treats including donuts, brownies, cookies plus many more decadent baked goods. Since our launch in 2021, we’ve expanded rapidly to 25 locations across the UK, including Leeds, Manchester, Sheffield Birmingham, York and Scotland. We are now looking for forward…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8867,7 +8867,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Location: Primark Meadowhall, Sheffield Pay rate: £13.00 per hour Employment type: Fixed Term Contract (Contract End date - 09th January 2027) Job type: Part Time Contracted hours: 22.5 hours per week Shift pattern: Varied shifts including mornings; afternoons; evenings and weekends – all will be…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8891,7 +8891,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Parker Rhodes Hickmotts are seeking to appoint a full-time experienced Legal Secretary to join our busy Immigration Department. This role will be supporting fee earners in the department, duties include: Secretarial and administrative duties, including digital audio typing; Opening and closing…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8915,7 +8915,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "ATTENDANCE AND ADMIN OFFICER Start date: As soon as possible Hours: 32.5 hours a week, 39 weeks per year Monday – Friday 08:00am – 3:00pm Salary: Grade 3, payscale 5 - 6 £26,427 - £26,847 per annum Actual Salary: £19,966 - £20,284 per annum Cascade Multi Academy Trust is seeking to appoint an…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8940,7 +8940,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Company Description Join us at Greene King pubs, where we have always been the beacon for communities, wherever people want to come together. Our collection of community pubs are the heart and soul of the local area around them, helmed by a local hero and crewed by a team always ready with your…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8964,7 +8964,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Job Description ------------------- Join Our Team as a Catering Assistant at Astrea Academy Sheffield! Are you passionate about creating delicious meals and providing excellent dining experiences? Astrea Academy Sheffield is looking for a dedicated and enthusiastic Catering Assistant to join our…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8989,7 +8989,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -9011,7 +9011,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Were on the hunt for packing operators to join the Gripple operations team. This is a fantastic opportunity for a confident, hard-working individual capable of working both as part of a team and on their own. Why Gripple? Were not just innovatorswere game-changers. Since 1989, Gripple has led the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9035,7 +9035,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -9057,7 +9057,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -9101,7 +9101,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "More about the role We're looking for friendly, reliable people to join our team, working across the store to serve our customers. You'll work in a fast-paced, structured environment with clear routines and timed activities that help keep everything running smoothly - all to make sure our customers…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9125,7 +9125,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "B2C Sales Executive ----------------------- Sheffield City Centre (office-based) Salary: £24,500 plus commission (OTE £35,000) We're looking for a B2C Sales Executive to join our small telesales team in Sheffield on a permanent basis. UniHomes has grown from a Sheffield start up into a 140 strong…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9149,7 +9149,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Package Description Highly competitive salaries Generous holiday allowance including bank holidays Opportunity to gain an NVQ 2/3 qualification Pension scheme Employee discount scheme Superb development and career opportunities Bonus scheme Overview of the role Are you friendly and organised with a…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9173,7 +9173,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Store Supervisor (Full-Time) Location:Meadowhall Store Contract:40 hours per week Description We are hiring for a Full-Time Store Supervisor to join one of our exciting stores based in Meadowhall. There’s an established team in place, and you will be working directly with them to help create the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9197,7 +9197,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "About Us Job Responsibilities You will be a part of the Management team, along with your Assistant Manager, Deputy Manager and General Manager. You will be responsible for assisting your Management team with the daily operations of your restaurant. In their absence, you will be required to oversee…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9221,7 +9221,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "About Us Job Responsibilities You will be a part of the Management team, along with your Assistant Manager, Deputy Manager and General Manager. You will be responsible for assisting your Management team with the daily operations of your restaurant. In their absence, you will be required to oversee…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9245,7 +9245,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Discover Your Next Opportunity: Senior Part-Time Sales Assistant at Heron Foods Location: Jordanthorpe, Sheffield, S8 8DX Pay: Up to £13 per hour (inclusive of enhancement when performing management duties) Hours: 20 hours per week Why Heron Foods? Be part of a fast-growing company with over 340…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9269,7 +9269,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Are you looking to build a rewarding career in community pharmacy? Seven Hills Pharmacy is seeking a friendly and reliable Pharmacy Assistant to join our welcoming team. In this varied role, you'll be at the heart of our day-to-day operations, supporting our pharmacists and delivering a first-class…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9293,7 +9293,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "A little bit about Lindt We are a premium chocolate manufacturer established in 1845 operating in over 86 countries around the World. Guided by our Global purpose to Enchant the World with Chocolate and UK vision of Creating Moments to Make Everyone Feel Special, we have around 700 team members in…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9317,7 +9317,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Hourly salary: Up to £12.71 per hour Want to work in a busy toy shop at the best time of year? At The Entertainer, Sheffield in the Meadowhall Shopping Centre, we love to create a special experience for the customers who come through our doors, helping to find the perfect toy or gift, keeping the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9341,7 +9341,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Founded in 2010, POP MART is a leading global pop culture and entertainment company. With IP at its core, POP MART works with artists and designers worldwide to develop and operate IPs, creating products, services and entertainment experiences for consumers. Its portfolio includes beloved IP…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9365,7 +9365,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Founded in 2010, POP MART is a leading global pop culture and entertainment company. With IP at its core, POP MART works with artists and designers worldwide to develop and operate IPs, creating products, services and entertainment experiences for consumers. Its portfolio includes beloved IP…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9389,7 +9389,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Founded in 2010, POP MART is a leading global pop culture and entertainment company. With IP at its core, POP MART works with artists and designers worldwide to develop and operate IPs, creating products, services and entertainment experiences for consumers. Its portfolio includes beloved IP…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9413,7 +9413,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Discover Your Next Opportunity: Part-Time Sales Assistant at Heron Foods Location: Jordanthorpe, Sheffield, S8 8DX Salary: Up to £12.71 per hour Hours: 12 hours per week Why Heron Foods? Be part of a fast-paced and growing company with over 340 stores and counting. Every day is different, and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9437,7 +9437,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "Hourly salary: Up to £12.71 per hour plus night shift premium Why Us? Christmas at The Entertainer, Sheffield in the Meadowhall Shopping Centre is like no other retailer - we're selling toys! At Christmas! This position is ideally suited to someone who is not afraid of hard work and able to work…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9461,7 +9461,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "summary": "No CV to hand? No problem! We've made our application process mobile friendly and removed the need for a CV. Our form takes 2 minutes to complete and tells us all we need about you! With your support as a Kitchen Assistant at All Bar One Sheffield, everything will run smoothly! You’ll make sure the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9671,14 +9671,533 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=bd41f5aaf378695b": {
+   "title": "Warehouse Operator",
+   "company": "Panel Systems Ltd",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-15",
+   "description": "Panel Systems Ltd is a privately owned Sheffield based company specialising in the manufacture of architectural composite panels, hot wire cutting of XPS and machining/cutting of decorative laminates, foam plastics etc. The company operates across 3 divisions; please see our website www.panelsystems.co.uk for further information about the company. The company currently has a vacancy for a Warehouse Operator. This full\\-time permanent position is based at the Parkwood Industrial Estate at S3 9QY. We are seeking a motivated and reliable individual to join our Warehouse team, reporting directly to the Team Leader. **Key Responsibilities** * Load and unload vehicles using a counter balance forklift truck (FLT). * Verify received materials against purchase orders, ensuring that quantities and quality standards meet company requirements. * Issue materials to production departments and ensure any surplus materials are returned to the warehouse upon completion of work. * Maintain high standards of housekeeping, organisation, and safety within the warehouse. * Assist the Team Leader with stock control activities, including booking goods into stock using the company's administration system. * Support the efficient movement and storage of materials to ensure production requirements are met. * Perform other duties when requested including manual handling. **Experience** Previous experience within a warehouse environment is preferred. **The Successful Candidate Will:** * Hold a valid Counterbalance FLT licence. * Be computer literate and comfortable using warehouse or stock management systems. * Be physically capable of safely handling and lifting materials. * Be able to work independently and use their own initiative. * Demonstrate a positive attitude and willingness to learn new skills. * Have a strong awareness of health and safety requirements within a warehouse environment. Flexibility to work overtime when required is essential to support production schedules and ensure customer delivery deadlines are achieved. Hours of Work Monday to Thursday 7\\.00am to 4\\.00pm Friday 7\\.00am to 2\\.00pm Competitive salary. The position also comes with a company pension scheme and holiday package Job Type: Full\\-time Expected hours: 40\\.0 per week Benefits: * Canteen * Company pension * Cycle to work scheme * On\\-site parking Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=bd41f5aaf378695b",
+   "categories": [
+    "Warehouse"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "fit": "stretch",
+   "fit_reason": "licence/own-vehicle requirement",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=e3ad5b2a7ebfbdf3": {
+   "title": "Warehouse Assistant",
+   "company": "Brenner Verpackung",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-01",
+   "description": "Brenner Verpackung GmbH \\& Co. KG is hiring Warehouse Assistants to join our team in Sheffield. Full\\-time and part\\-time positions are available. Pay is £13\\.50–£15\\.00 per hour. Training and support are provided from your first day. **Responsibilities** * Receive and organise incoming goods * Pick items for customer orders * Pack products for dispatch * Check stock and order details * Move goods within the warehouse * Keep work areas clean and tidy **Qualifications** * Reliable and punctual * Good attention to detail * Able to follow instructions * Comfortable with physical work * Strong team attitude * Willing to learn new tasks **What We Offer** * £13\\.50–£15\\.00 per hour * Full\\-time or part\\-time hours * On\\-the\\-job training * Regular working schedules * Supportive warehouse team * Stable work opportunities Join Brenner Verpackung GmbH \\& Co. KG in Sheffield and become part of our growing warehouse team. Apply today to get started.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=e3ad5b2a7ebfbdf3",
+   "categories": [
+    "Warehouse"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "summary": "Brenner Verpackung GmbH & Co. KG is hiring Warehouse Assistants to join our team in Sheffield. Full-time and part-time positions are available. Pay is £13.50–£15.00 per hour. Training and support are provided from your first day. Responsibilities Receive and organise incoming goods Pick items for…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=cf96a6879a497068": {
+   "title": "Education & Student Experience Assistant",
+   "company": "University of Sheffield",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-15",
+   "description": "Job Description Job Title: Education \\& Student Experience Assistant Posting Start Date: 15/09/2026 Job Id: 3145 School/Department: Mathematical \\& Physical Sciences Work Arrangement: Full Time (Hybrid) Contract Type: Permanent Salary per annum (£): £25,249\\.00 \\- 26,707\\.00 Closing Date: 13/10/2026 The University of Sheffield is a remarkable place to work. Our people are at the heart of everything we do. Their diverse backgrounds, abilities and beliefs make Sheffield a world\\-class university. We offer a fantastic range of benefits including a highly competitive annual leave entitlement (with the ability to purchase more), a generous pensions scheme, flexible working opportunities, a commitment to your development and wellbeing, a wide range of retail discounts, and much more. **Overview** You will be part of a team that develops, manages and improves the effective organisation of our taught programmes and related student procedures. You will ensure policies and processes across the student journey are clear and straightforward, meet regulatory requirements, are consistently applied and deliver educational excellence. You will provide crucial frontline support, representing the school in real time to deliver an outstanding student experience. As well as working on a reception, you will take ownership of a range of administrative tasks that support students as they progress through their programme. The ideal candidate will have outstanding customer service and interpersonal skills, and an ability to put people at ease through sophisticated and sensitive verbal and non\\-verbal communication skills. We are looking for a flexible, confident and enthusiastic approach to work and a focus on improving the experience of our students. Excellent time management skills along with the ability to work on a range of tasks in a timely and accurate way are also essential. **Main duties and responsibilities** * Be the first point of contact on the school’s reception taking care of enquiries from students, graduates, staff and visitors in person, via email and chat functions and telephone, recording enquiries on various information systems as required. * Take care of sensitive, confidential, and personal student\\-related matters, signposting and referring appropriately to relevant information sources, self\\-help resources and specialist services as required. * Compile and collate student information using a range of University Information Management Systems; assisting with the collation and inputting of student assignment and examination marks onto databases, monitoring and updating student records, including change of status, repeat study and assisting in the preparation of student letters. * Respond to requests for general student information, referring more complex queries to other colleagues in the team. * In collaboration with colleagues, plan and organise events to a high standard, including supporting welcome and induction activities and graduation. * Administer ethics applications and related processes related to in\\-curricular activity. * Support the School’s Extenuating Circumstances and Extensions processes, referring complex cases to senior colleagues as required. * Provide a high quality administrative service for education and student experience meetings, including diary management and date setting, accurate minute taking and subsequent write up, ensuring timely follow\\-up of actions from meetings are received, and collating and distributing papers. * Carry out general administrative duties to support the effective delivery of Education and Student Experience. This may include across activities related to assessment and feedback, academic misconduct, student voice (eg TellUS configuration) and timetabling, as well as broader cross\\-team support , working collaboratively across the team as required. * Provide first line support and troubleshooting for Blackboard queries, updating templates in Blackboard, creating guidance for staff/students, and assisting in setting up assessment groups and other activities. * Liaise and collaborate with other schools and professional service departments to provide a joined\\-up service to students. * Suggest improvements to the School’s processes and activities in order to improve the student and staff experience. * Support colleagues across the Education and Student Experience Team to ensure that the School is able to deliver the full remit of its responsibilities in a timely and effective manner. * Carry out other duties, commensurate with the grade and remit of the post. **Person Specification** Our diverse community of staff and students recognises the unique abilities, backgrounds, and beliefs of all. We foster a culture where everyone feels they belong and is respected. Even if your past experience doesn't match perfectly with this role's criteria, your contribution is valuable, and we encourage you to apply. Please ensure that you reference the application criteria in the application statement when you apply. Essential criteria * Educated to GCSE level (or equivalent experience) (Application) * Previous experience of working within a reception or within a customer service environment ( Interview/Application) * Excellent customer service skills, with experience of working within a customer facing environment, including responding efficiently and effectively to face\\-to\\-face, phone and email enquiries (Application/Interview) * An ability to carry out effective administrative duties in a busy and sensitive customer care environment, including responding quickly and confidently to a range of complex enquiries from a diverse audience. (Application/Interview) * Commitment to working flexibly, including prioritising urgent or unscheduled tasks and accommodating changes. (Application/Interview) * Excellent interpersonal skills, including an ability to use sensitive verbal and non\\-verbal communication. (Application/Interview) * Proven IT skills, with…",
+   "job_url": "https://uk.indeed.com/viewjob?jk=cf96a6879a497068",
+   "categories": [
+    "Outdoor & Education",
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "summary": "Job Description Job Title: Education & Student Experience Assistant Posting Start Date: 15/09/2026 Job Id: 3145 School/Department: Mathematical & Physical Sciences Work Arrangement: Full Time (Hybrid) Contract Type: Permanent Salary per annum (£): £25,249.00 - 26,707.00 Closing Date: 13/10/2026 The…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=f9b766df9d974609": {
+   "title": "Senior Retail Bakery Assistant",
+   "company": "Brook Bakery Ltd",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-15",
+   "description": "**Job Overview** We are seeking a customer\\-focused Senior Retail Bakery Assistant to join our retail team. The ideal candidate will possess excellent communication skills, organisational abilities, and a passion for delivering outstanding service. The Senior Retail Bakery Assistant will play a key role in driving sales through effective merchandising and upselling techniques, ensuring a welcoming environment for all visitors. **Responsibilities** * Provide exceptional customer service by assisting shoppers with their enquiries and purchases. * Maintain attractive product displays through effective merchandising and organisation. * Engage in upselling to maximise sales opportunities while ensuring customer satisfaction. * Handle phone enquiries professionally, demonstrating excellent phone etiquette. * Manage time efficiently to ensure all tasks are completed within scheduled shifts. * Follow set recipes and use safely kitchen equipment * Creating delicious hot and cold sandwiches * Ensure all shop and prep areas clean and tidy * Completing relevant paperwork including taking till readings and all required hygiene/safety checks * All the tasks you would expect to do in a busy bakery shop. **Qualifications** * Cooking and making food experience essential * Strong communication skills with the ability to engage confidently with customers. * Previous experience in retail sales, preferably a food environment. * Basic maths skills for handling transactions accurately. * Excellent organisational skills and attention to detail. * Effective time management abilities to prioritise tasks efficiently. * Proven ability to upsell products tactfully while maintaining excellent customer relations. * Organisational skills that support multitasking in a fast\\-paced environment. This position offers a demanding but rewarding role in a busy environment. Flexibility and team work are a must. Job Types: Part\\-time, Permanent Pay: From £13\\.10 per hour Benefits: * Employee discount * Free parking * On\\-site parking * Store discount Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=f9b766df9d974609",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "summary": "Job Overview We are seeking a customer-focused Senior Retail Bakery Assistant to join our retail team. The ideal candidate will possess excellent communication skills, organisational abilities, and a passion for delivering outstanding service. The Senior Retail Bakery Assistant will play a key role…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=db5b3a14f14277bc": {
+   "title": "Guest Experience Assistant",
+   "company": "True Student",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-15",
+   "description": "Interested in candidates interested in either role. 1 x Full time Guest Experience Assistant (37\\.5 hours) 1 x Part time Guest Experience Assistant (16 hours) true Student is a student accommodation provider offering a range of luxury living options in various UK cities, including Manchester, Salford, Birmingham, Liverpool, Glasgow, Leicester, Nottingham and Sheffield. We offer both shared apartments and private studios, with a focus on creating a home\\-away\\-from\\-home for students. true Student also emphasizes creating a vibrant student community through events and activities, aiming to enhance the overall student experience. True Student's Mission: True Student aims to provide more than just a place to live; they strive to create a vibrant and supportive environment that helps students thrive academically and socially, encouraging them to make the most of their university experience. You are a natural people person with a hands\\-on approach to your role. You are fun and friendly with a ‘can do’ attitude. Operational ‘excellence’ is your thing, and you thrive in a fast\\-paced environment where no two days are the same…because that’s just boring, right? ESSENTIAL * You will be friendly and fun with a positive personality. * Able to work flexible hours as determined by the needs of the business including frequent weekends. * You will be social media savvy and confident creating content. * You will have previous front facing, customer service experience in a similar role. * Self\\-motivated, professional, resilient \\& adaptable. * A strong ability to problem solve, multi\\-task, plan \\& organise. * Always ensures a high standard of appearance. THE ROLE * You are the welcoming face of true ensuring guests receive a warm welcome and a fond farewell. * You will be a key point of contact for our guests \\- answering questions, dealing with issues or concerns, and responding to complaints. * Provide reception desk support, including front desk and telephone support, assisting with parcel deliveries and day to day queries. * Accommodation show arounds and supporting the sales team. * Supporting the management team to ensure a range of opportunities and events for our guests. * Planning and delivering our market leading trueLife™ events program. * Managing the accommodations social media channels and generating content to support the marketing team. * Assisting with guest check in and check out processes and supporting with termly room inspections. * Managing contractors and visitors and ensuring procedures are followed Job Types: Full\\-time, Permanent Pay: £13\\.00 per hour Benefits: * Company pension * On\\-site gym Application question(s): * What's your favourite movie and why? * Are you looking for full time (37\\.5 hours) or part time (16 hours)? Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=db5b3a14f14277bc",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "summary": "Interested in candidates interested in either role. 1 x Full time Guest Experience Assistant (37.5 hours) 1 x Part time Guest Experience Assistant (16 hours) true Student is a student accommodation provider offering a range of luxury living options in various UK cities, including Manchester,…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=111661c46a18b9d6": {
+   "title": "Marketing Assistant",
+   "company": "Bright Bridge Ventures",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-15",
+   "description": "**Location:** Sheffield **Contract:** Full\\-time **Core Hours:** Monday to Friday, 9:00am–6:00pm **Additional Hours:** Optional Saturdays available **Earnings:** Guaranteed base pay plus performance bonus incentives Ever found yourself breaking down why a brilliant pop\\-up event worked so well, or why people flock to certain brand setups over others? Marketing isn’t just about putting posters on a wall; it’s about starting the right conversations, making a brand approachable, and giving people a real reason to connect. If you’re curious, articulate, and ready to gain practical experience, our Sheffield team has a place for you. We are hiring an entry\\-level Marketing Assistant to support live promotional campaigns, public outreach, and interactive brand setups for our growing client portfolio. **The Role Centres on Three Things** **Building Audience Engagement** * Greet visitors at live campaign spaces with an open, authentic approach * Ask natural questions to discover what each customer actually values * Introduce client promotions, active package options, and service features clearly * Walk interested members of the public through simple enrollment forms **Supporting Campaign Execution** * Participate in morning strategy huddles to review target audiences and client briefs * Help assemble promotional display stands, branded literature, and venue layouts * Maintain high accuracy when recording daily customer registrations and campaign feedback **Driving Team Growth** * Share venue observations during afternoon recaps to help sharpen future outreach * Work towards personal and collective campaign targets alongside your peers * Apply feedback from senior campaign leads to continuously improve your skillset **Phases of Progression** * **Phase 1 (Campaign Fundamentals):** Master brand representation, customer engagement techniques, and venue setups * **Phase 2 (Team Coaching \\& Mentorship):** Assist with morning briefs, guide new starters, and track daily team targets * **Phase 3 (Campaign Coordination):** Take ownership of event planning, venue coordination, and client account updates * **Phase 4 (Account Management):** Oversee full regional campaigns, expansion strategy, and overall client delivery **What Comes With the Position** * A stable earnings structure that is not commission\\-only * Fixed weekday schedule (9:00am–6:00pm) with no mandatory weekend shifts * Full entry\\-level training in field marketing, brand presentation, and public engagement * Continuous 1\\-on\\-1 coaching and ongoing support from experienced campaign leaders * Hands\\-on exposure across diverse commercial accounts, consumer sectors, and live event formats * Clear performance goals with consistent, constructive feedback * Immediate start dates available with open interview slots **Is This a Good Fit for You?** We are looking for someone approachable, reliable, and comfortable speaking with diverse audiences. Previous background in customer service, retail, or hospitality is a plus, but not essential as full training is provided. Interviews are currently open, and we are looking to onboard our new team member within the next 2 weeks. Send us your CV today to apply. Pay: From £26,000\\.00 per year Benefits: * Casual dress * Company events * Cycle to work scheme * Employee discount * Free parking * Gym membership * Health \\& wellbeing programme * On\\-site parking * Private medical insurance * Referral programme Work authorisation: * United Kingdom (required) Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=111661c46a18b9d6",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "summary": "Location: Sheffield Contract: Full-time Core Hours: Monday to Friday, 9:00am–6:00pm Additional Hours: Optional Saturdays available Earnings: Guaranteed base pay plus performance bonus incentives Ever found yourself breaking down why a brilliant pop-up event worked so well, or why people flock to…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=bd8ab38f0da44bee": {
+   "title": "Bank Theatre Assistant",
+   "company": "Spire Healthcare",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "**Theatre Assistant/Spire Claremont/Sheffield/Bank/Ad\\-Hoc Shifts/Competitive Rate** Spire Claremont Hospital has an exciting opportunity for a Theatre Assistant to join the bank team. **Duties and responsibilities:** To assist the multi\\-disciplinary operating team to provide exemplary care by offering a timely portering service. The service will include escorting patients between ward, departments and theatre suite; Transporting equipment, medical records, meals, specimens and linen; Moving furniture. * Routine tasks related to patient’s health and well being. * Production and communication of information and knowledge * Contribute to own personal development. * Assist in maintaining own and others’ health and safety and security. * Assist in maintaining and developing services. * Ensure own actions help to maintain quality. * Ensure own actions support equality, diversity and rights. * Move patients, surgical equipment and goods. * Acknowledge the risk of Healthcare Associated Infections (HCAI) and understand own responsibility as agreed with line manager in the prevention and control of HCAI. **Who we're looking for:** * Experience of acting under instruction. * Working as part of a team * Customer facing experience * Experience of working as a porter or another caring role based in a clinical environment * Possess the mandatory training requirements for role including infection control and health and safety competencies. * Possess Equipment and Medical Devices Competences * English language to IELTS 7\\.0 * Moving and handling of patients in the perioperative area. * Attaching additional equipment to operating tables and trolleys. * Safe use of role specific perioperative equipment. **Benefits:** We offer employed colleagues a competitive salary as well as a comprehensive benefits package which includes but is not limited to: * Bank colleagues are paid weekly * We offer competitive rates to our bank colleagues who work on a flexible basis, often to cover busy periods, sickness, or annual leave * Save an average of £50 per month with our free onsite car park * Access to Spire Healthcare pension * Access to Blue Light Card discounts * Smartspending discounts (in addition to Blue Light discounts) via ‘Spire for You’ * Wellbeing Centre access via ‘Spire for You’ * Free uniform * Free DBS * Full induction, including mandatory training updates * Opportunities for further training and progression into permanent posts * Knowledge, support and guidance through your recruitment journey from Spire’s specialist Resourcing Team **Our Values:** We are extremely proud of our heritage in private healthcare and of our values as an organisation: * Driving clinical excellence * Doing the right thing * Caring is our passion. * Keeping it simple * Delivering on our promises * Succeeding and celebrating together We commit to our employees’ well\\-being through work life balance, on\\-going development, support and reward. “Spire Healthcare is a leading independent healthcare group in the United Kingdom, running 38 hospitals and over 50 clinics across England, Wales and Scotland. It provides diagnostics, inpatient, day case and outpatient care, operates a network of private GPs and provides workplace health services to over 800 corporate clients. It also delivers a range of private and NHS mental health, musculoskeletal and dermatological services.” Our vision is to be recognised as a world class healthcare business bringing together the best people who are dedicated to developing excellent clinical environments and delivering the highest quality patient care. **Spire Healthcare are proud to be an equal opportunities employer. We celebrate diversity and are committed to creating an inclusive culture for all. Our people are our difference, it’s their dedication, warmth and pursuit of excellence that sets Spire Healthcare apart.** Closing date: In order to streamline our recruitment process, we reserve the right to expire vacancies prior to the advertised closing date once we have received a sufficient number of applications. For us, it's more than just treating patients; it's about looking after people.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=bd8ab38f0da44bee",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "summary": "Theatre Assistant/Spire Claremont/Sheffield/Bank/Ad-Hoc Shifts/Competitive Rate Spire Claremont Hospital has an exciting opportunity for a Theatre Assistant to join the bank team. Duties and responsibilities: To assist the multi-disciplinary operating team to provide exemplary care by offering a…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=0484e715eaf3b152": {
+   "title": "Seasonal Sales & Operations Assistant",
+   "company": "Pandora Jewelry",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "**Join Pandora’s team as a Seasonal Sales \\& Operations Assistant!** Rate of pay: ﻿£13\\.25 ﻿ **Please note that this is a fixed\\-term contract ending on either 27th December 2026 or 3rd January 2027\\.** Spread joy and make the season sparkle with Pandora as a Seasonal Sales \\& Operations Assistant and enjoy a competitive rate of pay, bonus scheme, generous employee discount, jewellery uniform allowance and other excellent benefits! **The role** From driving sales to ensuring smooth operations, you'll be our brand ambassador who’s going to make the magic happen. You can choose and discuss your preference between two focus areas; just bear in mind that there may be some crossover depending on the day\\-to\\-day needs of the store: **Sales:** As someone who loves to meet new people, you’ll confidently connect with our customers, share their stories, and help them find the perfect gifts for their loved ones. * Front\\-of\\-house excellence: surpass sales targets with effective techniques. * Personalised connections: bond confidently with customers, adapting to their unique preferences and needs. * Product pro: master Pandora knowledge, delivering unforgettable customer experiences. **Operations:** As someone who works well in a busy environment with a focus on working accurately and quickly, you’ll support behind\\-the\\-scenes activities to ensure a strong foundation for excellent customer service. * Get hands\\-on with preparing click\\-and\\-collect orders for our customers. * Keep the flow smooth by managing deliveries, processing returns, and restocking shelves with fresh inventory. * Add a creative touch by wrapping beautiful gifts, engraving jewellery and loading gift cards. Join us if you're an expressive team player who thrives in a busy environment, embodying our core values of dreaming, daring, caring, and delivering! **Important stuff to note** * Contracts will end on either 27th December 2026 or 3rd January 2027 * You must be available to work on key trading days throughout the duration of your contract, which will include weekends, Christmas Eve, Boxing Day, New Year's Eve, and New Year's Day. We will do our very best to distribute these days fairly, ensuring you won't be required to work all of them during your contract. * You will accrue annual leave in line with your holiday entitlement. As this is our busiest time of year, annual leave will not normally be approved during this period, except in exceptional circumstances. Any accrued but untaken annual leave will either be paid to you in your final pay or, depending on business and trading requirements, you may be required to take some or all of your outstanding annual leave during the final weeks of your employment. **Our generous benefits package includes:** * A generous employee discount * A jewellery uniform allowance to express yourself and your individuality * Eligibility for the store bonus scheme * Access to plentiful retail, hospitality and entertainment discounts * Incentives throughout the season * Retail Trust: get support related to your wellbeing, legal advice, financial guidance, and more **Ready for a challenge? !** Pandora’s recruitment procedures are designed to be transparent and clear for all candidates. This helps us ensure that applicants are provided with a fair and equal opportunity to demonstrate their competencies and skills by removing blocking factors, possible biases, and risks of discrimination. We encourage everyone applying to our vacancies to refrain from adding identity\\-related elements such as a photo, marital status and age. Please understand that due to the large number of applications, we regret that only online applications can be considered. Please click apply to submit your application. **About Pandora** Pandora is the world's largest jewellery brand, specialising in the design, crafting and marketing of accessible luxury jewellery made from high\\-quality materials. Each piece is created to inspire self\\-expression, allowing people to share their stories and passions through meaningful jewellery. Pandora jewellery is sold in more than 100 countries through 7,000 points of sale, including more than 2,800 concept stores. Headquartered in Copenhagen, Denmark, Pandora employs around 39,000 people worldwide and crafts its jewellery with 100% recycled silver and gold. Pandora is committed to leadership in sustainability and has set out to halve greenhouse gas emissions across its value chain by 2030\\. Pandora is listed on the Nasdaq Copenhagen stock exchange and generated revenue of DKK 32\\.5 billion (EUR 4\\.4 billion) in 2025\\. ### **Job Details** Job Title Seasonal Sales \\& Operations Assistant Position Type Date Posted 09/15/2026 Career Area Retail Location(s) The Moor, Sheffield, England S1 4PT, United Kingdom Job ID Reference Number Facebook X LinkedIn Email",
+   "job_url": "https://uk.indeed.com/viewjob?jk=0484e715eaf3b152",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "summary": "Join Pandora’s team as a Seasonal Sales & Operations Assistant! Rate of pay: ﻿£13.25 ﻿ Please note that this is a fixed-term contract ending on either 27th December 2026 or 3rd January 2027. Spread joy and make the season sparkle with Pandora as a Seasonal Sales & Operations Assistant and enjoy a…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=1a6ed0a0c96bbaed": {
+   "title": "Supervisor (Part-Time)",
+   "company": "Pandora Jewelry",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "**Competitive Pay \\| Monthly Bonus Scheme (10\\-20%) \\| Generous Employee Discount \\| Annual Jewellery Uniform Allowance \\| Other Excellent Benefits** You will be required to work the following days: Mondays Tuesdays Wednesdays Thursdays Fridays Saturdays Sundays We are looking to cover 24 hours per week, Permanent The rate of pay will be between £14\\.53 per hour \\- £14\\.53 per hour At Pandora, we believe in creating moments that matter — for our customers and our team. As a Supervisor, you’ll take the lead on retail operations, coach and inspire a high performing team to beat their targets and deliver a world\\-class customer experience. If you’re passionate about people, performance, and creating meaningful moments, then we'd love to have you join us! Named one of the Sunday Times’ ‘Best Places to Work 2023’ in the UK, Pandora is a company that dares to dream, cares deeply, and empowers its people to deliver exceptional results — every single day. **The Role** As a Supervisor, you’ll oversee the running of the busy sales floor, motivate and coach your team of sales assistants to unlock their full sales potential and ensure our customers enjoy a personalised, meaningful shopping experience. You’ll champion our brand values of Dream, Dare, Care, and Deliver and take ownership of daily store operations. Enjoying a fast\\-paced, sometimes high\\-pressured retail environment is essential. Supervisors will lead by example, so will be set their own personal KPIs and sales targets. **What You’ll Do** Sales floor * Hold daily team briefs, sharing store’s KPIs, and motivate the team in beating these * Drive exceptional service through role\\-modelling our selling ceremony and deliver on KPIs * Perform store walks; understand the importance of commerciality and how this shapes the visual merchandising in store * Monitor sales performance and take actions to support team success * Handle serious complaints that have been escalated with professionalism and care Personal sales * Build the bond between our brand and our customer, by answering queries, providing exemplary service and adapting your approach depending on individuals’ personalities and needs * Use your deep product knowledge and passion for storytelling to create personal, unforgettable experiences and to inspire love for Pandora’s sustainability, design, and craftsmanship * Achieve and exceed individual and store sales targets by using effective selling skills; focusing on up\\-selling, UPT, ATV, conversion and productivity Store operations * Act as key holder for the store and ensure the relevant store opening/closure procedure is carried out * Cashing up and reconciling the till systems * Assist the store management with administrative duties including recruitment and conducting investigations and disciplinary hearings if required * Assisting with product and POS deliveries; unloading and storing in the correct spaces in store * Operating the till system, handling financial transactions including returns and exchanges, and handle any escalations from the wider team * Always being alert while on the shop floor and following company security policies and procedures to keep the wider team and customers safe **The Successful Candidate** Our supervisors are the ambassadors of the Pandora brand. Therefore, the ideal candidate will be a highly capable individual and a passionate team player who will confidently support their team to provide an unforgettable Pandora in\\-store experience. Prior experience with a leading brand and/or desirable consumer product retailing is preferred. If you are a senior sales assistant, or current supervisor looking for your next challenge, then this could be the opportunity for you. You’ll thrive at Pandora if you have: * Proven experience in driving sales and profitability * A passion for driving a culture of exemplary customer service * Strong communication skills in order to establish and coach a high performing team * The ability to be adaptable and flexible to changing business needs and remain confident in a fast\\-paced environment * A positive, can\\-do attitude with a contagious enthusiasm for Pandora product and core values * Are driven by KPIs and get excited by hitting and exceeding targets * A well\\-presented appearance with a taste for desirable products and a passion for retail **Why Work With Us?** Our people are at the heart of our success. We’re committed to unforgettable career progression and offer a rewards package that’s second to none: * Highly competitive hourly pay * Monthly bonus of 10% if sales targets achieved (with the potential of 20% if stretch targets are achieved!) * Generous jewellery uniform allowance to express your style and individuality * Employee discount to treat yourself and your loved ones * ‘Wear box’ access: Select jewellery to wear each time you’re working * Exclusive retail, hospitality, and entertainment discounts via our online benefits platform * Free support for you and your loved ones through ‘Retail Trust’ on all things health and wellbeing, financial advice, legal aid, and lots more * Parties, incentives and gifts throughout the year * Clear career progression and training opportunities, empowering you to grow and succeed If you are looking for a new challenge and feel you have the relevant skills then don’t miss out! Please click **apply** to submit your application. Pandora’s recruitment procedures are designed to be transparent and clear for all candidates. This helps us ensure that applicants are provided with a fair and equal opportunity to demonstrate their competencies and skills by removing blocking factors, possible biases, and risks of discrimination. We encourage everyone applying to our vacancies to refrain from adding identity\\-related elements such as a photo, marital status, and age. *\\*If you require reasonable adjustments in place during your interview(s), please make us aware as soon as possible\\** **About Pandora** Pandora is the world's largest…",
+   "job_url": "https://uk.indeed.com/viewjob?jk=1a6ed0a0c96bbaed",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "summary": "Competitive Pay Monthly Bonus Scheme (10-20%) Generous Employee Discount Annual Jewellery Uniform Allowance Other Excellent Benefits You will be required to work the following days: Mondays Tuesdays Wednesdays Thursdays Fridays Saturdays Sundays We are looking to cover 24 hours per week, Permanent…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=450178a31d09e571": {
+   "title": "Shift Manager – Umami Fresh Burger",
+   "company": null,
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "**About the Role** We are recruiting a confident and motivated Shift Manager for our Umami Fresh Burger restaurant in Sheffield. You will lead the team during assigned shifts, support daily operations and maintain high standards of food quality, service and cleanliness. Experience in smash\\-burger preparation and grill operations, with a strong understanding of food quality, product consistency and presentation standards, is required. **Key Responsibilities** * Take responsibility for the restaurant during assigned shifts. * Brief the team and allocate responsibilities before service. * Monitor kitchen and front\\-of\\-house performance throughout the shift. * Prepare smash burgers and operate the grill while maintaining food quality, product consistency and presentation standards. * Maintain high standards of food preparation, presentation and order accuracy. * Ensure customers receive prompt, friendly and professional service. * Coach new and existing employees and provide constructive feedback. * Support the General Manager with staff performance and operational planning. * Monitor product availability, stock usage and waste. * Ensure cleaning schedules and hygiene procedures are completed. * Carry out opening, closing, cash and security checks. * Maintain compliance with food safety and health and safety procedures. * Manage customer concerns and find appropriate solutions. * Respond quickly to staffing or operational issues. * Record shift results and provide an accurate management handover. **Candidate Requirements** * Supervisory or management experience in a restaurant or food\\-service environment. * Previous experience as a Shift Manager, Team Leader, Supervisor or Assistant Manager is preferred. * Experience in smash\\-burger preparation and grill operations, with a strong understanding of food quality, product consistency and presentation standards. * A confident and responsible approach to leadership. * Strong communication and team\\-management skills. * Ability to remain organised and professional under pressure. * Good attention to detail and a commitment to operational standards. * A positive attitude and willingness to support the wider team. * Understanding of food hygiene and workplace safety. * Availability to work a flexible rota, including evenings, weekends and bank holidays. **Benefits** * Full training and ongoing management support. * Opportunities for promotion and career development. * Paid holiday entitlement. * Free meal during working shifts. * Staff discount. * Supportive and team\\-focused workplace. Become part of Umami Fresh Burger and help us build a restaurant team recognised for quality, energy and excellent customer service. Pay: £28,000\\.00\\-£32,000\\.00 per year Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=450178a31d09e571",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "summary": "About the Role We are recruiting a confident and motivated Shift Manager for our Umami Fresh Burger restaurant in Sheffield. You will lead the team during assigned shifts, support daily operations and maintain high standards of food quality, service and cleanliness. Experience in smash-burger…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=698ae5b410d227a2": {
+   "title": "Seasonal Sales & Operations Assistant",
+   "company": "Pandora Jewelry",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-11",
+   "description": "**Join Pandora’s team as a Seasonal Sales \\& Operations Assistant!** Rate of pay: £13\\.25 per hour **Please note that this is a fixed\\-term contract ending on either 27th December 2026 or 3rd January 2027\\.** Spread joy and make the season sparkle with Pandora as a Seasonal Sales \\& Operations Assistant and enjoy a competitive rate of pay, bonus scheme, generous employee discount, jewellery uniform allowance and other excellent benefits! **The role** From driving sales to ensuring smooth operations, you'll be our brand ambassador who’s going to make the magic happen. You can choose and discuss your preference between two focus areas; just bear in mind that there may be some crossover depending on the day\\-to\\-day needs of the store: **Sales:** As someone who loves to meet new people, you’ll confidently connect with our customers, share their stories, and help them find the perfect gifts for their loved ones. * Front\\-of\\-house excellence: surpass sales targets with effective techniques. * Personalised connections: bond confidently with customers, adapting to their unique preferences and needs. * Product pro: master Pandora knowledge, delivering unforgettable customer experiences. **Operations:** As someone who works well in a busy environment with a focus on working accurately and quickly, you’ll support behind\\-the\\-scenes activities to ensure a strong foundation for excellent customer service. * Get hands\\-on with preparing click\\-and\\-collect orders for our customers. * Keep the flow smooth by managing deliveries, processing returns, and restocking shelves with fresh inventory. * Add a creative touch by wrapping beautiful gifts, engraving jewellery and loading gift cards. Join us if you're an expressive team player who thrives in a busy environment, embodying our core values of dreaming, daring, caring, and delivering! **Important stuff to note** * Contracts will end on either 27th December 2026 or 3rd January 2027 * You must be available to work on key trading days throughout the duration of your contract, which will include weekends, Christmas Eve, Boxing Day, New Year's Eve, and New Year's Day. We will do our very best to distribute these days fairly, ensuring you won't be required to work all of them during your contract. * You will accrue annual leave in line with your holiday entitlement. As this is our busiest time of year, annual leave will not normally be approved during this period, except in exceptional circumstances. Any accrued but untaken annual leave will either be paid to you in your final pay or, depending on business and trading requirements, you may be required to take some or all of your outstanding annual leave during the final weeks of your employment. **Our generous benefits package includes:** * A generous employee discount * A jewellery uniform allowance to express yourself and your individuality * Eligibility for the store bonus scheme * Access to plentiful retail, hospitality and entertainment discounts * Incentives throughout the season * Retail Trust: get support related to your wellbeing, legal advice, financial guidance, and more **Ready for a challenge? Apply now!** Pandora’s recruitment procedures are designed to be transparent and clear for all candidates. This helps us ensure that applicants are provided with a fair and equal opportunity to demonstrate their competencies and skills by removing blocking factors, possible biases, and risks of discrimination. We encourage everyone applying to our vacancies to refrain from adding identity\\-related elements such as a photo, marital status and age. Please understand that due to the large number of applications, we regret that only online applications can be considered. Please click apply to submit your application. **About Pandora** Pandora is the world's largest jewellery brand, specialising in the design, crafting and marketing of accessible luxury jewellery made from high\\-quality materials. Each piece is created to inspire self\\-expression, allowing people to share their stories and passions through meaningful jewellery. Pandora jewellery is sold in more than 100 countries through 7,000 points of sale, including more than 2,800 concept stores. Headquartered in Copenhagen, Denmark, Pandora employs around 39,000 people worldwide and crafts its jewellery with 100% recycled silver and gold. Pandora is committed to leadership in sustainability and has set out to halve greenhouse gas emissions across its value chain by 2030\\. Pandora is listed on the Nasdaq Copenhagen stock exchange and generated revenue of DKK 32\\.5 billion (EUR 4\\.4 billion) in 2025\\.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=698ae5b410d227a2",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "summary": "Join Pandora’s team as a Seasonal Sales & Operations Assistant! Rate of pay: £13.25 per hour Please note that this is a fixed-term contract ending on either 27th December 2026 or 3rd January 2027. Spread joy and make the season sparkle with Pandora as a Seasonal Sales & Operations Assistant and…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=db037490237a9b10": {
+   "title": "Sales Assistant",
+   "company": "PPG",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "**Sales Assistant with Driving** **Sheffield Johnstone’s Decorating Centre** **Full Time \\| Permanent** **Position Summary** We now have an exciting, permanent vacancy for a Sales Assistant within our Architectural Coatings division. We’re looking for a customer focused individual to become a key member of our friendly and supportive team. Previous experience in a customer facing environment and a good understanding of IT systems is desirable, but not essential, as we will support you all along the way with in\\-store training. **Why you’ll love working here…** * Competitive starting salary with yearly reviews * Commercial uncapped bonus scheme, paid quarterly * 33 days of annual leave, including bank holidays * Guaranteed 39 hours pay per week with overtime or lieu time available * Great work/life balance: Our stores are closed Saturday afternoons and Sundays, with no late evenings after 5pm! * Generous company pension contributions * Excellent career progression: We develop our people with online opportunities and the PPG Training Academy * Fantastic company\\-funded private healthcare plan, with options to extend coverage to family members * Generous staff discount on paint and decorating tools at Johnstone’s Decorating Centre * Colleague recognition program that recognizes and rewards our colleagues * Inclusive and engaging workplace – We foster a culture of inclusion for all (Our engagement scores show it!) * Colleague assistance programme for 24/7 wellbeing support and cycle to work scheme **A day in the life of…** As a Sales Assistant, your responsibilities will include: * Serve customers on the trade counter and in store, in a friendly and professional manner. * Undertake all required training to help you to confidently select the correct product for our customers’ needs and to promote our brand. * Ensure your store always looks well\\-presented and clean. * Follow stock management procedures by taking in deliveries and keeping the shelves full. **Key Skills…** * Previous experience in a customer facing environment is desirable * Good communications skills with a positive customer focusses attitude * Good understanding of IT systems * Flexibility towards working hours and duties * Driving license is needed for this role \\#WeAreHiringPPGUK **About us:** **PPG: WE PROTECT AND BEAUTIFY THE WORLD**® Through leadership in innovation, sustainability and color, PPG helps customers in industrial, transportation, consumer products, and construction markets and aftermarkets to enhance more surfaces in more ways than does any other company. To learn more, visit www.ppg.com and follow @PPG on X. **The PPG Way 2030** **We are customer champions** Proactive. Bold. Trustworthy. Everything we do starts with our customers. We listen, move fast and don’t stop until we solve their biggest challenges. When our customers win, we all grow. **We act with purpose and speed** Agile. Data\\-driven. Empowered. We take smart risks to stay ahead of the competition. We work proactively with agility, using quality data to develop solutions that create value. **We are excellent operators** Productive. Collaborative. Accountable. No matter our role, we identify problems, take ownership and always bring solutions. We are both proactive and responsive to drive continuous improvement and deliver results. We support our frontline, the faces of PPG to our customers. **We compete to win** Future\\-focused. Driven. Ambitious. We are passionate about growing our business and winning with our customers. We deliver results, embrace new technologies and leverage agility and speed as strengths. **We are PPG proud** Strong. United. Passionate. We work safely, act with integrity and value our diverse perspectives. We celebrate achievements and take pride in the positive impact we create together to protect and beautify the world. At PPG we use AI in the hiring process to make the process more efficient. AI tools do not make hiring decisions. You can learn more by going to https://careers.ppg.com/us/en/candidate\\-resources. PPG provides equal opportunity to all candidates and employees. We offer an opportunity to grow and develop your career in an environment that provides a fulfilling workplace for employees, creates an environment for continuous learning, and embraces the ideas and diversity of others. All qualified applicants will receive consideration for employment without regard to sex, pregnancy, race, color, creed, religion, national origin, age, disability status, marital status, veteran status, sexual orientation, gender identity or expression. If you need an adjustment due to a disability, please email recruiting@ppg.com. PPG pay ranges and benefits can vary by location which allows us to compensate employees competitively in different geographic markets. PPG considers several factors in making compensation decisions including, but not limited to, skill sets, experience and training, qualifications and education, licensure and certifications, and other organizational needs. Other incentives may apply. Our employee benefits programs are designed to support the health and well\\-being of our employees. Any insurance coverages and benefits will be in accordance with the terms and conditions of the applicable plans and associated governing plan documents. Benefits will be discussed with you by your recruiter during the hiring process. PPG values your feedback on our recruiting process. We encourage you to visit Glassdoor.com and provide feedback on the process, so that we can do better today than yesterday.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=db037490237a9b10",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=eb1ef35ad806ebe4": {
+   "title": "Retail Assistant",
+   "company": "Iceland Foods",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-13",
+   "description": "At Iceland we like to do things differently. We are a fair and ethical retailer, who believe in investing in our people and making a difference. We are now recruiting for a Retail Assistant to join our supportive Iceland family. As a Retail Assistant, you are at the heart of our operation and we are looking for individuals who share our energy and passion and will contribute to our ongoing success. It’s important for our colleagues to take pride in what they do, and we can offer a role that will allow you to use your own initiative, in a fun and engaging team environment. We work hard to build a strong team dynamic which supports our colleagues to deliver to the best of their ability in the challenging role of Retail Assistant Your role is to ensure that you deliver great standards and a store to be proud of so that our customers have the best experience possible when shopping with us. We expect a lot from our colleagues, and you’ll get a lot back in return from us. Offering part\\-time hours gives you flexibility and a variety of shift patterns. There is also a great rate of pay and the opportunity to become part of a supportive and connected family of colleagues who look after our own. Unfreeze your potential and develop a fantastic career with an ever\\-growing company where people are key to our success. Be a part of our future success story. Be Iceland. Good luck with your application.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=eb1ef35ad806ebe4",
+   "categories": [
+    "Retail & Customer Service"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "summary": "At Iceland we like to do things differently. We are a fair and ethical retailer, who believe in investing in our people and making a difference. We are now recruiting for a Retail Assistant to join our supportive Iceland family. As a Retail Assistant, you are at the heart of our operation and we…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=12dc12130413eaae": {
+   "title": "Catering Assistant",
+   "company": "ELIOR GROUP",
+   "location": "West Ecclesfield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "Taylor Shaw – Food That Fuels School Days Good food today. Better habits tomorrow. At Bradfield Secondary School, part of Taylor Shaw, we cook fresh, nutritious meals that support focus, energy and wellbeing in schools across the UK. **It's simple:** good food helps children thrive, and every plate you serve plays a part in that. Taylor Shaw is part of Elior UK — giving you the personality of a specialist brand with the opportunities and support of one of the UK's leading contract catering businesses. Elior is committed to safeguarding and promoting the welfare of children, young people and vulnerable adults. As part of our safer recruitment process, shortlisted candidates will be required to complete an Enhanced DBS check (including a Children's Barred List check where applicable) and provide satisfactory references. **Working Pattern:** Monday \\- Friday \\| 20 Hours Per Week \\| Term Time Only **Salary:** £12\\.71 Per Hour \\| £11,083\\.12 Per Annum **Job ID:** 7746 What you’ll be serving up... * Play a key role in preparing delicious meals, nourishing our students and staff * Jump into action, supporting the catering team to keep service seamless and efficient * Champion a clean, safe and welcoming work environment The ingredients you'll bring... * A positive outlook helping to create a welcoming environment * A collaborative approach * Dependability and good organisation within a fast\\-paced setting * An eagerness to learn, develop, and support your wider team What's on the menu for you… At Elior, we believe people do their best work when they feel supported, valued and able to thrive. That's why we offer a benefits package designed to support your wellbeing, career, finances and life outside of work. **Here’s a taste of what you can expect when you join us:** * Free meals on shift * Flexible and part\\-time working opportunities * Holidays aligned with school term dates * Enhanced family, personal and compassionate leave policies * Paid volunteering days * Training, development and career progression opportunities * Pension scheme, life assurance and financial wellbeing support * Salary Advance, giving you access to a portion of your pay before payday * A supportive, inclusive culture where everyone can thrive Plus access to Elior Spark, our enhanced wellbeing platform, offering support for you and your immediate family, including: * 24/7 virtual GP appointments * Mental health support, counselling and therapy sessions * Physiotherapy services and second medical opinions * Online gym and workout programmes * Legal and financial advice * Nutrition, fitness and lifestyle guidance * Meditation and mindfulness resources * Dedicated wellbeing helplines and expert support whenever you need it Fancy being part of the recipe? At Elior, over 10,000 colleagues come together every day with one purpose: to enrich lives everywhere, every day. We're proud that 87% of our colleagues are proud to work here — and we think that's because people are given the support, trust and opportunities they need to thrive. Don't tick every box? Don't rule yourself out. We're looking for people with potential, passion and the right attitude, not just a checklist of experience. We're committed to creating an inclusive workplace where everyone feels they belong. If you need any adjustments during the recruitment process, just let us know. Ready to join us? Hit ‘Apply Now’ and let’s chat!",
+   "job_url": "https://uk.indeed.com/viewjob?jk=12dc12130413eaae",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "summary": "Taylor Shaw – Food That Fuels School Days Good food today. Better habits tomorrow. At Bradfield Secondary School, part of Taylor Shaw, we cook fresh, nutritious meals that support focus, energy and wellbeing in schools across the UK. It's simple: good food helps children thrive, and every plate you…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=e6035df5d75055b0": {
+   "title": "Barista Seasonal",
+   "company": "Costa Coffee",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-13",
+   "description": "Barista At Costa Coffee, we craft great coffee and memorable experiences. As a Barista, you’ll bring energy, warmth and skill to every shift. We also offer flexible shifts to suit both your needs and the store’s. Why Costa * £13\\.12 \\- £14\\.12 per hour (location dependent) * 50% discount on all food and drink in Costa\\-owned stores * Matched pension up to 10% * Coca\\-Cola share scheme * Financial Support Fund * More perks at: https://bit.ly/costaperks We’re committed to diversity, equity and inclusion, and our values, Discipline to Deliver, Passion for Progress, Win with Warmth, Courage to Challenge and Trusted Team Player, shape how we work. Through the Costa Foundation, you’ll also support communities locally and globally. What you’ll do * Serve great coffee and deliver an energising customer experience * Master our menu and maintain high standards * Keep the store clean, welcoming and running smoothly * Work collaboratively as a team player to make the store the best it can be Who you are **We’re looking for someone with:** * Resourcefulness, adaptability, and a positive, can\\-do attitude * Accountability and pride in delivering quality * A calm, composed approach and great communication skills * A genuine people focus and enthusiasm for working with others Apply through a quick Sapia.ai chat. \\- When you apply, you’ll start with a quick, casual chat via Sapia.ai, just a few simple questions you can answer anytime, anywhere. This AI\\-powered tool helps us assess key traits and skills fairly by comparing your responses to the role’s requirements. Don’t worry there will always be human involvement in the review of your responses and in making the final hiring decision. **For adjustments, contact:** costa.recruitment@costacoffee.com",
+   "job_url": "https://uk.indeed.com/viewjob?jk=e6035df5d75055b0",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "summary": "Barista At Costa Coffee, we craft great coffee and memorable experiences. As a Barista, you’ll bring energy, warmth and skill to every shift. We also offer flexible shifts to suit both your needs and the store’s. Why Costa £13.12 - £14.12 per hour (location dependent) 50% discount on all food and…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=0f0a994793af7d47": {
+   "title": "Bartender",
+   "company": "Bright Bridge Ventures",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-15",
+   "description": "**Location:** Sheffield **Contract:** Full\\-time (Monday to Friday, 9:00am–6:00pm) **Schedule:** Weekdays with optional Saturday shifts available **Earnings:** Guaranteed base pay plus performance bonus incentives **Start Date:** Immediate or within 2 weeks The best bartenders know that serving a drink is only half the job. The real craft is reading the room, creating an inviting atmosphere, and making every guest feel instantly at home. If you thrive under pressure, love fast\\-paced social spaces, and want to transfer your hospitality flair into commercial events and customer engagement campaigns, our Sheffield team wants to meet you. We are bringing on an entry\\-level Bartender to support our branded hospitality setups, event bar services, and promotional campaign spaces across the city. **A Day on the Event Floor** Your morning starts with reviewing event setup plans, guest targets, and client brand guidelines. You will help stock promotional displays, prep guest literature, and ensure the bar area is immaculate before doors open. Throughout the day, you will serve drinks, manage customer inquiries, and guide guests through featured client services and active promotions. You will keep the bar service flowing smoothly while maintaining an approachable, professional energy. At the end of the shift, you will complete inventory recaps, log interaction metrics, and join the campaign team to evaluate what resonated best with venue visitors. **What You Will Receive** * Guaranteed base pay alongside regular performance\\-driven bonus incentives * Fixed weekday schedule (9:00am–6:00pm) with guaranteed evenings off * Optional Saturday availability for team members looking to maximize earnings * Full entry\\-level training covering hospitality standards, brand representation, and event logistics * Direct 1\\-on\\-1 coaching and continuous mentorship from experienced event leaders * Broad experience representing diverse client accounts across Sheffield’s top venues * Consistent performance reviews, constructive feedback, and achievement awards * Clear internal progression pathways into Event Operations Coordinator and Hospitality Campaign Lead roles * Immediate start dates available with open interview slots **What We Expect from You** * Confident, warm communication and a natural ability to connect with diverse groups of people * High attention to detail and a tidy, organized approach during busy event hours * Adaptability to learn new client portfolios and beverage presentation styles quickly * Previous background in bar service, hospitality, retail, or customer service is a plus, but not essential as complete training is provided Interviews are currently open, and we are aiming to onboard our new team member within the next 2 weeks. Submit your CV today to apply. Pay: £14\\.00\\-£16\\.00 per hour Benefits: * Casual dress * Company events * Cycle to work scheme * Employee discount * Free parking * Gym membership * Health \\& wellbeing programme * On\\-site parking * Referral programme Work authorisation: * United Kingdom (required) Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=0f0a994793af7d47",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "summary": "Location: Sheffield Contract: Full-time (Monday to Friday, 9:00am–6:00pm) Schedule: Weekdays with optional Saturday shifts available Earnings: Guaranteed base pay plus performance bonus incentives Start Date: Immediate or within 2 weeks The best bartenders know that serving a drink is only half the…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=7ac1f3645caaa473": {
+   "title": "Bar & Waiting Staff",
+   "company": "Hungry Horse",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "**Company Description** Join us at Hungry Horse, where the drinks are always flowing and the plates are piled high, our pubs bring families and friends together. From footy days to family time, a swift drink after work, to a quarterly pool tournament – there’s always something going on. Beyond our delicious food and drink, we also love to serve up community spirit by getting behind the causes that matter most to our customers. **Job Description** As Bar \\& Waiting Staff, you’ll be key to creating unforgettable moments for customers, whether you’re pouring a pint or recommending the perfect drink to a customer after a long day, you’ll keep the good times flowing. You’ll be joining a fun and inclusive team, where you can grow and strengthen your skills and experience. **Qualifications** **As a member of our Bar \\& Waiting Staff, you will…** * Provide customers with a heartfelt and memorable experience each and every time they visit. * Be the insider behind the bar, offering recommendations to customers. * Prepare and present drinks that meet specifications and customer expectations. * Assist in greeting, serving food and looking after our customers whilst they dine with us. * Make sure the bar is always safe, legal, and clean, and any issues are dealt with as quickly and safely as possible. **What you’ll bring…** * Willingness to learn and expand your skills. * Have a great eye for detail, making sure every pint is poured to perfection. * A passion for giving great service and making sure every customer receives a warm welcome. * A positive can\\-do attitude and be a real team player. * Sufficient spoken and written English to perform the role safely and understand allergen controls. **Additional Information** **We’re all about rewarding our team’s hard work, that’s why…** You’ll receive a competitive salary, pension contribution as well as: * The chance to further your career across our well\\-known brands – as one of the industry's top apprenticeship providers, we can provide training and development at each level of your career. * Discount of 33% for you and 15% for your loved ones on all of our brands – so you enjoy your favourite food and drink at a discount. * Free employee assistance program – mental health, well\\-being, financial, and legal support because you matter! * Enhanced, family\\-friendly maternity and paternity policies * Menopause Friendly Employer * Discount of 50% for you and 25% for your loved ones at our Greene King Inns and hotels – so you can enjoy a weekend away without breaking the bank. * Refer a friend – who do you know who could be interested in a new role? When they are placed, you could earn up to £1,500 for referring them! * Wagestream – access your wage before payday for when life happens. * Retail discounts – Receive up to 30% off at Superdrug, exclusive discounts with Three Mobile along with many more… **CREATING PLACES WHERE PEOPLE FEEL WELCOME, SAFE AND THAT THEY BELONG** We aim to embed inclusion into every decision we make – across our people, customers, communities, suppliers, and operations. We want to create a culture where everyone feels welcome, valued, and able to thrive.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=7ac1f3645caaa473",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "summary": "Company Description Join us at Hungry Horse, where the drinks are always flowing and the plates are piled high, our pubs bring families and friends together. From footy days to family time, a swift drink after work, to a quarterly pool tournament – there’s always something going on. Beyond our…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=500cbbfc5da8283c": {
+   "title": "Multi-Trade Operative",
+   "company": "Sanctuary",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "Inclusion is one of our core values. Our goal is to be a diverse, inclusive organisation where our people thrive and meet our customers’ needs with fairness and empathy. We know having a range of ideas and opinions makes a difference. We encourage and welcome applications from people from diverse backgrounds to support this mission. We will make adjustments throughout your application process, in line with Sanctuary’s commitment to our Disability Confident employer status. **Multi Trade Operative** **Shiregreen, Sheffield** **£35,579 \\- £37,452 per year** **40 hours per week \\- Monday to Friday, 8am to 4:30pm** We are looking for a skilled Multi\\-Trade Operative to join our team of operatives with a mix of skills and qualifications working on repairs in tenanted properties. Within the roles you will be covering all aspects of general building repairs including plumbing, carpentry, and plaster patching. The role is mainly lone working with opportunities to work with the wider team as and when required. With a company van and tools included the role will cover areas in and around South Yorkshire / Nottinghamshire / Derbyshire **The role of Multi Trade Operative will include:** * Attending occupied or void properties to carry out construction, fault fixing and maintenance duties * Resolving problems or set into motion the means of resolution, ensuring customers are kept informed * Ensuring tools and equipment are maintained in good condition, maintaining a suitable van stock level, and restocking these when needed in accordance with the agreed requisition procedures and budgets * Providing accurate and timely information on the progress of works that is easily understood by the customer * Responding positively to complaints and breakdowns in service delivery to meet customer expectations in accordance with contract and service specifications **Skills and experiences:** * To ensure full compliance with Building Safety legislation, candidates applying for this role must be qualified to or undertaking NVQ Level 2 in a core subject (carpentry, electrical. If Plumbing Level 3 is required, Unvented \\- G3 Certificate and Water Regulations (WRAS). As part of the interview process, candidates will be required to bring with them the original certification verifying proof of their qualifications. Copies and CSCS cards will not be accepted * Skills in some of the following disciplines – Plumbing, Plastering, Carpentry and Joinery, kitchen and bathroom installations, UPVC door and window fitting * Working knowledge of the application of Health and Safety legislation * Working experience of analysing and diagnosing problems and implementing effective solutions * This role will involve driving on company business. In order to drive a company vehicle, drivers must hold a full valid UK driving licence **About us** We provide in\\-house repairs and maintenance for a wide range of properties, as part of a not\\-for\\-profit organisation. We foster a diverse and inclusive culture. Our customers are at the heart of all we do, and colleagues help make a real difference to people’s lives. **Our Benefits** As part of our commitment to making Sanctuary a great place to work, where your wellbeing is of genuine importance, we have developed an attractive employment package. The package recognises your contribution, supports your physical, mental and financial health and gives you the flexibility to tailor your employee benefits by offering: * 25 days annual leave (rising to a maximum of 30 days) plus public holidays * A pension scheme with employer contributions from Sanctuary * Life Assurance * Employee Advice Service including counselling * Cycle to Work scheme * Voluntary health plans * Employee discounts * Wellbeing support and tools * Employee recognition scheme * Employee Networks, with a shared interest in inclusion, and who provide invaluable support to colleagues * £35,579 per annum (rising to £37,452 per annum after 12 months, subject to satisfactory performance) For more information please click here View the job profile (if the link is unavailable please visit the Sanctuary careers website) Closing Date: 28 September 2026 **If you're unsure about any details, have questions about the role or want to discuss a need for adjustments, our fantastic talent team will be happy to help you – propertyservices.rec@sanctuary.co.uk** **We reserve the right depending on application numbers to close or extend the closing dates for positions; we would therefore recommend an early application.** **View more detail about what it’s like to work for our organisation, and what we offer on our Sanctuary careers pages at \\-** **http://www.sanctuary.co.uk/join\\-our\\-team** **Inclusion is one of our core values. Our goal is to be a diverse, inclusive organisation where our people thrive and meet our customers’ needs with fairness and empathy. We know having a range of ideas and opinions makes a difference. We encourage and welcome applications from people from diverse backgrounds to support this mission. We will make adjustments throughout your application process, in line with Sanctuary’s commitment to our Disability Confident employer status** We work closely with the Home Office in order to prevent unlawful working. A basic Disclosure and Barring Service check will be necessary in the event of a successful application which we will pay for. Sanctuary Maintenance Contractors Limited is a subsidiary of Sanctuary Housing Association, an exempt charity.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=500cbbfc5da8283c",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=07ca533e4e02e33c": {
+   "title": "Multi Trade Operative/Semi-Skilled Tradesperson",
+   "company": "W Allerton Ltd",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-14",
+   "description": "**Job Summary** We are seeking a versatile and skilled Multi Trade Operative/Semi\\-Skilled Tradesperson to join our team working across Sheffield and nearby areas. The successful candidate will be responsible for carrying out a variety of maintenance, repair, and installation tasks across domestic and/or commercial properties. Work will vary, so adaptability and a practical mindset are important. **What we offer:** * Company van provided * Ongoing, steady work * Supportive working environment * Opportunity to develop skills further **Requirements** * Experience in general building work (e.g. basic plumbing, joinery, repairs, maintenance) * A positive attitude and willingness to learn * Good reliability and timekeeping * Ability to work independently and as part of a team * Ability to work outside normal working hours (if required) * Full UK driving licence (clean) * Willingness to learn new skills and adapt to diverse project requirements. * Use hand tools and power tools safely and efficiently across various trades. * Maintain a clean and organised work environment while adhering to health and safety regulations. * **To apply:** Please send a short message with your experience, references and contact details to: * wallertonjobs@gmail.com Job Type: Permanent Pay: From £15\\.00 per hour Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=07ca533e4e02e33c",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=7486d2a65ab3b7b4": {
+   "title": "Skilled Maintenance Technician",
+   "company": "Hallamshire Tennis Squash Club Limited",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-15",
+   "description": "**Job Summary** We are seeking a Skilled Maintenance Technioan is responsible for ensuring the safe, efficient, and attractive operation of the club's facilities and grounds. This role involves carrying out routine maintenance, repairs, preventative maintenance programs, and supporting the overall presentation of the tennis and squash club to provide a high\\-quality experience for members, guests, and staff. **Role Summary** The Maintenance Technician is responsible for the upkeep, repair, and overall maintenance of the tennis, Squash club’s facilities and grounds, including courts, lighting, equipment, and general infrastructure. This role ensures that the club provides a safe, clean, and functional environment for members, guests, and staff **ROLES AND RESPONSIBILITIES** **Facility Management** · Perform routine inspections of club buildings, courts, changing rooms, and common areas. · Carry out general repairs including plumbing, carpentry, painting, and decorating tasks within competence. · Maintain heating, ventilation, lighting, and other building systems. · Respond promptly to maintenance requests and emergencies. **Court \\& Grounds Maintenance** · Assist with the upkeep of tennis courts, squash courts, Padel and Pickleball courts including cleaning, and equipment maintenance. · Maintain landscaping, gardens, pathways, fencing, and outdoor areas. · Operate grounds maintenance equipment safely and effectively. · Monitor court conditions and report any issues affecting playability or safety. **Health \\& Safety** · Ensure all work is completed in accordance with health and safety regulations. · Conduct regular safety checks and identify potential hazards. · Maintain maintenance records, inspection logs, and compliance documentation. · Support fire safety procedures and emergency preparedness activities. **Equipment Maintenance** · Maintain and repair club equipment, fixtures, and furnishings. · Monitor inventory of maintenance supplies and recommend reordering when required. **General Duties** · Support club events by assisting with facility setup and takedown. · Ensure the club premises remain clean, tidy, and welcoming. · Undertake additional duties as reasonably required by management. **Skills \\& Experience** · Proven experience in building maintenance, facilities management, or a similar role. · Practical skills in plumbing, electrical work, carpentry, and general repairs. · Ability to diagnose maintenance issues and implement effective solutions. · Experience operating maintenance and groundskeeping equipment. · Good understanding of health and safety regulations. · Ability to work independently and manage priorities effectively. · Strong communication and customer service skills **Working Conditions** * Combination of indoor and outdoor work in varying weather conditions. * Regular lifting, carrying, and use of maintenance equipment. * May require occasional weekend, evening, or emergency call\\-out work. **Required Certifications**: Candidates must hold or be willing to obtain the following: . Health and Safety (Level 2\\) . PASMA/Working at height Qualification . First aid at work This position offers an exciting opportunity for individuals who are passionate about maintenance work and possess the necessary skills to contribute positively to our team. Pay: £14\\.34 per hour Benefits: * Gym membership * On\\-site parking Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=7486d2a65ab3b7b4",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "summary": "Job Summary We are seeking a Skilled Maintenance Technioan is responsible for ensuring the safe, efficient, and attractive operation of the club's facilities and grounds. This role involves carrying out routine maintenance, repairs, preventative maintenance programs, and supporting the overall…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=6e5e74addfe4fd28": {
+   "title": "Plumber/Gas Engineer",
+   "company": "BELFOR UK",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-15",
+   "description": "**Overview** A qualified Plumber/Gas Engineer is responsible for delivering works and ensuring that these works are completed to a satisfactory quality in in line with timeframes set by the Contracts manager in line with BELFOR UK operational procedures and techniques for both Residential and SME properties. **Duties** * Install, repair, and maintain pipes, valves, fittings, drainage systems, and fixtures in commercial and residential structures. * Dealing with plumbing and heating boiler maintenance. * Collaborate with general contractors, electricians, and other construction professionals. * Follow building plans and blueprints. * Respond to, diagnose, and resolve plumbing emergencies. * Perform routine inspections of plumbing and drainage systems. * Evidence projects with before and after photographs * Review scopes and feedback to project manager of any changes * Deliver works within the timeframe set by the Contracts manager. * Keep sites clean and tidy at all times * Liaise with the Service Centre and customer to ensure that they are regularly informed of the status of all live ongoing projects * Ensure that Quality, Management, and Health \\& Safety procedures are both understood and fully implemented. Advising insured’s, where applicable, of the operation and safety of all plant and equipment including the provision of safety data sheets when necessary. * Provide flexible resourcing to assist any other trade or restoration technician as and when required. * Travel anywhere in the UK to deliver projects * Attend tool box talks when requested. * Attend training courses when provided by BELFOR UK or any other external provider. * Keep all necessary accreditations within date * Understand and implement the use of new procedures and materials. * Ensure responsibilities specific to your role as detailed within BKH L006 Health Safety and Environment Policy are complied with * Any other reasonable management request Qualifications * NVQ 2 in Plumbing * Gas Safe Registered * G3 Unvented * Water Regs * Experience in plumbing and heating Benefits * 28 days holiday (includes bank holidays) * Annual Pay Review * Company pension plan * Life Insurance * Medical Cash Plan * Employee Assistance Programme * Induction and E\\- learning * Annual Flu Vaccination * Full Uniform * Eye Test Pay: £37,311\\.00 per year Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=6e5e74addfe4fd28",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
+   "summary": "Overview A qualified Plumber/Gas Engineer is responsible for delivering works and ensuring that these works are completed to a satisfactory quality in in line with timeframes set by the Contracts manager in line with BELFOR UK operational procedures and techniques for both Residential and SME…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=6cc5aaa233e358e8": {
+   "title": "Site Fitter - Architectural Metalwork",
+   "company": "Architectural Metalwork Installations Limited",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-15",
+   "description": "**Site Fitter – Architectural Metalwork** Architectural Metalwork Installations Limited specialises in supplying and installing balconies, balustrading, staircases, canopies and secondary steelwork to blue chip contractors nationwide. The Company has a well\\-established portfolio of main contract partners that is continually growing, along with a trusted supply chain. Due to this continuing expansion we have fantastic opportunities for experienced Site Fitters to join our existing team. Experience of installations on large multi\\-storey projects in the architectural metalwork industry will be prerequisite to the role. The right candidate will be a hardworking and ambitious individual with a keen desire to progress within the industry. You will have excellent construction and fabrication knowledge with an ability to deliver large scale works to a given site programme. You will be a down to earth team player and have the ability to work under pressure. You will have excellent time management skills and have the confidence and interpersonal skills to converse with people at all levels. You must have a Valid CSCS Skills Card, Driving Licence \\& CV demonstrating recent experience of a similar nature. Working Mon\\-Fri minimum 50hrs per week including overtime at time plus half on all hours over 40 per week. The role is based on sites across the UK with head office being based in Sheffield. The successful candidate must be willing to travel and work away from home during the week. All accommodation, subsistence, transport and travel costs are paid by the Company, including travel time and overtime at time\\+half. **Contact Us** We offer a competitive rate of pay (negotiable dependent on experience) and pride ourselves in our company being one big family free of politics and personal agendas. If you feel this is a role you could happily slot into please feel free to contact us either by email or telephone. We'd love to meet you. Job Type: Full\\-time Experience: * site fitting: 2 years (required) Licence/Certification: * CSCS card (required) * Driving Licence (preferred) Work authorisation: * United Kingdom (required) Willingness to travel: * 100% (required) Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=6cc5aaa233e358e8",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-15T12:32:20Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
   }
  },
  "last_run_report": {
-  "started": "2026-09-14T20:12:28Z",
+  "started": "2026-09-15T12:32:20Z",
   "searches": [
    {
     "term": "activity instructor",
@@ -9697,33 +10216,33 @@
    },
    {
     "term": "warehouse operative",
-    "found": 2,
-    "new": 1
+    "found": 4,
+    "new": 2
    },
    {
     "term": "picker packer",
-    "found": 4,
-    "new": 1
+    "found": 5,
+    "new": 0
    },
    {
     "term": "delivery driver",
     "found": 6,
-    "new": 2
+    "new": 0
    },
    {
     "term": "courier driver",
-    "found": 2,
-    "new": 1
+    "found": 8,
+    "new": 0
    },
    {
     "term": "customer service assistant",
-    "found": 21,
-    "new": 14
+    "found": 28,
+    "new": 9
    },
    {
     "term": "retail assistant",
-    "found": 7,
-    "new": 1
+    "found": 14,
+    "new": 2
    },
    {
     "term": "receptionist",
@@ -9732,37 +10251,37 @@
    },
    {
     "term": "kitchen assistant",
-    "found": 3,
+    "found": 4,
     "new": 1
    },
    {
     "term": "kitchen porter",
-    "found": 5,
+    "found": 6,
     "new": 0
    },
    {
     "term": "barista",
-    "found": 9,
-    "new": 0
+    "found": 1,
+    "new": 1
    },
    {
     "term": "waiting staff",
-    "found": 1,
-    "new": 0
+    "found": 4,
+    "new": 2
    },
    {
     "term": "maintenance operative",
-    "found": 5,
-    "new": 0
+    "found": 3,
+    "new": 2
    },
    {
     "term": "maintenance technician",
-    "found": 12,
-    "new": 8
+    "found": 2,
+    "new": 2
    },
    {
     "term": "fitter",
-    "found": 1,
+    "found": 2,
     "new": 1
    },
    {
@@ -9771,7 +10290,7 @@
     "new": 0
    }
   ],
-  "new": 30,
-  "updated": 57
+  "new": 22,
+  "updated": 74
  }
 }
