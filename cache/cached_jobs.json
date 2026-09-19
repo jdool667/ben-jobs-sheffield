@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_run": "2026-09-19T16:18:46Z",
+  "last_run": "2026-09-19T21:21:06Z",
   "location": "Sheffield",
   "country": "UK",
   "hours_old": 72,
@@ -876,7 +876,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Be Yourself – Be a Bold Team Player – Be Leonardo Once you’re part of the team, you’re part of the Leonardo community of over 55 hotels across the UK & Ireland! As a Kitchen Porter you’ll be right in the heart of the hotel, so we want you to take pride in everything you’ll be doing to support the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -900,7 +900,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Smoke BBQ is looking for a part-time kitchen porter with an immediate start. Candidates should possess the following: - A strong work ethic - Ability to perform under pressure - A positive 'can do' attitude - Be a team player Previous experience in a similar role would be advantageous. Benefits…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -1742,12 +1742,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:58:45Z",
-   "summary": "Bar and Kitchen Assistant role at Moor View Golf Centre in Sheffield, £12.71–£15.00/hr, part-time/permanent involving bar service, food prep and customer-facing duties.",
-   "fit": "good",
-   "fit_reason": "Ben's customer service experience (POS, cash handling, food safety, allergen protocols) directly matches the hospitality and kitchen duties; no driving or licences required.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-19T21:21:06Z",
+   "summary": "About the Role We are looking for a friendly, reliable and enthusiastic Bar & Kitchen Assistant to join our team at Moor View Golf Centre. Working within our clubhouse, you will play an important role in providing excellent food and beverage service to our guests and visitors. The role is varied…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=b32f2b3f9d48baa1": {
    "title": "Shift Manager – Full-Time",
@@ -2168,7 +2168,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Job description Thornbridge Outdoors is Sheffield City Council’s outdoor learning centre located near Bakewell in the Peak District. Our mission is ‘to widen the horizons of young people through real outdoor adventures in the Peak District’. This is an exciting opportunity to join the pool of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2192,7 +2192,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Job description Thornbridge Outdoors is Sheffield City Council’s outdoor learning centre located near Bakewell in the Peak District. Our mission is ‘to widen the horizons of young people through real outdoor adventures in the Peak District’. This is an exciting opportunity to join the pool of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2356,12 +2356,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-06T11:24:20Z",
-   "summary": "Catering Assistant (Zero Hours) at Chartwells in Sheffield; key duty is preparing drinks and food, handling payments, and maintaining hygiene/bar area in an education catering setting.",
-   "fit": "good",
-   "fit_reason": "Ben's customer service, POS/cash handling, and food safety experience match directly; no driving or licences required, though DBS check applies.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-19T21:21:06Z",
+   "summary": "We're currently recruiting a dedicated Assistant (Zero Hours) to help ensure the smooth running of the operations in Chartwells on a permanent casual basis, contracted to 0 hours per week. As a Assistant (Zero Hours), you will use your skills to maintain a high standard of quality work. In return,…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=81f78dea7c01abab": {
    "title": "Catering Assistant",
@@ -2381,12 +2381,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-06T11:24:20Z",
-   "summary": "Catering Assistant (Zero Hours) at Chartwells in Sheffield, no pay stated. Involves preparing drinks, serving food, cash handling, and complying with food hygiene standards in an education sector setting.",
-   "fit": "good",
-   "fit_reason": "Ben has customer service, POS, cash handling, and food safety/allergen experience, and zero-hours catering suits his immediate availability.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-19T21:21:06Z",
+   "summary": "We're currently recruiting a dedicated Assistant (Zero Hours) to help ensure the smooth running of the operations in Chartwells on a permanent casual basis, contracted to 0 hours per week. As a Assistant (Zero Hours), you will use your skills to maintain a high standard of quality work. In return,…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=32ee454e13a362be": {
    "title": "Business Manager",
@@ -2550,12 +2550,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-06T11:24:20Z",
-   "summary": "Catering Assistant at Mr. Pretzels kiosk in Meadowhall, Sheffield, paying up to £12.71/hr. Key duty involves preparing/serving pretzels, customer service, and till transactions in a fast-paced environment.",
-   "fit": "good",
-   "fit_reason": "Matches his customer service, POS/cash handling, and food safety experience with no licence or certifications required.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-19T21:21:06Z",
+   "summary": "Role: Catering Assistant We are seeking a dedicated and enthusiastic Team Member to provide great service at our busy kiosk. If you take pride in your work and love working in a fast-moving environment, we want to hear from you. Key Responsibilities: Preparing and serving high-quality food products…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=18979688aeca6f0a": {
    "title": "Operations Manager",
@@ -2861,7 +2861,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Job Overview We are seeking a dedicated and enthusiastic Kitchen Porter to join our dynamic kitchen team. The Kitchen Porter plays a crucial role in ensuring the smooth operation of our kitchen by assisting with food preparation, maintaining cleanliness, and supporting the culinary staff. This…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2885,12 +2885,12 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-06T11:24:20Z",
-   "summary": "Kitchen Assistant role at Olive Mediterranean restaurant on Ecclesall Road, Sheffield (part-time, permanent, in-person). Involves food prep, maintaining cleanliness, health & safety compliance, and assisting the head chef during service.",
+   "last_seen": "2026-09-19T21:21:06Z",
+   "summary": "Kitchen assistant required in Mediterranean Restaurant Ecclesall road Duties involve Food preparation Keeping kitchen clean and tidy Adhering to health and safety regulations Provide assistance to head chef during service Must have a positive attitude, be hardworking and work well in a fast pace…",
+   "summary_source": "fallback",
    "fit": "maybe",
-   "fit_reason": "No driving required and his customer service/food safety experience is relevant, but 1 year kitchen experience is preferred which he lacks — plausibly filled by his food safety and allergen knowledge.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=52c246ae5028d56e": {
    "title": "Waiting Staff",
@@ -5499,7 +5499,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "No CV to hand? No problem! We've made our application process mobile friendly and removed the need for a CV. Our form takes 2 minutes to complete and tells us all we need about you! With your support as a Part Time Kitchen Assistant at All Bar One Sheffield, everything will run smoothly! You’ll…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5523,7 +5523,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Beck Primary School is seeking a reliable, enthusiastic and hardworking Catering Assistant to join our dedicated team. This is a fantastic opportunity for an organised, proactive and highly motivated professional to play a key role in the smooth and successful operation of our school. As part of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5993,7 +5993,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-11T16:57:06Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "We are seeking a dedicated and enthusiastic Kitchen & Service Assistant to join our dynamic team at The Athenian. In this versatile role, you will contribute to both the kitchen and customer-facing operations, ensuring seamless service and exceptional food quality. This is a fantastic opportunity…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6174,14 +6174,14 @@
    "interval": null,
    "currency": "GBP",
    "date_posted": "2026-09-08",
-   "description": "Job Description: **Kitchen Assistant** **Broomcroft House Care Home,** **Ecclesall Road South, Sheffield, South Yorkshire, S11 9PY** **CQC rating: Good** **Salary: £12\\.75 \\- £13\\.75ph dependent on experience** **Permanent contract. Hours between 8am and 6pm** **We make health happen** Here at Bupa we support those when they need it the most. Our care homes are dedicated to delivering person\\-centred care, supporting independence and honouring choice to help our residents live their best lives. Our fantastic Kitchen Team are the magic behind each delicious dish we serve our guests. They are passionate about all things food and take great pride in each dish they prepare. We are looking for an equally passionate Kitchen Assistant to join the team and help deliver an excellent dining experience for our residents. Add section here about the home and the role (bring it to life and sell the idea of working in this home) **You'll help us make health happen by:** * Acting as the link between the main kitchen and our residents * Assisting the chefs to plate meals, prepare food trolleys and ensure all preparation areas are kept clean and tidy * Monitoring stock rotation, complying to company policies and procedures following all mandatory COSHH and HACPP guidelines * Assisting with catering for special events such as summer BBQs and Christmas parties **Key Skills / Qualifications needed for this role:** A passion for food with previous experience working in a kitchen and a Basic Food Hygiene Certificate. You want to deliver an excellent service at each meal and make our residents feel at home. You'll understand the importance of maintaining high standards in and around the home, ensuring our residents enjoy a pleasant dining experience. Working with the wider kitchen and care home teams \\- you're comfortable communicating with others, cherishing the little moments with our residents. **Benefits** Our benefits are designed to make health happen for our people. Viva is our global wellbeing programme and includes all aspects of our health \\- from mental and physical, to financial, social and environmental wellbeing. We support flexible working and have a range of family friendly benefits. Joining Bupa in this role you will receive the following benefits and more: * My Healthcare \\- Free access to 24/7 support, advice, and treatment for a variety of health\\-related issues, including remote GP appointments, physiotherapy and mental health support * Annual allowance which you can redeem against a menu of Bupa healthcare products, all to the approximate value of £350 * Wagestream \\- Have early access to up to 40% of your earned wages within minutes * 28 days holiday * We offer a sick pay scheme to our frontline teams, as an addition to statutory sick pay, to help provide some reassurance and financial support during longer absences. * Long service \\- For every milestone at Bupa we will reward you with ecards, extra holidays and money! * Free meal on every shift * Interest\\-free annual travel loan to enable the purchase of public transport annual season tickets * We offer a range of Bupa pension plans \\- find out more on our career site * Parental leave \\- We have schemes for adoption, birth parents and co parents \\-find out more on our career site * Menopause Plan \\- Specifically designed to empower women to seek advice, choose their treatment and take control of their health * Access to discounts at a wide variety of gyms and fitness facilities across the UK **Why Bupa?** We're a health insurer and provider. With no shareholders, our customers are our focus. Our people are all driven by the same purpose \\- helping people live longer, healthier, happier lives and making a better world. We make health happen by being brave, caring and responsible in everything we do. We encourage all of our people to ”Be you at Bupa”, we champion diversity, and we understand the importance of our people representing the communities and customers we serve. That's why we especially encourage applications from people with diverse backgrounds and experiences. Bupa is a Level 2 Disability Confident Employer. This means we aim to offer an interview/assessment to every disabled applicant who meets the minimum criteria for the role. We'll make sure you are treated fairly and offer reasonable adjustments as part of our recruitment process to anyone that needs them. \\*\\* Please note, this role is not at or above RQF Level 3 and is not included under the UK's Points Based Immigration System for sponsorship by an employer. Time Type: Part time Job Area: Care Home \\- Facilities \\& Home Support Locations: Broomcroft House Company pension, Gym membership, Employee mentoring programme, Private dental insurance, Health \\& wellbeing programme, Additional leave, Referral programme, Financial planning services, Paid volunteer time, Discounted or free food, Cycle to work scheme, Free flu jabs",
+   "description": "Job Description: **Kitchen Assistant** **Broomcroft House Care Home,** **Ecclesall Road South, Sheffield, South Yorkshire, S11 9PY** **CQC rating: Good** **Salary: £12\\.75 \\- £13\\.75ph dependent on experience** **Permanent contract. Hours between 8am and 6pm** **We make health happen** Here at Bupa we support those when they need it the most. Our care homes are dedicated to delivering person\\-centred care, supporting independence and honouring choice to help our residents live their best lives. Our fantastic Kitchen Team are the magic behind each delicious dish we serve our guests. They are passionate about all things food and take great pride in each dish they prepare. We are looking for an equally passionate Kitchen Assistant to join the team and help deliver an excellent dining experience for our residents. Add section here about the home and the role (bring it to life and sell the idea of working in this home) **You'll help us make health happen by:** * Acting as the link between the main kitchen and our residents * Assisting the chefs to plate meals, prepare food trolleys and ensure all preparation areas are kept clean and tidy * Monitoring stock rotation, complying to company policies and procedures following all mandatory COSHH and HACPP guidelines * Assisting with catering for special events such as summer BBQs and Christmas parties **Key Skills / Qualifications needed for this role:** A passion for food with previous experience working in a kitchen and a Basic Food Hygiene Certificate. You want to deliver an excellent service at each meal and make our residents feel at home. You'll understand the importance of maintaining high standards in and around the home, ensuring our residents enjoy a pleasant dining experience. Working with the wider kitchen and care home teams \\- you're comfortable communicating with others, cherishing the little moments with our residents. **Benefits** Our benefits are designed to make health happen for our people. Viva is our global wellbeing programme and includes all aspects of our health \\- from mental and physical, to financial, social and environmental wellbeing. We support flexible working and have a range of family friendly benefits. Joining Bupa in this role you will receive the following benefits and more: * My Healthcare \\- Free access to 24/7 support, advice, and treatment for a variety of health\\-related issues, including remote GP appointments, physiotherapy and mental health support * Annual allowance which you can redeem against a menu of Bupa healthcare products, all to the approximate value of £350 * Wagestream \\- Have early access to up to 40% of your earned wages within minutes * 28 days holiday * We offer a sick pay scheme to our frontline teams, as an addition to statutory sick pay, to help provide some reassurance and financial support during longer absences. * Long service \\- For every milestone at Bupa we will reward you with ecards, extra holidays and money! * Free meal on every shift * Interest\\-free annual travel loan to enable the purchase of public transport annual season tickets * We offer a range of Bupa pension plans \\- find out more on our career site * Parental leave \\- We have schemes for adoption, birth parents and co parents \\-find out more on our career site * Menopause Plan \\- Specifically designed to empower women to seek advice, choose their treatment and take control of their health * Access to discounts at a wide variety of gyms and fitness facilities across the UK **Why Bupa?** We're a health insurer and provider. With no shareholders, our customers are our focus. Our people are all driven by the same purpose \\- helping people live longer, healthier, happier lives and making a better world. We make health happen by being brave, caring and responsible in everything we do. We encourage all of our people to ”Be you at Bupa”, we champion diversity, and we understand the importance of our people representing the communities and customers we serve. That's why we especially encourage applications from people with diverse backgrounds and experiences. Bupa is a Level 2 Disability Confident Employer. This means we aim to offer an interview/assessment to every disabled applicant who meets the minimum criteria for the role. We'll make sure you are treated fairly and offer reasonable adjustments as part of our recruitment process to anyone that needs them. \\*\\* Please note, this role is not at or above RQF Level 3 and is not included under the UK's Points Based Immigration System for sponsorship by an employer. Time Type: Part time Job Area: Care Home \\- Facilities \\& Home Support Locations: Broomcroft House Private dental insurance, Cycle to work scheme, Financial planning services, Company pension, Employee mentoring programme, Health \\& wellbeing programme, Free flu jabs, Additional leave, Referral programme, Gym membership, Discounted or free food, Paid volunteer time",
    "job_url": "https://uk.indeed.com/viewjob?jk=2bb3a8b12db16f05",
    "categories": [
     "Hospitality",
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-11T12:05:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Job Description: Kitchen Assistant Broomcroft House Care Home, Ecclesall Road South, Sheffield, South Yorkshire, S11 9PY CQC rating: Good Salary: £12.75 - £13.75ph dependent on experience Permanent contract. Hours between 8am and 6pm We make health happen Here at Bupa we support those when they…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6391,7 +6391,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-09T12:13:10Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Company Description ----------------------- Title: Kitchen Porter Location: Sheffield Hourly Rate: £13.45 Part Time: 15 Hours Benefits: 28 Days holiday including bank holidays Plus your birthday off 3 volunteering days 3 days grandparent leave 24 week’s enhanced maternity leave Secondary carer…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6437,7 +6437,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "As we evolve into Social Wellness Clubs, we are creating spaces and experiences that support every aspect of our members' physical, mental, nutritional and social wellbeing. By bringing together expert guidance, genuine community, personalised experiences and innovative technology, we make wellness…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7250,7 +7250,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-10T16:55:59Z",
-   "last_seen": "2026-09-13T12:37:16Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Company Description Join us at Greene King pubs, where we have always been the beacon for communities, wherever people want to come together. Our collection of community pubs are the heart and soul of the local area around them, helmed by a local hero and crewed by a team always ready with your…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7365,7 +7365,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-10T21:28:52Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "About Us Ben’s Fire & Feast is a busy and growing takeaway and delivery business serving bold, crowd-pleasing food. Our menu includes pizzas, feast boxes, kebabs, gyros, wraps, burgers and loaded sides. Everything we do is focused on fast, high-quality service for collection and delivery customers.…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7999,7 +7999,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-11T21:36:23Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "No CV to hand? No problem! We've made our application process mobile friendly and removed the need for a CV. Our form takes 2 minutes to complete and tells us all we need about you! With your support as a Kitchen Assistant at EGO - Sheffield City Centre, everything will run smoothly! You’ll make…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8048,7 +8048,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-11T21:36:23Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Taylor Shaw – Food That Fuels School Days Good food today. Better habits tomorrow. At Taylor Shaw, we cook fresh, nutritious meals that support focus, energy and wellbeing in schools across the UK. It's simple: good food helps children thrive, and every plate you serve plays a part in that. Taylor…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8940,7 +8940,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-16T21:57:48Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Company Description Join us at Greene King pubs, where we have always been the beacon for communities, wherever people want to come together. Our collection of community pubs are the heart and soul of the local area around them, helmed by a local hero and crewed by a team always ready with your…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8964,7 +8964,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-16T21:57:48Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Job Description ------------------- Join Our Team as a Catering Assistant at Astrea Academy Sheffield! Are you passionate about creating delicious meals and providing excellent dining experiences? Astrea Academy Sheffield is looking for a dedicated and enthusiastic Catering Assistant to join our…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9461,7 +9461,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-17T12:29:28Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "No CV to hand? No problem! We've made our application process mobile friendly and removed the need for a CV. Our form takes 2 minutes to complete and tells us all we need about you! With your support as a Kitchen Assistant at All Bar One Sheffield, everything will run smoothly! You’ll make sure the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -10002,7 +10002,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-15T12:32:20Z",
-   "last_seen": "2026-09-17T12:29:28Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Taylor Shaw – Food That Fuels School Days Good food today. Better habits tomorrow. At Bradfield Secondary School, part of Taylor Shaw, we cook fresh, nutritious meals that support focus, energy and wellbeing in schools across the UK. It's simple: good food helps children thrive, and every plate you…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -10821,7 +10821,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-16T12:29:46Z",
-   "last_seen": "2026-09-18T21:30:22Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "The Kitchen Assistant/Cleaner’s responsibilities include but are not limited to the following: · Under the supervision of the Head Chef, assist in identifying items to be ordered from specified suppliers to ensure enough levels of supplies for catering operation, using the service’s procedures ·…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11149,7 +11149,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-16T21:57:48Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Taylor Shaw – Food That Fuels School Days Good food today. Better habits tomorrow. At Sheffield Springs Academy, part of Taylor Shaw, we cook fresh, nutritious meals that support focus, energy and wellbeing in schools across the UK. It's simple: good food helps children thrive, and every plate you…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11222,7 +11222,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-16T21:57:48Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Individual Restaurants has an exciting opportunity for a Kitchen Assistant to join our team. As a Kitchen Assistant, you will play a vital role in supporting the kitchen operations and maintaining a clean and organised workspace. Why work with us The Sunday Times – Best place to work 2024 & 2025…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11246,7 +11246,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-16T21:57:48Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -11316,7 +11316,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T12:29:28Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -11410,7 +11410,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T12:29:28Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Location: Primark Sheffield the Moon Pay rate: £13:00 per hour Employment type: Permanent Job type: Part time Contracted hours: 12 hours per week Shift pattern: Varied shifts including mornings; afternoons; evenings and weekends – all will be discussed at interview. Eligibility. Primark can only…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11434,7 +11434,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T12:29:28Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Job Type: Full-time Hourly rate: £12.71 Weekend Work is required Saturdays and Sundays. Join The Team! As a Receptionist you will be responsible for providing an exceptional, professional customer experience to our customers whilst they are at our site. This begins with greeting the customer and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11458,7 +11458,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T12:29:28Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -11480,7 +11480,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-17T12:29:28Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Job Description: Job Title: Part-Time Bar Staff & Entertainment Host – Hospitality & Events (Sheffield City Centre) Hours: 8- 20 Hours (Weekend availability essential) Pay: £11–£13 per hour + discounts & progression Description: Join the team at Gameshow All-Stars, Sheffield’s most exciting…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11528,7 +11528,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-17T12:29:28Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -11550,7 +11550,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-17T12:29:28Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "About the role… We are excited to be recruiting for a Motor Vehicle Technician. This is an unrivalled opportunity to join one of the UK’s fastest growing motor groups. As a Motor Vehicle Technician, you will be responsible for the service, repair and maintenance work for our customers’ vehicles,…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11574,7 +11574,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "warehouse operative required for a busy steel stock warehouse duties include order picking, loading and unloading vehicles with overhead crane, must be able to read a tape measure and understand written instruction, we operate a two shift system days and afternoons alternate weeks immediate start…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11598,7 +11598,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Goods In Operative - Back Shift Crescent Pharma – Sheffield National Distribution Centre £14.50 per hour Permanent Full-time 40 hours per week Monday to Friday Basic annual pay: £30,160 Shift: Monday–Thursday: 13:00–22:00 Friday: 11:00–20:00 40 paid working hours per week Each shift includes: Two…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11622,7 +11622,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Goods In Operative - Early Shift Crescent Pharma – Sheffield National Distribution Centre £14.50 per hour Permanent Full-time 40 hours per week Monday to Friday Basic annual pay: £30,160 Shift: 06:00–15:00, Monday to Friday 40 paid working hours per week Each shift includes: Two 15-minute breaks…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11646,7 +11646,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -11668,7 +11668,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Positions available: 1 Brief overview of the role: S11 8HN We are looking for a friendly, reliable and motivated Pharmacy Assistant Apprentice to join a busy community pharmacy team. This is a great opportunity to earn while you learn, gaining hands‑on experience in a healthcare environment while…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11716,7 +11716,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Job Description Job Title: Communications & Events Assistant Posting Start Date: 17/09/2026 Job Id: 3153 School/Department: Campaigns & Alumni Relations Work Arrangement: Full Time (Hybrid) Contract Type: Fixed-term Salary per annum (£): £25,249 - £26,707 Closing Date: 28/09/2026 The University of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11740,7 +11740,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Job Overview We are seeking a dedicated and professional Medical Receptionists to join our Reception team. The ideal candidate will be the first point of contact for patients, providing exceptional customer service while managing administrative tasks efficiently. This role is crucial in ensuring…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11764,7 +11764,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "We are looking for passionate bar staff to join the team at The Summer House, located next to Dore train station, on the outskirts of Sheffield. All applicants must be 18 years or above. We currently have 1 x Full Time and 1 x Part Time weekend role available. All our front of house staff are the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11788,7 +11788,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Head Barista opportunity at 200 Degrees Coffee -------------------------------------------------- At 200 Degrees, we pride ourselves on serving great coffee. We’re now looking for our next Head Barista to join the management team and keep our coffee standards high. As a Head Barista you will…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11812,7 +11812,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Job Overview We are seeking enthusiastic and professional Bar Staff to join our vibrant team. The ideal candidate will be responsible for providing excellent customer service in a lively bar environment, ensuring guests enjoy a memorable experience. This role offers an opportunity to work in a…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11836,7 +11836,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Job Title: Bartender (Part-Time / Casual) The Dark Horse, Sheffield We’re on the lookout for a friendly, reliable and enthusiastic bartender to join our team at The Dark Horse. This is a part-time/casual role, with shifts available throughout the week. The majority of available hours will be on…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11860,7 +11860,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Are you a hands-on engineer who takes pride in fixing problems, keeping machinery running, and delivering high-quality work? We’re looking for a motivated and reliable Workshop Fitter / Mechanical Maintenance Engineer to join our growing workshop team. This is a great opportunity for someone with…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11884,7 +11884,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-17T21:58:53Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -11906,7 +11906,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T21:58:53Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Summary ----------- £13.45 - £14.95 per hour 35 hour contract shifts 30-35 days’ holiday (pro rata) 10% in-store discount Pension scheme Everyone who works at Lidl brings something unique to the table - but we also have a whole lot in common. We’re collaborative, determined and we all pitch in to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11930,7 +11930,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T21:58:53Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Retail Optical Assistant – Vision Express Where customer service meets premium eyewear and med-tech innovation. Are you looking for a retail role in eye care where you can grow, learn, and make a difference? Join Vision Express, part of the global EssilorLuxottica group, and work with leading…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11954,7 +11954,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T21:58:53Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Retail Optical Assistant – Vision Express Where customer service meets premium eyewear and med-tech innovation. Are you looking for a retail role in eye care where you can grow, learn, and make a difference? Join Vision Express, part of the global EssilorLuxottica group, and work with leading…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11978,7 +11978,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-17T21:58:53Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -12000,7 +12000,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-18T12:08:14Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Job description An exciting opportunity has arisen to join the Housing Fire Safety Compliance Team as a Facilities Support Assistant. This role will allow you to have a lasting impact on the Health, Safety and Wellbeing or our residents and make a significant impact in keeping people safe in their…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12024,7 +12024,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-18T12:08:14Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Location: Primark Sheffield the Moon Pay rate: £13:00 per hour Employment type: Fixed Term (Ends on 2027-01-02) Job type: Part time Contracted hours: 12 hours per week Shift pattern: Varied shifts including mornings; afternoons; evenings and weekends – all will be discussed at interview.…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12048,7 +12048,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-18T12:08:14Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Location: Primark Sheffield the Moon Pay rate: £13:00 per hour Employment type: Fixed Term (Ends on 2027-01-02) Job type: Part time Contracted hours: 8 hours per week Shift pattern: Weekend only. Eligibility. Primark can only employ individuals who are above the compulsory school leaving age in the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12072,8 +12072,224 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-18T12:08:14Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-19T21:21:06Z",
    "summary": "Description The Role Outline: Your Shift at a Glance As a Barista for our brand new Sheffield location, your journey starts in a completely unique way. In December 2026, you will be part of the founding team launching a fully operational Starbucks pop-up container right on our live hotel…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=b0a120d728c90008": {
+   "title": "Catering Assistant",
+   "company": "ELIOR GROUP",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-27",
+   "description": "Taylor Shaw – Food That Fuels School Days Good food today. Better habits tomorrow. At Birley Primary School, part of Taylor Shaw, we cook fresh, nutritious meals that support focus, energy and wellbeing in schools across the UK. **It's simple:** good food helps children thrive, and every plate you serve plays a part in that. Taylor Shaw is part of Elior UK — giving you the personality of a specialist brand with the opportunities and support of one of the UK's leading contract catering businesses. Elior is committed to safeguarding and promoting the welfare of children, young people and vulnerable adults. As part of our safer recruitment process, shortlisted candidates will be required to complete an Enhanced DBS check (including a Children's Barred List check where applicable) and provide satisfactory references. **Working Pattern:** Monday \\- Friday \\| School Hours \\| 10 Hours Per Week \\| Term Time Only **Salary:** £12\\.71 Per Hour \\| £5,541\\.56 Per Annum **Job ID:** 7160 **How you’ll make an impact:** * Play a key role in preparing delicious meals, nourishing our students and staff * Jump into action, supporting the catering team to keep service seamless and efficient * Champion a clean, safe and welcoming work environment **The ingredients you’ll bring:** * A positive outlook helping to create a welcoming environment * A collaborative approach * Dependability and good organisation within a fast\\-paced setting * An eagerness to learn, develop, and support your wider team What's on the menu for you… At Elior, we believe people do their best work when they feel supported, valued and able to thrive. That's why we offer a benefits package designed to support your wellbeing, career, finances and life outside of work. **Here’s a taste of what you can expect when you join us:** * Free meals on shift * Flexible and part\\-time working opportunities * Holidays aligned with school term dates * Enhanced family, personal and compassionate leave policies * Paid volunteering days * Training, development and career progression opportunities * Pension scheme, life assurance and financial wellbeing support * Salary Advance, giving you access to a portion of your pay before payday * A supportive, inclusive culture where everyone can thrive Plus access to Elior Spark, our enhanced wellbeing platform, offering support for you and your immediate family, including: * 24/7 virtual GP appointments * Mental health support, counselling and therapy sessions * Physiotherapy services and second medical opinions * Online gym and workout programmes * Legal and financial advice * Nutrition, fitness and lifestyle guidance * Meditation and mindfulness resources * Dedicated wellbeing helplines and expert support whenever you need it Fancy being part of the recipe? At Elior, over 10,000 colleagues come together every day with one purpose: to enrich lives everywhere, every day. We're proud that 87% of our colleagues are proud to work here — and we think that's because people are given the support, trust and opportunities they need to thrive. Don't tick every box? Don't rule yourself out. We're looking for people with potential, passion and the right attitude, not just a checklist of experience. We're committed to creating an inclusive workplace where everyone feels they belong. If you need any adjustments during the recruitment process, just let us know. Ready to join us? Hit ‘Apply Now’ and let’s chat!",
+   "job_url": "https://uk.indeed.com/viewjob?jk=b0a120d728c90008",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-19T21:21:06Z",
+   "summary": "Taylor Shaw – Food That Fuels School Days Good food today. Better habits tomorrow. At Birley Primary School, part of Taylor Shaw, we cook fresh, nutritious meals that support focus, energy and wellbeing in schools across the UK. It's simple: good food helps children thrive, and every plate you…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=2c2d93fba32a4a2a": {
+   "title": "Assistant Kitchen Manager",
+   "company": "Ricó - Sheffield Plate",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-27",
+   "description": "Hello / Hola everyone, **Knowledge of Mexican/Latin cuisine preferred but not necessary, passion for high quality food and customer service a must!** **Working in a close\\-knit team. Working on events. We are growing rapidly and looking for the best candidates.** We are looking to recruit for an immediate start at our Latin american street food in SHEFFIELD called RICÓ. We’re a street food vendor, who has grown immensely since we started back in 2021\\. We pride ourselves in providing the freshest and highest quality food, full of flavours from Peru and Latin America. We are looking for ambitious, motivated, and full of energy candidates to join us as we open new sites. We are expecting fast growth as a company, so there will be huge opportunities to progress your career with us. We pride ourselves to deliver the highest quality food, exceptional customer service, and maintain a hygienic and clean environment for everyone to experience. Now, we are looking for team members to join us in SHEFFIELD. We offer training, reasonable hours and wage, with delicious Ricó food on every shift! With imminent plans for expansion, it has never been a better time to join our new Ricó FAMILY! Job Type: Full\\-time Pay: £13\\.00\\-£13\\.50 per hour Benefits: * Company pension * Discounted or free food * Employee discount * Store discount Application question(s): * Can you work weekends? * How many hours a week are roughly looking for? * Do you work well under pressure? * Do you have any experience in kitchen and/or customer service and managerial position? Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=2c2d93fba32a4a2a",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-19T21:21:06Z",
+   "summary": "Hello / Hola everyone, Knowledge of Mexican/Latin cuisine preferred but not necessary, passion for high quality food and customer service a must! Working in a close-knit team. Working on events. We are growing rapidly and looking for the best candidates. We are looking to recruit for an immediate…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=f227eacad6d627dc": {
+   "title": "Catering Assistant",
+   "company": "ELIOR GROUP",
+   "location": "West Ecclesfield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-26",
+   "description": "Taylor Shaw – Food That Fuels School Days Good food today. Better habits tomorrow. At Bradfield School, part of Taylor Shaw, we cook fresh, nutritious meals that support focus, energy and wellbeing in schools across the UK. **It's simple:** good food helps children thrive, and every plate you serve plays a part in that. Taylor Shaw is part of Elior UK — giving you the personality of a specialist brand with the opportunities and support of one of the UK's leading contract catering businesses. Elior is committed to safeguarding and promoting the welfare of children, young people and vulnerable adults. As part of our safer recruitment process, shortlisted candidates will be required to complete an Enhanced DBS check (including a Children's Barred List check where applicable) and provide satisfactory references. **How you’ll make an impact:** * Play a key role in preparing delicious meals, nourishing our students and staff * Jump into action, supporting the catering team to keep service seamless and efficient * Champion a clean, safe and welcoming work environment **Working Pattern:** Monday \\- Friday \\| School Hours \\| 20 Hours Per Week \\| Term Time Only **Salary:** £12\\.71 Per Hour \\| £11,083\\.12 Per Annum **Job ID:** 7567 **The ingredients you’ll bring:** * A positive outlook helping to create a welcoming environment * A collaborative approach * Dependability and good organisation within a fast\\-paced setting * An eagerness to learn, develop, and support your wider team What's on the menu for you… At Elior, we believe people do their best work when they feel supported, valued and able to thrive. That's why we offer a benefits package designed to support your wellbeing, career, finances and life outside of work. **Here’s a taste of what you can expect when you join us:** * Free meals on shift * Flexible and part\\-time working opportunities * Holidays aligned with school term dates * Enhanced family, personal and compassionate leave policies * Paid volunteering days * Training, development and career progression opportunities * Pension scheme, life assurance and financial wellbeing support * Salary Advance, giving you access to a portion of your pay before payday * A supportive, inclusive culture where everyone can thrive Plus access to Elior Spark, our enhanced wellbeing platform, offering support for you and your immediate family, including: * 24/7 virtual GP appointments * Mental health support, counselling and therapy sessions * Physiotherapy services and second medical opinions * Online gym and workout programmes * Legal and financial advice * Nutrition, fitness and lifestyle guidance * Meditation and mindfulness resources * Dedicated wellbeing helplines and expert support whenever you need it Fancy being part of the recipe? At Elior, over 10,000 colleagues come together every day with one purpose: to enrich lives everywhere, every day. We're proud that 87% of our colleagues are proud to work here — and we think that's because people are given the support, trust and opportunities they need to thrive. Don't tick every box? Don't rule yourself out. We're looking for people with potential, passion and the right attitude, not just a checklist of experience. We're committed to creating an inclusive workplace where everyone feels they belong. If you need any adjustments during the recruitment process, just let us know. Ready to join us? Hit ‘Apply Now’ and let’s chat!",
+   "job_url": "https://uk.indeed.com/viewjob?jk=f227eacad6d627dc",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-19T21:21:06Z",
+   "summary": "Taylor Shaw – Food That Fuels School Days Good food today. Better habits tomorrow. At Bradfield School, part of Taylor Shaw, we cook fresh, nutritious meals that support focus, energy and wellbeing in schools across the UK. It's simple: good food helps children thrive, and every plate you serve…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=eef38a38f2dcc428": {
+   "title": "School Catering Assistant",
+   "company": "Chartwells",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-21",
+   "description": "As a Catering Assistant, you'll be part of a dynamic, fast\\-paced team, contributing to a positive and friendly work environment. The role offers numerous opportunities for growth within a company that values individuality and invests in its employees. Your hard work will be recognised and rewarded, making it an excellent chance to advance in a supportive setting. Here's an idea of what your shift pattern will be: * Mon: Afternoons * Tues: Afternoons * Weds: Afternoons * Thurs: Afternoons * Fri: Afternoons Please note: This role is contracted to 42\\.2 weeks per year **Your key responsibilities will include:** * Preparing delicious, high\\-quality food that delights our clients and customers * Crafting eye\\-catching food and counter displays that draw customers in * Proudly representing Chartwells and and embodying our positive brand image * Handling transactions with ease and operating the cash register efficiently * Upholding the highest standards of Food Handling \\& Hygiene * Ensuring a safe and healthy work environment by adhering to Health \\& Safety regulations **Our ideal Catering Assistant will:** * Bring a positive, can\\-do attitude to everything you do * Show genuine passion for delivering exceptional customer service * Excel as a supportive and collaborative team player * Embrace the excitement of thriving under pressure * Demonstrate impeccable time management and reliability * Prioritise safety in every task you undertake * Previous experience in a similar catering role is a bonus, but your enthusiasm is what truly matters Part of Compass Group UK\\&I, Chartwells is the leading provider of catering and support services to the education sector. For over a quarter of a century, Chartwells has been focusing on helping those in education to build strong bodies, sharp minds and lead long healthy lives. Every week, Chartwells serves millions of nutritious and delicious meals to pupils and students in primary and secondary schools, academies, independent schools, colleges, and universities across the UK. Chartwells is committed to safeguarding and promoting the welfare of children and expect all employees to share this commitment. Any offer of employment will be subject to successfully completing pre\\-employment checks, including an enhanced DBS disclosure and a Children's Barred List check. This post is exempt from the Rehabilitation of Offenders Act 1974 and we ask applicants to declare all previous convictions and cautions in order to assess their suitability to work with children. Job Reference: com/2108/41091001/52828866/BU \\#State Schools Compass Group UK\\&I is committed to fostering an environment where every individual can truly be themselves at work and has equal opportunities to advance in their careers. We strive to build a culture that respects and celebrates the unique talents, beliefs, backgrounds, and abilities of all our team members. We want our colleagues to feel valued, empowered to reach their full potential, and to thrive \\- because diversity is our strength!",
+   "job_url": "https://uk.indeed.com/viewjob?jk=eef38a38f2dcc428",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-19T21:21:06Z",
+   "summary": "As a Catering Assistant, you'll be part of a dynamic, fast-paced team, contributing to a positive and friendly work environment. The role offers numerous opportunities for growth within a company that values individuality and invests in its employees. Your hard work will be recognised and rewarded,…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=75a4031bca0f183a": {
+   "title": "Kitchen Assistant",
+   "company": "Charley's",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-20",
+   "description": "**Job Overview** Join our dynamic culinary team as a Kitchen Assistant, where your enthusiasm and dedication will help create a vibrant, efficient, and welcoming food environment. In this role, you will support the kitchen operations by assisting with meal and food preparation, maintaining cleanliness, and ensuring food safety standards are met. Your energy and attention to detail will contribute to delivering high\\-quality dining experiences for our guests. This paid position offers an exciting opportunity to develop culinary skills and gain valuable restaurant experience in a fast\\-paced setting. **Responsibilities** * Assist with food preparation and meal assembly according to established recipes and standards * Support the kitchen team in maintaining cleanliness and organization of workstations, utensils, and equipment * Help with food safety practices, including proper storage, handling, and sanitation procedures * Prepare ingredients such as chopping vegetables or portioning ingredients for cooking * Serve food to guests or assist in serving areas as needed to ensure timely service * Follow health and safety regulations diligently to uphold hygiene standards * Support inventory management by restocking supplies and notifying supervisors of shortages **Requirements** * Previous experience in catering, cooking, or restaurant environments is preferred but not essential; enthusiasm to learn is key * Basic knowledge of food preparation techniques and kitchen safety protocols * Ability to stand for extended periods and perform physically demanding tasks with energy and focus * Strong attention to detail and commitment to cleanliness and hygiene standards * Good communication skills and a team\\-oriented attitude * Willingness to follow instructions carefully and work efficiently in a fast\\-paced environment * Food safety certification or willingness to obtain one upon hiring is advantageous Embark on a rewarding culinary journey with us! This role is designed for motivated individuals eager to develop their skills while contributing positively to our kitchen team. We value energetic team players who are passionate about food service excellence. Pay: £50\\.00\\-£70\\.00 per day Benefits: * Discounted or free food * Employee discount * On\\-site parking Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=75a4031bca0f183a",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-19T21:21:06Z",
+   "summary": "Job Overview Join our dynamic culinary team as a Kitchen Assistant, where your enthusiasm and dedication will help create a vibrant, efficient, and welcoming food environment. In this role, you will support the kitchen operations by assisting with meal and food preparation, maintaining cleanliness,…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=6da8ee1c821f8ba6": {
+   "title": "Kitchen Assistant",
+   "company": "Greene King",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-20",
+   "description": "**Company Description** Join us at Greene King pubs, where we have always been the beacon for communities, wherever people want to come together. Our collection of community pubs are the heart and soul of the local area around them, helmed by a local hero and crewed by a team always ready with your favourite tipple. Our pubs embody the true meaning of a local pub, acting as a central hub where locals can enjoy one of our events, a feast of lovingly cooked food or a quick catch up with friends over a drink. **Job Description** As a Kitchen Assistant, you’ll play a key part in the kitchen ensuring a busy service runs smoothly. You’ll make sure everything is well stocked, clean, and the team around you have everything they need to create the perfect dish for our customers. **Qualifications** **As a Kitchen Assistant, you will…** * Help the kitchen service run smoothly by making sure it is well stocked and clean. * Maintain hygiene levels and safety regulations in the kitchen to help guarantee the safety of your entire team and visitors. * Communicate clearly with your team, ensuring they have everything they need. **What you’ll bring to the kitchen:** * A positive can\\-do attitude to support your team. * A passion for challenges and thriving in a fast\\-paced kitchen. * Willingness to learn and expand your skills in the kitchen. * Sufficient spoken and written English to perform the role safely and understand allergen controls. **Additional Information** **We’re all about rewarding our team’s hard work, that’s why…** You’ll receive a competitive salary, pension contribution as well as: * The chance to further your career across our well\\-known brands – as one of the industry's top apprenticeship providers, we can provide training and development at each level of your career. * Discount of 33% for you and 15% for your loved ones on all of our brands – so you enjoy your favourite food and drink at a discount. * Free employee assistance program – mental health, well\\-being, financial, and legal support because you matter! * Enhanced, family\\-friendly maternity and paternity policies * Menopause Friendly Employer * Discount of 50% for you and 25% for your loved ones at our Greene King Inns and hotels – so you can enjoy a weekend away without breaking the bank. * Refer a friend – who do you know who could be interested in a new role? When they are placed, you could earn up to £1,500 for referring them! * Wagestream – access your wage before payday for when life happens. * Retail discounts – Receive up to 30% off at Superdrug, exclusive discounts with Three Mobile along with many more… **CREATING PLACES WHERE PEOPLE FEEL WELCOME, SAFE AND THAT THEY BELONG** We aim to embed inclusion into every decision we make – across our people, customers, communities, suppliers, and operations. We want to create a culture where everyone feels welcome, valued, and able to thrive.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=6da8ee1c821f8ba6",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-19T21:21:06Z",
+   "summary": "Company Description Join us at Greene King pubs, where we have always been the beacon for communities, wherever people want to come together. Our collection of community pubs are the heart and soul of the local area around them, helmed by a local hero and crewed by a team always ready with your…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=f3ec957b669455ee": {
+   "title": "Kitchen Assistant",
+   "company": "Farmhouse Inns",
+   "location": "Ecclesfield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-18",
+   "description": "**Company Description** Join us at Farmhouse Inns, where we’re big on quality as we are with our portions, which is why our carveries slow\\-roast our meats for 14\\-hours, freshly prepare our veg, create fluffy, handmade Yorkies, ruffle\\-up our perfectly crispy roast potatoes, and bake and hand\\-decorate our giant cakes in our kitchen every day. **Job Description** As a Kitchen Assistant, you’ll play a key part in the kitchen ensuring a busy service runs smoothly. You’ll make sure everything is well stocked, clean, and the team around you have everything they need to create the perfect dish for our customers. **Qualifications** **As a Kitchen Assistant, you will…** * Help the kitchen service run smoothly by making sure it is well stocked and clean. * Maintain hygiene levels and safety regulations in the kitchen to help guarantee the safety of your entire team and visitors. * Communicate clearly with your team, ensuring they have everything they need. **What you’ll bring to the kitchen:** * A positive can\\-do attitude to support your team. * A passion for challenges and thriving in a fast\\-paced kitchen. * Willingness to learn and expand your skills in the kitchen. * Sufficient spoken and written English to perform the role safely and understand allergen controls. **Additional Information** **We’re all about rewarding our team’s hard work, that’s why…** You’ll receive a competitive salary, pension contribution as well as: * The chance to further your career across our well\\-known brands – as one of the industry's top apprenticeship providers, we can provide training and development at each level of your career. * Discount of 33% for you and 15% for your loved ones on all of our brands – so you enjoy your favourite food and drink at a discount. * Free employee assistance program – mental health, well\\-being, financial, and legal support because you matter! * Enhanced, family\\-friendly maternity and paternity policies * Menopause Friendly Employer * Discount of 50% for you and 25% for your loved ones at our Greene King Inns and hotels – so you can enjoy a weekend away without breaking the bank. * Refer a friend – who do you know who could be interested in a new role? When they are placed, you could earn up to £1,500 for referring them! * Wagestream – access your wage before payday for when life happens. * Retail discounts – Receive up to 30% off at Superdrug, exclusive discounts with Three Mobile along with many more… **CREATING PLACES WHERE PEOPLE FEEL WELCOME, SAFE AND THAT THEY BELONG** We aim to embed inclusion into every decision we make – across our people, customers, communities, suppliers, and operations. We want to create a culture where everyone feels welcome, valued, and able to thrive.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=f3ec957b669455ee",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-19T21:21:06Z",
+   "summary": "Company Description Join us at Farmhouse Inns, where we’re big on quality as we are with our portions, which is why our carveries slow-roast our meats for 14-hours, freshly prepare our veg, create fluffy, handmade Yorkies, ruffle-up our perfectly crispy roast potatoes, and bake and hand-decorate…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=86875fd9007f14ee": {
+   "title": "Kitchen Assistant",
+   "company": "Hungry Horse",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-06-05",
+   "description": "**Company Description** Join us at Hungry Horse, where the drinks are always flowing and the plates are piled high, our pubs bring families and friends together. From footy days to family time, a swift drink after work, to a quarterly pool tournament – there’s always something going on. Beyond our delicious food and drink, we also love to serve up community spirit by getting behind the causes that matter most to our customers. **Job Description** As a Kitchen Assistant, you’ll play a key part in the kitchen ensuring a busy service runs smoothly. You’ll make sure everything is well stocked, clean, and the team around you have everything they need to create the perfect dish for our customers. **Qualifications** **As a Kitchen Assistant, you will…** * Help the kitchen service run smoothly by making sure it is well stocked and clean. * Maintain hygiene levels and safety regulations in the kitchen to help guarantee the safety of your entire team and visitors. * Communicate clearly with your team, ensuring they have everything they need. **What you’ll bring to the kitchen:** * A positive can\\-do attitude to support your team. * A passion for challenges and thriving in a fast\\-paced kitchen. * Willingness to learn and expand your skills in the kitchen. **Additional Information** **We’re all about rewarding our team’s hard work, that’s why…** You’ll receive a competitive salary, pension contribution as well as: * The chance to further your career across our well\\-known brands – as one of the industry's top apprenticeship providers, we can provide training and development at each level of your career. * Discount of 33% for you and 15% for your loved ones on all of our brands – so you enjoy your favourite food and drink at a discount. * Free employee assistance program – mental health, well\\-being, financial, and legal support because you matter! * Discount of 50% for you and 25% for your loved ones at our Greene King Inns and hotels – so you can enjoy a weekend away without breaking the bank. * Refer a friend – who do you know who could be interested in a new role? When they are placed, you could earn up to £1,500 for referring them! * Wagestream – access your wage before payday for when life happens. * Retail discounts – Receive up to 30% off at Superdrug, exclusive discounts with Three Mobile along with many more…",
+   "job_url": "https://uk.indeed.com/viewjob?jk=86875fd9007f14ee",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-19T21:21:06Z",
+   "summary": "Company Description Join us at Hungry Horse, where the drinks are always flowing and the plates are piled high, our pubs bring families and friends together. From footy days to family time, a swift drink after work, to a quarterly pool tournament – there’s always something going on. Beyond our…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=7597422a55771f33": {
+   "title": "Kitchen Assistant",
+   "company": "Greene King",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-06-05",
+   "description": "**Company Description** Join us at Pub \\& Grill, where we combine the warm welcome of a cosy pub with the style and quality standards of a restaurant. Though our grill may be the star of the show, our kitchens serve up a great range of comforting classics and healthy options too. Whether stopping for a swift drink, a working lunch or a 3\\-course evening meal – everyone receives a warm Pub \\& Grill welcome when they visit us. **Job Description** As a Kitchen Assistant, you’ll play a key part in the kitchen ensuring a busy service runs smoothly. You’ll make sure everything is well stocked, clean, and the team around you have everything they need to create the perfect dish for our customers. **Qualifications** **As a Kitchen Assistant, you will…** * Help the kitchen service run smoothly by making sure it is well stocked and clean. * Maintain hygiene levels and safety regulations in the kitchen to help guarantee the safety of your entire team and visitors. * Communicate clearly with your team, ensuring they have everything they need. **What you’ll bring to the kitchen:** * A positive can\\-do attitude to support your team. * A passion for challenges and thriving in a fast\\-paced kitchen. * Willingness to learn and expand your skills in the kitchen. **Additional Information** **We’re all about rewarding our team’s hard work, that’s why…** You’ll receive a competitive salary, pension contribution as well as: * The chance to further your career across our well\\-known brands – as one of the industry's top apprenticeship providers, we can provide training and development at each level of your career. * Discount of 33% for you and 15% for your loved ones on all of our brands – so you enjoy your favourite food and drink at a discount. * Free employee assistance program – mental health, well\\-being, financial, and legal support because you matter! * Discount of 50% for you and 25% for your loved ones at our Greene King Inns and hotels – so you can enjoy a weekend away without breaking the bank. * Refer a friend – who do you know who could be interested in a new role? When they are placed, you could earn up to £1,500 for referring them! * Wagestream – access your wage before payday for when life happens. * Retail discounts – Receive up to 30% off at Superdrug, exclusive discounts with Three Mobile along with many more…",
+   "job_url": "https://uk.indeed.com/viewjob?jk=7597422a55771f33",
+   "categories": [
+    "Hospitality"
+   ],
+   "first_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-19T21:21:06Z",
+   "summary": "Company Description Join us at Pub & Grill, where we combine the warm welcome of a cosy pub with the style and quality standards of a restaurant. Though our grill may be the star of the show, our kitchens serve up a great range of comforting classics and healthy options too. Whether stopping for a…",
    "summary_source": "fallback",
    "fit": "maybe",
    "fit_reason": "no fit data",
@@ -12081,7 +12297,7 @@
   }
  },
  "last_run_report": {
-  "started": "2026-09-19T16:18:46Z",
+  "started": "2026-09-19T21:21:06Z",
   "searches": [
    {
     "term": "activity instructor",
@@ -12105,7 +12321,7 @@
    },
    {
     "term": "picker packer",
-    "found": 3,
+    "found": 1,
     "new": 0
    },
    {
@@ -12120,7 +12336,7 @@
    },
    {
     "term": "customer service assistant",
-    "found": 9,
+    "found": 7,
     "new": 0
    },
    {
@@ -12135,8 +12351,8 @@
    },
    {
     "term": "kitchen assistant",
-    "found": 3,
-    "new": 0
+    "found": 34,
+    "new": 9
    },
    {
     "term": "kitchen porter",
@@ -12160,12 +12376,12 @@
    },
    {
     "term": "maintenance technician",
-    "found": 3,
+    "found": 2,
     "new": 0
    },
    {
     "term": "fitter",
-    "found": 2,
+    "found": 1,
     "new": 0
    },
    {
@@ -12174,7 +12390,7 @@
     "new": 0
    }
   ],
-  "new": 0,
-  "updated": 55
+  "new": 9,
+  "updated": 71
  }
 }
