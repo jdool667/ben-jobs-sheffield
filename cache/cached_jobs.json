@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_run": "2026-09-20T16:43:14Z",
+  "last_run": "2026-09-20T21:17:30Z",
   "location": "Sheffield",
   "country": "UK",
   "hours_old": 72,
@@ -24,7 +24,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -46,7 +46,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Cloud9 Fulfilment, based in Sheffield, is a growing third-party fulfilment and parcel operation handling millions of items a year for online retail brands. We are seeking a proactive and hands-on Warehouse Supervisor to assist our warehouse manager on the floor, ensuring daily operations run…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -114,7 +114,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -136,7 +136,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -180,7 +180,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-04T11:50:02Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -710,7 +710,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Our charity funds around £100 million of research each year into all heart and circulatory diseases and the things that cause them. Heart diseases. Stroke. Vascular dementia. Diabetes. They're all connected, and they're all under our microscope. Our volunteers help us fund lifesaving science to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -828,7 +828,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Our charity funds around £100 million of research each year into all heart and circulatory diseases and the things that cause them. Heart diseases. Stroke. Vascular dementia. Diabetes. They're all connected, and they're all under our microscope. Our volunteers help us fund lifesaving science to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -876,7 +876,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Be Yourself – Be a Bold Team Player – Be Leonardo Once you’re part of the team, you’re part of the Leonardo community of over 55 hotels across the UK & Ireland! As a Kitchen Porter you’ll be right in the heart of the hotel, so we want you to take pride in everything you’ll be doing to support the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -1021,7 +1021,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -1068,7 +1068,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Responsible for the filling and packing of products in line with issued work orders in order to satisfy production requirements. Ensure production operations are carried out at an effective efficiency standard and the production schedule is achieved. To work effectively for breaks etc and to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -1257,7 +1257,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -1279,7 +1279,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1301,7 +1301,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1323,7 +1323,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job Description Job Title: Senior Research Technician - ARIA Posting Start Date: 02/09/2026 Job Id: 2951 School/Department: Chemical, Materials & Biological Engineering Work Arrangement: Full Time (On site) Contract Type: Fixed-term Salary per annum (£): £32,080 - 35,608 Closing Date: 20/09/2026…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -1347,7 +1347,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1369,7 +1369,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1409,13 +1409,13 @@
    "interval": null,
    "currency": "GBP",
    "date_posted": "2026-09-02",
-   "description": "**Vacancy details** ------------------- ### **Division** Plant \\& Tools \\- Fitter ### **Title** Fitter Workshop ### **Contract type** Permanent Full Time **Vacancy location** -------------------- ### **Location** Stevenson Rd, Sheffield S9 3XG, UK ### **Location** United Kingdom, North East, Sheffield Plant \\& Tools **Requester** ------------- ### **Number of positions to be provided** 2 **Employment Details** ---------------------- ### **Contract hours** 42\\.50 **About the role** ------------------ ### **The Role** Ready to get hands\\-on with industry\\-leading equipment and make a real impact? We're looking for a skilled and motivated Plant Mechanic to join our high\\-performing Plant \\& Tool division. If you're passionate about machinery, thrive on solving problems, and want to be part of a business that's growing fast—this could be the opportunity you've been waiting for. As a Plant Mechanic, you'll play a key role in keeping our fleet of diggers, dumpers, and hand tools hire\\-ready. You'll carry out servicing, maintenance, and repairs—both in the depot and occasionally on customer sites—ensuring our equipment is safe, reliable, and ready to go when our customers need it. This is a hands\\-on, high\\-impact role offering real career progression in a company that invests in its people. What You'll Be Doing * Servicing and maintaining a wide range of plant and tool equipment within the GAP fleet * Diagnosing faults and completing repairs efficiently to minimise downtime * Accurately updating service records and ensuring compliance with safety standards * Occasionally attending customer sites to carry out repairs and maintenance * Supporting the depot team to ensure equipment availability and customer satisfaction ### **About You** What You'll Bring We're looking for someone with strong technical expertise and a proactive approach, including: * Proven experience working in a mechanical role \\- candidates out with the plant hire industry are welcomed as full training will be provided! * Experience with diesel engines would be highly beneficial * A keen eye for detail and the ability to stay calm under pressure * A customer\\-focused mindset and a collaborative team spirit * A full, valid driving licence is preferred but not essential ### **About Us** About GAP and What We Offer You'll be joining an industry leader that's growing and genuinely committed to your success. At GAP, we're proud to be the UK's leading equipment hire provider—supporting projects big and small across construction, infrastructure, events, and more. With nearly 200 locations nationwide and a wide range of specialist divisions, we offer exciting opportunities in everything from Plant and Tools to Lifting, Survey, Pumps, Power and Environmental, and Event Services. As a family\\-run business with over 50 years of experience, we believe in doing things the right way. That means: * More investment in our equipment than anyone else in the industry, so you work with the best tools in the game * Remaining fully independent, which lets us make agile, long\\-term decisions that support your success * Offering real career growth, training, and development from day one * Support that values you – from generous holidays to Life Assurance and Health \\& Wellness Support If you're up for the challenge and want to feel valued at work, then we'd love to hear from you! Ready to get started? Upload your CV and complete our short application, we'll take it from there. We're proud to be an Equal Opportunities employer and embrace the unique contributions each individual brings. **General information** ----------------------- ### **Reference** 011897 ### **Publication start date** 02/09/2026 ### **Job description** Fitters ### **Post description** Fitter \\- Workshop Work Location: In person",
+   "description": "Vacancy details Division Plant \\& Tools \\- Fitter Title Fitter Workshop Contract type Permanent Full Time Vacancy location Location Stevenson Rd, Sheffield S9 3XG, UK Location United Kingdom, North East, Sheffield Plant \\& Tools Requester Number of positions to be provided 2 Employment Details Contract hours 42\\.50 About the role The Role Ready to get hands\\-on with industry\\-leading equipment and make a real impact? We're looking for a skilled and motivated Plant Mechanic to join our high\\-performing Plant \\& Tool division. If you're passionate about machinery, thrive on solving problems, and want to be part of a business that's growing fast—this could be the opportunity you've been waiting for. As a Plant Mechanic, you'll play a key role in keeping our fleet of diggers, dumpers, and hand tools hire\\-ready. You'll carry out servicing, maintenance, and repairs—both in the depot and occasionally on customer sites—ensuring our equipment is safe, reliable, and ready to go when our customers need it. This is a hands\\-on, high\\-impact role offering real career progression in a company that invests in its people. What You'll Be Doing * Servicing and maintaining a wide range of plant and tool equipment within the GAP fleet * Diagnosing faults and completing repairs efficiently to minimise downtime * Accurately updating service records and ensuring compliance with safety standards * Occasionally attending customer sites to carry out repairs and maintenance * Supporting the depot team to ensure equipment availability and customer satisfaction About You What You'll Bring We're looking for someone with strong technical expertise and a proactive approach, including: * Proven experience working in a mechanical role \\- candidates out with the plant hire industry are welcomed as full training will be provided! * Experience with diesel engines would be highly beneficial * A keen eye for detail and the ability to stay calm under pressure * A customer\\-focused mindset and a collaborative team spirit * A full, valid driving licence is preferred but not essential About Us About GAP and What We Offer You'll be joining an industry leader that's growing and genuinely committed to your success. At GAP, we're proud to be the UK's leading equipment hire provider—supporting projects big and small across construction, infrastructure, events, and more. With nearly 200 locations nationwide and a wide range of specialist divisions, we offer exciting opportunities in everything from Plant and Tools to Lifting, Survey, Pumps, Power and Environmental, and Event Services. As a family\\-run business with over 50 years of experience, we believe in doing things the right way. That means: * More investment in our equipment than anyone else in the industry, so you work with the best tools in the game * Remaining fully independent, which lets us make agile, long\\-term decisions that support your success * Offering real career growth, training, and development from day one * Support that values you – from generous holidays to Life Assurance and Health \\& Wellness Support If you're up for the challenge and want to feel valued at work, then we'd love to hear from you! Ready to get started? Upload your CV and complete our short application, we'll take it from there. We're proud to be an Equal Opportunities employer and embrace the unique contributions each individual brings. General information Reference 011897 Publication start date 02/09/2026 Job description Fitters Post description Fitter \\- Workshop Work Location: In person",
    "job_url": "https://uk.indeed.com/viewjob?jk=92d9f8033a121980",
    "categories": [
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-14T13:46:00Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -1461,7 +1461,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1507,7 +1507,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Working 39 hours Monday to Thursday 19:45-06:00 Responsibilities: · To ensure that set daily targets are achieved for packing, quality and cost · To pack products to customer specification · To ensure all department products are packed to the highest quality standards · To ensure high safety…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -1742,7 +1742,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "About the Role We are looking for a friendly, reliable and enthusiastic Bar & Kitchen Assistant to join our team at Moor View Golf Centre. Working within our clubhouse, you will play an important role in providing excellent food and beverage service to our guests and visitors. The role is varied…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2074,7 +2074,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job Advert Service Advisor - Mercedes Benz Sheffield At JCT600, our Service Advisors are essential to delivering an efficient and professional aftersales experience. You’ll be the trusted point of contact for customers throughout their vehicle servicing journey, ensuring clear communication and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2098,7 +2098,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job Summary: NMD Engineering Solutions Ltd. is seeking an Engineering Works Supervisor to oversee thepractical delivery of engineering works across assigned sites and projects. The role will coordinate daily technical activities, workforce requirements, materials, and work progress to help…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2122,7 +2122,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job Summary: Louis Hart Engineering Ltd. is seeking an Engineering Inspection Supervisor to coordinate inspection activities across engineering projects, equipment, and technical works. The role will help maintain consistent inspection practices, organise inspection workloads, and ensure findings…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2146,7 +2146,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-03T10:58:45Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -2168,7 +2168,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job description Thornbridge Outdoors is Sheffield City Council’s outdoor learning centre located near Bakewell in the Peak District. Our mission is ‘to widen the horizons of young people through real outdoor adventures in the Peak District’. This is an exciting opportunity to join the pool of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2192,7 +2192,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job description Thornbridge Outdoors is Sheffield City Council’s outdoor learning centre located near Bakewell in the Peak District. Our mission is ‘to widen the horizons of young people through real outdoor adventures in the Peak District’. This is an exciting opportunity to join the pool of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2287,12 +2287,12 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-06T11:24:20Z",
-   "summary": "Multi Drop Van Driver role at MIQ Logistics in Darnall, paying £10–£12 per hour, involving safe delivery of goods to multiple locations and heavy lifting. Requires a valid van driver's licence and proven commercial driving experience.",
-   "fit": "stretch",
-   "fit_reason": "Role requires a valid van/commercial driving licence, which Ben does not hold.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-20T21:17:30Z",
+   "summary": "Overview Join our dynamic team as a Multi Drop Van Driver and become a vital part of our delivery operation! In this energetic role, you will be responsible for safely transporting goods to multiple destinations, ensuring timely deliveries, and providing excellent customer service. Your driving…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=f47ba49b75d67fd8": {
    "title": "Home Delivery Driver",
@@ -2356,7 +2356,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "We're currently recruiting a dedicated Assistant (Zero Hours) to help ensure the smooth running of the operations in Chartwells on a permanent casual basis, contracted to 0 hours per week. As a Assistant (Zero Hours), you will use your skills to maintain a high standard of quality work. In return,…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2381,7 +2381,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "We're currently recruiting a dedicated Assistant (Zero Hours) to help ensure the smooth running of the operations in Chartwells on a permanent casual basis, contracted to 0 hours per week. As a Assistant (Zero Hours), you will use your skills to maintain a high standard of quality work. In return,…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2550,7 +2550,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Role: Catering Assistant We are seeking a dedicated and enthusiastic Team Member to provide great service at our busy kiosk. If you take pride in your work and love working in a fast-moving environment, we want to hear from you. Key Responsibilities: Preparing and serving high-quality food products…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2767,7 +2767,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -2861,7 +2861,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job Overview We are seeking a dedicated and enthusiastic Kitchen Porter to join our dynamic kitchen team. The Kitchen Porter plays a crucial role in ensuring the smooth operation of our kitchen by assisting with food preparation, maintaining cleanliness, and supporting the culinary staff. This…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2885,7 +2885,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Kitchen assistant required in Mediterranean Restaurant Ecclesall road Duties involve Food preparation Keeping kitchen clean and tidy Adhering to health and safety regulations Provide assistance to head chef during service Must have a positive attitude, be hardworking and work well in a fast pace…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -3075,7 +3075,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Medical Service Technician – Electronics Repair & Servicing Salary: £26,780 - £29,355 (depending on experience) Hours: 37.5 hours per week (flexible start between 8:30am and 9:30am) Location: Sheffield (Workshop based) Do you enjoy fixing things? We’re looking for an electronics technician to join…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -3168,7 +3168,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -3234,7 +3234,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3256,7 +3256,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3278,7 +3278,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-05T10:59:03Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3868,7 +3868,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -3890,7 +3890,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -3956,7 +3956,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -4144,7 +4144,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job Overview We are seeking a skilled and reliable Tyre Fitter to join our team. The successful candidate will be responsible for fitting, repairing, and maintaining tyres on a variety of vehicles, ensuring safety and quality standards are met. This role offers an excellent opportunity for…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -4258,7 +4258,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -4369,7 +4369,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Assembly Fitter ITM Power Location: Sheffield Direct Applicants Only - No Agency Applications at this stage About ITM Power ITM is at the forefront of the green hydrogen industry, designing and manufacturing cutting-edge PEM electrolysers that are instrumental in global decarbonisation efforts.…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -4393,7 +4393,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-06T11:24:20Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job Function: OperationsJob Location: River Don - SheffieldHours of Work: 3 days per week - rotating days + nightsClosing Date: Open until filledMain Purpose of Job: Fettling parts to achieve the required quality standard. Assemble / disassemble tools. Key Tasks and Accountabilities: Fettle parts…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -4487,7 +4487,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -4509,7 +4509,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -4531,7 +4531,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "DIY Cosmetics is an established e-commerce company that supplies home fragrance and cosmetic supplies to businesses and private individuals globally. We are looking for a friendly, enthusiastic and creative person to join our small team as an E-commerce & Production Assistant. This is a varied,…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -4555,7 +4555,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "About the Role: Sheffield is a hub of craft, quality, and industry, and at Ecobags Brasil UK, we apply that same dedicated standard to sustainable packaging. We create premium, eco-friendly bags that help businesses ditch single-use plastics without sacrificing style or durability. We believe that…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -4627,7 +4627,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "The charity funds around £100 million of research each year into all heart and circulatory diseases and the things that cause them. Heart diseases. Stroke. Vascular dementia. Diabetes. They're all connected, and they're all under our microscope. Our volunteers help us fund lifesaving science to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -4651,7 +4651,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "The charity funds around £100 million of research each year into all heart and circulatory diseases and the things that cause them. Heart diseases. Stroke. Vascular dementia. Diabetes. They're all connected, and they're all under our microscope. Our volunteers help us fund lifesaving science to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -4675,7 +4675,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-09T17:04:46Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -4743,7 +4743,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Our charity funds around £100 million of research each year into all heart and circulatory diseases and the things that cause them. Heart diseases. Stroke. Vascular dementia. Diabetes. They're all connected, and they're all under our microscope. Our volunteers help us fund lifesaving science to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -4859,7 +4859,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -4881,7 +4881,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-09T21:33:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -5023,7 +5023,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Trainee Dental Nurse / Receptionist NHS Dental Practice Sheffield We are currently looking for a trainee Dental Nurse / Receptionist to join our friendly, well-established NHS dental practice on a permanent basis. Our four-surgery practice is based in Pitsmoor, close to the city centre with…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5095,7 +5095,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Cleaning Operative – Healthcare Site – Monday to Friday Location: Lightwood House Hours: Monday to Friday, 3:30pm–6:00pm Contracted Hours: 12.5 hours per week Pay: £12.71 per hour Job Type: Part-time, Permanent About the Role CGD Group is looking for a reliable and hardworking Cleaning Operative to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5119,7 +5119,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -5165,7 +5165,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Overview Due to expansion, we are seeking a motivated and skilled Powered Access and Plant Fitter to join our dynamic team. In this vital role, you will be responsible for maintaining and repairing plant machinery. This position offers an exciting opportunity to work with a variety of equipment,…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5190,7 +5190,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -5499,7 +5499,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "No CV to hand? No problem! We've made our application process mobile friendly and removed the need for a CV. Our form takes 2 minutes to complete and tells us all we need about you! With your support as a Part Time Kitchen Assistant at All Bar One Sheffield, everything will run smoothly! You’ll…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5523,7 +5523,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Beck Primary School is seeking a reliable, enthusiastic and hardworking Catering Assistant to join our dedicated team. This is a fantastic opportunity for an organised, proactive and highly motivated professional to play a key role in the smooth and successful operation of our school. As part of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5615,7 +5615,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -5637,7 +5637,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -5777,7 +5777,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-08T12:02:47Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job Overview We are seeking a proactive and dependable Yard Operative to join our dynamic team. In this vital role, you will be responsible for maintaining the smooth operation of our yard and warehouse facilities. Your energetic approach will ensure materials are handled efficiently, equipment is…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5801,7 +5801,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T17:07:31Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Finance Assistant Employment Package Job Title: Finance Assistant Reports to: Senior Finance Officer Contract Type: Permanent Working Hours: Part-time (16 - 22.5 hours/week) Salary: £26,228 pro-rata Pension scheme: Employers contribution of 7% after 3months Holiday allowance: 26 days holiday plus…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5849,7 +5849,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T17:07:31Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "The successful applicant will have the following duties; Work between Monday to Friday all year round between the hours 07.15 - 18.00. Shift given in advance. Keep records and files up to date. Adhere to policy and procedures and ensure these are all updated. Welcoming families & other visitors to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5946,7 +5946,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "All employees are legally responsible for their own health and safety as well as those who may be affected by their acts or omissions. They are also legally required to co-operate in health and safety matters as directed by their employer. The correct protective preventative clothing and equipment…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5970,7 +5970,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-11T12:05:46Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -5993,7 +5993,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "We are seeking a dedicated and enthusiastic Kitchen & Service Assistant to join our dynamic team at The Athenian. In this versatile role, you will contribute to both the kitchen and customer-facing operations, ensuring seamless service and exceptional food quality. This is a fantastic opportunity…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6174,14 +6174,14 @@
    "interval": null,
    "currency": "GBP",
    "date_posted": "2026-09-08",
-   "description": "Job Description: **Kitchen Assistant** **Broomcroft House Care Home,** **Ecclesall Road South, Sheffield, South Yorkshire, S11 9PY** **CQC rating: Good** **Salary: £12\\.75 \\- £13\\.75ph dependent on experience** **Permanent contract. Hours between 8am and 6pm** **We make health happen** Here at Bupa we support those when they need it the most. Our care homes are dedicated to delivering person\\-centred care, supporting independence and honouring choice to help our residents live their best lives. Our fantastic Kitchen Team are the magic behind each delicious dish we serve our guests. They are passionate about all things food and take great pride in each dish they prepare. We are looking for an equally passionate Kitchen Assistant to join the team and help deliver an excellent dining experience for our residents. Add section here about the home and the role (bring it to life and sell the idea of working in this home) **You'll help us make health happen by:** * Acting as the link between the main kitchen and our residents * Assisting the chefs to plate meals, prepare food trolleys and ensure all preparation areas are kept clean and tidy * Monitoring stock rotation, complying to company policies and procedures following all mandatory COSHH and HACPP guidelines * Assisting with catering for special events such as summer BBQs and Christmas parties **Key Skills / Qualifications needed for this role:** A passion for food with previous experience working in a kitchen and a Basic Food Hygiene Certificate. You want to deliver an excellent service at each meal and make our residents feel at home. You'll understand the importance of maintaining high standards in and around the home, ensuring our residents enjoy a pleasant dining experience. Working with the wider kitchen and care home teams \\- you're comfortable communicating with others, cherishing the little moments with our residents. **Benefits** Our benefits are designed to make health happen for our people. Viva is our global wellbeing programme and includes all aspects of our health \\- from mental and physical, to financial, social and environmental wellbeing. We support flexible working and have a range of family friendly benefits. Joining Bupa in this role you will receive the following benefits and more: * My Healthcare \\- Free access to 24/7 support, advice, and treatment for a variety of health\\-related issues, including remote GP appointments, physiotherapy and mental health support * Annual allowance which you can redeem against a menu of Bupa healthcare products, all to the approximate value of £350 * Wagestream \\- Have early access to up to 40% of your earned wages within minutes * 28 days holiday * We offer a sick pay scheme to our frontline teams, as an addition to statutory sick pay, to help provide some reassurance and financial support during longer absences. * Long service \\- For every milestone at Bupa we will reward you with ecards, extra holidays and money! * Free meal on every shift * Interest\\-free annual travel loan to enable the purchase of public transport annual season tickets * We offer a range of Bupa pension plans \\- find out more on our career site * Parental leave \\- We have schemes for adoption, birth parents and co parents \\-find out more on our career site * Menopause Plan \\- Specifically designed to empower women to seek advice, choose their treatment and take control of their health * Access to discounts at a wide variety of gyms and fitness facilities across the UK **Why Bupa?** We're a health insurer and provider. With no shareholders, our customers are our focus. Our people are all driven by the same purpose \\- helping people live longer, healthier, happier lives and making a better world. We make health happen by being brave, caring and responsible in everything we do. We encourage all of our people to ”Be you at Bupa”, we champion diversity, and we understand the importance of our people representing the communities and customers we serve. That's why we especially encourage applications from people with diverse backgrounds and experiences. Bupa is a Level 2 Disability Confident Employer. This means we aim to offer an interview/assessment to every disabled applicant who meets the minimum criteria for the role. We'll make sure you are treated fairly and offer reasonable adjustments as part of our recruitment process to anyone that needs them. \\*\\* Please note, this role is not at or above RQF Level 3 and is not included under the UK's Points Based Immigration System for sponsorship by an employer. Time Type: Part time Job Area: Care Home \\- Facilities \\& Home Support Locations: Broomcroft House Discounted or free food, Private dental insurance, Company pension, Free flu jabs, Financial planning services, Paid volunteer time, Employee mentoring programme, Cycle to work scheme, Gym membership, Referral programme, Health \\& wellbeing programme, Additional leave",
+   "description": "Job Description: **Kitchen Assistant** **Broomcroft House Care Home,** **Ecclesall Road South, Sheffield, South Yorkshire, S11 9PY** **CQC rating: Good** **Salary: £12\\.75 \\- £13\\.75ph dependent on experience** **Permanent contract. Hours between 8am and 6pm** **We make health happen** Here at Bupa we support those when they need it the most. Our care homes are dedicated to delivering person\\-centred care, supporting independence and honouring choice to help our residents live their best lives. Our fantastic Kitchen Team are the magic behind each delicious dish we serve our guests. They are passionate about all things food and take great pride in each dish they prepare. We are looking for an equally passionate Kitchen Assistant to join the team and help deliver an excellent dining experience for our residents. Add section here about the home and the role (bring it to life and sell the idea of working in this home) **You'll help us make health happen by:** * Acting as the link between the main kitchen and our residents * Assisting the chefs to plate meals, prepare food trolleys and ensure all preparation areas are kept clean and tidy * Monitoring stock rotation, complying to company policies and procedures following all mandatory COSHH and HACPP guidelines * Assisting with catering for special events such as summer BBQs and Christmas parties **Key Skills / Qualifications needed for this role:** A passion for food with previous experience working in a kitchen and a Basic Food Hygiene Certificate. You want to deliver an excellent service at each meal and make our residents feel at home. You'll understand the importance of maintaining high standards in and around the home, ensuring our residents enjoy a pleasant dining experience. Working with the wider kitchen and care home teams \\- you're comfortable communicating with others, cherishing the little moments with our residents. **Benefits** Our benefits are designed to make health happen for our people. Viva is our global wellbeing programme and includes all aspects of our health \\- from mental and physical, to financial, social and environmental wellbeing. We support flexible working and have a range of family friendly benefits. Joining Bupa in this role you will receive the following benefits and more: * My Healthcare \\- Free access to 24/7 support, advice, and treatment for a variety of health\\-related issues, including remote GP appointments, physiotherapy and mental health support * Annual allowance which you can redeem against a menu of Bupa healthcare products, all to the approximate value of £350 * Wagestream \\- Have early access to up to 40% of your earned wages within minutes * 28 days holiday * We offer a sick pay scheme to our frontline teams, as an addition to statutory sick pay, to help provide some reassurance and financial support during longer absences. * Long service \\- For every milestone at Bupa we will reward you with ecards, extra holidays and money! * Free meal on every shift * Interest\\-free annual travel loan to enable the purchase of public transport annual season tickets * We offer a range of Bupa pension plans \\- find out more on our career site * Parental leave \\- We have schemes for adoption, birth parents and co parents \\-find out more on our career site * Menopause Plan \\- Specifically designed to empower women to seek advice, choose their treatment and take control of their health * Access to discounts at a wide variety of gyms and fitness facilities across the UK **Why Bupa?** We're a health insurer and provider. With no shareholders, our customers are our focus. Our people are all driven by the same purpose \\- helping people live longer, healthier, happier lives and making a better world. We make health happen by being brave, caring and responsible in everything we do. We encourage all of our people to ”Be you at Bupa”, we champion diversity, and we understand the importance of our people representing the communities and customers we serve. That's why we especially encourage applications from people with diverse backgrounds and experiences. Bupa is a Level 2 Disability Confident Employer. This means we aim to offer an interview/assessment to every disabled applicant who meets the minimum criteria for the role. We'll make sure you are treated fairly and offer reasonable adjustments as part of our recruitment process to anyone that needs them. \\*\\* Please note, this role is not at or above RQF Level 3 and is not included under the UK's Points Based Immigration System for sponsorship by an employer. Time Type: Part time Job Area: Care Home \\- Facilities \\& Home Support Locations: Broomcroft House Referral programme, Gym membership, Discounted or free food, Additional leave, Employee mentoring programme, Private dental insurance, Company pension, Paid volunteer time, Cycle to work scheme, Free flu jabs, Financial planning services, Health \\& wellbeing programme",
    "job_url": "https://uk.indeed.com/viewjob?jk=2bb3a8b12db16f05",
    "categories": [
     "Hospitality",
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job Description: Kitchen Assistant Broomcroft House Care Home, Ecclesall Road South, Sheffield, South Yorkshire, S11 9PY CQC rating: Good Salary: £12.75 - £13.75ph dependent on experience Permanent contract. Hours between 8am and 6pm We make health happen Here at Bupa we support those when they…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6254,7 +6254,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6276,7 +6276,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-09T12:13:10Z",
-   "last_seen": "2026-09-11T12:05:46Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6298,7 +6298,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-09T12:13:10Z",
-   "last_seen": "2026-09-11T21:36:23Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6391,7 +6391,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-09T12:13:10Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Company Description ----------------------- Title: Kitchen Porter Location: Sheffield Hourly Rate: £13.45 Part Time: 15 Hours Benefits: 28 Days holiday including bank holidays Plus your birthday off 3 volunteering days 3 days grandparent leave 24 week’s enhanced maternity leave Secondary carer…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6415,7 +6415,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-09T12:13:10Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6437,7 +6437,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "As we evolve into Social Wellness Clubs, we are creating spaces and experiences that support every aspect of our members' physical, mental, nutritional and social wellbeing. By bringing together expert guidance, genuine community, personalised experiences and innovative technology, we make wellness…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6461,7 +6461,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6483,7 +6483,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-11T12:05:46Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6505,7 +6505,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-11T12:05:46Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6527,7 +6527,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-11T21:36:23Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6549,7 +6549,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Description Contract: Permanent, part time – 15 hours per week Salary: £9,991 per annum, (£24,976 FTE) Location: Sheffield, S7 2PY Closing date: Tuesday 22nd September 2026 Interview date: Thursday 1st October 2026 We’re recruiting a Reception & Administration Assistant for our Rehoming & Fostering…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6811,7 +6811,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-09T21:33:14Z",
-   "last_seen": "2026-09-11T12:05:46Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6903,7 +6903,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-10T12:07:15Z",
-   "last_seen": "2026-09-12T21:29:18Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6925,7 +6925,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-10T12:07:15Z",
-   "last_seen": "2026-09-12T16:05:47Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7089,7 +7089,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-10T12:07:15Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "VACANCY: Press Brake Operative LOCATION: Rotherham, S60 (Close to Meadowhall, Sheffield) SHIFT: Friday - Sunday 6am - 6pm - plus one midweek 8 hour shift. Training for this role will be Monday - Friday ABOUT US: MTL Advanced is a Yorkshire-based steel engineering and manufacturing company operating…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7113,7 +7113,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-10T12:07:15Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "VACANCY: Press Brake Operative LOCATION: Rotherham, S60 (Close to Meadowhall, Sheffield) AVALIABLE SHIFT PATTERN : 3 shift rotating : Monday - Friday Days 6am-2pm, Afternoons 2pm-10pm and Nights 10pm - 6am. ABOUT US: MTL Advanced is hiring due to a major expansion, marked by the opening of our…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7159,7 +7159,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-10T12:07:15Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -7250,7 +7250,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-10T16:55:59Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Company Description Join us at Greene King pubs, where we have always been the beacon for communities, wherever people want to come together. Our collection of community pubs are the heart and soul of the local area around them, helmed by a local hero and crewed by a team always ready with your…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7318,7 +7318,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-10T21:28:52Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7365,7 +7365,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-10T21:28:52Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "About Us Ben’s Fire & Feast is a busy and growing takeaway and delivery business serving bold, crowd-pleasing food. Our menu includes pizzas, feast boxes, kebabs, gyros, wraps, burgers and loaded sides. Everything we do is focused on fast, high-quality service for collection and delivery customers.…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7437,7 +7437,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-10T21:28:52Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job Description Job Title: Research Technician in Cell Culture, Imaging and Sample Processing Posting Start Date: 10/09/2026 Job Id: 3122 School/Department: Faculty of Health Work Arrangement: Full Time (On site) Contract Type: Fixed-term Salary per annum (£): £27,319 - £31,236 Closing Date:…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7461,7 +7461,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-10T21:28:52Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "About us European Tyre Enterprise Limited is an international tyre and automotive service, maintenance and repair business group with annual sales revenues of more than £1 billion across five countries in Europe. We operate multiple retail brands including Kwik Fit with over 800 centres in the UK…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7485,7 +7485,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-11T12:05:46Z",
-   "last_seen": "2026-09-13T16:53:31Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7577,7 +7577,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-11T12:05:46Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Full-Time Admin Assistant / Receptionist Location: Express Coatings, 28 Johnson Street, Sheffield, S3 8GT Express Coatings is looking for a friendly, organised, and reliable Admin Assistant / Receptionist to join our team on a full-time basis. About the Role As the first point of contact for our…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7769,7 +7769,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-11T12:05:46Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7791,7 +7791,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-11T12:05:46Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7859,7 +7859,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-11T16:57:06Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7881,7 +7881,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-11T16:57:06Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7999,7 +7999,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-11T21:36:23Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "No CV to hand? No problem! We've made our application process mobile friendly and removed the need for a CV. Our form takes 2 minutes to complete and tells us all we need about you! With your support as a Kitchen Assistant at EGO - Sheffield City Centre, everything will run smoothly! You’ll make…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8048,7 +8048,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-11T21:36:23Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Taylor Shaw – Food That Fuels School Days Good food today. Better habits tomorrow. At Taylor Shaw, we cook fresh, nutritious meals that support focus, energy and wellbeing in schools across the UK. It's simple: good food helps children thrive, and every plate you serve plays a part in that. Taylor…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8072,7 +8072,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-12T11:31:55Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Do you want to work for the UK’s leading textile, recycling and clothing collection company, that passionately cares about its colleagues, stakeholders and the planet, whilst offering some amazing benefits such as a virtual GP service, fantastic pension scheme and a starting holiday entitlement of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8282,7 +8282,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-12T21:29:18Z",
-   "last_seen": "2026-09-15T12:32:20Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Come join our fantastic team. We love to entertain! It’s in our DNA!... and it’s not just about bowling. We have lots more to offer from Escape Rooms to Karaoke Rooms, Laser Arena, Soft Play to Arcade Machines and Pool Tables. We also have fully licensed bars including cocktails, and of course our…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8306,7 +8306,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-12T21:29:18Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -8444,7 +8444,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-13T16:53:31Z",
-   "last_seen": "2026-09-16T12:29:46Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Package Description Welcome to Pizza Hut, we make every single one of our craveable pizzas by hand. And we work even harder to help you handcraft your future. Exactly how you choose to. We aim to create an exciting environment to help you get where you want to go in your personal life and work - a…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8514,7 +8514,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-13T16:53:31Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "More about the role We're looking for friendly, reliable people to join our team, working across the store to serve our customers. You'll work in a fast-paced, structured environment with clear routines and timed activities that help keep everything running smoothly - all to make sure our customers…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8538,7 +8538,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-13T16:53:31Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "More about the role We're looking for friendly, reliable people to join our team, working across the store to serve our customers. You'll work in a fast-paced, structured environment with clear routines and timed activities that help keep everything running smoothly - all to make sure our customers…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8707,7 +8707,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job Title: Warehouse Operative – Embroidery & Heat Transfer Clothing Location: Sheffield, UK Hours: Part-time Wednesday-Thursday, 8am-5pm & Friday 8am-4pm Salary: £12.71 per hour Start Date: Immediate We are a diverse company with a fast-growing custom apparel department seeking a skilled and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8731,7 +8731,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -8753,7 +8753,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-16T21:57:48Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -8775,7 +8775,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-16T21:57:48Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -8843,7 +8843,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-16T12:29:46Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Batch’d serves incredible sweet treats including donuts, brownies, cookies plus many more decadent baked goods. Since our launch in 2021, we’ve expanded rapidly to 25 locations across the UK, including Leeds, Manchester, Sheffield Birmingham, York and Scotland. We are now looking for forward…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8915,7 +8915,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "ATTENDANCE AND ADMIN OFFICER Start date: As soon as possible Hours: 32.5 hours a week, 39 weeks per year Monday – Friday 08:00am – 3:00pm Salary: Grade 3, payscale 5 - 6 £26,427 - £26,847 per annum Actual Salary: £19,966 - £20,284 per annum Cascade Multi Academy Trust is seeking to appoint an…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8940,7 +8940,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Company Description Join us at Greene King pubs, where we have always been the beacon for communities, wherever people want to come together. Our collection of community pubs are the heart and soul of the local area around them, helmed by a local hero and crewed by a team always ready with your…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8964,7 +8964,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job Description ------------------- Join Our Team as a Catering Assistant at Astrea Academy Sheffield! Are you passionate about creating delicious meals and providing excellent dining experiences? Astrea Academy Sheffield is looking for a dedicated and enthusiastic Catering Assistant to join our…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8989,7 +8989,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -9011,7 +9011,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Were on the hunt for packing operators to join the Gripple operations team. This is a fantastic opportunity for a confident, hard-working individual capable of working both as part of a team and on their own. Why Gripple? Were not just innovatorswere game-changers. Since 1989, Gripple has led the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9035,7 +9035,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-17T12:29:28Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -9101,7 +9101,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-17T17:32:36Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "More about the role We're looking for friendly, reliable people to join our team, working across the store to serve our customers. You'll work in a fast-paced, structured environment with clear routines and timed activities that help keep everything running smoothly - all to make sure our customers…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9125,7 +9125,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-17T12:29:28Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "B2C Sales Executive ----------------------- Sheffield City Centre (office-based) Salary: £24,500 plus commission (OTE £35,000) We're looking for a B2C Sales Executive to join our small telesales team in Sheffield on a permanent basis. UniHomes has grown from a Sheffield start up into a 140 strong…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9149,7 +9149,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-17T12:29:28Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Package Description Highly competitive salaries Generous holiday allowance including bank holidays Opportunity to gain an NVQ 2/3 qualification Pension scheme Employee discount scheme Superb development and career opportunities Bonus scheme Overview of the role Are you friendly and organised with a…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9173,7 +9173,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-17T12:29:28Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Store Supervisor (Full-Time) Location:Meadowhall Store Contract:40 hours per week Description We are hiring for a Full-Time Store Supervisor to join one of our exciting stores based in Meadowhall. There’s an established team in place, and you will be working directly with them to help create the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9197,7 +9197,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-17T12:29:28Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "About Us Job Responsibilities You will be a part of the Management team, along with your Assistant Manager, Deputy Manager and General Manager. You will be responsible for assisting your Management team with the daily operations of your restaurant. In their absence, you will be required to oversee…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9221,7 +9221,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-17T12:29:28Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "About Us Job Responsibilities You will be a part of the Management team, along with your Assistant Manager, Deputy Manager and General Manager. You will be responsible for assisting your Management team with the daily operations of your restaurant. In their absence, you will be required to oversee…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9245,7 +9245,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-17T12:29:28Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Discover Your Next Opportunity: Senior Part-Time Sales Assistant at Heron Foods Location: Jordanthorpe, Sheffield, S8 8DX Pay: Up to £13 per hour (inclusive of enhancement when performing management duties) Hours: 20 hours per week Why Heron Foods? Be part of a fast-growing company with over 340…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9293,7 +9293,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-17T12:29:28Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "A little bit about Lindt We are a premium chocolate manufacturer established in 1845 operating in over 86 countries around the World. Guided by our Global purpose to Enchant the World with Chocolate and UK vision of Creating Moments to Make Everyone Feel Special, we have around 700 team members in…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9317,7 +9317,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-17T12:29:28Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Hourly salary: Up to £12.71 per hour Want to work in a busy toy shop at the best time of year? At The Entertainer, Sheffield in the Meadowhall Shopping Centre, we love to create a special experience for the customers who come through our doors, helping to find the perfect toy or gift, keeping the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9341,7 +9341,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-16T21:57:48Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Founded in 2010, POP MART is a leading global pop culture and entertainment company. With IP at its core, POP MART works with artists and designers worldwide to develop and operate IPs, creating products, services and entertainment experiences for consumers. Its portfolio includes beloved IP…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9413,7 +9413,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-16T21:57:48Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Discover Your Next Opportunity: Part-Time Sales Assistant at Heron Foods Location: Jordanthorpe, Sheffield, S8 8DX Salary: Up to £12.71 per hour Hours: 12 hours per week Why Heron Foods? Be part of a fast-paced and growing company with over 340 stores and counting. Every day is different, and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9461,7 +9461,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "No CV to hand? No problem! We've made our application process mobile friendly and removed the need for a CV. Our form takes 2 minutes to complete and tells us all we need about you! With your support as a Kitchen Assistant at All Bar One Sheffield, everything will run smoothly! You’ll make sure the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9485,7 +9485,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -9507,7 +9507,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -9529,7 +9529,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Salary £27,600 Contractual hours 40 Basis Full Time Region Sites - North Central Package 25 days annual leave (plus bank holidays) Day off on your birthday Discretionary bonus scheme Pension – matched up to 8% Life Assurance Season ticket loans Cycle to work scheme Gym discounts Discounts & Offers…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9553,7 +9553,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Have you ever used the self-checkout in a Tesco or deposited coins at a NatWest/RBS branch? Played the slots at a Mekur Casino? Maybe you grabbed a drink from a vending machine or paid to park your car? If you’ve answered with a resounding “YES”, then you’ve done so with the aid of one of the 10…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9577,7 +9577,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Have you ever used the self-checkout in a Tesco or deposited coins at a NatWest/RBS branch? Played the slots at a Mekur Casino? Maybe you grabbed a drink from a vending machine or paid to park your car? If you’ve answered with a resounding “YES”, then you’ve done so with the aid of one of the 10…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9671,7 +9671,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -9693,7 +9693,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-15T12:32:20Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -9740,7 +9740,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-15T12:32:20Z",
-   "last_seen": "2026-09-17T21:58:53Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job Description Job Title: Education & Student Experience Assistant Posting Start Date: 15/09/2026 Job Id: 3145 School/Department: Mathematical & Physical Sciences Work Arrangement: Full Time (Hybrid) Contract Type: Permanent Salary per annum (£): £25,249.00 - 26,707.00 Closing Date: 13/10/2026 The…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9788,7 +9788,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-15T12:32:20Z",
-   "last_seen": "2026-09-17T21:58:53Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Interested in candidates interested in either role. 1 x Full time Guest Experience Assistant (37.5 hours) 1 x Part time Guest Experience Assistant (16 hours) true Student is a student accommodation provider offering a range of luxury living options in various UK cities, including Manchester,…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9836,7 +9836,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-15T12:32:20Z",
-   "last_seen": "2026-09-17T17:32:36Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Theatre Assistant/Spire Claremont/Sheffield/Bank/Ad-Hoc Shifts/Competitive Rate Spire Claremont Hospital has an exciting opportunity for a Theatre Assistant to join the bank team. Duties and responsibilities: To assist the multi-disciplinary operating team to provide exemplary care by offering a…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9854,13 +9854,13 @@
    "interval": null,
    "currency": "GBP",
    "date_posted": "2026-09-14",
-   "description": "**Join Pandora’s team as a Seasonal Sales \\& Operations Assistant!** Rate of pay: £13\\.25 **Please note that this is a fixed\\-term contract ending on either 27th December 2026 or 3rd January 2027\\.** Spread joy and make the season sparkle with Pandora as a Seasonal Sales \\& Operations Assistant and enjoy a competitive rate of pay, bonus scheme, generous employee discount, jewellery uniform allowance and other excellent benefits! **The role** From driving sales to ensuring smooth operations, you'll be our brand ambassador who’s going to make the magic happen. You can choose and discuss your preference between two focus areas; just bear in mind that there may be some crossover depending on the day\\-to\\-day needs of the store: **Sales:** As someone who loves to meet new people, you’ll confidently connect with our customers, share their stories, and help them find the perfect gifts for their loved ones. * Front\\-of\\-house excellence: surpass sales targets with effective techniques. * Personalised connections: bond confidently with customers, adapting to their unique preferences and needs. * Product pro: master Pandora knowledge, delivering unforgettable customer experiences. **Operations:** As someone who works well in a busy environment with a focus on working accurately and quickly, you’ll support behind\\-the\\-scenes activities to ensure a strong foundation for excellent customer service. * Get hands\\-on with preparing click\\-and\\-collect orders for our customers. * Keep the flow smooth by managing deliveries, processing returns, and restocking shelves with fresh inventory. * Add a creative touch by wrapping beautiful gifts, engraving jewellery and loading gift cards. Join us if you're an expressive team player who thrives in a busy environment, embodying our core values of dreaming, daring, caring, and delivering! **Important stuff to note** * Contracts will end on either 27th December 2026 or 3rd January 2027 * You must be available to work on key trading days throughout the duration of your contract, which will include weekends, Christmas Eve, Boxing Day, New Year's Eve, and New Year's Day. We will do our very best to distribute these days fairly, ensuring you won't be required to work all of them during your contract. * You will accrue annual leave in line with your holiday entitlement. As this is our busiest time of year, annual leave will not normally be approved during this period, except in exceptional circumstances. Any accrued but untaken annual leave will either be paid to you in your final pay or, depending on business and trading requirements, you may be required to take some or all of your outstanding annual leave during the final weeks of your employment. **Our generous benefits package includes:** * A generous employee discount * A jewellery uniform allowance to express yourself and your individuality * Eligibility for the store bonus scheme * Access to plentiful retail, hospitality and entertainment discounts * Incentives throughout the season * Retail Trust: get support related to your wellbeing, legal advice, financial guidance, and more **Ready for a challenge? !** Pandora’s recruitment procedures are designed to be transparent and clear for all candidates. This helps us ensure that applicants are provided with a fair and equal opportunity to demonstrate their competencies and skills by removing blocking factors, possible biases, and risks of discrimination. We encourage everyone applying to our vacancies to refrain from adding identity\\-related elements such as a photo, marital status and age. Please understand that due to the large number of applications, we regret that only online applications can be considered. Please click apply to submit your application. **About Pandora** Pandora is the world's largest jewellery brand, specialising in the design, crafting and marketing of accessible luxury jewellery made from high\\-quality materials. Each piece is created to inspire self\\-expression, allowing people to share their stories and passions through meaningful jewellery. Pandora jewellery is sold in more than 100 countries through 7,000 points of sale, including more than 2,800 concept stores. Headquartered in Copenhagen, Denmark, Pandora employs around 39,000 people worldwide and crafts its jewellery with 100% recycled silver and gold. Pandora is committed to leadership in sustainability and has set out to halve greenhouse gas emissions across its value chain by 2030\\. Pandora is listed on the Nasdaq Copenhagen stock exchange and generated revenue of DKK 32\\.5 billion (EUR 4\\.4 billion) in 2025\\. ### **Job Details** Job Title Seasonal Sales \\& Operations Assistant Position Type Date Posted 09/17/2026 Career Area Seasonal Location(s) The Moor, Sheffield, England S1 4PT, United Kingdom Job ID Reference Number Facebook X LinkedIn Email",
+   "description": "**Join Pandora’s team as a Seasonal Sales \\& Operations Assistant!** Rate of pay: £13\\.25 **Please note that this is a fixed\\-term contract ending on either 27th December 2026 or 3rd January 2027\\.** Spread joy and make the season sparkle with Pandora as a Seasonal Sales \\& Operations Assistant and enjoy a competitive rate of pay, bonus scheme, generous employee discount, jewellery uniform allowance and other excellent benefits! **The role** From driving sales to ensuring smooth operations, you'll be our brand ambassador who’s going to make the magic happen. You can choose and discuss your preference between two focus areas; just bear in mind that there may be some crossover depending on the day\\-to\\-day needs of the store: **Sales:** As someone who loves to meet new people, you’ll confidently connect with our customers, share their stories, and help them find the perfect gifts for their loved ones. * Front\\-of\\-house excellence: surpass sales targets with effective techniques. * Personalised connections: bond confidently with customers, adapting to their unique preferences and needs. * Product pro: master Pandora knowledge, delivering unforgettable customer experiences. **Operations:** As someone who works well in a busy environment with a focus on working accurately and quickly, you’ll support behind\\-the\\-scenes activities to ensure a strong foundation for excellent customer service. * Get hands\\-on with preparing click\\-and\\-collect orders for our customers. * Keep the flow smooth by managing deliveries, processing returns, and restocking shelves with fresh inventory. * Add a creative touch by wrapping beautiful gifts, engraving jewellery and loading gift cards. Join us if you're an expressive team player who thrives in a busy environment, embodying our core values of dreaming, daring, caring, and delivering! **Important stuff to note** * Contracts will end on either 27th December 2026 or 3rd January 2027 * You must be available to work on key trading days throughout the duration of your contract, which will include weekends, Christmas Eve, Boxing Day, New Year's Eve, and New Year's Day. We will do our very best to distribute these days fairly, ensuring you won't be required to work all of them during your contract. * You will accrue annual leave in line with your holiday entitlement. As this is our busiest time of year, annual leave will not normally be approved during this period, except in exceptional circumstances. Any accrued but untaken annual leave will either be paid to you in your final pay or, depending on business and trading requirements, you may be required to take some or all of your outstanding annual leave during the final weeks of your employment. **Our generous benefits package includes:** * A generous employee discount * A jewellery uniform allowance to express yourself and your individuality * Eligibility for the store bonus scheme * Access to plentiful retail, hospitality and entertainment discounts * Incentives throughout the season * Retail Trust: get support related to your wellbeing, legal advice, financial guidance, and more **Ready for a challenge? !** Pandora’s recruitment procedures are designed to be transparent and clear for all candidates. This helps us ensure that applicants are provided with a fair and equal opportunity to demonstrate their competencies and skills by removing blocking factors, possible biases, and risks of discrimination. We encourage everyone applying to our vacancies to refrain from adding identity\\-related elements such as a photo, marital status and age. Please understand that due to the large number of applications, we regret that only online applications can be considered. Please click apply to submit your application. **About Pandora** Pandora is the world's largest jewellery brand, specialising in the design, crafting and marketing of accessible luxury jewellery made from high\\-quality materials. Each piece is created to inspire self\\-expression, allowing people to share their stories and passions through meaningful jewellery. Pandora jewellery is sold in more than 100 countries through 7,000 points of sale, including more than 2,800 concept stores. Headquartered in Copenhagen, Denmark, Pandora employs around 39,000 people worldwide and crafts its jewellery with 100% recycled silver and gold. Pandora is committed to leadership in sustainability and has set out to halve greenhouse gas emissions across its value chain by 2030\\. Pandora is listed on the Nasdaq Copenhagen stock exchange and generated revenue of DKK 32\\.5 billion (EUR 4\\.4 billion) in 2025\\. ### **Job Details** Job Title Seasonal Sales \\& Operations Assistant Position Type Date Posted 09/20/2026 Career Area Seasonal Location(s) The Moor, Sheffield, England S1 4PT, United Kingdom Job ID Reference Number Facebook X LinkedIn Email",
    "job_url": "https://uk.indeed.com/viewjob?jk=0484e715eaf3b152",
    "categories": [
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-15T12:32:20Z",
-   "last_seen": "2026-09-17T17:32:36Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Join Pandora’s team as a Seasonal Sales & Operations Assistant! Rate of pay: £13.25 Please note that this is a fixed-term contract ending on either 27th December 2026 or 3rd January 2027. Spread joy and make the season sparkle with Pandora as a Seasonal Sales & Operations Assistant and enjoy a…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9884,7 +9884,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-15T12:32:20Z",
-   "last_seen": "2026-09-17T17:32:36Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Competitive Pay Monthly Bonus Scheme (10-20%) Generous Employee Discount Annual Jewellery Uniform Allowance Other Excellent Benefits You will be required to work the following days: Mondays Tuesdays Wednesdays Thursdays Fridays Saturdays Sundays We are looking to cover 24 hours per week, Permanent…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9908,7 +9908,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-15T12:32:20Z",
-   "last_seen": "2026-09-17T12:29:28Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "About the Role We are recruiting a confident and motivated Shift Manager for our Umami Fresh Burger restaurant in Sheffield. You will lead the team during assigned shifts, support daily operations and maintain high standards of food quality, service and cleanliness. Experience in smash-burger…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9932,7 +9932,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-15T12:32:20Z",
-   "last_seen": "2026-09-17T17:32:36Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Join Pandora’s team as a Seasonal Sales & Operations Assistant! Rate of pay: £13.25 per hour Please note that this is a fixed-term contract ending on either 27th December 2026 or 3rd January 2027. Spread joy and make the season sparkle with Pandora as a Seasonal Sales & Operations Assistant and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -10002,7 +10002,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-15T12:32:20Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Taylor Shaw – Food That Fuels School Days Good food today. Better habits tomorrow. At Bradfield Secondary School, part of Taylor Shaw, we cook fresh, nutritious meals that support focus, energy and wellbeing in schools across the UK. It's simple: good food helps children thrive, and every plate you…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -10098,7 +10098,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-15T12:32:20Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -10120,7 +10120,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-15T12:32:20Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -10142,7 +10142,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-15T12:32:20Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job Summary We are seeking a Skilled Maintenance Technioan is responsible for ensuring the safe, efficient, and attractive operation of the club's facilities and grounds. This role involves carrying out routine maintenance, repairs, preventative maintenance programs, and supporting the overall…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -10190,7 +10190,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-15T12:32:20Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -10329,7 +10329,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-15T17:33:23Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "We're looking for a Facilities Manager to join our Sheffield Schools team based in Sheffield. Location: Sheffield Hours: 40 hours per week We are unable to offer certificates of sponsorship to any candidates in this role. This is an exciting opportunity to support the delivery of day-to-day…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -10353,7 +10353,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-15T17:33:23Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "We're looking for a Facilities Manager to join our Sheffield Schools team based in Sheffield. Location: Sheffield Hours: 40 hours per week We are unable to offer certificates of sponsorship to any candidates in this role. This is an exciting opportunity to support the delivery of day-to-day…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -10377,7 +10377,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-15T17:33:23Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "We're looking for a Facilities Manager to join our Sheffield Schools team based in Sheffield. Location: Sheffield Hours: 40 hours per week We are unable to offer certificates of sponsorship to any candidates in this role. This is an exciting opportunity to support the delivery of day-to-day…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -10401,7 +10401,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-15T17:33:23Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Meet the recruiter Husam Arif Benefits Life assurance Kier Rewards Additional holiday purchase opportunities Matched pension scheme up to 7.5% Enhanced family leave & policies Share plan schemes Free health & wellbeing services Opportunity to purchase health benefits & insurance Facilities Manager…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -10425,7 +10425,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-15T17:33:23Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Trainee Fall Protection Operative Salary: Up to £35,000 per annum Location: Sheffield Field Based Contract: Full-time Permanent 40 hours per week About Us Omega Red Group is the recognised UK market leader in earthing, lightning protection, and height safety protection. Omega Red offers survey,…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -10473,7 +10473,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-15T17:33:23Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job Overview We are seeking a highly organised and detail-oriented Workshop Administrator to join our team during night shifts. The successful candidate will be responsible for managing workshop operations, coordinating logistics, and ensuring smooth communication between departments. This role…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -10519,7 +10519,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-15T21:59:03Z",
-   "last_seen": "2026-09-18T16:59:39Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -10541,7 +10541,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-15T21:59:03Z",
-   "last_seen": "2026-09-18T16:59:39Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -10633,7 +10633,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-15T21:59:03Z",
-   "last_seen": "2026-09-18T16:59:39Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Competitive Pay Monthly Bonus Scheme (10-20%) Generous Employee Discount Annual Jewellery Uniform Allowance Other Excellent Benefits You will be required to work the following days: Mondays Tuesdays Wednesdays Thursdays Fridays Saturdays Sundays We are looking to cover 24 hours per week, Permanent…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -10657,7 +10657,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-15T21:59:03Z",
-   "last_seen": "2026-09-18T16:59:39Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Join Pandora’s team as a Seasonal Sales & Operations Assistant! Rate of pay: £13.25 per hour Please note that this is a fixed-term contract ending on either 27th December 2026 or 3rd January 2027. Spread joy and make the season sparkle with Pandora as a Seasonal Sales & Operations Assistant and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -10681,7 +10681,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-15T21:59:03Z",
-   "last_seen": "2026-09-18T16:59:39Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Join Pandora’s team as a Seasonal Sales & Operations Assistant! Rate of pay: £13.25 per hour Please note that this is a fixed-term contract ending on either 27th December 2026 or 3rd January 2027. Spread joy and make the season sparkle with Pandora as a Seasonal Sales & Operations Assistant and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -10705,7 +10705,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-15T21:59:03Z",
-   "last_seen": "2026-09-18T16:59:39Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Join Pandora’s team as a Seasonal Sales & Operations Assistant! Rate of pay: £13.25 per hour Please note that this is a fixed-term contract ending on either 27th December 2026 or 3rd January 2027. Spread joy and make the season sparkle with Pandora as a Seasonal Sales & Operations Assistant and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -10799,7 +10799,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-16T12:29:46Z",
-   "last_seen": "2026-09-18T16:59:39Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -10821,7 +10821,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-16T12:29:46Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "The Kitchen Assistant/Cleaner’s responsibilities include but are not limited to the following: · Under the supervision of the Head Chef, assist in identifying items to be ordered from specified suppliers to ensure enough levels of supplies for catering operation, using the service’s procedures ·…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -10869,7 +10869,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-16T12:29:46Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -10892,7 +10892,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-16T17:33:28Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -10938,7 +10938,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-16T17:33:28Z",
-   "last_seen": "2026-09-19T11:50:30Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -10960,7 +10960,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-16T17:33:28Z",
-   "last_seen": "2026-09-19T11:50:30Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -11006,7 +11006,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-16T17:33:28Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "The SHPU NHS Electrician plays a vital role in maintaining and ensuring the safety of electrical systems within SHPU. The role involves the installation, maintenance, inspection, and repair of electrical systems to support the smooth operation of healthcare services, ensuring the safety and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11030,7 +11030,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-16T17:33:28Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job Description Job Title: Mechanical Technician Apprentice Posting Start Date: 16/09/2026 Job Id: 3167 School/Department: Estates & Facilities Management Work Arrangement: Full Time (On site) Contract Type: Fixed-term Salary per annum (£): National Minimum Wage in line with age Closing Date:…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11054,7 +11054,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-16T21:57:48Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Stock Controller & Order Checker – Early Shift Crescent Pharma – Sheffield National Distribution Centre £14.50 per hour Permanent Full-time 40 hours per week Monday to Friday Basic annual pay: £30,160 Shift: 06:00–15:00, Monday to Friday 40 paid working hours per week Each shift includes: Two…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11078,7 +11078,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-16T21:57:48Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Stock Controller & Order Checker – Back Shift Crescent Pharma – Sheffield National Distribution Centre £14.50 per hour Permanent Full-time 40 hours per week Monday to Friday Basic annual pay: £30,160 Shift: 13:00–22:00 Monday to Thursday; 11:00–20:00 Friday 40 paid working hours per week Each shift…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11124,7 +11124,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-16T21:57:48Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Join Lift Firth Park as a Lettings Officer and play a pivotal role in connecting our school with the local community while generating vital revenue to support our core mission: ensuring every child receives an excellent education, in every classroom, every day. About the Role The Lettings Officer…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11149,7 +11149,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-16T21:57:48Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Taylor Shaw – Food That Fuels School Days Good food today. Better habits tomorrow. At Sheffield Springs Academy, part of Taylor Shaw, we cook fresh, nutritious meals that support focus, energy and wellbeing in schools across the UK. It's simple: good food helps children thrive, and every plate you…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11222,7 +11222,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-16T21:57:48Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Individual Restaurants has an exciting opportunity for a Kitchen Assistant to join our team. As a Kitchen Assistant, you will play a vital role in supporting the kitchen operations and maintaining a clean and organised workspace. Why work with us The Sunday Times – Best place to work 2024 & 2025…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11246,7 +11246,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-16T21:57:48Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -11268,7 +11268,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-16T21:57:48Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Are you someone who enjoys working hands-on with students and staff, helping to create engaging and safe practical learning experiences? Lift Firth Park is looking for a passionate Art and Design Technology Technician to join our team. We're committed to making sure every child receives an…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11292,7 +11292,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-16T21:57:48Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job summary We are looking for an Induction Furnace Repairer and Manufacturer to assist with the manufacture, repair, maintenance, and refurbishment of induction furnaces and related equipment. Previous experience with induction furnaces is not required, as full training will be provided. The role…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11316,7 +11316,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T12:29:28Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -11434,7 +11434,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T12:29:28Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job Type: Full-time Hourly rate: £12.71 Weekend Work is required Saturdays and Sundays. Join The Team! As a Receptionist you will be responsible for providing an exceptional, professional customer experience to our customers whilst they are at our site. This begins with greeting the customer and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11458,7 +11458,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T12:29:28Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -11528,7 +11528,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-17T12:29:28Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -11550,7 +11550,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-17T12:29:28Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "About the role… We are excited to be recruiting for a Motor Vehicle Technician. This is an unrivalled opportunity to join one of the UK’s fastest growing motor groups. As a Motor Vehicle Technician, you will be responsible for the service, repair and maintenance work for our customers’ vehicles,…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11574,7 +11574,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "warehouse operative required for a busy steel stock warehouse duties include order picking, loading and unloading vehicles with overhead crane, must be able to read a tape measure and understand written instruction, we operate a two shift system days and afternoons alternate weeks immediate start…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11598,7 +11598,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Goods In Operative - Back Shift Crescent Pharma – Sheffield National Distribution Centre £14.50 per hour Permanent Full-time 40 hours per week Monday to Friday Basic annual pay: £30,160 Shift: Monday–Thursday: 13:00–22:00 Friday: 11:00–20:00 40 paid working hours per week Each shift includes: Two…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11622,7 +11622,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Goods In Operative - Early Shift Crescent Pharma – Sheffield National Distribution Centre £14.50 per hour Permanent Full-time 40 hours per week Monday to Friday Basic annual pay: £30,160 Shift: 06:00–15:00, Monday to Friday 40 paid working hours per week Each shift includes: Two 15-minute breaks…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11646,7 +11646,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -11668,7 +11668,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-20T12:07:03Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Positions available: 1 Brief overview of the role: S11 8HN We are looking for a friendly, reliable and motivated Pharmacy Assistant Apprentice to join a busy community pharmacy team. This is a great opportunity to earn while you learn, gaining hands‑on experience in a healthcare environment while…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11716,7 +11716,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job Description Job Title: Communications & Events Assistant Posting Start Date: 17/09/2026 Job Id: 3153 School/Department: Campaigns & Alumni Relations Work Arrangement: Full Time (Hybrid) Contract Type: Fixed-term Salary per annum (£): £25,249 - £26,707 Closing Date: 28/09/2026 The University of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11740,7 +11740,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job Overview We are seeking a dedicated and professional Medical Receptionists to join our Reception team. The ideal candidate will be the first point of contact for patients, providing exceptional customer service while managing administrative tasks efficiently. This role is crucial in ensuring…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11860,7 +11860,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Are you a hands-on engineer who takes pride in fixing problems, keeping machinery running, and delivering high-quality work? We’re looking for a motivated and reliable Workshop Fitter / Mechanical Maintenance Engineer to join our growing workshop team. This is a great opportunity for someone with…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11884,7 +11884,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-17T21:58:53Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -11906,7 +11906,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T21:58:53Z",
-   "last_seen": "2026-09-20T12:07:03Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Summary ----------- £13.45 - £14.95 per hour 35 hour contract shifts 30-35 days’ holiday (pro rata) 10% in-store discount Pension scheme Everyone who works at Lidl brings something unique to the table - but we also have a whole lot in common. We’re collaborative, determined and we all pitch in to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11930,7 +11930,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T21:58:53Z",
-   "last_seen": "2026-09-20T12:07:03Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Retail Optical Assistant – Vision Express Where customer service meets premium eyewear and med-tech innovation. Are you looking for a retail role in eye care where you can grow, learn, and make a difference? Join Vision Express, part of the global EssilorLuxottica group, and work with leading…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11954,7 +11954,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T21:58:53Z",
-   "last_seen": "2026-09-20T12:07:03Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Retail Optical Assistant – Vision Express Where customer service meets premium eyewear and med-tech innovation. Are you looking for a retail role in eye care where you can grow, learn, and make a difference? Join Vision Express, part of the global EssilorLuxottica group, and work with leading…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11978,7 +11978,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-17T21:58:53Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -12000,7 +12000,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-18T12:08:14Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Job description An exciting opportunity has arisen to join the Housing Fire Safety Compliance Team as a Facilities Support Assistant. This role will allow you to have a lasting impact on the Health, Safety and Wellbeing or our residents and make a significant impact in keeping people safe in their…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12048,7 +12048,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-18T12:08:14Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Location: Primark Sheffield the Moon Pay rate: £13:00 per hour Employment type: Fixed Term (Ends on 2027-01-02) Job type: Part time Contracted hours: 8 hours per week Shift pattern: Weekend only. Eligibility. Primark can only employ individuals who are above the compulsory school leaving age in the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12072,7 +12072,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-18T12:08:14Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Description The Role Outline: Your Shift at a Glance As a Barista for our brand new Sheffield location, your journey starts in a completely unique way. In December 2026, you will be part of the founding team launching a fully operational Starbucks pop-up container right on our live hotel…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12096,7 +12096,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-19T21:21:06Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Taylor Shaw – Food That Fuels School Days Good food today. Better habits tomorrow. At Birley Primary School, part of Taylor Shaw, we cook fresh, nutritious meals that support focus, energy and wellbeing in schools across the UK. It's simple: good food helps children thrive, and every plate you…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12120,7 +12120,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-19T21:21:06Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Hello / Hola everyone, Knowledge of Mexican/Latin cuisine preferred but not necessary, passion for high quality food and customer service a must! Working in a close-knit team. Working on events. We are growing rapidly and looking for the best candidates. We are looking to recruit for an immediate…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12144,7 +12144,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-19T21:21:06Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Taylor Shaw – Food That Fuels School Days Good food today. Better habits tomorrow. At Bradfield School, part of Taylor Shaw, we cook fresh, nutritious meals that support focus, energy and wellbeing in schools across the UK. It's simple: good food helps children thrive, and every plate you serve…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12168,7 +12168,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-19T21:21:06Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "As a Catering Assistant, you'll be part of a dynamic, fast-paced team, contributing to a positive and friendly work environment. The role offers numerous opportunities for growth within a company that values individuality and invests in its employees. Your hard work will be recognised and rewarded,…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12216,7 +12216,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-19T21:21:06Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Company Description Join us at Greene King pubs, where we have always been the beacon for communities, wherever people want to come together. Our collection of community pubs are the heart and soul of the local area around them, helmed by a local hero and crewed by a team always ready with your…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12240,7 +12240,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-19T21:21:06Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Company Description Join us at Farmhouse Inns, where we’re big on quality as we are with our portions, which is why our carveries slow-roast our meats for 14-hours, freshly prepare our veg, create fluffy, handmade Yorkies, ruffle-up our perfectly crispy roast potatoes, and bake and hand-decorate…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12264,7 +12264,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-19T21:21:06Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Company Description Join us at Hungry Horse, where the drinks are always flowing and the plates are piled high, our pubs bring families and friends together. From footy days to family time, a swift drink after work, to a quarterly pool tournament – there’s always something going on. Beyond our…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12288,7 +12288,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-19T21:21:06Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Company Description Join us at Pub & Grill, where we combine the warm welcome of a cosy pub with the style and quality standards of a restaurant. Though our grill may be the star of the show, our kitchens serve up a great range of comforting classics and healthy options too. Whether stopping for a…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12312,7 +12312,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-20T12:07:03Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -12334,7 +12334,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-20T12:07:03Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "Salary £27,500 Contractual hours 40 Basis Full Time Region Sites - North Central Package 25 days annual leave (plus bank holidays) Day off on your birthday Discretionary bonus scheme Pension – matched up to 8% Life Assurance Season ticket loans Cycle to work scheme Gym discounts Discounts & Offers…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12358,7 +12358,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-20T12:07:03Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -12380,7 +12380,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-20T12:07:03Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -12402,7 +12402,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-20T12:07:03Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -12424,7 +12424,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-20T12:07:03Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "summary": "About the role… We are excited to be recruiting for a Motor Vehicle Technician. This is an unrivalled opportunity to join one of the UK’s fastest growing motor groups. As a Motor Vehicle Technician, you will be responsible for the service, repair and maintenance work for our customers’ vehicles,…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12448,7 +12448,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-20T12:07:03Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -12470,7 +12470,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-20T12:07:03Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -12492,7 +12492,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-20T12:07:03Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -12514,7 +12514,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-20T12:07:03Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -12536,14 +12536,196 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-20T12:07:03Z",
-   "last_seen": "2026-09-20T16:43:14Z",
+   "last_seen": "2026-09-20T21:17:30Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=4814c70b3abc637e": {
+   "title": "Domino’s Delivery Driver (Own Car Required)",
+   "company": "Domino's",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-28",
+   "description": "**Love being on the road?** Join our delivery team and bring hot, fresh pizzas to our customers! Earn great pay with mileage, tips, and flexible evening \\& weekend shifts. **Earn up to £15\\.71 per hour (including hourly rate \\& mileage) plus tips!** Working for Domino’s as a Delivery Driver means you’re at the forefront of our business — making sure our customers get high\\-quality pizzas delivered hot and on time. **What we offer** * Flexible working hours to suit your lifestyle * Staff discount on all your favourite pizzas * Pension scheme * You keep all your tips! * Excellent training and career progression **Your responsibilities** * Represent Domino’s with a smile and deliver excellent customer service * Deliver products promptly and safely, following all safety procedures * Handle payments correctly and securely * Support your store team during quieter delivery periods **What you’ll need** * Full UK or EU driving licence (max 6 points, no recent bans) * **Own car with valid MOT and insurance** * Availability for evenings and **every** **weekend (required)** * A positive, can\\-do attitude and great customer service skills * Good local area knowledge **Job Type:** Part\\-time **Availability:** Evenings \\& **Every Weekend (required)** **Salary:** £10\\.85 – £12\\.71 per hour (dependent on age) plus mileage \\& tips Come and join us today as our **Domino’s Delivery Driver** for a **career, not just a job!**",
+   "job_url": "https://uk.indeed.com/viewjob?jk=4814c70b3abc637e",
+   "categories": [
+    "Driving & Logistics"
+   ],
+   "first_seen": "2026-09-20T21:17:30Z",
+   "last_seen": "2026-09-20T21:17:30Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=f27097d8f76a327d": {
+   "title": "Domino’s Delivery Driver (Own Car Required)",
+   "company": "Domino's",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-28",
+   "description": "**Love being on the road?** Join our delivery team and bring hot, fresh pizzas to our customers! Earn great pay with mileage, tips, and flexible evening \\& weekend shifts. **Earn up to £15\\.71 per hour (including hourly rate \\& mileage) plus tips!** Working for Domino’s as a Delivery Driver means you’re at the forefront of our business — making sure our customers get high\\-quality pizzas delivered hot and on time. **What we offer** * Flexible working hours to suit your lifestyle * Staff discount on all your favourite pizzas * Pension scheme * You keep all your tips! * Excellent training and career progression **Your responsibilities** * Represent Domino’s with a smile and deliver excellent customer service * Deliver products promptly and safely, following all safety procedures * Handle payments correctly and securely * Support your store team during quieter delivery periods **What you’ll need** * Full UK or EU driving licence (max 6 points, no recent bans) * **Own car with valid MOT and insurance** * Availability for evenings and **every** **weekend (required)** * A positive, can\\-do attitude and great customer service skills * Good local area knowledge **Job Type:** Part\\-time **Availability:** Evenings \\& **Every Weekend (required)** **Salary:** £10\\.85 – £12\\.71 per hour (dependent on age) plus mileage \\& tips Come and join us today as our **Domino’s Delivery Driver** for a **career, not just a job!**",
+   "job_url": "https://uk.indeed.com/viewjob?jk=f27097d8f76a327d",
+   "categories": [
+    "Driving & Logistics"
+   ],
+   "first_seen": "2026-09-20T21:17:30Z",
+   "last_seen": "2026-09-20T21:17:30Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=b3f3247555058629": {
+   "title": "Domino’s Delivery Driver (Own Car Required)",
+   "company": "Domino's",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-28",
+   "description": "**Love being on the road?** Join our delivery team and bring hot, fresh pizzas to our customers! Earn great pay with mileage, tips, and flexible evening \\& weekend shifts. **Earn up to £15\\.71 per hour (including hourly rate \\& mileage) plus tips!** Working for Domino’s as a Delivery Driver means you’re at the forefront of our business — making sure our customers get high\\-quality pizzas delivered hot and on time. **What we offer** * Flexible working hours to suit your lifestyle * Staff discount on all your favourite pizzas * Pension scheme * You keep all your tips! * Excellent training and career progression **Your responsibilities** * Represent Domino’s with a smile and deliver excellent customer service * Deliver products promptly and safely, following all safety procedures * Handle payments correctly and securely * Support your store team during quieter delivery periods **What you’ll need** * Full UK or EU driving licence (max 6 points, no recent bans) * **Own car with valid MOT and insurance** * Availability for evenings and **every** **weekend (required)** * A positive, can\\-do attitude and great customer service skills * Good local area knowledge **Job Type:** Part\\-time **Availability:** Evenings \\& **Every Weekend (required)** **Salary:** £10\\.85 – £12\\.71 per hour (dependent on age) plus mileage \\& tips Come and join us today as our **Domino’s Delivery Driver** for a **career, not just a job!**",
+   "job_url": "https://uk.indeed.com/viewjob?jk=b3f3247555058629",
+   "categories": [
+    "Driving & Logistics"
+   ],
+   "first_seen": "2026-09-20T21:17:30Z",
+   "last_seen": "2026-09-20T21:17:30Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=08470034a250983b": {
+   "title": "Delivery Driver",
+   "company": "Yorkshire Trade Kitchens & Bedrooms",
+   "location": "Rotherham, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-25",
+   "description": "Yorkshire Trade Kitchens and Bedrooms \\- S61 1DF We are after experienced delivery driver for a well established kitchen and bedroom company, to work on own initiative from a job sheet supplied by office staff. Job role will also include warehouse duties such as taking deliveries of items for kitchen projects, organising outgoing kitchen and bedroom furniture so projects go out on team by making sure all items for installations are ready. You will be expected to work around 40 hours per week. Further job requirements will be discussed at interview stage. Some background of kitchen/bedroom cabinet making would also be a huge advantage but not required. Salary range dependant on experience and will be discussed at the interview stage. Job Type: Full\\-time Pay: From £29,000\\.00 per year Experience: * Cabinet making: 1 year (required) Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=08470034a250983b",
+   "categories": [
+    "Driving & Logistics"
+   ],
+   "first_seen": "2026-09-20T21:17:30Z",
+   "last_seen": "2026-09-20T21:17:30Z",
+   "summary": "Yorkshire Trade Kitchens and Bedrooms - S61 1DF We are after experienced delivery driver for a well established kitchen and bedroom company, to work on own initiative from a job sheet supplied by office staff. Job role will also include warehouse duties such as taking deliveries of items for…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=eac5dce6602cd5e8": {
+   "title": "Experienced Forklift/Combi Driver",
+   "company": "Oakworth Homes Ltd",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-25",
+   "description": "**The Company** Oakworth Homes Ltd (founded in 2006\\) who’s primary services are the design, manufacture, delivery and erection of Off\\-Site manufactured Timber Structures. Oakworth Homes management are proud of how the company has developed and are excited about our opportunity for future growth. We expect staff to be as committed to the company and its clients as we are. Our aim is to remain a premier provider of construction solutions to residential developments in the UK. **Job Title** Experienced Forklift/Combi Driver. **Location** 8 Orgreave Close, Handsworth, Sheffield, S13 9NP. **Job Role** We are looking for an experienced individual, preferably with a timber frame / joinery shop background who has experience in forklift driving. Fork truck and/or combi lift license is essential. **The successful candidate will:** * Have experience in driving combi lifts and counter balance fork trucks. * Have experience in loading / unloading of lorries. * Transport materials in and out of the factory. * Have good organisation skills, organising the yard/stock. * Ensure weekly stock taking of materials are done. * Maintain an excellent standard of housekeeping of the yard. * Have a responsible attitude to health and safety. * Have good knowledge of timber sections/sizes. * Confidently work to deadlines. * Be enthusiastic, reliable and a good team worker. * Have the ability to work unsupervised or as part of a team. * Have a good attendance record. * Loading of difficult loads i.e. trusses, steels and long timbers. **Working hours \\& remuneration package** Working hours – Typically 40 hours per week, working shifts: Flexibility will be required from time to time. **Package** Wage: to be agreed depending on experience, for full time employment. 20 days holiday plus statutory holidays. Auto enrolment into our Health Shield plan after 6 months service. **How to apply** If you are interested in becoming a key member of our company and to have the chance to work in one of the fastest growing areas in the construction industry within the UK please forward a CV along with a covering letter to support your application to; Alex Law: Oakworth Homes Ltd, 8 Orgreave Close, Handsworth Sheffield, S13 9NP. Please note only experienced suitable applicants will be considered for the above position. Experience: * Forklift/Combi : 2 years (preferred) Licence/Certification: * CPCS (preferred) Work Location: In person",
+   "job_url": "https://uk.indeed.com/viewjob?jk=eac5dce6602cd5e8",
+   "categories": [
+    "Driving & Logistics"
+   ],
+   "first_seen": "2026-09-20T21:17:30Z",
+   "last_seen": "2026-09-20T21:17:30Z",
+   "summary": "The Company Oakworth Homes Ltd (founded in 2006) who’s primary services are the design, manufacture, delivery and erection of Off-Site manufactured Timber Structures. Oakworth Homes management are proud of how the company has developed and are excited about our opportunity for future growth. We…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=3b3ecd2fe63504de": {
+   "title": "Domino’s Delivery Driver (Own Car Required)",
+   "company": "Domino's",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "parttime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-18",
+   "description": "**Love being on the road?** Join our delivery team and bring hot, fresh pizzas to our customers! Earn great pay with mileage, tips, and flexible evening \\& weekend shifts. **Earn up to £15\\.71 per hour (including hourly rate \\& mileage) plus tips!** Working for Domino’s as a Delivery Driver means you’re at the forefront of our business — making sure our customers get high\\-quality pizzas delivered hot and on time. **What we offer** * Flexible working hours to suit your lifestyle * Staff discount on all your favourite pizzas * Pension scheme * You keep all your tips! * Excellent training and career progression **Your responsibilities** * Represent Domino’s with a smile and deliver excellent customer service * Deliver products promptly and safely, following all safety procedures * Handle payments correctly and securely * Support your store team during quieter delivery periods **What you’ll need** * Full UK or EU driving licence (max 6 points, no recent bans) * **Own car with valid MOT and insurance** * Availability for evenings and **every** **weekend (required)** * A positive, can\\-do attitude and great customer service skills * Good local area knowledge **Job Type:** Part\\-time **Availability:** Evenings \\& **Every Weekend (required)** **Salary:** £10\\.85 – £12\\.71 per hour (dependent on age) plus mileage \\& tips Come and join us today as our **Domino’s Delivery Driver** for a **career, not just a job!**",
+   "job_url": "https://uk.indeed.com/viewjob?jk=3b3ecd2fe63504de",
+   "categories": [
+    "Driving & Logistics"
+   ],
+   "first_seen": "2026-09-20T21:17:30Z",
+   "last_seen": "2026-09-20T21:17:30Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=1ce99408f2b61879": {
+   "title": "Car Delivery Driver",
+   "company": "Domino's",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-18",
+   "description": "**About Us:** You know who we are, you’ve probably tried our delicious pizzas and now you’re thinking about joining our team – fantastic! At Domino’s we’re passionate about delivering hot, fresh pizzas and giving outstanding service to our customers, whether it’s a busy Friday night or a midweek treat. Through our vast network of stores, our franchise partners employ over 35,000 people who work in a variety of different roles. We’re committed to innovation, community engagement and creating rewarding careers – and we’d love to have you join us. **The Role:** As a Car Delivery Driver, you’ll be the face of Domino’s in your local community, delivering hot, fresh pizzas safely and efficiently. You’ll play a key part in our fast\\-paced, friendly team and help us deliver a great experience to every customer. **Key Responsibilities:** * Deliver pizzas and menu items to customers promptly and safely * Provide excellent customer service at every doorstep * Operate your vehicle in accordance with road safety regulations * Use the Domino’s Delivery App on your smartphone to manage orders * Support the in\\-store team during quieter delivery periods (e.g. cleaning, restocking, folding boxes) * Represent Domino’s positively in the community **About You:** * Full, valid UK or International driving licence * Own a reliable, roadworthy car with valid MOT, tax, and insurance * Smartphone for delivery app use * Good knowledge of the local area * Friendly, reliable, and able to work independently * Able to work flexible hours, including evenings and weekends * Previous experience is a bonus, but not essential as we’ll give you all the training you need **Benefits:** * Competitive hourly pay \\+ per\\-delivery payment \\+ tips * 28 days paid holiday per year (includes BH, pro rata for part time) * Flexible working hours to suit your lifestyle * Staff discount on our delicious food (we know you were looking for this!) * Occasional Business Use insurance provided whilst out driving (store can provide more details) * Staff meals (conditions apply) * Company pension scheme (where eligible) * Family Leave policies in place * Paid training and clear career progression pathway with linked pay increases * Supportive, inclusive, and fun team environment * Employee recognition schemes **Equal Opportunities:** We are an equal opportunities employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. If you require any adjustments to the recruitment process, please let us know. **Please note:** Domino’s stores are operated by independent franchisees, therefore terms and conditions of employment across stores may vary and will be clarified during the selection process.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=1ce99408f2b61879",
+   "categories": [
+    "Driving & Logistics"
+   ],
+   "first_seen": "2026-09-20T21:17:30Z",
+   "last_seen": "2026-09-20T21:17:30Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=ccdbee69609c99e6": {
+   "title": "Senior Technician: CNC",
+   "company": "University of Sheffield",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-07-09",
+   "description": "Job Description Job Title: Senior Technician: CNC Posting Start Date: 04/09/2026 Job Id: 2827 School/Department: Electrical \\& Electronic Engineering Work Arrangement: Full Time (On site) Contract Type: Permanent Salary per annum (£): £32,080\\-£36,636 with potential to progress to £39,906 through sustained excellent contribution Closing Date: 27/09/2026 The University of Sheffield is a remarkable place to work. Our people are at the heart of everything we do. Their diverse backgrounds, abilities and beliefs make Sheffield a world\\-class university. We offer a fantastic range of benefits including a highly competitive annual leave entitlement (with the ability to purchase more), a generous pensions scheme, flexible working opportunities, a commitment to your development and wellbeing, a wide range of retail discounts, and much more. **Overview** As a Senior Technician you will be an integral member of the School’s mechanical workshop. Based in the Caledonia Workshop you will collaborate with other team members. You will lead in the manufacture of specialist equipment and components for research activities and will also provide technical expertise to undergraduate projects, postgraduate projects and other collaborators within the Faculty of Engineering. You will be required to work with students in the development, design and production of their projects, using CAD/CAM software and CNC equipment as well as more traditional methods. This position will require a high degree of skilled machining accuracy and attention to detail, as well as a good knowledge of engineering workshop metrology. You will also carry out a number of other activities to ensure the workshop continues to be recognised for its service excellence and outstanding health and safety standards. This will include maintaining the workshop’s health \\& safety documentation as well other health and safety obligations. You will be responsible for and understand how to store and manage data in compliance with relevant laws and regulations. You must be proficient with various office and design software. You will be able to comprehend and analyse technical documentation to effectively perform job duties. Appreciate the significance of providing outstanding customer service to both customers and colleagues, including identifying needs and responding appropriately based on the situation and organisational culture. Plan, allocate, work safely at all times, complying with health and safety legislation, regulations, environmental compliance procedures and systems and other relevant guidelines. Train and advise others in the workshop as and when required. Ensure all activities are undertaken using the correct processes/methodologies, ensuring quality and compliance. Work independently with efficiency and effectiveness, consistently maintaining an organised workspace and minimising waste. This is a **“hands on role”** with responsibility for the development and management of junior staff and, when required, deputise for the Technical Manager: Mechanical Workshop. **Main duties and responsibilities** * Provide a comprehensive and proactive technical service to staff and students across both the School and wider University. This will involve the design, development, installation, commissioning, maintenance, service and repair of experimental components, assemblies and rigs. * Find solutions to routine and non\\-routine manufacturing issues as commonly found with a wide range of bespoke work. Define the appropriate processes, techniques, tools, workholding methods, etc to complete the work accurately and efficiently. * Use computational design packages, CAD and Google workspace tools to realise and present design ideas. Use CAM software and CNC programming to facilitate the manufacture of components. Keep meticulous records of all designs and related information. * Use a wide range of mechanical workshop techniques including, but not limited to, turning, milling, CNC machining, wire erosion, fitting, assembly, grinding, drilling and computational design packages. Work to high tolerances safely and efficiently whilst demonstrating good understanding of the engineering principles behind process, tool and material choice. * Undertake design consultations with students and staff in order to realise their ideas or intended outcomes. Critically evaluate technical and non technical drawings to optimise and provide solutions or alternative ideas ensuring the appropriate engineering principals are foremost in the design. Develop solutions with an emphasis on design for in\\-house manufacture and provide continued advice and support throughout the project lifecycle. * Ensure a high level of customer service to students, staff and colleagues. Be a proactive team player, making yourself available for meetings, informal chats and presentations where required. Respond promptly to enquiries and promote a positive and supportive working environment. * Provide advice and mentorship to students, staff and colleagues on a range of technical issues. Develop and deliver technical training to others in the use of machinery, tools, processes and materials. Proactively enable knowledge transfer to all colleagues in the workshop with an emphasis on training and delegating work to junior colleagues as appropriate. * Leadership for allocating resources, ensuring procedures, processes, quality standards, etc. are followed and that work objectives are met. Demonstrate excellent time management, work scheduling and planning skills. Work with minimal supervision to support the objectives of the team, school and faculty. Supporting the Technical Manager with the daily running of the workshop facility to ensure continued safe and reliable service. * Carry out maintenance, servicing, modification and repair on a range of instrumentation and equipment ensuring failures and breakdowns have limited impact upon day\\-to\\-day Mechanical Workshop activity. Liaise with equipment…",
+   "job_url": "https://uk.indeed.com/viewjob?jk=ccdbee69609c99e6",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-20T21:17:30Z",
+   "last_seen": "2026-09-20T21:17:30Z",
+   "summary": "Job Description Job Title: Senior Technician: CNC Posting Start Date: 04/09/2026 Job Id: 2827 School/Department: Electrical & Electronic Engineering Work Arrangement: Full Time (On site) Contract Type: Permanent Salary per annum (£): £32,080-£36,636 with potential to progress to £39,906 through…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   }
  },
  "last_run_report": {
-  "started": "2026-09-20T16:43:14Z",
+  "started": "2026-09-20T21:17:30Z",
   "searches": [
    {
     "term": "activity instructor",
@@ -12572,8 +12754,8 @@
    },
    {
     "term": "delivery driver",
-    "found": 1,
-    "new": 0
+    "found": 40,
+    "new": 7
    },
    {
     "term": "courier driver",
@@ -12582,7 +12764,7 @@
    },
    {
     "term": "customer service assistant",
-    "found": 1,
+    "found": 40,
     "new": 0
    },
    {
@@ -12623,11 +12805,11 @@
    {
     "term": "maintenance technician",
     "found": 40,
-    "new": 0
+    "new": 1
    },
    {
     "term": "fitter",
-    "found": 10,
+    "found": 11,
     "new": 0
    },
    {
@@ -12636,7 +12818,7 @@
     "new": 0
    }
   ],
-  "new": 0,
-  "updated": 178
+  "new": 8,
+  "updated": 249
  }
 }
