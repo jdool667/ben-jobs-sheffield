@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_run": "2026-09-19T21:21:06Z",
+  "last_run": "2026-09-20T12:07:03Z",
   "location": "Sheffield",
   "country": "UK",
   "hours_old": 72,
@@ -710,12 +710,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Cash Desk Volunteer role at British Heart Foundation in Sheffield, unpaid voluntary position in a charity shop. Key duty is processing sales through the till, engaging with customers, and handling donations/payments.",
+   "last_seen": "2026-09-20T12:07:03Z",
+   "summary": "Our charity funds around £100 million of research each year into all heart and circulatory diseases and the things that cause them. Heart diseases. Stroke. Vascular dementia. Diabetes. They're all connected, and they're all under our microscope. Our volunteers help us fund lifesaving science to…",
+   "summary_source": "fallback",
    "fit": "maybe",
-   "fit_reason": "Ben has relevant customer service and till/POS experience, but this is an unpaid volunteer role rather than paid employment, which may not meet his need for income.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=60fba57e31aaee60": {
    "title": "Guest Services Ambassador",
@@ -828,12 +828,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Cash Desk Volunteer at British Heart Foundation, unpaid voluntary role in Sheffield. Customer service and till work in a charity shop with full training provided.",
-   "fit": "good",
-   "fit_reason": "Matches his customer service experience with POS and cash handling, no licence or certifications required, and flexible hours suit his availability.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-20T12:07:03Z",
+   "summary": "Our charity funds around £100 million of research each year into all heart and circulatory diseases and the things that cause them. Heart diseases. Stroke. Vascular dementia. Diabetes. They're all connected, and they're all under our microscope. Our volunteers help us fund lifesaving science to…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=d3bdc7d245111ff8": {
    "title": "kitchen porter",
@@ -876,7 +876,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Be Yourself – Be a Bold Team Player – Be Leonardo Once you’re part of the team, you’re part of the Leonardo community of over 55 hotels across the UK & Ireland! As a Kitchen Porter you’ll be right in the heart of the hotel, so we want you to take pride in everything you’ll be doing to support the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -1301,7 +1301,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1323,12 +1323,12 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Senior Research Technician role at University of Sheffield in Chemical, Materials & Biological Engineering, £32,080–£35,608, fixed-term on-site. Requires specialist technical expertise in protein handling, ceramic synthesis, instrumentation, and lab safety/training across an established research team.",
-   "fit": "stretch",
-   "fit_reason": "Senior specialist lab role requiring deep research/technical expertise and likely a relevant degree, well beyond Ben's engineering diploma and customer service background.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-20T12:07:03Z",
+   "summary": "Job Description Job Title: Senior Research Technician - ARIA Posting Start Date: 02/09/2026 Job Id: 2951 School/Department: Chemical, Materials & Biological Engineering Work Arrangement: Full Time (On site) Contract Type: Fixed-term Salary per annum (£): £32,080 - 35,608 Closing Date: 20/09/2026…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=d49a4ba011f87f1b": {
    "title": "Water Technician - Level 1",
@@ -1347,7 +1347,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-04T11:50:02Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1369,7 +1369,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T09:57:00Z",
-   "last_seen": "2026-09-04T11:50:02Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -1742,7 +1742,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "About the Role We are looking for a friendly, reliable and enthusiastic Bar & Kitchen Assistant to join our team at Moor View Golf Centre. Working within our clubhouse, you will play an important role in providing excellent food and beverage service to our guests and visitors. The role is varied…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2074,12 +2074,12 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-05T10:59:03Z",
-   "summary": "Service Advisor role at JCT600 Mercedes Benz in Sheffield (no pay stated); involves scheduling vehicle services, liaising with customers and coordinating with workshop technicians.",
+   "last_seen": "2026-09-20T12:07:03Z",
+   "summary": "Job Advert Service Advisor - Mercedes Benz Sheffield At JCT600, our Service Advisors are essential to delivering an efficient and professional aftersales experience. You’ll be the trusted point of contact for customers throughout their vehicle servicing journey, ensuring clear communication and…",
+   "summary_source": "fallback",
    "fit": "maybe",
-   "fit_reason": "Ben's customer service experience (POS, cash handling, food safety) and engineering background suit customer-facing, organisational work, but no prior Service Advisor or automotive experience is liste",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=b4ca84e84211d4c2": {
    "title": "Engineering Works Supervisor",
@@ -2098,12 +2098,12 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:58:45Z",
-   "summary": "Engineering Works Supervisor role at NMD Engineering Solutions Ltd in Sheffield, paying £53,000 per year; involves supervising day-to-day engineering works, coordinating teams and resources across sites.",
-   "fit": "stretch",
-   "fit_reason": "Senior supervisory/management position requiring experience in coordinating engineers, contractors and project delivery — well beyond Ben's hands-on engineering background.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-20T12:07:03Z",
+   "summary": "Job Summary: NMD Engineering Solutions Ltd. is seeking an Engineering Works Supervisor to oversee thepractical delivery of engineering works across assigned sites and projects. The role will coordinate daily technical activities, workforce requirements, materials, and work progress to help…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=b5caa40feff09850": {
    "title": "Engineering Inspection Supervisor",
@@ -2122,12 +2122,12 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-03T10:26:52Z",
-   "last_seen": "2026-09-03T10:58:45Z",
-   "summary": "Engineering Inspection Supervisor role at Louis Hart Engineering Ltd in Sheffield, £52,000/year, coordinating inspection activities across engineering projects. Key duty involves supervising scheduled inspections, allocating workloads, and documenting findings for engineering teams.",
-   "fit": "stretch",
-   "fit_reason": "Supervisory/senior technical role requiring coordination experience and inspection background that exceeds Ben's available profile, despite his engineering diploma.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "last_seen": "2026-09-20T12:07:03Z",
+   "summary": "Job Summary: Louis Hart Engineering Ltd. is seeking an Engineering Inspection Supervisor to coordinate inspection activities across engineering projects, equipment, and technical works. The role will help maintain consistent inspection practices, organise inspection workloads, and ensure findings…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=48d4091ab5f856bd": {
    "title": "Warehouse Operative",
@@ -2168,7 +2168,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Job description Thornbridge Outdoors is Sheffield City Council’s outdoor learning centre located near Bakewell in the Peak District. Our mission is ‘to widen the horizons of young people through real outdoor adventures in the Peak District’. This is an exciting opportunity to join the pool of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2192,7 +2192,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Job description Thornbridge Outdoors is Sheffield City Council’s outdoor learning centre located near Bakewell in the Peak District. Our mission is ‘to widen the horizons of young people through real outdoor adventures in the Peak District’. This is an exciting opportunity to join the pool of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2356,7 +2356,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "We're currently recruiting a dedicated Assistant (Zero Hours) to help ensure the smooth running of the operations in Chartwells on a permanent casual basis, contracted to 0 hours per week. As a Assistant (Zero Hours), you will use your skills to maintain a high standard of quality work. In return,…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2381,7 +2381,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "We're currently recruiting a dedicated Assistant (Zero Hours) to help ensure the smooth running of the operations in Chartwells on a permanent casual basis, contracted to 0 hours per week. As a Assistant (Zero Hours), you will use your skills to maintain a high standard of quality work. In return,…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2550,7 +2550,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Role: Catering Assistant We are seeking a dedicated and enthusiastic Team Member to provide great service at our busy kiosk. If you take pride in your work and love working in a fast-moving environment, we want to hear from you. Key Responsibilities: Preparing and serving high-quality food products…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2767,7 +2767,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-07T09:26:00Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -2861,7 +2861,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Job Overview We are seeking a dedicated and enthusiastic Kitchen Porter to join our dynamic kitchen team. The Kitchen Porter plays a crucial role in ensuring the smooth operation of our kitchen by assisting with food preparation, maintaining cleanliness, and supporting the culinary staff. This…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -2885,7 +2885,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Kitchen assistant required in Mediterranean Restaurant Ecclesall road Duties involve Food preparation Keeping kitchen clean and tidy Adhering to health and safety regulations Provide assistance to head chef during service Must have a positive attitude, be hardworking and work well in a fast pace…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -3075,7 +3075,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-04T11:50:02Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Medical Service Technician – Electronics Repair & Servicing Salary: £26,780 - £29,355 (depending on experience) Hours: 37.5 hours per week (flexible start between 8:30am and 9:30am) Location: Sheffield (Workshop based) Do you enjoy fixing things? We’re looking for an electronics technician to join…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -4743,12 +4743,12 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T09:22:15Z",
-   "last_seen": "2026-09-07T09:26:00Z",
-   "summary": "Cash Desk Volunteer at British Heart Foundation in Sheffield — unpaid voluntary charity shop role handling till transactions, customer service, and Gift Aid promotion.",
+   "last_seen": "2026-09-20T12:07:03Z",
+   "summary": "Our charity funds around £100 million of research each year into all heart and circulatory diseases and the things that cause them. Heart diseases. Stroke. Vascular dementia. Diabetes. They're all connected, and they're all under our microscope. Our volunteers help us fund lifesaving science to…",
+   "summary_source": "fallback",
    "fit": "maybe",
-   "fit_reason": "Matches his customer service and cash handling experience, but it is unpaid volunteering rather than paid employment he urgently requires.",
-   "fit_source": "llm",
-   "summary_source": "llm"
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
   },
   "https://uk.indeed.com/viewjob?jk=48f97fca0b7c1377": {
    "title": "Part Time Bar Staff",
@@ -5023,7 +5023,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-07T15:37:12Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Trainee Dental Nurse / Receptionist NHS Dental Practice Sheffield We are currently looking for a trainee Dental Nurse / Receptionist to join our friendly, well-established NHS dental practice on a permanent basis. Our four-surgery practice is based in Pitsmoor, close to the city centre with…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5499,7 +5499,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "No CV to hand? No problem! We've made our application process mobile friendly and removed the need for a CV. Our form takes 2 minutes to complete and tells us all we need about you! With your support as a Part Time Kitchen Assistant at All Bar One Sheffield, everything will run smoothly! You’ll…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5523,7 +5523,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Beck Primary School is seeking a reliable, enthusiastic and hardworking Catering Assistant to join our dedicated team. This is a fantastic opportunity for an organised, proactive and highly motivated professional to play a key role in the smooth and successful operation of our school. As part of…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5615,7 +5615,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -5637,7 +5637,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-07T19:42:06Z",
-   "last_seen": "2026-09-10T12:07:15Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -5801,7 +5801,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T17:07:31Z",
-   "last_seen": "2026-09-11T12:05:46Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Finance Assistant Employment Package Job Title: Finance Assistant Reports to: Senior Finance Officer Contract Type: Permanent Working Hours: Part-time (16 - 22.5 hours/week) Salary: £26,228 pro-rata Pension scheme: Employers contribution of 7% after 3months Holiday allowance: 26 days holiday plus…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5849,7 +5849,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T17:07:31Z",
-   "last_seen": "2026-09-11T12:05:46Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "The successful applicant will have the following duties; Work between Monday to Friday all year round between the hours 07.15 - 18.00. Shift given in advance. Keep records and files up to date. Adhere to policy and procedures and ensure these are all updated. Welcoming families & other visitors to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -5993,7 +5993,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "We are seeking a dedicated and enthusiastic Kitchen & Service Assistant to join our dynamic team at The Athenian. In this versatile role, you will contribute to both the kitchen and customer-facing operations, ensuring seamless service and exceptional food quality. This is a fantastic opportunity…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6174,14 +6174,14 @@
    "interval": null,
    "currency": "GBP",
    "date_posted": "2026-09-08",
-   "description": "Job Description: **Kitchen Assistant** **Broomcroft House Care Home,** **Ecclesall Road South, Sheffield, South Yorkshire, S11 9PY** **CQC rating: Good** **Salary: £12\\.75 \\- £13\\.75ph dependent on experience** **Permanent contract. Hours between 8am and 6pm** **We make health happen** Here at Bupa we support those when they need it the most. Our care homes are dedicated to delivering person\\-centred care, supporting independence and honouring choice to help our residents live their best lives. Our fantastic Kitchen Team are the magic behind each delicious dish we serve our guests. They are passionate about all things food and take great pride in each dish they prepare. We are looking for an equally passionate Kitchen Assistant to join the team and help deliver an excellent dining experience for our residents. Add section here about the home and the role (bring it to life and sell the idea of working in this home) **You'll help us make health happen by:** * Acting as the link between the main kitchen and our residents * Assisting the chefs to plate meals, prepare food trolleys and ensure all preparation areas are kept clean and tidy * Monitoring stock rotation, complying to company policies and procedures following all mandatory COSHH and HACPP guidelines * Assisting with catering for special events such as summer BBQs and Christmas parties **Key Skills / Qualifications needed for this role:** A passion for food with previous experience working in a kitchen and a Basic Food Hygiene Certificate. You want to deliver an excellent service at each meal and make our residents feel at home. You'll understand the importance of maintaining high standards in and around the home, ensuring our residents enjoy a pleasant dining experience. Working with the wider kitchen and care home teams \\- you're comfortable communicating with others, cherishing the little moments with our residents. **Benefits** Our benefits are designed to make health happen for our people. Viva is our global wellbeing programme and includes all aspects of our health \\- from mental and physical, to financial, social and environmental wellbeing. We support flexible working and have a range of family friendly benefits. Joining Bupa in this role you will receive the following benefits and more: * My Healthcare \\- Free access to 24/7 support, advice, and treatment for a variety of health\\-related issues, including remote GP appointments, physiotherapy and mental health support * Annual allowance which you can redeem against a menu of Bupa healthcare products, all to the approximate value of £350 * Wagestream \\- Have early access to up to 40% of your earned wages within minutes * 28 days holiday * We offer a sick pay scheme to our frontline teams, as an addition to statutory sick pay, to help provide some reassurance and financial support during longer absences. * Long service \\- For every milestone at Bupa we will reward you with ecards, extra holidays and money! * Free meal on every shift * Interest\\-free annual travel loan to enable the purchase of public transport annual season tickets * We offer a range of Bupa pension plans \\- find out more on our career site * Parental leave \\- We have schemes for adoption, birth parents and co parents \\-find out more on our career site * Menopause Plan \\- Specifically designed to empower women to seek advice, choose their treatment and take control of their health * Access to discounts at a wide variety of gyms and fitness facilities across the UK **Why Bupa?** We're a health insurer and provider. With no shareholders, our customers are our focus. Our people are all driven by the same purpose \\- helping people live longer, healthier, happier lives and making a better world. We make health happen by being brave, caring and responsible in everything we do. We encourage all of our people to ”Be you at Bupa”, we champion diversity, and we understand the importance of our people representing the communities and customers we serve. That's why we especially encourage applications from people with diverse backgrounds and experiences. Bupa is a Level 2 Disability Confident Employer. This means we aim to offer an interview/assessment to every disabled applicant who meets the minimum criteria for the role. We'll make sure you are treated fairly and offer reasonable adjustments as part of our recruitment process to anyone that needs them. \\*\\* Please note, this role is not at or above RQF Level 3 and is not included under the UK's Points Based Immigration System for sponsorship by an employer. Time Type: Part time Job Area: Care Home \\- Facilities \\& Home Support Locations: Broomcroft House Private dental insurance, Cycle to work scheme, Financial planning services, Company pension, Employee mentoring programme, Health \\& wellbeing programme, Free flu jabs, Additional leave, Referral programme, Gym membership, Discounted or free food, Paid volunteer time",
+   "description": "Job Description: **Kitchen Assistant** **Broomcroft House Care Home,** **Ecclesall Road South, Sheffield, South Yorkshire, S11 9PY** **CQC rating: Good** **Salary: £12\\.75 \\- £13\\.75ph dependent on experience** **Permanent contract. Hours between 8am and 6pm** **We make health happen** Here at Bupa we support those when they need it the most. Our care homes are dedicated to delivering person\\-centred care, supporting independence and honouring choice to help our residents live their best lives. Our fantastic Kitchen Team are the magic behind each delicious dish we serve our guests. They are passionate about all things food and take great pride in each dish they prepare. We are looking for an equally passionate Kitchen Assistant to join the team and help deliver an excellent dining experience for our residents. Add section here about the home and the role (bring it to life and sell the idea of working in this home) **You'll help us make health happen by:** * Acting as the link between the main kitchen and our residents * Assisting the chefs to plate meals, prepare food trolleys and ensure all preparation areas are kept clean and tidy * Monitoring stock rotation, complying to company policies and procedures following all mandatory COSHH and HACPP guidelines * Assisting with catering for special events such as summer BBQs and Christmas parties **Key Skills / Qualifications needed for this role:** A passion for food with previous experience working in a kitchen and a Basic Food Hygiene Certificate. You want to deliver an excellent service at each meal and make our residents feel at home. You'll understand the importance of maintaining high standards in and around the home, ensuring our residents enjoy a pleasant dining experience. Working with the wider kitchen and care home teams \\- you're comfortable communicating with others, cherishing the little moments with our residents. **Benefits** Our benefits are designed to make health happen for our people. Viva is our global wellbeing programme and includes all aspects of our health \\- from mental and physical, to financial, social and environmental wellbeing. We support flexible working and have a range of family friendly benefits. Joining Bupa in this role you will receive the following benefits and more: * My Healthcare \\- Free access to 24/7 support, advice, and treatment for a variety of health\\-related issues, including remote GP appointments, physiotherapy and mental health support * Annual allowance which you can redeem against a menu of Bupa healthcare products, all to the approximate value of £350 * Wagestream \\- Have early access to up to 40% of your earned wages within minutes * 28 days holiday * We offer a sick pay scheme to our frontline teams, as an addition to statutory sick pay, to help provide some reassurance and financial support during longer absences. * Long service \\- For every milestone at Bupa we will reward you with ecards, extra holidays and money! * Free meal on every shift * Interest\\-free annual travel loan to enable the purchase of public transport annual season tickets * We offer a range of Bupa pension plans \\- find out more on our career site * Parental leave \\- We have schemes for adoption, birth parents and co parents \\-find out more on our career site * Menopause Plan \\- Specifically designed to empower women to seek advice, choose their treatment and take control of their health * Access to discounts at a wide variety of gyms and fitness facilities across the UK **Why Bupa?** We're a health insurer and provider. With no shareholders, our customers are our focus. Our people are all driven by the same purpose \\- helping people live longer, healthier, happier lives and making a better world. We make health happen by being brave, caring and responsible in everything we do. We encourage all of our people to ”Be you at Bupa”, we champion diversity, and we understand the importance of our people representing the communities and customers we serve. That's why we especially encourage applications from people with diverse backgrounds and experiences. Bupa is a Level 2 Disability Confident Employer. This means we aim to offer an interview/assessment to every disabled applicant who meets the minimum criteria for the role. We'll make sure you are treated fairly and offer reasonable adjustments as part of our recruitment process to anyone that needs them. \\*\\* Please note, this role is not at or above RQF Level 3 and is not included under the UK's Points Based Immigration System for sponsorship by an employer. Time Type: Part time Job Area: Care Home \\- Facilities \\& Home Support Locations: Broomcroft House Private dental insurance, Gym membership, Financial planning services, Employee mentoring programme, Discounted or free food, Health \\& wellbeing programme, Free flu jabs, Additional leave, Paid volunteer time, Company pension, Cycle to work scheme, Referral programme",
    "job_url": "https://uk.indeed.com/viewjob?jk=2bb3a8b12db16f05",
    "categories": [
     "Hospitality",
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Job Description: Kitchen Assistant Broomcroft House Care Home, Ecclesall Road South, Sheffield, South Yorkshire, S11 9PY CQC rating: Good Salary: £12.75 - £13.75ph dependent on experience Permanent contract. Hours between 8am and 6pm We make health happen Here at Bupa we support those when they…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6248,13 +6248,13 @@
    "interval": null,
    "currency": "GBP",
    "date_posted": "2026-09-08",
-   "description": "**Type:** Fixed\\-term contract (6 months), 20 hours per week **Work Location:** On the road and at customer sites. **Pay:** £17 per hour **Licence/Certification:** Full valid UK driving licence (required) Focal Systems is the industry leader in retail AI solutions. Our mission is to automate and optimise brick\\-and\\-mortar retail using deep\\-learning computer vision. Focal has been deployed at scale with the top retailers in the world. We are looking for smart, creative, and passionate people who love to learn, enjoy thinking critically, share our values, and want to build a great and enduring company. We have built the next\\-generation operating system for brick \\& mortar retail. This OS leverages shelf\\-mounted cameras that constantly measure the state of the retailers' shelves and use that information to order quicker and smarter, planogram better, and schedule, direct, train, and manage their staff. We have proven this with major retailers around the world. **Job Description** We are currently expanding our operations throughout the UK and seeking a dedicated Field Service Technician to complete installations for our customers in your area. This role will primarily involve working overnight, attending installations where our product will be installed. As a crucial member of our team, you will assume accountability for the successful installation, deployment and adoption of our system. Physical stamina, proficiency with power tools, and the ability to meet quality and speed Key Performance Indicators (KPIs) are essential for this role. **This will be a 6 Month contract position, working a minimum of 20 hrs per week with a possibility to extend beyond the initial contract.** * ***Night shift work*** * ***Driver's License and Transportation: Valid driver's license and reliable transportation to travel to sites is required.*** **What You Will Be Doing** * Installation of camera hardware: mounting, connecting and configuring in accordance with company standards. * Respond promptly to installation requests and ensure customer SLAs are met. * Maintain accurate records of installation activities, including work performed, parts used, and time spent, using company\\-provided tools * Onboarding/scanning products into the system. * Operate power tools safely and efficiently to complete installations. * Adhere to safety protocols and guidelines to minimize risks during installation visits. * Work collaboratively with team members to ensure timely completion of installations. * Maintain a high level of attention to detail to ensure installation tasks meet quality standards. * Meet or exceed speed and quality Key Performance Indicators (KPIs) consistently. * Communicate effectively with supervisors and team members to provide updates on progress and address any issues or challenges encountered during store visits. * Adhere to company policies and procedures at all times. **Requirements:** * Proven Field Service Technician Experience: Previous experience in a field technician role, preferably in field service, installation, construction, or a related field. * Strong technical aptitude and troubleshooting skills, with the ability to diagnose and resolve hardware and software issues efficiently. * Proficiency in using power tools and other installation equipment required for this type of role. * Physical Stamina: Strong physical stamina to work on feet and perform physically demanding tasks for extended periods (up to 9 hours). * Detail\\-Oriented: Excellent attention to detail to ensure maintenance work meets quality standards and adheres to specifications. * Time Management: Ability to work well under pressure, meet tight deadlines, and ensure timely completion of assigned tasks. * Communication Skills: Effective communication skills to liaise with supervisors, team members, and customers, providing updates on progress and addressing any issues encountered during installation visits. * Driver's License and Transportation: Valid driver's license and reliable transportation to travel to sites as required. * Ability to work nights and weekends. **Why Focal Systems** Strong Values and Mission \\- We are a tightly\\-knit team with an ambitious mission and a strong set of core values, which define our approach to business and have successfully guided us since inception. Exceptional Team \\- We are a team of hard\\-working, fun\\-loving professionals from some of the most eminent universities, research labs, and tech companies of our time. We pride ourselves on recruiting exceptional individuals to help us redefine the state\\-of\\-the\\-art. Outstanding Partners \\- We work with 10\\+ of the largest retailers in the world and have a world\\-class roster of investors, advisors and partners to support \\& advise us in our endeavors. **What we offer** We care deeply about the health, happiness, and wellbeing of all of our employees. We offer: * Paid Time Off * Pension * Sick Leave",
+   "description": "Type: Fixed\\-term contract (6 months), 20 hours per week Work Location: On the road and at customer sites. Pay: £17 per hour Licence/Certification: Full valid UK driving licence (required) Focal Systems is the industry leader in retail AI solutions. Our mission is to automate and optimise brick\\-and\\-mortar retail using deep\\-learning computer vision. Focal has been deployed at scale with the top retailers in the world. We are looking for smart, creative, and passionate people who love to learn, enjoy thinking critically, share our values, and want to build a great and enduring company. We have built the next\\-generation operating system for brick \\& mortar retail. This OS leverages shelf\\-mounted cameras that constantly measure the state of the retailers' shelves and use that information to order quicker and smarter, planogram better, and schedule, direct, train, and manage their staff. We have proven this with major retailers around the world. Job Description We are currently expanding our operations throughout the UK and seeking a dedicated Field Service Technician to complete installations for our customers in your area. This role will primarily involve working overnight, attending installations where our product will be installed. As a crucial member of our team, you will assume accountability for the successful installation, deployment and adoption of our system. Physical stamina, proficiency with power tools, and the ability to meet quality and speed Key Performance Indicators (KPIs) are essential for this role. This will be a 6 Month contract position, working a minimum of 20 hrs per week with a possibility to extend beyond the initial contract. Night shift work Driver's License and Transportation: Valid driver's license and reliable transportation to travel to sites is required. What You Will Be Doing Installation of camera hardware: mounting, connecting and configuring in accordance with company standards. Respond promptly to installation requests and ensure customer SLAs are met. Maintain accurate records of installation activities, including work performed, parts used, and time spent, using company\\-provided tools Onboarding/scanning products into the system. Operate power tools safely and efficiently to complete installations. Adhere to safety protocols and guidelines to minimize risks during installation visits. Work collaboratively with team members to ensure timely completion of installations. Maintain a high level of attention to detail to ensure installation tasks meet quality standards. Meet or exceed speed and quality Key Performance Indicators (KPIs) consistently. Communicate effectively with supervisors and team members to provide updates on progress and address any issues or challenges encountered during store visits. Adhere to company policies and procedures at all times. Requirements: Proven Field Service Technician Experience: Previous experience in a field technician role, preferably in field service, installation, construction, or a related field. Strong technical aptitude and troubleshooting skills, with the ability to diagnose and resolve hardware and software issues efficiently. Proficiency in using power tools and other installation equipment required for this type of role. Physical Stamina: Strong physical stamina to work on feet and perform physically demanding tasks for extended periods (up to 9 hours). Detail\\-Oriented: Excellent attention to detail to ensure maintenance work meets quality standards and adheres to specifications. Time Management: Ability to work well under pressure, meet tight deadlines, and ensure timely completion of assigned tasks. Communication Skills: Effective communication skills to liaise with supervisors, team members, and customers, providing updates on progress and addressing any issues encountered during installation visits. Driver's License and Transportation: Valid driver's license and reliable transportation to travel to sites as required. Ability to work nights and weekends. Why Focal Systems Strong Values and Mission \\- We are a tightly\\-knit team with an ambitious mission and a strong set of core values, which define our approach to business and have successfully guided us since inception. Exceptional Team \\- We are a team of hard\\-working, fun\\-loving professionals from some of the most eminent universities, research labs, and tech companies of our time. We pride ourselves on recruiting exceptional individuals to help us redefine the state\\-of\\-the\\-art. Outstanding Partners \\- We work with 10\\+ of the largest retailers in the world and have a world\\-class roster of investors, advisors and partners to support \\& advise us in our endeavors. What we offer We care deeply about the health, happiness, and wellbeing of all of our employees. We offer: Paid Time Off Pension Sick Leave",
    "job_url": "https://uk.indeed.com/viewjob?jk=32150c83fb8edd23",
    "categories": [
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-08T21:42:09Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6391,7 +6391,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-09T12:13:10Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Company Description ----------------------- Title: Kitchen Porter Location: Sheffield Hourly Rate: £13.45 Part Time: 15 Hours Benefits: 28 Days holiday including bank holidays Plus your birthday off 3 volunteering days 3 days grandparent leave 24 week’s enhanced maternity leave Secondary carer…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6415,7 +6415,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-09T12:13:10Z",
-   "last_seen": "2026-09-11T12:05:46Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -6437,7 +6437,7 @@
     "Outdoor & Education"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "As we evolve into Social Wellness Clubs, we are creating spaces and experiences that support every aspect of our members' physical, mental, nutritional and social wellbeing. By bringing together expert guidance, genuine community, personalised experiences and innovative technology, we make wellness…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -6549,7 +6549,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-09T17:04:46Z",
-   "last_seen": "2026-09-12T11:31:55Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Description Contract: Permanent, part time – 15 hours per week Salary: £9,991 per annum, (£24,976 FTE) Location: Sheffield, S7 2PY Closing date: Tuesday 22nd September 2026 Interview date: Thursday 1st October 2026 We’re recruiting a Reception & Administration Assistant for our Rehoming & Fostering…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7159,7 +7159,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-10T12:07:15Z",
-   "last_seen": "2026-09-11T12:05:46Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -7250,7 +7250,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-10T16:55:59Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Company Description Join us at Greene King pubs, where we have always been the beacon for communities, wherever people want to come together. Our collection of community pubs are the heart and soul of the local area around them, helmed by a local hero and crewed by a team always ready with your…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7365,7 +7365,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-10T21:28:52Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "About Us Ben’s Fire & Feast is a busy and growing takeaway and delivery business serving bold, crowd-pleasing food. Our menu includes pizzas, feast boxes, kebabs, gyros, wraps, burgers and loaded sides. Everything we do is focused on fast, high-quality service for collection and delivery customers.…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7437,7 +7437,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-10T21:28:52Z",
-   "last_seen": "2026-09-12T21:29:18Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Job Description Job Title: Research Technician in Cell Culture, Imaging and Sample Processing Posting Start Date: 10/09/2026 Job Id: 3122 School/Department: Faculty of Health Work Arrangement: Full Time (On site) Contract Type: Fixed-term Salary per annum (£): £27,319 - £31,236 Closing Date:…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7461,7 +7461,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-10T21:28:52Z",
-   "last_seen": "2026-09-12T21:29:18Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "About us European Tyre Enterprise Limited is an international tyre and automotive service, maintenance and repair business group with annual sales revenues of more than £1 billion across five countries in Europe. We operate multiple retail brands including Kwik Fit with over 800 centres in the UK…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -7859,7 +7859,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-11T16:57:06Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -7999,7 +7999,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-11T21:36:23Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "No CV to hand? No problem! We've made our application process mobile friendly and removed the need for a CV. Our form takes 2 minutes to complete and tells us all we need about you! With your support as a Kitchen Assistant at EGO - Sheffield City Centre, everything will run smoothly! You’ll make…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8048,7 +8048,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-11T21:36:23Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Taylor Shaw – Food That Fuels School Days Good food today. Better habits tomorrow. At Taylor Shaw, we cook fresh, nutritious meals that support focus, energy and wellbeing in schools across the UK. It's simple: good food helps children thrive, and every plate you serve plays a part in that. Taylor…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8306,7 +8306,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-12T21:29:18Z",
-   "last_seen": "2026-09-12T21:29:18Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -8328,7 +8328,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-12T21:29:18Z",
-   "last_seen": "2026-09-12T21:29:18Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -8915,7 +8915,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-16T21:57:48Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "ATTENDANCE AND ADMIN OFFICER Start date: As soon as possible Hours: 32.5 hours a week, 39 weeks per year Monday – Friday 08:00am – 3:00pm Salary: Grade 3, payscale 5 - 6 £26,427 - £26,847 per annum Actual Salary: £19,966 - £20,284 per annum Cascade Multi Academy Trust is seeking to appoint an…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8940,7 +8940,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Company Description Join us at Greene King pubs, where we have always been the beacon for communities, wherever people want to come together. Our collection of community pubs are the heart and soul of the local area around them, helmed by a local hero and crewed by a team always ready with your…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -8964,7 +8964,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-14T13:46:00Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Job Description ------------------- Join Our Team as a Catering Assistant at Astrea Academy Sheffield! Are you passionate about creating delicious meals and providing excellent dining experiences? Astrea Academy Sheffield is looking for a dedicated and enthusiastic Catering Assistant to join our…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9461,7 +9461,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "No CV to hand? No problem! We've made our application process mobile friendly and removed the need for a CV. Our form takes 2 minutes to complete and tells us all we need about you! With your support as a Kitchen Assistant at All Bar One Sheffield, everything will run smoothly! You’ll make sure the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9485,7 +9485,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -9507,7 +9507,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -9529,7 +9529,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Salary £27,600 Contractual hours 40 Basis Full Time Region Sites - North Central Package 25 days annual leave (plus bank holidays) Day off on your birthday Discretionary bonus scheme Pension – matched up to 8% Life Assurance Season ticket loans Cycle to work scheme Gym discounts Discounts & Offers…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9547,13 +9547,13 @@
    "interval": null,
    "currency": "GBP",
    "date_posted": "2026-07-13",
-   "description": "Have you ever used the self\\-checkout in a Tesco or deposited coins at a NatWest/RBS branch? Played the slots at a Mekur Casino? Maybe you grabbed a drink from a vending machine or paid to park your car? If you’ve answered with a resounding “YES”, then you’ve done so with the aid of one of the 10 million devices installed by Crane Payment Innovations (CPI). We make the technology that powers your everyday life, enabling more than 4 billion transactions every week in more than 143 currencies worldwide. From cash and coins to cards and mobile, we keep the world of payments moving with smart validation devices and business management software. Headquartered in Malvern, PA, CPI is supported by: \\>2,000 global associates, 7 manufacturing sites, 12 corporate offices and an International field service organization. If you are interested in making a global impact, we are looking for a full\\-time **Field Service** **Technician I** to service the **Sheffield, Derbyshire and wider UK area.** **WHAT YOU’LL BE DOING** The Field Service Technician is responsible for servicing, fixing, upgrading and performing preventative maintenance on various types of equipment such as coin \\& currency equipment, ATM’s, software and specialized office products located at client sites in the UK and surrounding area. To guarantee ongoing success, you will work in coordination with branch sales and other service team members. **Responsibilities and Duties:** * Service, upgrade and perform preventative maintenance on company electromechanical equipment * Travel by vehicle, daily, to client sites (90%) with overnight travel as needed (10%) \\- Some long drive times are encountered depending on geographical territory covered * Work with branch employees to satisfy client needs * Address customer service requests within the specified contract response time * Extended Hours Coverage periods and ‘On\\-Call’ duty where applicable * Safeguard and maintain a balanced vehicle stock parts inventory * Upkeep and cleanliness of company issued vehicle including scheduled service intervals * Safeguarding of any company issued assets including tablet computer and mobile phone * All other duties as required **WHO WE ARE LOOKING FOR** **Qualifications**: * 5\\+ years of working in Technical/Field Service position or similar technical profession * Impeccable Integrity * Must be able to gain access to highly secured environments; Occupational licenses may be necessary to obtain depending on territory/accounts * Strong electromechanical aptitude * Excellent verbal and written communication skills, including a positive, customer\\-first attitude * Personable, approachable and able to work easily with others at all levels * Strong Attention to details \\- able to proof and prioritize your own work * Proficient in iOS, MS Office applications and Windows OS * Ability to set and track goals independently, initiate and follow through on assignments without coaching, and work proactively as a team player * Able to commit to and meet project deadlines **Physical Requirements:** * Available for periodic travel to our corporate office in Coventry for training classes * Able to lift, push or carry a minimum of 25KG’s such as large money counting machines and parts in and out of client sites * The job requires kneeling, bending, twisting, lifting and squatting to service equipment on the ground up to 60% of the time * Hand and wrist dexterity needed to turn screwdrivers and place parts and equipment * Phone or desk work about 10% of the time doing computer work, bench repair work, parts stocking, tracking service calls and setting up appointments * Ability to stand for long periods up to 75% of the time while servicing some equipment **Key Attributes for Success:** * High energy level, comfortable performing multifaceted projects in conjunction with day\\-to\\-day activities * Strong influencing, analytical, and problem\\-solving skills, with the ability to multi\\-task in a fast\\-paced environment * Ability to establish credibility, make decisive decisions and support the organization's preferences and priorities * Results and people oriented with sound judgment—ability to balance other business considerations * Team player – able to work in a matrix organization * Excellent communication skills verbally and in writing **WE ARE OFFERING** * Competitive salaries * Technician Incentive Compensation Plan * Company provided vehicle, uniform, tools and training * Paid time off * Sick time off * Private medical cover * Private pension with Company contribution * Community involvement Sound interesting? Come see why we are OneCPI and Apply Today! **CPI is a part of Crane NXT** Crane NXT is a premier industrial technology company that provides proprietary and trusted technology solutions to secure, detect, and authenticate what matters most to its customers. The company is a pioneer in advanced, proprietary micro\\-optics technology for securing physical products, and its sophisticated electronic equipment and associated software leverages proprietary core capabilities with detection and sensing technologies. Crane NXT has approximately 4,000 employees with global operations and manufacturing facilities in the United States, the United Kingdom, Mexico, Japan, Switzerland, Germany, Sweden, and Malta. For more information, visit www.cranenxt.com. *Crane Payment Innovations is committed to hiring a diverse workforce. Applicants will receive consideration without regard to race, color, religion, sex, gender identity, sexual orientation, age, disability, military status, or national origin or any other characteristic protected under federal, state, or applicable local law.* \\#CPI \\#LI\\-JL \\#LI\\-REMOTE Pay: £30,000\\.00\\-£32,000\\.00 per year Work Location: On the road",
+   "description": "Have you ever used the self\\-checkout in a Tesco or deposited coins at a NatWest/RBS branch? Played the slots at a Mekur Casino? Maybe you grabbed a drink from a vending machine or paid to park your car? If you’ve answered with a resounding “YES”, then you’ve done so with the aid of one of the 10 million devices installed by Crane Payment Innovations (CPI). We make the technology that powers your everyday life, enabling more than 4 billion transactions every week in more than 143 currencies worldwide. From cash and coins to cards and mobile, we keep the world of payments moving with smart validation devices and business management software. Headquartered in Malvern, PA, CPI is supported by: \\>2,000 global associates, 7 manufacturing sites, 12 corporate offices and an International field service organization. If you are interested in making a global impact, we are looking for a full\\-time Field Service Technician I to service the Sheffield, Derbyshire and wider UK area. WHAT YOU’LL BE DOING The Field Service Technician is responsible for servicing, fixing, upgrading and performing preventative maintenance on various types of equipment such as coin \\& currency equipment, ATM’s, software and specialized office products located at client sites in the UK and surrounding area. To guarantee ongoing success, you will work in coordination with branch sales and other service team members. Responsibilities and Duties: Service, upgrade and perform preventative maintenance on company electromechanical equipment Travel by vehicle, daily, to client sites (90%) with overnight travel as needed (10%) \\- Some long drive times are encountered depending on geographical territory covered Work with branch employees to satisfy client needs Address customer service requests within the specified contract response time Extended Hours Coverage periods and ‘On\\-Call’ duty where applicable Safeguard and maintain a balanced vehicle stock parts inventory Upkeep and cleanliness of company issued vehicle including scheduled service intervals Safeguarding of any company issued assets including tablet computer and mobile phone All other duties as required WHO WE ARE LOOKING FOR Qualifications: 5\\+ years of working in Technical/Field Service position or similar technical profession Impeccable Integrity Must be able to gain access to highly secured environments; Occupational licenses may be necessary to obtain depending on territory/accounts Strong electromechanical aptitude Excellent verbal and written communication skills, including a positive, customer\\-first attitude Personable, approachable and able to work easily with others at all levels Strong Attention to details \\- able to proof and prioritize your own work Proficient in iOS, MS Office applications and Windows OS Ability to set and track goals independently, initiate and follow through on assignments without coaching, and work proactively as a team player Able to commit to and meet project deadlines Physical Requirements: Available for periodic travel to our corporate office in Coventry for training classes Able to lift, push or carry a minimum of 25KG’s such as large money counting machines and parts in and out of client sites The job requires kneeling, bending, twisting, lifting and squatting to service equipment on the ground up to 60% of the time Hand and wrist dexterity needed to turn screwdrivers and place parts and equipment Phone or desk work about 10% of the time doing computer work, bench repair work, parts stocking, tracking service calls and setting up appointments Ability to stand for long periods up to 75% of the time while servicing some equipment Key Attributes for Success: High energy level, comfortable performing multifaceted projects in conjunction with day\\-to\\-day activities Strong influencing, analytical, and problem\\-solving skills, with the ability to multi\\-task in a fast\\-paced environment Ability to establish credibility, make decisive decisions and support the organization's preferences and priorities Results and people oriented with sound judgment—ability to balance other business considerations Team player – able to work in a matrix organization Excellent communication skills verbally and in writing WE ARE OFFERING Competitive salaries Technician Incentive Compensation Plan Company provided vehicle, uniform, tools and training Paid time off Sick time off Private medical cover Private pension with Company contribution Community involvement Sound interesting? Come see why we are OneCPI and Apply Today! CPI is a part of Crane NXT Crane NXT is a premier industrial technology company that provides proprietary and trusted technology solutions to secure, detect, and authenticate what matters most to its customers. The company is a pioneer in advanced, proprietary micro\\-optics technology for securing physical products, and its sophisticated electronic equipment and associated software leverages proprietary core capabilities with detection and sensing technologies. Crane NXT has approximately 4,000 employees with global operations and manufacturing facilities in the United States, the United Kingdom, Mexico, Japan, Switzerland, Germany, Sweden, and Malta. For more information, visit www.cranenxt.com. Crane Payment Innovations is committed to hiring a diverse workforce. Applicants will receive consideration without regard to race, color, religion, sex, gender identity, sexual orientation, age, disability, military status, or national origin or any other characteristic protected under federal, state, or applicable local law. \\#CPI \\#LI\\-JL \\#LI\\-REMOTE Pay: £30,000\\.00\\-£32,000\\.00 per year Work Location: On the road",
    "job_url": "https://uk.indeed.com/viewjob?jk=e660924f560b9a7c",
    "categories": [
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Have you ever used the self-checkout in a Tesco or deposited coins at a NatWest/RBS branch? Played the slots at a Mekur Casino? Maybe you grabbed a drink from a vending machine or paid to park your car? If you’ve answered with a resounding “YES”, then you’ve done so with the aid of one of the 10…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -9577,7 +9577,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-14T20:12:28Z",
-   "last_seen": "2026-09-14T20:12:28Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Have you ever used the self-checkout in a Tesco or deposited coins at a NatWest/RBS branch? Played the slots at a Mekur Casino? Maybe you grabbed a drink from a vending machine or paid to park your car? If you’ve answered with a resounding “YES”, then you’ve done so with the aid of one of the 10…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -10002,7 +10002,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-15T12:32:20Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Taylor Shaw – Food That Fuels School Days Good food today. Better habits tomorrow. At Bradfield Secondary School, part of Taylor Shaw, we cook fresh, nutritious meals that support focus, energy and wellbeing in schools across the UK. It's simple: good food helps children thrive, and every plate you…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -10142,7 +10142,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-15T12:32:20Z",
-   "last_seen": "2026-09-17T21:58:53Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Job Summary We are seeking a Skilled Maintenance Technioan is responsible for ensuring the safe, efficient, and attractive operation of the club's facilities and grounds. This role involves carrying out routine maintenance, repairs, preventative maintenance programs, and supporting the overall…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -10473,7 +10473,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-15T17:33:23Z",
-   "last_seen": "2026-09-18T12:08:14Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Job Overview We are seeking a highly organised and detail-oriented Workshop Administrator to join our team during night shifts. The successful candidate will be responsible for managing workshop operations, coordinating logistics, and ensuring smooth communication between departments. This role…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -10821,7 +10821,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-16T12:29:46Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "The Kitchen Assistant/Cleaner’s responsibilities include but are not limited to the following: · Under the supervision of the Head Chef, assist in identifying items to be ordered from specified suppliers to ensure enough levels of supplies for catering operation, using the service’s procedures ·…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11030,7 +11030,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-16T17:33:28Z",
-   "last_seen": "2026-09-18T21:30:22Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Job Description Job Title: Mechanical Technician Apprentice Posting Start Date: 16/09/2026 Job Id: 3167 School/Department: Estates & Facilities Management Work Arrangement: Full Time (On site) Contract Type: Fixed-term Salary per annum (£): National Minimum Wage in line with age Closing Date:…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11149,7 +11149,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-16T21:57:48Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Taylor Shaw – Food That Fuels School Days Good food today. Better habits tomorrow. At Sheffield Springs Academy, part of Taylor Shaw, we cook fresh, nutritious meals that support focus, energy and wellbeing in schools across the UK. It's simple: good food helps children thrive, and every plate you…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11222,7 +11222,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-16T21:57:48Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Individual Restaurants has an exciting opportunity for a Kitchen Assistant to join our team. As a Kitchen Assistant, you will play a vital role in supporting the kitchen operations and maintaining a clean and organised workspace. Why work with us The Sunday Times – Best place to work 2024 & 2025…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11246,7 +11246,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-16T21:57:48Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "fit": "stretch",
    "fit_reason": "licence/own-vehicle requirement",
    "fit_source": "rule"
@@ -11268,7 +11268,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-16T21:57:48Z",
-   "last_seen": "2026-09-19T16:18:46Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Are you someone who enjoys working hands-on with students and staff, helping to create engaging and safe practical learning experiences? Lift Firth Park is looking for a passionate Art and Design Technology Technician to join our team. We're committed to making sure every child receives an…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11434,7 +11434,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T12:29:28Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Job Type: Full-time Hourly rate: £12.71 Weekend Work is required Saturdays and Sundays. Join The Team! As a Receptionist you will be responsible for providing an exceptional, professional customer experience to our customers whilst they are at our site. This begins with greeting the customer and…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11458,7 +11458,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T12:29:28Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "fit": "stretch",
    "fit_reason": "3+ years experience required",
    "fit_source": "rule"
@@ -11528,7 +11528,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-17T12:29:28Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -11550,7 +11550,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-17T12:29:28Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "About the role… We are excited to be recruiting for a Motor Vehicle Technician. This is an unrivalled opportunity to join one of the UK’s fastest growing motor groups. As a Motor Vehicle Technician, you will be responsible for the service, repair and maintenance work for our customers’ vehicles,…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11574,7 +11574,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "warehouse operative required for a busy steel stock warehouse duties include order picking, loading and unloading vehicles with overhead crane, must be able to read a tape measure and understand written instruction, we operate a two shift system days and afternoons alternate weeks immediate start…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11598,7 +11598,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Goods In Operative - Back Shift Crescent Pharma – Sheffield National Distribution Centre £14.50 per hour Permanent Full-time 40 hours per week Monday to Friday Basic annual pay: £30,160 Shift: Monday–Thursday: 13:00–22:00 Friday: 11:00–20:00 40 paid working hours per week Each shift includes: Two…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11622,7 +11622,7 @@
     "Warehouse"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Goods In Operative - Early Shift Crescent Pharma – Sheffield National Distribution Centre £14.50 per hour Permanent Full-time 40 hours per week Monday to Friday Basic annual pay: £30,160 Shift: 06:00–15:00, Monday to Friday 40 paid working hours per week Each shift includes: Two 15-minute breaks…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11646,7 +11646,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -11668,7 +11668,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Positions available: 1 Brief overview of the role: S11 8HN We are looking for a friendly, reliable and motivated Pharmacy Assistant Apprentice to join a busy community pharmacy team. This is a great opportunity to earn while you learn, gaining hands‑on experience in a healthcare environment while…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11740,7 +11740,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Job Overview We are seeking a dedicated and professional Medical Receptionists to join our Reception team. The ideal candidate will be the first point of contact for patients, providing exceptional customer service while managing administrative tasks efficiently. This role is crucial in ensuring…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11764,7 +11764,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "We are looking for passionate bar staff to join the team at The Summer House, located next to Dore train station, on the outskirts of Sheffield. All applicants must be 18 years or above. We currently have 1 x Full Time and 1 x Part Time weekend role available. All our front of house staff are the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11788,7 +11788,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Head Barista opportunity at 200 Degrees Coffee -------------------------------------------------- At 200 Degrees, we pride ourselves on serving great coffee. We’re now looking for our next Head Barista to join the management team and keep our coffee standards high. As a Head Barista you will…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11812,7 +11812,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Job Overview We are seeking enthusiastic and professional Bar Staff to join our vibrant team. The ideal candidate will be responsible for providing excellent customer service in a lively bar environment, ensuring guests enjoy a memorable experience. This role offers an opportunity to work in a…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11860,7 +11860,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-17T17:32:36Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Are you a hands-on engineer who takes pride in fixing problems, keeping machinery running, and delivering high-quality work? We’re looking for a motivated and reliable Workshop Fitter / Mechanical Maintenance Engineer to join our growing workshop team. This is a great opportunity for someone with…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11884,7 +11884,7 @@
     "Driving & Logistics"
    ],
    "first_seen": "2026-09-17T21:58:53Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -11906,7 +11906,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T21:58:53Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Summary ----------- £13.45 - £14.95 per hour 35 hour contract shifts 30-35 days’ holiday (pro rata) 10% in-store discount Pension scheme Everyone who works at Lidl brings something unique to the table - but we also have a whole lot in common. We’re collaborative, determined and we all pitch in to…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11930,7 +11930,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T21:58:53Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Retail Optical Assistant – Vision Express Where customer service meets premium eyewear and med-tech innovation. Are you looking for a retail role in eye care where you can grow, learn, and make a difference? Join Vision Express, part of the global EssilorLuxottica group, and work with leading…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11954,7 +11954,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-17T21:58:53Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Retail Optical Assistant – Vision Express Where customer service meets premium eyewear and med-tech innovation. Are you looking for a retail role in eye care where you can grow, learn, and make a difference? Join Vision Express, part of the global EssilorLuxottica group, and work with leading…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -11978,7 +11978,7 @@
     "Engineering & Maintenance"
    ],
    "first_seen": "2026-09-17T21:58:53Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "fit": "stretch",
    "fit_reason": "driving licence required",
    "fit_source": "rule"
@@ -12000,7 +12000,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-18T12:08:14Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Job description An exciting opportunity has arisen to join the Housing Fire Safety Compliance Team as a Facilities Support Assistant. This role will allow you to have a lasting impact on the Health, Safety and Wellbeing or our residents and make a significant impact in keeping people safe in their…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12048,7 +12048,7 @@
     "Retail & Customer Service"
    ],
    "first_seen": "2026-09-18T12:08:14Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Location: Primark Sheffield the Moon Pay rate: £13:00 per hour Employment type: Fixed Term (Ends on 2027-01-02) Job type: Part time Contracted hours: 8 hours per week Shift pattern: Weekend only. Eligibility. Primark can only employ individuals who are above the compulsory school leaving age in the…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12072,7 +12072,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-18T12:08:14Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Description The Role Outline: Your Shift at a Glance As a Barista for our brand new Sheffield location, your journey starts in a completely unique way. In December 2026, you will be part of the founding team launching a fully operational Starbucks pop-up container right on our live hotel…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12096,7 +12096,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-19T21:21:06Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Taylor Shaw – Food That Fuels School Days Good food today. Better habits tomorrow. At Birley Primary School, part of Taylor Shaw, we cook fresh, nutritious meals that support focus, energy and wellbeing in schools across the UK. It's simple: good food helps children thrive, and every plate you…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12120,7 +12120,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-19T21:21:06Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Hello / Hola everyone, Knowledge of Mexican/Latin cuisine preferred but not necessary, passion for high quality food and customer service a must! Working in a close-knit team. Working on events. We are growing rapidly and looking for the best candidates. We are looking to recruit for an immediate…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12144,7 +12144,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-19T21:21:06Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Taylor Shaw – Food That Fuels School Days Good food today. Better habits tomorrow. At Bradfield School, part of Taylor Shaw, we cook fresh, nutritious meals that support focus, energy and wellbeing in schools across the UK. It's simple: good food helps children thrive, and every plate you serve…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12168,7 +12168,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-19T21:21:06Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "As a Catering Assistant, you'll be part of a dynamic, fast-paced team, contributing to a positive and friendly work environment. The role offers numerous opportunities for growth within a company that values individuality and invests in its employees. Your hard work will be recognised and rewarded,…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12216,7 +12216,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-19T21:21:06Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Company Description Join us at Greene King pubs, where we have always been the beacon for communities, wherever people want to come together. Our collection of community pubs are the heart and soul of the local area around them, helmed by a local hero and crewed by a team always ready with your…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12240,7 +12240,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-19T21:21:06Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Company Description Join us at Farmhouse Inns, where we’re big on quality as we are with our portions, which is why our carveries slow-roast our meats for 14-hours, freshly prepare our veg, create fluffy, handmade Yorkies, ruffle-up our perfectly crispy roast potatoes, and bake and hand-decorate…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12264,7 +12264,7 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-19T21:21:06Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Company Description Join us at Hungry Horse, where the drinks are always flowing and the plates are piled high, our pubs bring families and friends together. From footy days to family time, a swift drink after work, to a quarterly pool tournament – there’s always something going on. Beyond our…",
    "summary_source": "fallback",
    "fit": "maybe",
@@ -12288,16 +12288,262 @@
     "Hospitality"
    ],
    "first_seen": "2026-09-19T21:21:06Z",
-   "last_seen": "2026-09-19T21:21:06Z",
+   "last_seen": "2026-09-20T12:07:03Z",
    "summary": "Company Description Join us at Pub & Grill, where we combine the warm welcome of a cosy pub with the style and quality standards of a restaurant. Though our grill may be the star of the show, our kitchens serve up a great range of comforting classics and healthy options too. Whether stopping for a…",
    "summary_source": "fallback",
    "fit": "maybe",
    "fit_reason": "no fit data",
    "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=b30c082ac06cd968": {
+   "title": "BMW Workshop Manager",
+   "company": "Sytner",
+   "location": "Sheffield, ENG, GB",
+   "job_type": null,
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-09-09",
+   "description": "**Workshop Manager** We are seeking an experienced and highly motivated Workshop Manager to lead the daily workshop operation of a busy aftersales department. This is an excellent opportunity for a proven automotive professional who thrives in a fast\\-paced environment and is passionate about developing technicians, improving productivity, and delivering outstanding customer satisfaction. Working closely with the Service Manager and workshop controller, you will be responsible for ensuring the workshop operates efficiently, safely, and profitably while maintaining the highest standards of quality and customer care. **Key Responsibilities** **Workshop Performance \\& Productivity** * Support planning and control workshop loading to maximise technician efficiency and utilisation. * Monitor productivity, efficiency and labour sales performance against departmental targets. * Ensure work is allocated effectively based on technician skill levels and development needs. * Drive continuous improvement initiatives to enhance workshop performance and throughput. **Technician Development** * Coach, mentor and support technicians to achieve their full potential. * Identify training needs and create development plans to improve technical capability. * Conduct regular performance reviews and provide constructive feedback. * Foster a positive, high\\-performance team culture focused on quality and accountability. **Customer Satisfaction** * Ensure all repair and maintenance work is completed right first time. * Support service advisors in resolving customer concerns and technical queries. * Monitor repair quality and turnaround times to deliver an exceptional customer experience. * Work proactively to achieve and exceed customer satisfaction targets. **Health, Safety \\& Compliance** * Maintain a safe and compliant workshop environment at all times. * Ensure all health and safety policies, procedures and manufacturer standards are followed. * Conduct regular workshop inspections and risk assessments. * Promote a culture where safety is everyone's responsibility. **Commercial Management** * Support the achievement of departmental profitability targets. * Minimise rework, warranty costs and lost productivity. * Monitor workshop performance metrics and implement actions to address variances. * Work collaboratively with the wider aftersales team to maximise revenue opportunities. **What We're Looking For** * Previous experience as a Workshop Controller or Workshop Manager. * Strong technical automotive knowledge gained within a franchised retailer or high\\-volume workshop environment. * Proven track record of improving technician productivity and workshop performance. * Experience coaching and developing teams. * Excellent organisational and leadership skills. * Strong customer focus with a commitment to delivering exceptional service. * Good understanding of workshop health and safety requirements. * Ability to work under pressure while maintaining high standards of quality and efficiency. **What We Offer** * Competitive salary and performance\\-related bonus. * Manufacturer and leadership training opportunities. * Career progression within a growing automotive business. * Company pension scheme. * Employee benefits package. * A supportive and professional working environment. **Join Our Team** If you're an experienced automotive professional with a passion for people development, operational excellence and delivering exceptional customer experiences, we'd love to hear from you. **Why Sytner?** Sytner Group are delighted to provide an industry\\-leading benefits package. We are passionate about continuous improvement and building an environment where everyone feels valued, appreciated and able to reach their full potential. * Enhanced Holiday Entitlement – 33 days inc. bank holidays * Industry\\-leading Maternity, Paternity and Adoption Pay * Career Development * Recognition of Long Service every 5 years * Discounted Car Schemes * High Street Discounts * Discounted Gym memberships * Cycle to work scheme * One day a year paid voluntary / community work At Sytner, our values and the way we behave are important to us. We are committed to creating an equitable working environment where we value and respect every individual's unique contribution, supporting our colleagues to thrive and achieve their full potential. As part of our commitment to Diversity and Inclusion, you have the right to ask for changes / adjustments to job interviews and the recruitment process. For more information around reasonable adjustments and the recruitment process please click here. Unsure? Read on… We represent over 23 of the world's most prestige vehicle brands, across our 140 UK dealerships. We pride ourselves on ‘Developing Talent and ‘Building Careers’ and our colleagues recently scored Sytner Group an outstanding 89% on our colleague engagement survey.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=b30c082ac06cd968",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-20T12:07:03Z",
+   "last_seen": "2026-09-20T12:07:03Z",
+   "fit": "stretch",
+   "fit_reason": "3+ years experience required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=1ff68345b584b8d8": {
+   "title": "Maintenance Technician",
+   "company": "iQ Student Accommodation",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-26",
+   "description": "Salary £27,500 Contractual hours 40 Basis Full Time Region Sites \\- North Central Package 25 days annual leave (plus bank holidays) Day off on your birthday Discretionary bonus scheme Pension – matched up to 8% Life Assurance Season ticket loans Cycle to work scheme Gym discounts Discounts \\& Offers Job category/type Operations Date posted 26/08/2026 Job reference R00708 **Maintenance Technician** ***Doing the right thing, even when nobody's watching? It's an iQ thing.*** iQ is one of the UK's biggest providers of student accommodation, committed to giving our 37,000 students in 86 sites across 29 UK cities their **best year yet**. Our site\\-based Maintenance teams are bursting with a can\\-do attitude and are problem solvers who just love to make people's day. **Here's** **a bit about the role . . .** Our Maintenance Technicians at iQ make sure the students who stay with us always feel at home, this means carrying out minor repairs on our sites and interacting with our students to make a difference to their day to day lives. As a Maintenance Technician, you’ll make sure our students always feel at home. No two days are the same — you might be: * Carrying out minor repairs across our sites * Tackling reactive maintenance such as plumbing, joinery or painting and decorating * Completing compliance checks and keeping up to date with policies and procedures * Interacting with students and helping make their day a little better And through it all, you’ll be part of the iQ family \\- a team that always has your back. **What makes a great iQer?** First and foremost, we're looking for a positive, team player who thrives in a get\\-stuff\\-done kind of environment. You won't mind rolling your sleeves up, you will have a drive to get the job done to a high standard and great communications skills. You'll have some experience either in maintenance or as a general builder/labourer. **Working hours** Our residents come first, so we work around their needs. Your shift pattern will be confirmed at least six weeks in advance and may vary across a six‑week cycle. You’ll work within our operating hours of 8am–8pm, Monday to Friday, with occasional weekend work agreed in advance for busy periods or open days. **What you'll get** In exchange, you'll receive great benefits and upskilling opportunities, and you get to work as part of a fun, supportive team in a business that's definitely going places. Working at iQ is so much more than a job, it's the chance to carve out your future and build a career in a truly diverse and fun environment. Want to know what it’s really like to work at iQ? Check us out on Glassdoor and hear directly from our people. **Ready to feel like you've got the best job ever? Apply today!**",
+   "job_url": "https://uk.indeed.com/viewjob?jk=1ff68345b584b8d8",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-20T12:07:03Z",
+   "last_seen": "2026-09-20T12:07:03Z",
+   "summary": "Salary £27,500 Contractual hours 40 Basis Full Time Region Sites - North Central Package 25 days annual leave (plus bank holidays) Day off on your birthday Discretionary bonus scheme Pension – matched up to 8% Life Assurance Season ticket loans Cycle to work scheme Gym discounts Discounts & Offers…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=c5c8113133dbffd8": {
+   "title": "LCV Technician",
+   "company": "Vertu Motors",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-21",
+   "description": "**LCV Technician – Toyota Sheffield** **Salary: Up to £46,790 DOE \\+ Overperformance Bonus** **Hours: 41 Hours Per Week** **£2,000 Sign\\-On Bonus (Month 1\\) \\+ £2,000 Retention Bonus (Month 13\\)** **Join Our Toyota Team as an LCV Technician** Are you an experienced Vehicle Technician with a passion for Light Commercial Vehicles? We're looking for a skilled **LCV Technician** to join our busy Toyota workshop, with a strong focus on **Toyota Proace** repairs, maintenance, diagnostics and servicing. This is an excellent opportunity to work within a professional manufacturer\\-backed environment where commercial vehicle uptime is critical. You'll be part of a team committed to delivering exceptional standards while working efficiently to meet demanding customer and fleet deadlines. **What You'll Be Doing** * Servicing, maintaining and repairing Toyota Proace vans as well as a range of manufacturers including Stellantis and Volkswagen brands. * Diagnosing faults using manufacturer diagnostic equipment. * Carrying out inspections, repairs and maintenance to manufacturer standards. * Working efficiently to achieve workshop productivity targets and strict customer timescales. * Ensuring all work is completed safely, accurately and right first time. * Collaborating with Service Advisors and Workshop Controllers to deliver an outstanding customer experience. **What We're Looking For** * Qualified Vehicle Technician (Level 3 or equivalent preferred). * Previous experience working on LCVs or commercial vehicles. * Strong diagnostic and fault\\-finding skills. * Ability to work effectively under pressure and meet strict deadlines. * A quality\\-focused approach with attention to detail. * Full UK Driving Licence. **What's In It For You?** ✅ Salary up to **£46,790**, depending on experience ✅ **£2,000 Sign\\-On Bonus** paid in your first month ✅ **£2,000 Retention Bonus** paid after 13 months' service ✅ 41\\-hour working week ✅ Manufacturer training and development opportunities ✅ Modern workshop with the latest tooling and technology ✅ Long\\-term career progression with one of the world's most respected automotive brands ✅ Company benefits package including pension, holidays and colleague discounts **Ready to Take the Next Step?** If you're a skilled technician who thrives in a fast\\-paced environment, enjoys working on commercial vehicles and takes pride in delivering quality work to tight deadlines, we'd love to hear from you. **Apply today and drive your career forward with Toyota.** **\\#LI\\-MD1**",
+   "job_url": "https://uk.indeed.com/viewjob?jk=c5c8113133dbffd8",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-20T12:07:03Z",
+   "last_seen": "2026-09-20T12:07:03Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=3fd2a9bc936cf269": {
+   "title": "Technician",
+   "company": "Pentagon Motor Group",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-19",
+   "description": "Job Introduction **Vehicle Technician ….Sheffield** On Target Earnings: £42,500 (depending on experience) **Full\\-Time \\- Permanent – Vauxhall / Sheffield Pentagon Motor Group** Are you an experienced and qualified Vehicle Technician, who can carry out general servicing and maintenance on vehicles with basic diagnostic skills who is looking to join a supportive team, progress your career and work with an established brand? At Pentagon Motor Group, we’re on the lookout for experienced Vehicle Technicians like you to join our expanding aftersales team. Whether you're already working with at a franchised dealership or an independent garage, if you’ve got the drive to deliver outstanding service and top\\-quality workmanship, we’d love to hear from you. **What You’ll Be Doing:** * Carrying out servicing, repairs and diagnosing faults efficiently and accurately to manufacturer standards * Carrying out visual health checks * Ensures vehicles are safe, roadworthy, and meet customer expectations, supporting the Pentagon Group's reputation for excellence. **What We’re Looking For:** * Qualified to level 3 NVQ, City \\& Guilds or equivalent * MOT License would be preferable but not essential * At least 3 years of practical experience working in a workshop environment * Takes pride in their work and enjoys being part of a busy team * Full UK driving license (max 6 points) **What’s In It for You?** We believe our people are our greatest asset, and we’ll make sure you feel valued every step of the way. Here’s what you’ll get when you join Pentagon: * Salary from £32,500 to £36,500 depending on experience * Superb weekly time saved and team bonus scheme – giving you an opportunity to earn an OTE (on target earnings) of £38,5000 to £42,500 * Manufacturer training path – we’ll invest in your ongoing development * Clear career progression opportunities * 30 days holiday (including bank holidays), increasing with length of service * Discounted vehicle and aftersales offers for you and your family * Team member referral bonus * Life assurance policy * Employee assistance program * Company pension scheme * Regular employee recognition and reward schemes * A great team environment, where you’ll be supported from day one Working hours – Monday – Friday 08\\.00 – 17\\.00 – 42\\.5 hours **Why Join Pentagon Motor Group?** With a network of dealerships representing leading automotive brands across the UK, Pentagon is a company where your career can grow. We’re committed to investing in your development and providing a workplace where your talent and ambition can thrive. Our values are chosen and driven by our colleagues, incorporating, **trust,** **respect**, **integrity** and **communication**, to create and maintain a positive, collaborative culture. Our vision is that we believe that by embracing the perspectives and talents of every individual, we can drive meaningful change and create a more inclusive automotive industry for generations to come. For more information on why becoming a member of the Pentagon Motor Group team is an amazing career choice head over to our website! https://www.pentagon\\-group.co.uk/recruitment **Ready to take the next step in your technician career?** **Click Apply Now** and we’ll be in touch. We’re excited to meet motivated Vehicle Technicians who want to be part of something great. PMGVT",
+   "job_url": "https://uk.indeed.com/viewjob?jk=3fd2a9bc936cf269",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-20T12:07:03Z",
+   "last_seen": "2026-09-20T12:07:03Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=61818c5d195ac9e9": {
+   "title": "Master Vehicle Technician",
+   "company": "JCT600",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-17",
+   "description": "**Master Technician – Audi Sheffield** As a Master Technician, you'll be working on delivering high quality servicing, diagnostics, and repair work to exacting standards. You’ll play a key role in making sure every vehicle leaves the workshop performing at its best. **Your day\\-to\\-day will include:** * Carry out accurate repairs, servicing, and diagnostics on motor vehicles to manufacturer standards, completing all required documentation. * Ensure all work is delivered to the highest quality, within agreed timescales, and in line with brand and industry guidelines. * Provide clear diagnostic reports and communicate effectively with the Workshop Manager on required repairs. * Assess vehicle condition, document additional work as needed, and liaise with other departments to ensure efficient servicing and repairs. **What we’re looking for in a Master Technician** We’re looking for someone who is passionate and committed to delivering exceptional standards. You’ll ideally have: * Level 3 IMI in Light Vehicle Maintenance * Proven experience as a Master Technician, Diagnostic Technician, or an experienced Vehicle Technician with strong diagnostic capability * Full UK driving licence (free from excessive penalties) * Strong diagnostic and problem\\-solving abilities * Excellent communication to explain technical issues clearly * Customer\\-first attitude **What we offer:** At JCT600, we believe in rewarding and supporting our colleagues. Every Master Technician benefits from a competitive package and access to a wide range of colleague benefits including: * **Annual leave**: 34 days including bank holidays, increasing to 36 days (5 years) and 38 days (10 years) * **Family support**: Enhanced paid maternity and paternity leave * **Wellbeing \\& protection:**Life assurance, pension, enhanced sickness cover * **Training \\& development**: From foundation to advanced levels through brand partner training and best\\-in\\-class leadership development. * **Colleague car purchase scheme \\& servicing discounts** * **Cycle\\-to\\-work and discounted gym schemes** * **Referral scheme up to £1,000** Read more about our Employee Benefits \\- JCT600 **Why JCT600?** * We’ve spent over 80 years building a business that values its people and their careers * We pride ourselves on being rated highly by colleagues for engagement and inclusivity * Our commitment to your growth is reflected in our “Life at JCT600” philosophy and seven colleague commitments **How to Apply** At JCT600, you’re ***always a name, never a number***. Ready to drive your career forward? Click “Apply Now” and upload your CV. Looking for future roles? Submit your CV directly here and join our talent pool. **Inclusivity \\& Diversity** *JCT600 Ltd is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.* *As part of our commitment to being an inclusive business, we’re proud to be a* *Disability Confident employer**.* *We try our hardest to make JCT600 feel like a home from home for all of our colleagues. To us, that’s a place where we can all feel supported to be our true selves every day and where our workforce represents the wonderful communities we serve.*",
+   "job_url": "https://uk.indeed.com/viewjob?jk=61818c5d195ac9e9",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-20T12:07:03Z",
+   "last_seen": "2026-09-20T12:07:03Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=9bba01df91e0060f": {
+   "title": "Motor Vehicle Technician - Volvo",
+   "company": "Stoneacre Motor Group",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-14",
+   "description": "**About the role…** We are excited to be recruiting for a Motor Vehicle Technician. This is an unrivalled opportunity to join one of the UK’s fastest growing motor groups. As a Motor Vehicle Technician, you will be responsible for the service, repair and maintenance work for our customers’ vehicles, readying them for the road ahead. Representing a variety of manufacturers and carrying out work on a diverse range of vehicles and models, you will take great pride in your work, taking complete ownership of your customers and completing your jobs to the highest standard. We genuinely believe that Stoneacre Motor Group is leading the way in EV training, and we are excited to share our knowledge and expertise with you. You will be working in an industry\\-leading workshop boasting state of the art facilities. Through both in house and manufacturer training, you will be given full support and development enabling you to reach your full potential, and elevate your career in EV Technology, all whilst contributing towards making Stoneacre the **Number One** Motor Group. **Do we have your interest…?** Here at Stoneacre we are committed to creating a diverse and inclusive workplace. It is our ambition to make Stoneacre the best place to work because we recognise that it is our people who make Stoneacre a success. So, what is in it for you? * A flexible approach to working patterns \\- Choose your own hours! We are happy to discuss all flexible working options to help you achieve the work life balance that suits you * Industry leading competitive salary * Industry leading top level bonuses * Dedicated manufacturer training * Fast track to EV Level 4 * Minimum 30 days holiday increasing to 34 days (pro rata basis) * Industry leading career progression opportunities * Contributory workplace pension scheme * Uniform provided * Long service reward * Customer introduced reward * Employee discounts * Access to discounts on retailers, restaurants, holidays and much more * Wellness programme * Free parking **An average day as a Motor Vehicle Technician…** * Utilising your expanding knowledge of our manufacturer’s vehicles and features you will be responsible for the servicing, repair and diagnostics of our customers vehicles to an exemplary standard within our state of the art workshop * Working as part of a capable and motivated team, you will complete all service paperwork to manufacturer and brand standards * You will accurately and skilfully complete and provide diagnostic reports on our customers vehicles * In accordance with manufacture, warranty and dealer requirements, you will complete relevant service documentation, including job sheets, PDIs and service reports. * Upon the completion of jobs, through the use of diagnostic equipment and road testing, you will check the level and quality of work that has been carried out. **About you…** * We consider candidates from all backgrounds who have experience working in the Automotive sector within a technical role * As a minimum, you will be qualified to Level 2 NVQ, or equivalent, in Vehicle Maintenance and Repair * You will have fantastic communication skills and thrive working in a challenging yet rewarding environment * You will have the ability to work well under pressure \\- It will be your technical ability that will help you overcome any challenge that is thrown your way. * An Electric and Hybrid vehicle qualification or certification would be advantageous but not essential as full training will be provided * MOT Licence would also be beneficial but not essential * Hold a full UK driving licence * We want you to love what you do – The rest will come naturally. *“Stoneacre Motor Group are an Equal Opportunity employer committed to diversity in the workplace. We pride ourselves on creating an inclusive work environment where our employees can thrive by being themselves.\"* The Company has experienced unprecedented growth over the past few years. We have a vast number of employees, and provide support to clients from all over the country.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=9bba01df91e0060f",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-20T12:07:03Z",
+   "last_seen": "2026-09-20T12:07:03Z",
+   "summary": "About the role… We are excited to be recruiting for a Motor Vehicle Technician. This is an unrivalled opportunity to join one of the UK’s fastest growing motor groups. As a Motor Vehicle Technician, you will be responsible for the service, repair and maintenance work for our customers’ vehicles,…",
+   "summary_source": "fallback",
+   "fit": "maybe",
+   "fit_reason": "no fit data",
+   "fit_source": "fallback"
+  },
+  "https://uk.indeed.com/viewjob?jk=60ec1dcda497696d": {
+   "title": "MOT Technician - Fiat Hyundai",
+   "company": "Stoneacre Motor Group",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-14",
+   "description": "**About the role…** We are excited to be recruiting for a MOT Motor Vehicle Technician. This is an unrivalled opportunity to join one of the UK’s fastest growing motor groups. As a a MOT Motor Vehicle Technician, you will be responsible for the MOT testing, service, repair and maintenance work for our customers’ vehicles, readying them for the road ahead. Representing a variety of manufacturers and carrying out work on a diverse range of vehicles and models, you will take great pride in your work, taking complete ownership of your customers and completing your jobs to the highest standard. We are looking for candidates who would be willing to train within the Manufacturer Franchise and have the desire and ambition to progress onto Senior and Master Technician status. Not only do we offer motoring for life, at Stoneacre, we offer a career for life. We genuinely believe that Stoneacre Motor Group is leading the way in EV training, and we are excited to share our knowledge and expertise with you. You will be working in an industry\\-leading workshop boasting state of the art facilities. Through both in house and manufacturer training, you will be given full support and development enabling you to reach your full potential, and elevate your career in EV Technology, all whilst contributing towards making Stoneacre the **Number One** Motor Group. **Salary up to £45,000 OTE a year** **Do we have your interest…?** Here at Stoneacre we are committed to creating a diverse and inclusive workplace. It is our ambition to make Stoneacre the best place to work because we recognise that it is our people who make Stoneacre a success. So, what is in it for you? * A flexible approach to working patterns \\- Choose your own hours! We are happy to discuss all flexible working options to help you achieve the work life balance that suits you * Industry leading competitive salary * Industry leading top level bonuses * Dedicated manufacturer training * Fast track to EV Level 4 * Minimum 30 days holiday increasing to 34 days (pro rata basis) * Industry leading career progression opportunities * Contributory workplace pension scheme * Uniform provided * Long service reward * Customer introduced reward * Employee discounts * Access to discounts on retailers, restaurants, holidays and much more * Wellness programme * Free parking **An average day as a** **MOT Motor Vehicle Technician****…** * Reporting to the Service Manager, being responsible for meeting both franchise, and company standards in a service environment. * Undertake maintenance, service and repair activities on motor vehicles of all types. * Working to the highest level within scheduled times to meet company, franchise and manufacturers' standards. * Repairing vehicles, testing vehicles and diagnosing faults. * Replacing components, parts, lubricants and consumables whilst maintaining records and providing quality write\\-ups for the customer and manufacturer. * Keeping your work area clean, tidy, organised and free from hazards according to current Health \\& Safety standards and regulations. * Advising and reporting on vehicle faults, servicing requirements including future servicing/repair requirements through the Vehicle Health Check and Video process **About you…** * We consider candidates from all backgrounds who have experience working in the Automotive sector within a technical role * As a minimum, you will be qualified to Level 2 NVQ, or equivalent, in Vehicle Maintenance and Repair and hold an MOT Testers Licence * You will have fantastic communication skills and thrive working in a challenging yet rewarding environment * You will have the ability to work well under pressure \\- It will be your technical ability that will help you overcome any challenge that is thrown your way. * An Electric and Hybrid vehicle qualification or certification would be advantageous but not essential as full training will be provided * Hold a full UK driving licence * We want you to love what you do \\- The rest will come naturally. *“Stoneacre Motor Group are an Equal Opportunity employer committed to diversity in the workplace. We pride ourselves on creating an inclusive work environment where our employees can thrive by being themselves.\"* The Company has experienced unprecedented growth over the past few years. We have a vast number of employees, and provide support to clients from all over the country.",
+   "job_url": "https://uk.indeed.com/viewjob?jk=60ec1dcda497696d",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-20T12:07:03Z",
+   "last_seen": "2026-09-20T12:07:03Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=cfe42ca481360d1e": {
+   "title": "Vehicle Technician",
+   "company": "Royal Mail",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-14",
+   "description": "**Job reference: 341896** **Location: Sheffield Workshop, Brightside Lane S9 2XX** **Are you looking for stability and variety in your next move? Join the largest, and greenest, fleet operator in the UK and take on a new challenge in a commercial vehicle workshop environment.** We’re recruiting a Level 3 qualified mechanic at Sheffield Workshop on a Permanent contract, with the potential to earn up to £60k including overtime. **Working Hours:** Full time \\- 39\\.5 hours per week (excluding meal breaks) Rotating shift pattern; week 1: 06:00 \\- 14:30 Monday to Friday week 2: 13:30 \\- 22:00 Monday to Friday week 3: 08:00 \\- 16:30 Wednesday to Sunday week 4: 06:00 \\- 14:30 Monday to Friday week 5: 13:30 \\- 22:00 Monday to Friday week 6: 08:00 \\- 16:30 Tuesday \\- Thursday and Saturday and Sunday **What’s in it for you?** * Salary: £40,906 plus a shift allowance of £90\\.21 per week when working 13:30 \\- 22:00 shift. * Weekend supplement on Saturday (£53\\.66 per shift) and Sunday (£107\\.33 per shift) per attendance. * 22\\.5 days annual holiday (plus bank holidays), rising with service and with the option to purchase more. * An excellent company matched pension scheme and financial benefits. * The chance to develop your career, including a customised annual training and development plan. * PPE and image clothing supplied (including overalls and steel toe capped boots). * Exclusive discounts on shopping, tech, travel, days out and socialising for you and the family. **A bit about the role** With a Fleet of over 49,000 vehicles, including traditional fuel and electric vehicles, LCVs and HGVs, maintaining our vehicles is a true team effort. We’re investing in modernising our fleet, giving you the opportunity to work on a variety of makes and models. There’s never been a better time to join Royal Mail as a Vehicle Technician. * You’ll perform a full range of inspections, diagnostic, maintenance, and repair procedures on a range of vehicles, trailers, and mechanical equipment. * You’ll use your own personal toolkit to undertake routine maintenance and repair light / heavy goods vehicles. * You’ll also have access to specialist tooling and shared equipment in our modern, fully equipped workshops. **A bit about you** * **Qualified mechanic:** you’re fully qualified to an advanced level (Level 3 in Light or Heavy vehicle or equivalent). You’ve got your own toolkit for standard repairs. * **Varied vehicle experience:** Proven Vehicle Technician experience working on a wide range of vehicles, for example LCV / HGV. * **Valid UK driving licence:** You hold a full manual UK driving licence, preferably an HGV licence with trailer experience. * **High working standards:** you take pride in your work and do what is necessary to make sure the job is done effectively. * **Flexible to service demands:** you’re able to work on a flexible shift rota. You’re always willing to support your team where necessary. **Interested?** Click ‘Apply Now’ to make sure you don’t miss out of this fantastic opportunity. \\#LI\\-POST \\#LIMRT",
+   "job_url": "https://uk.indeed.com/viewjob?jk=cfe42ca481360d1e",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-20T12:07:03Z",
+   "last_seen": "2026-09-20T12:07:03Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=52b0593c17552474": {
+   "title": "Vehicle Technician",
+   "company": "Pentagon Motor Group",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-08-04",
+   "description": "Job Introduction **Vehicle Technician …..Sheffield** **Full\\-Time \\- Permanent – Vauxhall / Sheffield Pentagon Motor Group** Are you an experienced and qualified Vehicle Technician, who can carry out general servicing and maintenance on vehicles with basic diagnostic skills who is looking to join a supportive team, progress your career and work with an established brand? At Pentagon Motor Group, we’re on the lookout for experienced Vehicle Technicians like you to join our expanding aftersales team. Whether you're already working with at a franchised dealership or an independent garage, if you’ve got the drive to deliver outstanding service and top\\-quality workmanship, we’d love to hear from you. **What You’ll Be Doing:** * Carrying out servicing, repairs and diagnosing faults efficiently and accurately to manufacturer standards * Carrying out visual health checks * Ensures vehicles are safe, roadworthy, and meet customer expectations, supporting the Pentagon Group's reputation for excellence. **What We’re Looking For:** * Qualified to level 3 NVQ, City \\& Guilds or equivalent * MOT License is essential * At least 3 years of practical experience working in a workshop environment * Takes pride in their work and enjoys being part of a busy team * Full UK driving license (max 6 points) **What’s In It for You?** We believe our people are our greatest asset, and we’ll make sure you feel valued every step of the way. Here’s what you’ll get when you join Pentagon: * Manufacturer training path – we’ll invest in your ongoing development * Clear career progression opportunities * 30 days holiday (including bank holidays), increasing with length of service * Discounted vehicle and aftersales offers for you and your family * Team member referral bonus * Life assurance policy * Employee assistance program * Company pension scheme * Regular employee recognition and reward schemes * A great team environment, where you’ll be supported from day one Working hours – Monday – Friday 08\\.00 – 17\\.30 – 42\\.5 hours **Why Join Pentagon Motor Group?** With a network of dealerships representing leading automotive brands across the UK, Pentagon is a company where your career can grow. We’re committed to investing in your development and providing a workplace where your talent and ambition can thrive. Our values are chosen and driven by our colleagues, incorporating, **trust,** **respect**, **integrity** and **communication**, to create and maintain a positive, collaborative culture. Our vision is that we believe that by embracing the perspectives and talents of every individual, we can drive meaningful change and create a more inclusive automotive industry for generations to come. For more information on why becoming a member of the Pentagon Motor Group team is an amazing career choice head over to our website! https://www.pentagon\\-group.co.uk/recruitment **Ready to take the next step in your technician career?** **Click Apply Now** and we’ll be in touch. We’re excited to meet motivated Vehicle Technicians who want to be part of something great. PMGVT",
+   "job_url": "https://uk.indeed.com/viewjob?jk=52b0593c17552474",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-20T12:07:03Z",
+   "last_seen": "2026-09-20T12:07:03Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=a6ac6815f5c0231e": {
+   "title": "Field Service Engineer",
+   "company": null,
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-07-30",
+   "description": "**Business Overview** At ICE we strive to encourage personal development and career progression, offering on\\-the\\-job training as well as support for professional qualifications for our employees. We are a fast\\-growing business and this position would suit someone who likes to hit the ground running and has a drive for success. **Role Overview** As a Field Service Engineer, your role revolves around providing expert repair and maintenance services to ensure the optimal performance and longevity of various cleaning machinery. You will be responsible for diagnosing, servicing, and repairing a diverse range of equipment, ensuring service and repairs are completed within agreed Service Level Agreements to achieve customer satisfaction. **Key Responsibilities and Accountabilities:** * Provide quality support to our customers through courteous and knowledgeable communication. * Ensure all jobs are attended to and repairs are completed within the contracted service level agreement. * Attend follow up calls in a timely manner to complete repairs where additional parts have been ordered. * Attend and complete scheduled planned maintenance services as instructed. * Attend and complete all scheduled Portable Appliance Test (PA Test) calls on time. * Maintain and control the highest standard of service and repair made to machinery. * Ensure all Health and Safety rules and procedures are adhered to at all times. * Follow all technician procedures issued and ensure they are fully understood. * Update all jobs in real time on our central database system, SERVICESMARTPro (SSP), and follow working procedures to ensure correct data is captured. * Provide accurate and detailed reports upon every site visit to maintain integrity of asset data across our customer sites and on our system. * Order parts via the system to complete breakdown calls. * Booking parts in/out to ensure van stock re\\-ordering levels are adhered to and parts are correctly replenished. * Help develop more efficient systems of work and/or to use any resultant change. * Regularly review vehicle conditions and to ensure it is kept tidy internally and externally to promote the quality brand. * Attend company service and business review meetings. **Requirements** * Relevant certifications or training in industrial equipment repair and maintenance (e.g., Certified Industrial Maintenance Mechanic, Certified Maintenance \\& Reliability Professional) is advantageous. * Full UK Manual Driving Licence essential * Proficiency in diagnosing, servicing, and repairing industrial cleaning equipment such as vacuum cleaners, pressure washers, scrubbers, and sweepers. * Strong mechanical aptitude with a comprehensive understanding of mechanical, hydraulic, pneumatic, and electrical systems. * Ability to interpret technical manuals, schematics, and diagrams to effectively troubleshoot equipment malfunctions and implement repair solutions. * Excellent problem\\-solving skills with the ability to quickly identify root causes of issues and develop practical resolutions. * Strong communication skills, both verbal and written, with the ability to effectively interact with customers, colleagues, and stakeholders. * Attention to detail and accuracy in documenting service activities, including repair procedures, parts utilized, and customer interactions. * Proficient in using tools and equipment commonly employed in equipment repair and maintenance, including diagnostic instruments, hand tools, and power tools. * Familiarity with safety protocols and regulatory requirements governing industrial equipment servicing and maintenance. * Customer\\-focused mindset with a commitment to delivering high\\-quality service and exceeding customer expectations. * Previous experience in servicing and repairing industrial cleaning equipment is highly desirable. * Demonstrated experience in a field service engineering role, preferably in an industrial or manufacturing environment. * Proven track record of effectively diagnosing and resolving equipment malfunctions in a timely manner. * Experience with preventive maintenance practices and implementing maintenance schedules to ensure equipment reliability and longevity. * Familiarity with inventory management systems and processes for tracking spare parts and consumables. * Prior exposure to providing technical support and training to customers or colleagues on equipment operation and maintenance procedures. * Strong physical condition with the capability to perform manual handling duties, such as lifting heavy industrial battery packs. * Proficient IT skills, including proficiency in operating tablet devices. * Comprehensive experience with internal combustion (IC) engines, encompassing petrol, diesel, and liquefied petroleum gas (LPG) variants. **Benefits** * Competitive salary * Private healthcare * 21 days annual leave plus bank holidays * Enhanced workplace pension scheme * Access to our discount and wellbeing portal, ICE Cube * Life assurance which is 2x annual salary * Bonus payment of £100\\.00 following 5 years’ service then an additional £25\\.00 for each subsequent year of service e.g. £125\\.00 following 6 years’ service * Holiday buy back scheme With over 50 years of experience, ICE is the UK’s largest independent provider of cleaning equipment. We manage thousands of sites across the UK in a wide variety of sectors including retail, healthcare, warehousing, manufacturing, distribution, and education. As well as supplying and servicing traditional cleaning equipment, we also have over a decade of experience in robotic floor cleaning machines. We are not only committed to a greener future through our own ESG strategy, but we also place the utmost focus on ensuring we offer products and services to customers that support their own sustainability goals and commitments. At ICE we strive to encourage personal development and career progression, offering on\\-the\\-job training as well as support for professional qualifications…",
+   "job_url": "https://uk.indeed.com/viewjob?jk=a6ac6815f5c0231e",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-20T12:07:03Z",
+   "last_seen": "2026-09-20T12:07:03Z",
+   "fit": "stretch",
+   "fit_reason": "3+ years experience required",
+   "fit_source": "rule"
+  },
+  "https://uk.indeed.com/viewjob?jk=a617dae8bf310b01": {
+   "title": "Prep Technician",
+   "company": "JCT600",
+   "location": "Sheffield, ENG, GB",
+   "job_type": "fulltime",
+   "is_remote": false,
+   "min_amount": null,
+   "max_amount": null,
+   "interval": null,
+   "currency": "GBP",
+   "date_posted": "2026-07-14",
+   "description": "**Prep Technician \\- CUPRA Sheffield** We’re looking for an experienced Prep Technician to join our dedicated team, working across the Cupra / Seat range to ensure every vehicle meets the highest standards of safety, reliability, and customer satisfaction. We’re committed to delivering the very best standards in vehicle preparation and customer care. **As a Preparation Technician your day\\-to\\-day will include:** * Preparing and servicing used vehicles across a wide range of makes and models, using the latest manufacturer systems and JCT600 standards. * Carrying out MOT tests and thorough final quality checks to ensure vehicles are safe, compliant, and customer\\-ready. * Completing all work efficiently within factory timescales and handling associated admin accurately. * Working closely with the wider JCT600 team to deliver vehicles on time and provide an exceptional customer experience. **What we’re looking for in a Prep Technician:** We’re looking for someone who takes passion and committed to delivering exceptional standards. **You’ll ideally have:** * Level 2 IMI light vehicle maintenance or City and Guilds equivalent. * Previous experience as a Prep Technician / MOT tester qualified by the DVSA is essential. * Full UK driving licence (free from excessive penalties) * Strong diagnostic and problem\\-solving abilities * Excellent communication to explain technical issues clearly * Customer\\-first attitude **What we offer:** At JCT600, we believe in rewarding and supporting our colleagues. Every Prep Technician benefit from a competitive package and access to a wide range of colleague benefits including: * **Annual leave**: 34 days including bank holidays, increasing to 36 days (5 years) and 38 days (10 years) * **Family support**: Enhanced paid maternity and paternity leave * **Wellbeing \\& protection:**Life assurance, pension, enhanced sickness cover * **Training \\& development**: From foundation to advanced levels through brand partner training and best\\-in\\-class leadership development. * **Colleague car purchase scheme \\& servicing discounts** * **Cycle\\-to\\-work and discounted gym schemes** * **Referral scheme up to £1,000** Read more about our Employee Benefits \\- JCT600 **Why JCT600?** * We’ve spent over 80 years building a business that values its people and their careers * We pride ourselves on being rated highly by colleagues for engagement and inclusivity * Our commitment to your growth is reflected in our “Life at JCT600” philosophy and seven colleague commitments **How to Apply** At JCT600, you’re ***always a name, never a number***. Ready to drive your career forward? Click “Apply Now” and upload your CV. Looking for future roles? Submit your CV directly here and join our talent pool. **Inclusivity \\& Diversity** *JCT600 Ltd is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.* *As part of our commitment to being an inclusive business, we’re proud to be a* *Disability Confident employer**.* *We try our hardest to make JCT600 feel like a home from home for all of our colleagues. To us, that’s a place where we can all feel supported to be our true selves every day and where our workforce represents the wonderful communities we serve.*",
+   "job_url": "https://uk.indeed.com/viewjob?jk=a617dae8bf310b01",
+   "categories": [
+    "Engineering & Maintenance"
+   ],
+   "first_seen": "2026-09-20T12:07:03Z",
+   "last_seen": "2026-09-20T12:07:03Z",
+   "fit": "stretch",
+   "fit_reason": "driving licence required",
+   "fit_source": "rule"
   }
  },
  "last_run_report": {
-  "started": "2026-09-19T21:21:06Z",
+  "started": "2026-09-20T12:07:03Z",
   "searches": [
    {
     "term": "activity instructor",
@@ -12336,27 +12582,27 @@
    },
    {
     "term": "customer service assistant",
-    "found": 7,
+    "found": 5,
     "new": 0
    },
    {
     "term": "retail assistant",
-    "found": 6,
+    "found": 4,
     "new": 0
    },
    {
     "term": "receptionist",
-    "found": 3,
+    "found": 12,
     "new": 0
    },
    {
     "term": "kitchen assistant",
-    "found": 34,
-    "new": 9
+    "found": 32,
+    "new": 0
    },
    {
     "term": "kitchen porter",
-    "found": 5,
+    "found": 4,
     "new": 0
    },
    {
@@ -12366,7 +12612,7 @@
    },
    {
     "term": "waiting staff",
-    "found": 6,
+    "found": 4,
     "new": 0
    },
    {
@@ -12376,8 +12622,8 @@
    },
    {
     "term": "maintenance technician",
-    "found": 2,
-    "new": 0
+    "found": 40,
+    "new": 11
    },
    {
     "term": "fitter",
@@ -12390,7 +12636,7 @@
     "new": 0
    }
   ],
-  "new": 9,
-  "updated": 71
+  "new": 11,
+  "updated": 107
  }
 }
